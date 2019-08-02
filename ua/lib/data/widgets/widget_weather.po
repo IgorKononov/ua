@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Webasyst Weather Widget 1.2.42839 UA Translation v 0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Igor Kononov <igor.kononov@webasyst.ru>\n"
+"Language-Team: Skeeter Dev\n"
+"Language: uk_UA\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: /wa-widgets/weather/templates/Default.html:22
+msgid "Could not retrieve weather conditions for <strong>%s</strong>. Please check city name in widget settings or in your contact info."
+msgstr "Не вдалося отримати погодні умови для міста <strong>%s</strong>. Будь ласка, перевірте назву міста у налаштуваннях віджета або у вашій контактній інформації."
+
+#: /wa-widgets/weather/templates/Default.html:22
+msgid "(unknown city)"
+msgstr "(невідоме місто)"
+
+#: /wa-widgets/weather/templates/Default.html:24
+msgid "Please enter city name in your contact information or in this widget settings."
+msgstr "Будь ласка, введіть назву міста у вашій контактній інформації або у налаштуваннях віджета."
+
+#: /wa-widgets/weather/lib/config/widget.php:4
+msgid "Weather"
+msgstr "Погода"

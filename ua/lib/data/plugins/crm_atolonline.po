@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Webasyst CRM Atol Online plugin 1.0.3.39 UA translation v 0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
+"Language: uk_UA\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: /wa-apps/crm/plugins/atolonline/templates/InvoiceActions.html:2
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptAdd.html:5
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptAdd.html:42
+msgid "Выписать чек"
+msgstr "Виписати чек"
+
+#: /wa-apps/crm/plugins/atolonline/templates/InvoiceRefund.html:3
+msgid "Отменить также чеки, выписанные по данному счету:"
+msgstr "Скасувати також чеки, виписані по даному рахунку:"
+
+#: /wa-apps/crm/plugins/atolonline/templates/actions/settings/SettingsDefault.html:17
+msgid "Next"
+msgstr "Далі"
+
+#: /wa-apps/crm/plugins/atolonline/templates/actions/settings/SettingsDefault.html:18
+msgid "Before"
+msgstr "Перед"
+
+#: /wa-apps/crm/plugins/atolonline/templates/actions/settings/SettingsDefault.html:21
+msgid "Add new company"
+msgstr "Додати нову компанію"
+
+#: /wa-apps/crm/plugins/atolonline/templates/actions/settings/SettingsDefault.html:28
+msgid "Disabled"
+msgstr "Вимкнено"
+
+#: /wa-apps/crm/plugins/atolonline/templates/actions/settings/SettingsDefault.html:30
+msgid "Enabled"
+msgstr "Увімкнено"
+
+#: /wa-apps/crm/plugins/atolonline/templates/actions/settings/SettingsDefault.html:72
+msgid "Test connection"
+msgstr "Перевірити підключення"
+
+#: /wa-apps/crm/plugins/atolonline/templates/InvoiceInfo.html:33
+#: /wa-apps/crm/plugins/atolonline/templates/InvoiceInfo.html:34
+#: /wa-apps/crm/plugins/atolonline/templates/InvoiceInfo.html:72
+msgid "Refund"
+msgstr "Повернути"
+
+#: /wa-apps/crm/plugins/atolonline/templates/InvoiceInfo.html:70
+msgid "Refund receipt?"
+msgstr "Повернути платіж?"
+
+#: /wa-apps/crm/plugins/atolonline/templates/InvoiceInfo.html:71
+msgid "Reciept refund can not be undone."
+msgstr "Повернення платежу неможливо скасувати."
+
+#: /wa-apps/crm/plugins/atolonline/templates/InvoiceInfo.html:107
+msgid "Для выбранного варианта расчета НДС невозможно выписать чек при оплате."
+msgstr "Для обраного варіанту розрахунку ПДВ неможливо виписати чек при оплаті."
+
+#: /wa-apps/crm/plugins/atolonline/templates/InvoiceInfo.html:112
+msgid "Регистрация чека возможна только для НДС, включенного в стоимость."
+msgstr "Реєстрація чека можлива тільки для ПДВ, включеного у вартість."
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptAdd.html:15
+msgid "По данному счету уже выписан чек."
+msgstr "По даному рахунку чек вже виписано."
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptAdd.html:18
+msgid "Подтверждаю повторное создание чека"
+msgstr "Підтверджую повторне створення чека"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptAdd.html:44
+msgid "or"
+msgstr "або"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptAdd.html:46
+msgid "cancel"
+msgstr "скасувати"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:10
+msgid "Кассовый чек"
+msgstr "Касовий чек"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:19
+msgid "Статус"
+msgstr "Статус"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:21
+msgid "Ожидание"
+msgstr "Очікування"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:26
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:47
+msgid "UUID"
+msgstr "UUID"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:33
+msgid "Ошибка"
+msgstr "Помилка"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:39
+msgid "Код ошибки"
+msgstr "Код помилки"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:43
+msgid "Тип ошибки"
+msgstr "Тип помилки"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:54
+msgid "Номер смены"
+msgstr "Номер зміни"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:61
+msgid "Номер чека за смену"
+msgstr "Номер чека за зміну"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:67
+msgid "Признак расчета"
+msgstr "Ознака розрахунку"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:71
+msgid "Приход"
+msgstr "Прихід"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:74
+msgid "Возврат"
+msgstr "Повернення"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:78
+msgid "Адрес покупателя"
+msgstr "Адреса покупця"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:84
+msgid "Заводской номер фискального накопителя"
+msgstr "Заводський номер фіскального накопичувача"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:92
+msgid "Фискальный признак документа"
+msgstr "Фіскальна ознака документа"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:100
+msgid "Регистрационный номер ККТ"
+msgstr "Реєстраційний номер ККТ"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:107
+msgid "Порядковый номер фискального документа"
+msgstr "Порядковий номер фіскального документа"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:117
+msgid "Дата, время"
+msgstr "Дата, час"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:125
+msgid "Кассир"
+msgstr "Касир"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:126
+msgid "Системный администратор"
+msgstr "Системний адміністратор"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:137
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:159
+msgid "ИТОГ"
+msgstr "ПІДСУМОК"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:142
+msgid "НДС"
+msgstr "ПДВ"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:164
+msgid "Оплачено электронным средством платежа"
+msgstr "Сплачено електронним засобом платежу"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:170
+msgid "Применяемая система налогообложения"
+msgstr "Застосовувана система оподаткування"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:181
+msgid "Чек сформирован в электронном виде и всегда доступен на сайте оператора фискальных данных"
+msgstr "Чек сформований в електронному вигляді і завжди доступний на сайті оператора фіскальних даних"
+
+#: /wa-apps/crm/plugins/atolonline/templates/ReceiptDetails.html:181
+msgid "Close"
+msgstr "Закрити"

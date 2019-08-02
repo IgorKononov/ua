@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: Webasyst Photos Comments plugin 1.0.0.25531 UA Translation v 0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
+"Language: uk_UA\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: /wa-apps/photos/plugins/comments/templates/FrontendPhoto.html:16
+#: /wa-apps/photos/plugins/comments/templates/FrontendPhoto.html:29
+msgid "comment deleted"
+msgstr "коментар видалено"
+
+#: /wa-apps/photos/plugins/comments/templates/FrontendPhoto.html:3
+#: /wa-apps/photos/plugins/comments/templates/BackendPhoto.html:4
+#: /wa-apps/photos/plugins/comments/lib/classes/photosCommentAddController.class.php:62
+#: /wa-apps/photos/plugins/comments/lib/photosComments.plugin.php:152
+#: /wa-apps/photos/plugins/comments/lib/photosComments.plugin.php:181
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d коментар"
+msgstr[1] "%d коментаря"
+msgstr[2] "%d коментарів"
+
+#: /wa-apps/photos/plugins/comments/templates/Comment.html:22
+msgid "delete"
+msgstr "видалити"
+
+#: /wa-apps/photos/plugins/comments/templates/Comment.html:23
+msgid "restore"
+msgstr "відновити"
+
+#: /wa-apps/photos/plugins/comments/templates/Comment.html:33
+#: /wa-apps/photos/plugins/comments/templates/Comment.html:42
+msgid "in reply to"
+msgstr "у відповідь на"
+
+#: /wa-apps/photos/plugins/comments/templates/Comment.html:35
+#: /wa-apps/photos/plugins/comments/templates/Comment.html:44
+#: /wa-apps/photos/plugins/comments/templates/FrontendComment.html:18
+msgid "reply"
+msgstr "відповісти"
+
+#: /wa-apps/photos/plugins/comments/templates/BackendSidebar.html:3
+#: /wa-apps/photos/plugins/comments/templates/actions/backend/BackendList.html:4
+#: /wa-apps/photos/plugins/comments/templates/actions/backend/BackendList.html:17
+#: /wa-apps/photos/plugins/comments/lib/config/plugin.php:4
+msgid "Comments"
+msgstr "Коментарі"
+
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:37
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:108
+#: /wa-apps/photos/plugins/comments/templates/BackendPhoto.html:30
+#: /wa-apps/photos/plugins/comments/templates/AddCommentForm.html:6
+msgid "Add comment"
+msgstr "Додати коментар"
+
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:43
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:74
+msgid "To add a comment please <a href=\"%s\">sign up</a> or <a href=\"%s\">login</a>"
+msgstr "Аби додати коментар, будь ласка, <a href=\"%s\">зареєструйтесь</a> або <a href=\"%s\">увійдіть</a>"
+
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:48
+msgid "Sign up"
+msgstr "Зареєструватися"
+
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:50
+msgid "Guest"
+msgstr "Гість"
+
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:60
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:81
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:91
+msgid "Your name"
+msgstr "Ваше ім'я"
+
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:64
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:68
+msgid "Site"
+msgstr "Сайт"
+
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:84
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:92
+msgid "log out"
+msgstr "вийти"
+
+#: /wa-apps/photos/plugins/comments/templates/FrontendAddCommentForm.html:97
+msgid "Comment"
+msgstr "Коментар"
+
+#: /wa-apps/photos/plugins/comments/lib/config/settings.php:4
+msgid "Comments setting"
+msgstr "Налаштування коментарів"
+
+#: /wa-apps/photos/plugins/comments/lib/config/settings.php:5
+msgid "Only registered users can add comments"
+msgstr "Коментувати можуть лише зареєстровані користувачі"
+
+#: /wa-apps/photos/plugins/comments/lib/config/settings.php:6
+msgid "If enabled, all commentators will be authorized and synced with the Contacts app"
+msgstr "Якщо увімкнено, користувачів, що лишають коментарі, буде авторизовано та збережено у додатку «Контакти»"
+
+#: /wa-apps/photos/plugins/comments/lib/config/plugin.php:5
+msgid "Allows frontend visitors to comment on photos"
+msgstr "Дозволяє користувачам фронтенду коментувати фотографії"
+
+#: /wa-apps/photos/plugins/comments/lib/models/photosComment.model.php:189
+msgid "Name can not be left blank"
+msgstr "Необхідно вказати ім'я"
+
+#: /wa-apps/photos/plugins/comments/lib/models/photosComment.model.php:192
+msgid "Name length should not exceed 255 symbols"
+msgstr "Довжина імені не повинна перевищувати 255 символів"
+
+#: /wa-apps/photos/plugins/comments/lib/models/photosComment.model.php:195
+msgid "Email can not be left blank"
+msgstr "Необхідно вказати email-адресу"
+
+#: /wa-apps/photos/plugins/comments/lib/models/photosComment.model.php:199
+msgid "Email is not valid"
+msgstr "Email-адресу вказано некоректно"
+
+#: /wa-apps/photos/plugins/comments/lib/models/photosComment.model.php:203
+msgid "Site URL is not valid"
+msgstr "Введено невірний URL сайту"
+
+#: /wa-apps/photos/plugins/comments/lib/models/photosComment.model.php:206
+msgid "Invalid captcha code"
+msgstr "Невірний код CAPTCHA"
+
+#: /wa-apps/photos/plugins/comments/lib/models/photosComment.model.php:216
+msgid "Comment text can not be left blank"
+msgstr "Введіть, будь ласка, коментар"
+
+#: /wa-apps/photos/plugins/comments/lib/models/photosComment.model.php:219
+msgid "Comment length should not exceed 4096 symbols"
+msgstr "Коментар не повинен бути довшим 4096 символів"

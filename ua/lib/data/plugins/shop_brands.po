@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Webasyst Shop Brands plugin 1.1.27566 UA Translation v 0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
+"Language: uk_UA\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: /wa-apps/shop/plugins/brands/templates/actions/settings/Settings.html:1
+#: /wa-apps/shop/plugins/brands/lib/config/plugin.php:4
+msgid "Brands"
+msgstr "Бренди"
+
+#: /wa-apps/shop/plugins/brands/templates/actions/settings/Settings.html:8
+#: /wa-apps/shop/plugins/brands/templates/actions/settings/Settings.html:7
+msgid "Brand feature"
+msgstr "Характеристика бренду"
+
+#: /wa-apps/shop/plugins/brands/templates/actions/settings/Settings.html:16
+#: /wa-apps/shop/plugins/brands/templates/actions/settings/Settings.html:15
+msgid "Select the feature you want products to be filtered by"
+msgstr "Оберіть характеристику, за якою потрібно фільтрувати товари"
+
+#: /wa-apps/shop/plugins/brands/templates/actions/settings/Settings.html:24
+#: /wa-apps/shop/plugins/brands/templates/actions/settings/Settings.html:21
+msgid "Saved"
+msgstr "Збережено"
+
+#: /wa-apps/shop/plugins/brands/lib/config/plugin.php:5
+msgid "Storefront’s product filtering by brand (manufacturer)"
+msgstr "Фільтрація товарів на вітрині за брендом (виробником)"

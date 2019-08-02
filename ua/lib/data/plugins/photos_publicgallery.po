@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: Webasyst Photos Public Gallery plugin 1.0.1.36004 UA translation v 0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
+"Language: uk_UA\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/backend/BackendRatesDistribution.html:30
+msgid "User votes"
+msgstr "Голоси користувачів"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/backend/BackendRatesDistribution.html:46
+msgid "Close"
+msgstr "Закрити"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/backend/BackendRatesDistribution.html:9
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:40
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:219
+#: /wa-apps/photos/plugins/publicgallery/lib/actions/photosPublicgalleryPluginVote.controller.php:50
+msgid "%d vote"
+msgid_plural "%d votes"
+msgstr[0] "%d голос"
+msgstr[1] "%d голоса"
+msgstr[2] "%d голосів"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendImageUpload.html:9
+msgid "Stop upload"
+msgstr "Зупинити завантаження"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendImageUpload.html:15
+msgid "Files uploaded with errors"
+msgstr "Файли, завантажені з помилками"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendImageUpload.html:18
+msgid "Photos have been successfully uploaded"
+msgstr "Фотографії завантажено"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendImageUpload.html:51
+msgid "Failed to upload. Most probably, there were not enough memory to create thumbnails."
+msgstr "Не вдалося завантажити. Швидше за все, для створення ескізів не вистачає пам'яті."
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendMyphotos.html:1
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:23
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:259
+msgid "My uploads"
+msgstr "Мої завантаження"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendMyphotos.html:45
+msgid "To upload a photo, either <a href=\"%s\">sign up</a> or authorize using one of the services listed below."
+msgstr "Аби завантажити фото, <a href=\"%s\">зареєструйтесь</a> або авторизуйтесь, використовуючи один із зазначених нижче сервісів."
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendMyphotos.html:54
+msgid "To upload a photo, either <a href=\"%s\">create an account</a> or <a href=\"%s\">sign in</a> as a registered user."
+msgstr "Аби завантажити фото, <a href=\"%s\">створіть акаунт</a> або <a href=\"%s\">авторизуйтесь</a> із використанням одного із зазначених нижче сервісів."
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendMyphotos.html:60
+msgid "Upload images"
+msgstr "Завантажити зображення"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendMyphotos.html:61
+msgid "or drag them here to start upload"
+msgstr "або перетягніть зображення сюди, аби розпочати завантаження"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendPhotos.html:27
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:71
+msgid "Photo has been declined by the administrator"
+msgstr "Фотографію було відхилено адміністратором"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendPhotos.html:29
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:69
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:113
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:278
+msgid "Pending moderation"
+msgstr "Очікують на модерацію"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendPhotos.html:41
+msgid "Show more photos"
+msgstr "Показати більше фотографій"
+
+#: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendPhotos.html:47
+msgid "Loading"
+msgstr "Завантаження"
+
+#: /wa-apps/photos/plugins/publicgallery/js/jquery.fileupload-ui.js:111
+msgid "Empty result"
+msgstr "Порожній результат"
+
+#: /wa-apps/photos/plugins/publicgallery/js/jquery.fileupload-ui.js:135
+msgid "Upload complete! <a href=\"#\">Reload page</a> to view your photos."
+msgstr "Завантаження завершено! <a href=\"#\">Оновіть сторінку</a> для перегляду фотографій."
+
+#: /wa-apps/photos/plugins/publicgallery/js/jquery.fileupload-ui.js:366
+msgid "Files with extensions *.gif, *.jpg, *.jpeg, *.png are allowed only."
+msgstr "Допускаються тільки файли з розширеннями .gif, .jpg, .jpeg, .png."
+
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:51
+msgid "Rate"
+msgstr "Оцінка"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:58
+msgid "Rate this photo:"
+msgstr "Оцініть фото:"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:63
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:234
+msgid "cancel my vote"
+msgstr "скасувати мій голос"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:114
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:280
+msgid "Declined"
+msgstr "Відхилено"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:130
+msgid "Approve photo"
+msgstr "Одобрити фото"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:133
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:206
+msgid "Decline"
+msgstr "Відхилити"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:205
+msgid "Approve"
+msgstr "Одобрити"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:230
+msgid "My vote:"
+msgstr "Мій голос:"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:27
+msgid "Minimal photo size (px)"
+msgstr "Мінімальний розмір фото (в пікселях)"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:28
+msgid "Limits the minimum width and height for photos uploaded in the frontend (in pixels)"
+msgstr "Обмежує мінімальну ширину і висоту фотографії, завантаженої через веб-інтерфейс (в пікселях)"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:33
+msgid "Maximum photo size (px)"
+msgstr "Максимальний розмір фото (в пікселях)"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:34
+msgid "Limits the maximum width and height for photos uploaded in the frontend (in pixels)"
+msgstr "Обмежує мінімальну ширину і висоту фотографії, завантаженої через фронтенд (в пікселях)"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:5
+msgid "Assign tags on upload"
+msgstr "Призначити теги при завантаженні"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:6
+msgid "Automatically assign listed tags for all photos uploaded in the frontend"
+msgstr "Автоматично присвоїти перераховані теги для усіх фотографій, завантажених через фронтенд"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:11
+msgid "Moderation"
+msgstr "Модерація"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:12
+msgid "Define if photos uploaded in the frontend needs to be moderated in the backend or not. In case moderation is disabled, all photos will automatically appear in the frontend after upload"
+msgstr "Визначити, чи має бути промодеровано у бекенді фотографії, надіслані через фронтенд. У разі, якщо модерацію вимкнено, усі фотографії автоматично з'являться у фронтенді після завантаження."
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:16
+msgid "Yes"
+msgstr "Так"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:17
+msgid "No"
+msgstr "Ні"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:21
+msgid "Self photo voting"
+msgstr "Голосування за власні фото"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:22
+msgid "Author can vote for self uploaded photos"
+msgstr "Автор може голосувати завантажені ним фотографії"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/plugin.php:4
+msgid "Public Gallery"
+msgstr "Публічна галерея"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/config/plugin.php:5
+msgid "Enables the ability to upload and vote for photos in the app frontend"
+msgstr "Дає можливість викладати фото і голосувати за них у фронтенді додатку «Фото»"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/actions/backend/photosPublicgalleryPluginBackendModeration.controller.php:15
+msgid "Unknown photo"
+msgstr "Невідоме фото"
+
+#: /wa-apps/photos/plugins/publicgallery/lib/actions/photosPublicgalleryPluginVote.controller.php:32
+msgid "You may not vote for your own photos"
+msgstr "Ви не можете голосувати за власні фото"

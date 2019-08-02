@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Webasyst CRM Telegram plugin 1.0.3.37 UA Translation v 0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
+"Language: uk_UA\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/settings/ImSourceSettingsTelegramBlock.html:68
+msgid "You can not change the bot within the same source.<br><br>If you want to change the bot — <a href=\"%ssettings/sources/telegram\">create a new source</a> for it."
+msgstr "Ви не можете змінити бота у тому ж джерелі.<br><br>Якщо ви хочете змінити бота — <a href=\"%ssettings/sources/telegram\">створіть нове джерело</a> для нього."
+
+#: /wa-apps/crm/plugins/telegram/templates/source/settings/ImSourceSettingsTelegramBlock.html:69
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:204
+msgid "Close"
+msgstr "Закрити"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:24
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:24
+msgid "(no subject)"
+msgstr "(без теми)"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:42
+#: /wa-apps/crm/plugins/telegram/templates/source/message/LogInline.html:3
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:41
+msgid "incoming"
+msgstr "вхідні"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:44
+#: /wa-apps/crm/plugins/telegram/templates/source/message/LogInline.html:15
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:43
+msgid "outgoing"
+msgstr "вихідні"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:50
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:49
+msgid "open conversation"
+msgstr "відкрити розмову"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:59
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:58
+msgid "From"
+msgstr "Від"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:74
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:73
+msgid "To"
+msgstr "Для"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:91
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:90
+msgid "Deal"
+msgstr "Угода"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:128
+#: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:7
+msgid "Write a message"
+msgstr "Написати повідомлення"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:149
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:171
+#: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:28
+#: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:50
+msgid "File successful added"
+msgstr "Файл додано"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:150
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:172
+#: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:29
+#: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:51
+msgid "delete"
+msgstr "видалити"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:157
+#: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:36
+msgid "Attach file"
+msgstr "Прикріпити файл"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:157
+#: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:36
+msgid "Drop file here"
+msgstr "Перетягніть сюди файл"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:190
+msgid "Send"
+msgstr "Надіслати"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:191
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:135
+msgid "or"
+msgstr "або"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:191
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:136
+msgid "cancel"
+msgstr "скасувати"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:200
+msgid "Message sent successfully"
+msgstr "Повідомлення відправлене"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/LogInline.html:4
+msgid "from"
+msgstr "від"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/LogInline.html:16
+msgid "to "
+msgstr "для "
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:134
+msgid "Reply"
+msgstr "Відповісти"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:138
+msgid "close"
+msgstr "закрити"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:144
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:165
+msgid "Delete message"
+msgstr "Видалити повідомлення"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:164
+msgid "Delete"
+msgstr "Видалити"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/FromBlock.html:14
+#: /wa-apps/crm/plugins/telegram/templates/source/message/ToBlock.html:22
+msgid "via"
+msgstr "через"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/ToBlock.html:13
+#: /wa-apps/crm/plugins/telegram/templates/source/message/ToBlock.html:14
+#: /wa-apps/crm/plugins/telegram/templates/source/message/ToBlock.html:15
+msgid "CRM"
+msgstr "CRM"
+
+#: /wa-apps/crm/plugins/telegram/templates/TelegramPluginSettings.html:2
+msgid "Plugin %s is installed and working."
+msgstr "Плагін %s встановлено і запущено."
+
+#: /wa-apps/crm/plugins/telegram/templates/TelegramPluginSettings.html:3
+msgid "Specify configuration parameters on <a href=\"%s\">deal source settings</a>."
+msgstr "Задайте параметри на <a href=\"%s\">екрані налаштувань угоди</a>."
+
+#: /wa-apps/crm/plugins/telegram/lib/classes/source/crmTelegramPluginImSourceMessageSender.class.php:91
+msgid "Telegram user id is unknown"
+msgstr "Невідомий ідентифікатор користувача Telegram"
+
+#: /wa-apps/crm/plugins/telegram/lib/classes/source/crmTelegramPluginImSourceMessageSender.class.php:395
+msgid "Sorry, couldn't send reply message"
+msgstr "Надіслати повідомлення, на жаль, не вдалося"
+
+msgid "open in Telegram"
+msgstr "відкрити у Telegram"
+
+msgid "Response to the /start command"
+msgstr "Відповідь на команду /start"
+
+msgid "Variables are supported:"
+msgstr "Змінні, що підтримуються:"
+
+msgid "Supported markup:"
+msgstr "Розмітка, що підтримується:"
+
+msgid "Unkown sticker"
+msgstr "Невідомий стікер"
+
+msgid "Location"
+msgstr "Розташування"
+
+msgid "Unkown location"
+msgstr "Невідоме місце розташування"
+
+msgid "Download in full size"
+msgstr "Завантажити у повному розмірі"
+
+msgid "Voice message"
+msgstr "Голосове повідомлення"
+
+msgid "Unkown voice message"
+msgstr "Невідоме голосове повідомлення"
+
+msgid "Video note"
+msgstr "Відеопримітка"
+
+msgid "Unkown video note"
+msgstr "Невідома відеопримітка"
+
+msgid "Video"
+msgstr "Відео"
+
+msgid "Unkown video"
+msgstr "Невідоме відео"
+
+msgid "Audio"
+msgstr "Аудіо"

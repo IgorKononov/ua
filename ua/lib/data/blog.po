@@ -1,0 +1,1542 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Webasyst Blog 1.4.2.32 UA translation v 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Igor Kononov <igor.kononov@webasyst.ru>\n"
+"Language-Team: Skeeter Dev\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2011-11-11 13:30+0300\n"
+"PO-Revision-Date: \n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: /wa-apps/blog/templates/actions/backend/BackendComments.html:68
+msgid "Loading"
+msgstr "Завантаження"
+
+#: /wa-apps/blog/templates/actions/post/Post.html:16
+msgid "Settings"
+msgstr "Налаштування"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:49
+msgid "Delete"
+msgstr "Видалити"
+
+#: /wa-apps/blog/templates/actions/post/Post.html:53
+msgid "(empty title)"
+msgstr "(немає заголовку)"
+
+#: /wa-apps/blog/templates/actions/post/Post.html:60
+msgid "Public post"
+msgstr "Публічний запис"
+
+#: /wa-apps/blog/templates/actions/post/Post.html:70
+msgid "Private post"
+msgstr "Приватний запис"
+
+#: /wa-apps/blog/templates/actions/post/Post.html:99
+msgid "No comments"
+msgstr "Коментарі відсутні"
+
+#: /wa-apps/blog/templates/actions/backend/BackendArchive.html:84
+msgid "Archive"
+msgstr "Архів"
+
+#: /wa-apps/blog/templates/actions/backend/BackendCalendar.html:58
+msgid "Click to create a post scheduled to be published on this day"
+msgstr "Клікніть, аби створити запис з датою публікації у цей день"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSidebar.html:29
+msgid "Comments"
+msgstr "Коментарі"
+
+#: /wa-apps/blog/templates/actions/post/comments.html:43
+msgid "delete"
+msgstr "видалити"
+
+#: /wa-apps/blog/templates/actions/post/comments.html:44
+msgid "restore"
+msgstr "відновити"
+
+#: /wa-apps/blog/templates/actions/post/comments.html:47
+msgid "reply"
+msgstr "відповісти"
+
+#: /wa-apps/blog/templates/actions/backend/BackendComments.html:65
+msgid "no comments"
+msgstr "коментарі відсутні"
+
+#: /wa-apps/blog/templates/actions/post/Post.html:121
+msgid "Done"
+msgstr "Готово"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:34
+msgid "Blog"
+msgstr "Блог"
+
+#: /wa-apps/blog/lib/actions/backend/blogBackendSettings.action.php:18
+msgid "New blog"
+msgstr "Новий блог"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSettings.html:15
+msgid "Blog name"
+msgstr "Назва блогу"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSettings.html:28
+msgid "Private"
+msgstr "Приватний"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSettings.html:30
+msgid "Public"
+msgstr "Публічний"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSettings.html:33
+msgid "Blog posts are published and available in the frontend and RSS feed"
+msgstr "Записи публікуються у загальнодоступній частині блогу і у RSS блогу"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSettings.html:34
+msgid "Blog posts are published and available only within Webasyst backend for users who have rights to access this blog"
+msgstr "Записи доступні лише користувачам бекенду Webasyst, які мають доступ до цього блогу"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSettings.html:42
+msgid "Color"
+msgstr "Колір"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSettings.html:50
+msgid "Color coding is used only within Webasyst backend"
+msgstr "Кольорове кодування використовується лише в межах бекенду Webasyst"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSettings.html:57
+msgid "Icon"
+msgstr "Іконка"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSettings.html:67
+msgid "Or enter icon URL (should be a 16x16 px image)"
+msgstr "Або вкажіть адресу іконки (розмір — 16х16 пікселів)"
+
+#: /wa-apps/blog/templates/actions/plugins/Plugins.html:58
+msgid "Save"
+msgstr "Зберегти"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSidebar.html:16
+msgid "New post"
+msgstr "Новий запис"
+
+#: /wa-apps/blog/lib/actions/backend/blogBackend.action.php:78
+msgid "All posts"
+msgstr "Усі записи"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSidebar.html:36
+msgid "Calendar"
+msgstr "Календар"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSidebar.html:78
+msgid "Drafts"
+msgstr "Чернетки"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSidebar.html:105
+msgid "Plugins"
+msgstr "Плагіни"
+
+#: /wa-apps/blog/templates/actions/plugins/Plugins.html:35
+msgid "No plugins installed"
+msgstr "Плагіни не встановлено"
+
+#: /wa-apps/blog/templates/actions/plugins/Plugins.html:39
+msgid "Plugin order defines the order they are executed. Sort plugin list to change the order."
+msgstr "Порядок сортування плагінів налаштовується перетягуванням і визначає порядок їх підключення."
+
+#: /wa-apps/blog/templates/actions/plugins/Plugins.html:62
+msgid "Plugin does not offer configuration settings."
+msgstr "Цей плагін не пропонує налаштувань."
+
+#: /wa-apps/blog/templates/actions/blog/BlogNotFound.html:12
+msgid "To add posts, you must first <a href=\"%s\"> create a new blog</a>."
+msgstr "Для додавання записів необхідно спочатку <a href=\"%s\">створити новий блог</a>."
+
+#: /wa-apps/blog/templates/actions/post/Post.html:32
+msgid "Edit post"
+msgstr "Редагувати запис"
+
+#: /wa-apps/blog/templates/actions/post/Post.html:35
+msgid "Post %s will be deleted permanently. Delete?"
+msgstr "Запис %s буде видалений назавжди. Видалити?"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:20
+msgid "Delete post"
+msgstr "Видалити запис"
+
+msgid "Delete blog"
+msgstr "Видалити блог"
+
+#: /wa-apps/blog/templates/actions/post/Post.html:111
+msgid "Add comment"
+msgstr "Написати коментар"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:7
+msgid "Author"
+msgstr "Автор"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:18
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:60
+msgid "Preview"
+msgstr "Попередній перегляд"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:63
+msgid "Published"
+msgstr "Опубліковано"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:98
+msgid "WYSIWYG"
+msgstr "Візуальний редактор"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:147
+msgid "Publication deadline"
+msgstr "Термін публікації"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:123
+msgid "Not set"
+msgstr "Не встановлено"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:133
+msgid "Publish"
+msgstr "Опублікувати"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:134
+msgid "Save draft"
+msgstr "Зберегти чернетку"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:227
+msgid "or"
+msgstr "або"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:227
+msgid "cancel"
+msgstr "відмінити"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:167
+msgid "Schedule publication"
+msgstr "Запланувати публікацію"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:177
+msgid "Schedule"
+msgstr "Запланувати"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:193
+msgid "edit"
+msgstr "редагувати"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:201
+msgid "Autopublication is scheduled for"
+msgstr "Автоматична публікація запланована на"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:226
+msgid "Unpublish"
+msgstr "Відмінити публікацію"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:253
+msgid "Max %d characters"
+msgstr "Максимум %d символів"
+
+#: /wa-apps/blog/lib/actions/backend/blogBackend.action.php:51
+msgid "Access denied"
+msgstr "Доступ заборонений"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendPost.action.php:73
+msgid "Post not found"
+msgstr "Запис не знайдений"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendAddComment.controller.php:48
+msgid "Name can not be left blank"
+msgstr "Ім'я не може бути пустим"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendAddComment.controller.php:54
+msgid "Email can not be left blank"
+msgstr "Email-адреса не може бути пустою"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendAddComment.controller.php:58
+msgid "Email is not valid"
+msgstr "Некоректна email-адреса"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendAddComment.controller.php:62
+msgid "Site URL is not valid"
+msgstr "Некоректний URL сайту"
+
+#: /wa-apps/blog/lib/actions/post/blogPostAddComment.controller.php:20
+msgid "Comment text can not be left blank"
+msgstr "Коментар не може бути пустим"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendAddComment.controller.php:70
+msgid "Comment length should not exceed 4096 symbols"
+msgstr "Коментар не повинен бути довшим 4096 символів"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendAddComment.controller.php:100
+msgid "Database error"
+msgstr "Помилка бази даних"
+
+#: /wa-apps/blog/lib/models/blogPost.model.php:173
+msgid "URL must not contain /"
+msgstr "URL не повинен містити /"
+
+#: /wa-apps/blog/lib/models/blogPost.model.php:176
+msgid "This address is already in use"
+msgstr "Ця адреса вже використовується"
+
+#: wa-apps/blog/lib/classes/blogPost.class.php:235
+msgid "comment"
+msgid_plural "comments"
+msgstr[0] "коментар"
+msgstr[1] "коментарі"
+msgstr[2] "коментарів"
+
+#: /wa-apps/blog/templates/actions/post/Post.html:30
+msgid "Private blog"
+msgstr "Закритий блог"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSidebar.html:54
+msgid "Blogs"
+msgstr "Блоги"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendAddComment.controller.php:51
+msgid "Name length should not exceed 255 symbols"
+msgstr "Ім'я не повинно бути довшим за 255 символів"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:256
+#: /wa-apps/blog/templates/actions-mobile/backend/Backend.html:79
+#: /wa-apps/blog/themes/_webasystcom/stream.html:79
+#: /wa-apps/blog/themes/_webasystcom/stream.html:84
+#: /wa-apps/blog/themes/ascetic/sidebar.html:69
+#: /wa-apps/blog/themes/ascetic/stream.html:21
+#: /wa-apps/blog/themes/ascetic/stream.html:26
+#: /wa-apps/blog/themes/ascetic/stream_posts.html:64
+#: /wa-apps/blog/themes/ascetic/stream_search.html:20
+#: /wa-apps/blog/themes/clear/navigation.html:51
+#: /wa-apps/blog/themes/clear/stream.html:21
+#: /wa-apps/blog/themes/clear/stream.html:26
+#: /wa-apps/blog/themes/clear/stream_posts.html:70
+#: /wa-apps/blog/themes/clear/stream_search.html:20
+#: /wa-apps/blog/themes/custom/content.html:48
+#: /wa-apps/blog/themes/custom/stream.html:21
+#: /wa-apps/blog/themes/custom/stream.html:26
+#: /wa-apps/blog/themes/custom/stream_posts.html:70
+#: /wa-apps/blog/themes/custom/stream_search.html:20
+#: /wa-apps/blog/themes/default/main.html:81
+#: /wa-apps/blog/themes/default/stream.html:22
+#: /wa-apps/blog/themes/default/stream.html:27
+#: /wa-apps/blog/themes/default/stream_posts.html:72
+#: /wa-apps/blog/themes/default/stream_search.html:20
+#: /wa-apps/blog/themes/facebook/navigation.html:72
+#: /wa-apps/blog/themes/facebook/stream.html:21
+#: /wa-apps/blog/themes/facebook/stream.html:26
+#: /wa-apps/blog/themes/facebook/stream_posts.html:70
+#: /wa-apps/blog/themes/facebook/stream_search.html:20
+#: /wa-apps/blog/themes/nifty/navigation.html:48
+#: /wa-apps/blog/themes/nifty/stream.html:21
+#: /wa-apps/blog/themes/nifty/stream.html:26
+#: /wa-apps/blog/themes/nifty/stream_posts.html:70
+#: /wa-apps/blog/themes/nifty/stream_search.html:20
+#: /wa-apps/blog/themes/pinboard/navigation.html:56
+#: /wa-apps/blog/themes/pinboard/stream.html:21
+#: /wa-apps/blog/themes/pinboard/stream.html:26
+#: /wa-apps/blog/themes/pinboard/stream_posts.html:70
+#: /wa-apps/blog/themes/pinboard/stream_search.html:20
+#: /wa-apps/blog/themes/sidebar/content.html:62
+#: /wa-apps/blog/themes/sidebar/stream.html:21
+#: /wa-apps/blog/themes/sidebar/stream.html:26
+#: /wa-apps/blog/themes/sidebar/stream_posts.html:70
+#: /wa-apps/blog/themes/sidebar/stream_search.html:20
+#: /wa-apps/blog/themes/vk/navigation.html:72
+#: /wa-apps/blog/themes/vk/stream.html:21
+#: /wa-apps/blog/themes/vk/stream.html:26
+#: /wa-apps/blog/themes/vk/stream_posts.html:70
+#: /wa-apps/blog/themes/vk/stream_search.html:20
+msgid "%d post"
+msgid_plural "%d posts"
+msgstr[0] "%d запис"
+msgstr[1] "%d записи"
+msgstr[2] "%d записів"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:251
+#: /wa-apps/blog/templates/actions-mobile/backend/Backend.html:75
+msgid "%d post of %d"
+msgid_plural "%d posts of %d"
+msgstr[0] "%d запис з %d"
+msgstr[1] "%d записи з %d"
+msgstr[2] "%d записів з %d"
+
+#: /wa-apps/blog/templates/actions/comments/Comments.html:57
+msgid "%d comment of %d (including deleted)"
+msgid_plural "%d comments of %d (including deleted)"
+msgstr[0] "%d коментар з %d (включно видалені)"
+msgstr[1] "%d коментарі з %d (включно видалені)"
+msgstr[2] "%d коментарів з %d (включно видалені)"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:188
+#: /wa-apps/blog/templates/actions/backend/Backend.html:191
+#: /wa-apps/blog/themes/ascetic/comments.html:24
+#: /wa-apps/blog/themes/ascetic/stream_posts.html:34
+#: /wa-apps/blog/themes/clear/comments.html:24
+#: /wa-apps/blog/themes/clear/stream_posts.html:35
+#: /wa-apps/blog/themes/custom/comments.html:24
+#: /wa-apps/blog/themes/custom/stream_posts.html:35
+#: /wa-apps/blog/themes/default/comments.html:21
+#: /wa-apps/blog/themes/default/stream_posts.html:35
+#: /wa-apps/blog/themes/facebook/comments.html:24
+#: /wa-apps/blog/themes/facebook/stream_posts.html:35
+#: /wa-apps/blog/themes/nifty/comments.html:24
+#: /wa-apps/blog/themes/nifty/stream_posts.html:35
+#: /wa-apps/blog/themes/pinboard/comments.html:24
+#: /wa-apps/blog/themes/pinboard/stream_posts.html:35
+#: /wa-apps/blog/themes/sidebar/comments.html:24
+#: /wa-apps/blog/themes/sidebar/stream_posts.html:35
+#: /wa-apps/blog/themes/vk/comments.html:24
+#: /wa-apps/blog/themes/vk/stream_posts.html:35
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d коментар"
+msgstr[1] "%d коментарі"
+msgstr[2] "%d коментарів"
+
+msgid "Editing post %s"
+msgstr "Редагування запису %s"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:36
+#: /wa-apps/blog/templates/actions/backend/Backend.html:49
+msgid "Select posts"
+msgstr "Обрати записи"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:44
+msgid "Move to blog"
+msgstr "Перемістити до блогу"
+
+#: /wa-apps/blog/templates/actions/post/Post.html:11
+msgid "Open on website"
+msgstr "Відкрити на сайті"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:355
+msgid "Continue reading →"
+msgstr "Читати далі →"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:213
+msgid "Show older posts"
+msgstr "Показати більш ранні записи"
+
+#: /wa-apps/blog/templates/actions/backend/BackendCalendar.html:27
+msgid "Overdue posts"
+msgstr "Прострочені записи"
+
+#: /wa-apps/blog/templates/actions/backend/BackendCalendar.html:62
+msgid "Overdue"
+msgstr "Прострочений"
+
+#: /wa-apps/blog/templates/actions/backend/BackendCalendar.html:64
+msgid "Draft"
+msgstr "Чернетка"
+
+#: /wa-apps/blog/templates/actions/backend/BackendCalendar.html:66
+msgid "Scheduled for publication"
+msgstr "Запланована публікація"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSidebar.html:103
+msgid "Belong to private blog"
+msgstr "Належить приватному блогу"
+
+#: /wa-apps/blog/templates/actions/blog/BlogSettings.html:39
+msgid "Blog type"
+msgstr "Тип блогу"
+
+#: /wa-apps/blog/templates/actions/blog/BlogSettings.html:55
+msgid "Public URL"
+msgstr "Адреса запису"
+
+#: /wa-apps/blog/templates/actions/comments/Comments.html:31
+msgid "Show older comments"
+msgstr "Показати попередні коментарі"
+
+#: /wa-apps/blog/templates/actions/comments/include.comment.html:20
+msgid "on"
+msgstr "до запису"
+
+#: /wa-apps/blog/templates/actions/comments/include.comment.html:24
+msgid "unpublished post"
+msgstr "відключений запис"
+
+#: /wa-apps/blog/templates/actions/comments/include.comment.html:47
+msgid "Comment deleted"
+msgstr "Коментар видалений"
+
+#: /wa-apps/blog/templates/actions/comments/include.comment.html:43
+msgid "Comment for unpublished post"
+msgstr "Коментар до неопублікованого запису"
+
+#: /wa-apps/blog/templates/actions/comments/include.comment.html:47
+msgid "in reply to"
+msgstr "відповідь на коментар"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:8
+msgid "Allow comments"
+msgstr "Коментарі"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:125
+msgid "Off"
+msgstr "Вимкнути"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:127
+msgid "On"
+msgstr "Увімкнути"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:57
+msgid "Deadline is for plan purposes only. It will not automatically published the post, but will highlight the post if publication date is overdue."
+msgstr "Призначення терміну публікації дозволяє планувати майбутні записи, але автоматично не публікує їх."
+
+#: /wa-apps/blog/templates/dialogs/postSchedule.html:18
+msgid "format"
+msgstr "формат"
+
+#: /wa-apps/blog/templates/dialogs/postSchedule.html:18
+msgid "current time is"
+msgstr "поточний час "
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:93
+msgid "Custom parameters"
+msgstr "Додаткові параметри"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:96
+msgid "Optional set of custom <em>key=value</em> parameters which can be used within a frontend's theme template as <em>&#123;$post.key&#125;</em>. Each key=value pair should be on a separate line."
+msgstr "Необов’язковий набір додаткових параметрів <em>key=value</em> (використовуються в шаблоні загальнодоступної частини у вигляді <em>&#123;$post.key&#125;</em>). Кожну пару key=value вказуйте з нового рядка."
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:245
+msgid "HTML"
+msgstr "HTML"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:300
+msgid "Saved"
+msgstr "Збережено"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:294
+msgid "Unpublish this blog post?"
+msgstr "Відмінити публікацію запису?"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:7
+msgid "Settings updated"
+msgstr "Налаштування збережені"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:18
+msgid "Personal settings"
+msgstr "Особисті налаштування"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:22
+msgid "App icon counter"
+msgstr "Лічильник на іконці"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:58
+msgid "Frontend settings"
+msgstr "Налаштування загальнодоступної частини"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:63
+#: /wa-apps/blog/lib/config/site.php:76
+msgid "Homepage <title>"
+msgstr "Заголовок головної сторінки <title>"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:72
+msgid "Title format"
+msgstr "Формат заголовка"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:78
+msgid "Post title only"
+msgstr "Лише заголовок запису"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:160
+msgid "E.g."
+msgstr "Наприклад"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:88
+msgid "Blog » Post title"
+msgstr "Блог » Заголовок запису"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:103
+msgid "URLs & Titles"
+msgstr "Адреси (URL) і заголовки (title)"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:141
+msgid "RSS"
+msgstr "RSS"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:145
+msgid "Number of posts in RSS file"
+msgstr "Кількість записів в RSS-файлі"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:148
+msgid "&lt;author&gt; tag"
+msgstr "тег &lt;автор&gt;"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:153
+msgid "Use blog post author's real name"
+msgstr "Використати справжнє ім’я автора"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:158
+msgid "Use blog name"
+msgstr "Використовувати назву блогу"
+
+#: /wa-apps/blog/templates/dialogs/blogDelete.html:9
+msgid "The blog %s contains <strong>%d posts</strong>. What should be done with these posts?"
+msgstr "В блозі «%s» міститься <strong>%d записів</strong>. Що слід зробити з цими записами?"
+
+#: /wa-apps/blog/templates/dialogs/blogDelete.html:12
+msgid "Move posts to another blog"
+msgstr "Перенести записи до іншого блогу"
+
+#: /wa-apps/blog/templates/dialogs/blogDelete.html:22
+msgid "Delete permanently"
+msgstr "Видалити назавжди"
+
+#: /wa-apps/blog/templates/dialogs/blogDelete.html:25
+msgid "This blog does no contain posts, and thus can be safely deleted."
+msgstr "В цьому блозі записи відсутні, його можна видалити."
+
+#: /wa-apps/blog/templates/dialogs/postDeadline.html:13
+msgid "Deadline is for planning purposes only. It will not publish the post automatically, but will highlight the post in the calendar if it is not published in time."
+msgstr "Встановлення терміну публікації використовується лише для планування. Запис автоматично не публікується, а лише виділяється у календарі після того, як спливе термін публікації."
+
+#: /wa-apps/blog/templates/dialogs/postDelete.html:8
+msgid "The post <b>%s</b> will be permanently deleted without the ability to recover. Delete?"
+msgstr "Запис «<b>%s</b>» буде видалений без можливості відновлення. Видалити??"
+
+#: /wa-apps/blog/templates/dialogs/postDelete.html:10
+msgid "Delete posts"
+msgstr "Видалити записи"
+
+#: /wa-apps/blog/templates/dialogs/postDelete.html:11
+msgid "Selected posts will be permanently deleted without the ability to recover. Delete?"
+msgstr "Выбранные записи будут удалены без возможности восстановления. Удалить?"
+
+#: /wa-apps/blog/templates/dialogs/postMove.html:17
+msgid "Move posts"
+msgstr "Перемістити записи"
+
+#: /wa-apps/blog/templates/dialogs/postSchedule.html:26
+msgid "Cron is working properly. Latest execution time: %s"
+msgstr "CRON для відкладеної публікації записів увімкнений і працює. Час останнього запуску: <strong>%s</strong>"
+
+#: /wa-apps/blog/templates/dialogs/postSchedule.html:30
+msgid "Scheduled publication requires CRON to be properly setup for Webasyst Blog app, which is not the case for this installation. Setup cron for the Blog app with the following command (<a href=\"http://www.webasyst.com/ru/framework/docs/server/cron/\" target=\"_blank\">cron setup instructions</a>):<br /><br /> <strong class=\"cron-command\">%s</strong>"
+msgstr "Для роботи запланованої публікації необхідно налаштувати CRON, що дозволить додатку «Блог» виконувати дії за розкладом без участі користувача. Інструкція для CRON (<a href=\"http://www.webasyst.ru/developers/docs/tips/cron/\" target=\"_blank\">документація з налаштування</a>):<br /><br /> <strong class=\"cron-command\">%s</strong>"
+
+#: /wa-apps/blog/lib/classes/blogFrontController.class.php:54
+msgid "Blog not found"
+msgstr "Блог не знайдено"
+
+#: /wa-apps/blog/lib/actions/blog/blogBlogSettings.action.php:110
+msgid "%s settings"
+msgstr "Налаштування %s"
+
+#: /wa-apps/blog/lib/actions/blog/blogBlogSettings.action.php:149
+msgid "Blog name must not be empty"
+msgstr "Назва блогу не повинна бути пустою"
+
+#: /wa-apps/blog/lib/actions/comments/blogCommentsAdd.controller.php:51
+msgid "Isn't allowed comment to this post"
+msgstr "Цей запис не можна коментувати"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendComment.controller.php:193
+msgid "Comment not found"
+msgstr "Коментар не знайдений"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontend.action.php:100
+msgid "Posts by %s"
+msgstr "Записи автора %s"
+
+#: /wa-apps/blog/lib/actions/plugins/blogPlugins.action.php:60
+msgid "Plugin settings page"
+msgstr "Сторінка налаштування плагінів"
+
+#: /wa-apps/blog/lib/actions/post/blogPostEdit.action.php:70
+msgid "Adding new post"
+msgstr "Додавання нового запису"
+
+#: /wa-apps/blog/lib/actions/post/blogPostEdit.action.php:200
+msgid "%s ago"
+msgstr "%s назад"
+
+#: /wa-apps/blog/lib/actions/post/blogPostEdit.action.php:200
+msgid "in %s"
+msgstr "через %s"
+
+#: /wa-apps/blog/lib/actions/post/blogPostGetPostUrl.controller.php:20
+msgid "Can't find corresponding blog"
+msgstr "Не вдалося знайти відповідний блог"
+
+#: /wa-apps/blog/lib/actions/post/blogPostGetPostUrl.controller.php:33
+msgid "Can't find corresponding post"
+msgstr "Не вдалося знайти відповідний запис"
+
+#: /wa-apps/blog/lib/actions/post/blogPostImage.controller.php:25
+msgid "Files with extensions %s are allowed only."
+msgstr "Дозволені імена файлів лише з наступними розширеннями: %s."
+
+#: /wa-apps/blog/lib/actions/post/blogPostImage.controller.php:55
+msgid "File could not bet saved due to the insufficient file write permissions for the %s folder."
+msgstr "Не вдалося зберегти файл через недостатні права на перезапис теки %s."
+
+#: /wa-apps/blog/lib/actions/post/blogPostImage.controller.php:77
+msgid "Failed to upload file %s."
+msgstr "Не вдалося завантажити файл %s."
+
+#: /wa-apps/blog/lib/actions/settings/blogSettings.action.php:63
+msgid "Blog settings page"
+msgstr "Сторінка налаштування блогу"
+
+#: /wa-apps/blog/lib/classes/blogSlugValidator.class.php:31
+msgid "%subject% URL must not be empty"
+msgstr "Адреса %subject% не повинна бути пустою"
+
+#: /wa-apps/blog/lib/classes/blogSlugValidator.class.php:32
+msgid "%subject% URL is in use. Please enter another URL"
+msgstr "Адреса %subject% вже використовується. Введіть іншу адресу"
+
+#: /wa-apps/blog/lib/classes/blogSlugValidator.class.php:33
+msgid "%subject% URL is invalid"
+msgstr "Адреса %subject% введена некоректно"
+
+#: /wa-apps/blog/lib/config/blogRightConfig.class.php:14
+msgid "Can create new blogs"
+msgstr "Може створювати нові блоги"
+
+#: /wa-apps/blog/lib/config/blogRightConfig.class.php:24
+msgid "No access"
+msgstr "Доступ заборонено"
+
+#: /wa-apps/blog/lib/config/blogRightConfig.class.php:25
+msgid "Read only"
+msgstr "Лише читання"
+
+#: /wa-apps/blog/lib/config/blogRightConfig.class.php:26
+msgid "Read and publish new posts"
+msgstr "Читання і публікація нових записів"
+
+#: /wa-apps/blog/lib/config/blogRightConfig.class.php:27
+msgid "Full access"
+msgstr "Повний доступ"
+
+#: /wa-apps/blog/lib/config/site.php:19
+msgid "Published blogs & URLs"
+msgstr "Опубліковані блоги і адреси"
+
+#: /wa-apps/blog/lib/config/site.php:23
+msgid "All blogs. Plain URLs (%s)"
+msgstr "Всі блоги. Прості адреси (%s)"
+
+#: /wa-apps/blog/lib/config/site.php:24
+msgid "<br />Post URLs: <strong>%s</strong>, e.g. %s<br />Blog post list URLs: <strong>%s</strong>, e.g. %s"
+msgstr "<br />Адреси записів: <strong>%s</strong>, наприклад, %s<br />Адреси блогів: <strong>%s</strong>, наприклад, %s"
+
+#: /wa-apps/blog/lib/config/site.php:27
+msgid "All blogs. Hierarchical URLs (%s)"
+msgstr "Всі блоги. Ієрархічні адреси (%s)"
+
+#: /wa-apps/blog/lib/config/site.php:31
+msgid "One blog"
+msgstr "Один блог"
+
+#: /wa-apps/blog/lib/config/site.php:32 /wa-apps/blog/lib/config/site.php:33
+msgid "Post URLs: <strong>%s</strong>"
+msgstr "Адреси записів: <strong>%s</strong>"
+
+#: /wa-apps/blog/lib/config/site.php:63
+msgid "Returns blog info by <em>blog_id</em> as an array with the following structure: (<em>\"id\"</em>, <em>\"url\"</em>, <em>\"name\"</em>, <em>\"status\"</em>, <em>\"icon\"</em>, <em>\"qty\"</em>, <em>\"color\"</em>, <em>\"sort\"</em>, <em>\"icon_url\"</em>, <em>\"icon_html\"</em>, <em>\"link\"</em>)"
+msgstr "Повертає інформацію про блог по <em>blog_id</em> у вигляді масиву з наступною структурою: (<em>\"id\"</em>, <em>\"url\"</em>, <em>\"name\"</em>, <em>\"status\"</em>, <em>\"icon\"</em>, <em>\"qty\"</em>, <em>\"color\"</em>, <em>\"sort\"</em>, <em>\"icon_url\"</em>, <em>\"icon_html\"</em>, <em>\"link\"</em>)"
+
+#: /wa-apps/blog/lib/config/site.php:65
+msgid "Returns the array of all public blogs. Each blog is an array presenting the blog data"
+msgstr "Повертає масив всіх відкритих блогів. Кожен блог є масивом, що містить дані блогу"
+
+#: /wa-apps/blog/lib/config/site.php:66
+msgid "Returns the array of all posts by <em>blog_id</em>. If <em>blog_id</em> is <em>null</em>, the array of all public posts is returned. Optional parameter <em>number_of_posts</em> limits the number of elements returned"
+msgstr "Повертає масив всіх записів по <em>blog_id</em>. Якщо<em>blog_id</em> дорівнює <em>null</em>, то повертається масив всіх відкритих записів. Необов’язковий параметр <em>number_of_posts</em> використовується для обмеження коількості елементів, що повертаються"
+
+#: /wa-apps/blog/lib/handlers/contacts.links.handler.php:16
+msgid "Posts"
+msgstr "Записи"
+
+#: /wa-apps/blog/lib/models/blogBlog.model.php:125
+msgid "Blog URL is in use. Please enter another URL"
+msgstr "Ця адреса блогу вже використовується. Введіть іншу адресу"
+
+#: /wa-apps/blog/lib/models/blogPost.model.php:784
+msgid "Incorrect format"
+msgstr "Некоректнйи формат"
+
+#: /wa-apps/blog/lib/config/site.php:61
+msgid "Returns post info by <em>post_id</em> as an array with the following structure: (<em>\"id\"</em>, <em>\"contact_id\"</em>, <em>\"contact_name\"</em>, <em>\"datetime\"</em>, <em>\"title\"</em>, <em>\"text\"</em>, <em>\"status\"</em>, <em>\"url\"</em>, <em>\"blog_id\"</em>, <em>\"comments_allowed\"</em>, <em>\"user\"</em>, <em>\"comment_datetime\"</em>, <em>\"comment_count\"</em>, <em>\"comment_str_translate\"</em>, <em>\"comment_new_count\"</em>, <em>\"plugins\"</em>, <em>\"icon\"</em>, <em>\"color\"</em>, <em>\"blog_status\"</em>, <em>\"blog_url\"</em>, <em>\"blog_name\"</em>, <em>\"link\"</em>)"
+msgstr "Повертає інформацію про запис по <em>post_id</em> у вигляді масиву з наступною структурою: (<em>\"id\"</em>, <em>\"contact_id\"</em>, <em>\"contact_name\"</em>, <em>\"datetime\"</em>, <em>\"title\"</em>, <em>\"text\"</em>, <em>\"status\"</em>, <em>\"url\"</em>, <em>\"blog_id\"</em>, <em>\"comments_allowed\"</em>, <em>\"user\"</em>, <em>\"comment_datetime\"</em>, <em>\"comment_count\"</em>, <em>\"comment_str_translate\"</em>, <em>\"comment_new_count\"</em>, <em>\"plugins\"</em>, <em>\"icon\"</em>, <em>\"color\"</em>, <em>\"blog_status\"</em>, <em>\"blog_url\"</em>, <em>\"blog_name\"</em>, <em>\"link\"</em>)"
+
+#: /wa-apps/blog/themes/default/error.html:2
+msgid "Error"
+msgstr "Помилка"
+
+#: /wa-apps/blog/themes/default/error.html:3
+msgid "The requested resource is not available."
+msgstr "Ця сторінка недоступна."
+
+#: /wa-apps/blog/themes/default/index.html:32
+msgid "Sign up"
+msgstr "Реєстрація"
+
+#: /wa-apps/blog/themes/default/index.html:33
+msgid "Login"
+msgstr "Вхід"
+
+#: /wa-apps/blog/themes/default/index.html:44
+msgid "Subscribe"
+msgstr "Підписатись"
+
+#: /wa-apps/blog/themes/default/index.html:79
+msgid "Powered by Webasyst"
+msgstr "Працює на основі Webasyst"
+
+#: /wa-apps/blog/themes/default/post.html:106
+msgid "Guest"
+msgstr "Гість"
+
+#: /wa-apps/blog/themes/default/post.html:140
+msgid "Your name"
+msgstr "Ваше ім’я"
+
+#: /wa-apps/blog/themes/default/post.html:119
+msgid "Email"
+msgstr "Email"
+
+#: /wa-apps/blog/themes/default/post.html:123
+msgid "Website"
+msgstr "Сайт"
+
+#: /wa-apps/blog/themes/default/post.html:141
+msgid "log out"
+msgstr "вийти"
+
+#: /wa-apps/blog/themes/default/post.html:146
+msgid "Comment"
+msgstr "Коментар"
+
+#: /wa-apps/blog/themes/default/post.html:158
+msgid "Comments for non published posts are disabled"
+msgstr "Коментарі до записів-чернеток вимкнені"
+
+#: /wa-apps/blog/themes/default/sidebar.html:51
+msgid "Edit blog layout in your <a href=\"%s\">Webasyst backend</a> using “Site” app."
+msgstr "Оформлення блогу налаштовується <a href=\"%s\">в бекенді</a> за допомогою додатку «Сайт»."
+
+#: /wa-apps/blog/themes/default/stream.html:124
+msgid "Loading..."
+msgstr "Завантаження..."
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:335
+msgid "Image will be uploaded into"
+msgstr "Зображення буде завантажене до"
+
+#: /wa-apps/blog/lib/config/site.php:39
+msgid "Post sub-URL format (%s)"
+msgstr "Формат адрес сторінок записів (%s)"
+
+#: /wa-apps/blog/lib/config/site.php:43
+msgid "Post URL only"
+msgstr "Лише адреса запису"
+
+#: /wa-apps/blog/lib/config/site.php:56
+msgid "e.g."
+msgstr " наприклад"
+
+#: /wa-apps/blog/lib/config/site.php:47
+msgid "Year/post URL"
+msgstr "Рік/Адреса запису"
+
+#: /wa-apps/blog/lib/config/site.php:51
+msgid "Year/month/post URL"
+msgstr "Рік/Місяць/Адреса запису"
+
+#: /wa-apps/blog/lib/config/site.php:55
+msgid "Year/month/date/post URL"
+msgstr "Рік/Місяць/День/Адреса запису"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:28
+msgid "My overdue post drafts"
+msgstr "Мої прострочені чернетки"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:29
+msgid "posts with overdue publication deadline"
+msgstr "записи з простроченим терміном публікації"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:35
+msgid "New posts published by other users"
+msgstr "Нові записи інших користувачів"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:46
+msgid "Count new comments on my posts only"
+msgstr "Враховувати лише коментарі до моїх записів"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:65
+msgid "Setup in the <a href=\"%s\">Blog app settlement settings</a> within the Site app"
+msgstr "Формат налаштовується в <a href=\"%s\">налаштуваннях поселення блогу</a> в середині додатку «Сайт»"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendComment.controller.php:145
+msgid "Invalid data"
+msgstr "Невірні дані"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:41
+msgid "New comments"
+msgstr "Нові коментарі"
+
+#: /wa-apps/blog/lib/config/blogRightConfig.class.php:17
+msgid "Can edit pages"
+msgstr "Може редагувати сторінки"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:101
+msgid "Protect comment submit form with CAPTCHA"
+msgstr "Захист форми додавання коментаря <em>капчею</em> (CAPTCHA)"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendComment.controller.php:122
+msgid "Invalid captcha code"
+msgstr "Невірний код CAPTCHA"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendComment.controller.php:130
+msgid "Invalid auth provider"
+msgstr "Невірний провайдер авторизації"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendComment.controller.php:136
+msgid "Invalid auth provider data"
+msgstr "Невірні дані провайдера авторизації"
+
+#: /wa-apps/blog/templates/actions/plugins/Plugins.html:89
+msgid "Plugin %s is installed and working."
+msgstr "Плагін «%s» встановлений і працює."
+
+#: /wa-apps/blog/templates/actions/plugins/Plugins.html:92
+msgid "No configuration options are available for this plugin."
+msgstr "Цей плагін не надає можливості зміни налаштувань."
+
+#: /wa-apps/blog/lib/actions/plugins/blogPlugins.action.php:61
+msgid "Plugin %s settings"
+msgstr "Налаштування плагіну «%s»"
+
+#: /wa-apps/blog/lib/classes/blogPost.class.php:115
+msgid "Syntax error at post template"
+msgstr "Помилка синтаксису запису"
+
+#: /wa-apps/blog/templates/dialogs/postPublish.html:6
+msgid "Confirm the blog for publishing this post"
+msgstr "Підтвердіть вибір блогу"
+
+msgid "Comments author"
+msgstr "Автор коментарів"
+
+msgid "Posts author"
+msgstr "Автор статей"
+
+#: /wa-apps/blog/themes/default/signup.html
+#: /wa-apps/blog/themes/default/signup.html:6
+msgid "Thank you!"
+msgstr "Спасибі!"
+
+#: /wa-apps/blog/themes/default/signup.html
+#: /wa-apps/blog/themes/default/signup.html:7
+msgid "You have successfully signed up."
+msgstr "Ви успішно зареєструвались."
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:106
+msgid "Only registered users can add comments"
+msgstr "Лише зареєстровані користувачі можуть коментувати"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:107
+msgid "If enabled, all commentators will be authorized and synced with the Contacts app"
+msgstr "Для користувачів, що лишають коментарі, будуть створюватись записи в додатку «Контакти»"
+
+#: /wa-apps/blog/lib/config/site.php:94
+msgid "Returns post info by <em>post_id</em> as an array with the following structure: (<em>\"id\"</em>, <em>\"contact_id\"</em>, <em>\"contact_name\"</em>, <em>\"datetime\"</em>, <em>\"title\"</em>, <em>\"text\"</em>, <em>\"status\"</em>, <em>\"url\"</em>, <em>\"blog_id\"</em>, <em>\"comments_allowed\"</em>, <em>\"user\"</em>, <em>\"comment_count\"</em>, <em>\"comment_new_count\"</em>, <em>\"plugins\"</em>, <em>\"icon\"</em>, <em>\"color\"</em>, <em>\"blog_status\"</em>, <em>\"blog_url\"</em>, <em>\"blog_name\"</em>, <em>\"link\"</em>)"
+msgstr "Повертає інформацію про запис по <em>post_id</em> у вигляді масиву з наступною структурою: (<em>\"id\"</em>, <em>\"contact_id\"</em>, <em>\"contact_name\"</em>, <em>\"datetime\"</em>, <em>\"title\"</em>, <em>\"text\"</em>, <em>\"status\"</em>, <em>\"url\"</em>, <em>\"blog_id\"</em>, <em>\"comments_allowed\"</em>, <em>\"user\"</em>, <em>\"comment_count\"</em>, <em>\"comment_new_count\"</em>, <em>\"plugins\"</em>, <em>\"icon\"</em>, <em>\"color\"</em>, <em>\"blog_status\"</em>, <em>\"blog_url\"</em>, <em>\"blog_name\"</em>, <em>\"link\"</em>)"
+
+#: /wa-apps/blog/themes/default/comments.html:84
+msgid "To add a comment please <a href=\"%s\">sign up</a> or <a href=\"%s\">login</a>"
+msgstr "Для того, щоб залишити коментар, будь ласка, <a href=\"%s\">зареєструйтесь</a> або <a href=\"%s\">авторизуйтесь</a>"
+
+#: /wa-apps/blog/themes/default/index.html:40
+msgid "Logout"
+msgstr "Вийти"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:55
+msgid "Search posts"
+msgstr "Знайти запис"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:177
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:226
+msgid "Posts of this blog are not visible in the public frontend because there are no routing rules for the Blog app in your website settings. Use Site app (Routing section) to settle Blog app on your website and to start publishing."
+msgstr "Записи в цьому блозі невидимі для користувачів фронтенду, тому що для додатку «Блог» не задані достатні правила маршрутизації. Поселіть «Блог» в налаштуваннях маршрутизації додатку «Сайт», щоб розпочати публікувати записи нового блогу."
+
+#: /wa-apps/blog/templates/layouts/Mobile.html:19
+msgid "Apps"
+msgstr "Додатки"
+
+#: /wa-apps/blog/js/compiled/blog-jquery.js:35
+msgid "Cancel"
+msgstr "Відміна"
+
+#: /wa-apps/blog/js/postEdit.js:91 /wa-apps/blog/js/postEdit.js:86
+msgid "input_maxlength"
+msgstr "input_maxlength"
+
+#: /wa-apps/blog/lib/config/site.php:157
+msgid "Latest blog posts"
+msgstr "Останні записи блогу"
+
+#: /wa-apps/blog/lib/config/site.php:192
+msgid "Latest comments of all blog posts"
+msgstr "Останні коментарі до всіх записів"
+
+#: /wa-apps/blog/themes/clear/footer.html:4
+msgid "We are using <a href=\"http://www.webasyst.com/apps/blog/\">Webasyst Blog</a>"
+msgstr "Ми використовуємо <a href=\"http://www.webasyst.com/ru/apps/blog/\">Webasyst Блог</a>"
+
+#: /wa-apps/blog/themes/clear/navigation.html:69
+msgid "Tags"
+msgstr "Теги"
+
+#: /wa-apps/blog/themes/custom/content.html:72
+msgid "More"
+msgstr "Ще"
+
+#: /wa-apps/blog/themes/_webasystcom/post.html:129
+msgid "Имя"
+msgstr "Ім’я"
+
+#: /wa-apps/blog/themes/_webasystcom/post.html:153
+msgid "выйти"
+msgstr "вийти"
+
+#: /wa-apps/blog/themes/_webasystcom/stream.html:71
+msgid "no posts"
+msgstr "записи відсутні"
+
+#: /wa-apps/blog/themes/sidebar/footer.html:4
+msgid "We are using <a href=\"http://www.webasyst.com/store/app/blog/\">Webasyst Blog</a>"
+msgstr "Ми використовуємо <a href=\"http://www.webasyst.ru/store/app/blog/\">Webasyst Блог</a>"
+
+#: /wa-apps/blog/themes/vk/footer.html:4
+msgid "We are using <a href=\"http://www.webasyst.com/store/app/blog/\" target=\"_blank\">Webasyst Blog</a>"
+msgstr "Ми використовуємо <a href=\"http://www.webasyst.ru/store/app/blog/\" target=\"_blank\">Webasyst Блог</a>"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:265
+msgid "There are no posts in this view."
+msgstr "Записи відсутні."
+
+#: /wa-apps/blog/templates/actions/backend/BackendSidebar.html:98
+msgid "My drafts"
+msgstr "Мої чернетки"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSidebar.html:100
+msgid "all drafts"
+msgstr "всі чернетки"
+
+#: /wa-apps/blog/templates/actions/backend/BackendSidebar.html:101
+msgid "my drafts"
+msgstr "мої чернетки"
+
+#: /wa-apps/blog/templates/actions/comments/Comments.html:34
+msgid "All blogs"
+msgstr "Всі блоги"
+
+#: /wa-apps/blog/templates/actions/comments/Comments.html:36
+msgid "My posts only"
+msgstr "Мої записи"
+
+#: /wa-apps/blog/templates/actions/comments/Comments.html:47
+msgid "There are no comments in this view."
+msgstr "Коментарі відсутні."
+
+#: /wa-apps/blog/templates/actions/comments/Comments.html:66
+#: /wa-apps/blog/templates/actions/comments/Comments.html:61
+msgid "Loading next %d comment..."
+msgid_plural "Loading next %d comments..."
+msgstr[0] "Завантаження наступного %d коментаря…"
+msgstr[1] "Завантаження наступних %d коментарів…"
+msgstr[2] "Завантаження наступних %d коментарів…"
+
+#: /wa-apps/blog/templates/actions/plugins/Plugins.html:35
+msgid "Browse for new plugins"
+msgstr "Пошук плагінів"
+
+#: /wa-apps/blog/templates/actions/plugins/Plugins.html:38
+msgid "Use Installer to install new plugins from the Webasyst Store"
+msgstr "Встановлюйте плагіни з магазину Webasyst за допомогою додатку «Інсталер»"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:92
+msgid "Meta"
+msgstr "Мета"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:96
+#: /wa-apps/blog/templates/dialogs/postEditCustomParams.html:10
+msgid "Title"
+msgstr "Заголовок"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:99
+#: /wa-apps/blog/templates/dialogs/postEditCustomParams.html:18
+msgid "Meta Keywords"
+msgstr "Meta Keywords"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:102
+#: /wa-apps/blog/templates/dialogs/postEditCustomParams.html:24
+msgid "Meta Description"
+msgstr "Meta Description"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:108
+msgid "No meta parameters are defined for this blog post."
+msgstr "Для цього запису мета-параметры не задані."
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:110
+msgid "Edit meta"
+msgstr "Редагувати"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:183
+msgid "Post title"
+msgstr "Заголовок"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:382
+msgid "Post cut (Continue reading &rarr;)"
+msgstr "Кат (Читати далі &rarr;)"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:16
+msgid "My personal settings"
+msgstr "Особисті налаштування"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:53
+msgid "Deadlines"
+msgstr "Дедлайни"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:59
+msgid "Remind me about my scheduled posts"
+msgstr "Нагадувати мені про мої заплановані публікації"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:62
+msgid "When publication is overdue"
+msgstr "Коли публікація прострочена"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:63
+msgid "1 day before publication deadline"
+msgstr "За 1 день до запланованої публікації"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:64
+msgid "2 days before publication deadline"
+msgstr "За 2 дні до запланованої публікації"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:65
+msgid "3 days before publication deadline"
+msgstr "За 3 дні до запланованої публікації"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:66
+msgid "A week before publication deadline"
+msgstr "За тиждень до запланованої публікації"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:76
+msgid "Reminders require CRON to be properly setup for the Blog app, which is not the case for this installation. Setup cron for the Blog app with the following command (<a href=\"http://www.webasyst.com/ru/framework/docs/server/cron/\" target=\"_blank\">cron setup instructions</a>):<br /><br /> <strong class=\"cron-command\">%s</strong>"
+msgstr "Для роботи нагадувань необхідно налаштувати CRON, що дозволить додатку «Блог» виконувати дії за розкладом без участі користувача. Команда для CRON (<a href=\"http://www.webasyst.ru/developers/docs/tips/cron/\" target=\"_blank\">документація з налаштування</a>):<br /><br /> <strong class=\"cron-command\">%s</strong>"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:140
+msgid "Recommended range is from 10 to 25"
+msgstr "Рекомендований діапазон: от 10 до 25"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:150
+msgid "Author’s email address"
+msgstr "Email автора запису"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:151
+msgid "%s for your blog posts"
+msgstr "для ваших записів: %s"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:157
+msgid "No author tag"
+msgstr "Не вказуватитег author"
+
+#: /wa-apps/blog/js/elrte-blog.js:4
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:360
+msgid "Post cut"
+msgstr "Кат"
+
+#: /wa-apps/blog/lib/config/site.php:85 /wa-apps/blog/lib/config/site.php:99
+msgid "As specified"
+msgstr "Вказати явно"
+
+#: /wa-apps/blog/themes/_webasystcom/stream.html:79
+#: /wa-apps/blog/themes/clear/stream.html:21
+#: /wa-apps/blog/themes/custom/stream.html:21
+#: /wa-apps/blog/themes/default/stream.html:21
+#: /wa-apps/blog/themes/facebook/stream.html:21
+#: /wa-apps/blog/themes/nifty/stream.html:21
+#: /wa-apps/blog/themes/sidebar/stream.html:21
+#: /wa-apps/blog/themes/vk/stream.html:21
+#: /wa-apps/blog/themes/ascetic/stream.html:21
+#: /wa-apps/blog/themes/default/stream.html:22
+#: /wa-apps/blog/themes/pinboard/stream.html:21
+msgid "of %d post"
+msgid_plural "of %d posts"
+msgstr[0] "з %d запису"
+msgstr[1] "з %d записів"
+msgstr[2] "з %d записів"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:53
+msgid "Notifications"
+msgstr "Сповіщення"
+
+#: /wa-apps/blog/lib/cli/blogReminder.cli.php:82
+#: /wa-apps/blog/lib/cli/blogReminder.cli.php:89
+msgid "in %d day"
+msgid_plural "in %d days"
+msgstr[0] "через %d день"
+msgstr[1] "за %d дні"
+msgstr[2] "за %d днів"
+
+#: /wa-apps/blog/lib/actions/post/blogPostEdit.action.php:198
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "хвилину"
+msgstr[1] "хвилини"
+msgstr[2] "хвилин"
+
+#: /wa-apps/blog/lib/cli/blogReminder.cli.php:71
+msgid "You have following posts scheduled for publication in the <strong>%s</strong> blog:"
+msgstr "У вас є записи, заплановані до публікації в блозі «<strong>%s</strong>»:"
+
+#: /wa-apps/blog/lib/actions/post/blogPostEdit.action.php:204
+msgid "right now"
+msgstr "прямо зараз"
+
+#: /wa-apps/blog/lib/cli/blogReminder.cli.php:80
+#: /wa-apps/blog/lib/cli/blogReminder.cli.php:83
+msgid "today"
+msgstr "сьогодні"
+
+#: /wa-apps/blog/lib/cli/blogReminder.cli.php:55
+#: /wa-apps/blog/lib/cli/blogReminder.cli.php:50
+msgid "Scheduled blog posts"
+msgstr "Заплановані публікації в блозі"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:72
+msgid "Reminders will be sent to your <strong class=\"cron-command\">%s</strong> email address once a day. Cron for reminders is working properly. Latest execution time: %s"
+msgstr "Нагадування будуть відправлятись вам поштою за адресою <strong class=\"cron-command\">%s</strong> не частіше, ніж раз на день. CRON, необхідний для роботи нагадувань, увімкнений і працює. Час останнього запуску: <strong>%s</strong>"
+
+#: /wa-apps/blog/lib/cli/blogReminder.cli.php:71
+#: /wa-apps/blog/lib/cli/blogReminder.cli.php:74
+msgid "You have blog posts scheduled for publication on the %s blog:"
+msgstr "У вас є записи, заплановані до публікації в блозі «%s»:"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:263
+msgid "Hello and welcome to your new blog!<br> Start by writing your first post."
+msgstr "Ласкаво просимо до вашого нового блогу!<br> Почніть зі створення запису."
+
+#: /wa-apps/blog/templates/actions/blog/BlogSettings.html:56
+msgid "Public blog URL"
+msgstr "Адреса блога"
+
+#: /wa-apps/blog/templates/actions/blog/BlogSettings.html:100
+msgid "A URL to view all posts of this blog on your public website."
+msgstr "Адрес, по которому на сайте можно посмотреть список всех записей этого блога."
+
+#: /wa-apps/blog/themes/clear/footer.html:4
+#: /wa-apps/blog/themes/default/index.html:109
+#: /wa-apps/blog/themes/nifty/footer.html:4
+#: /wa-apps/blog/themes/sidebar/footer.html:4
+#: /wa-apps/blog/themes/vk/footer.html:4
+msgid "<a href=\"http://www.webasyst.com/store/app/blog/\">Blogging platform</a> by Webasyst"
+msgstr "<a href=\"http://www.webasyst.ru/store/app/blog/\">Движок блога</a> — Webasyst"
+
+#: /wa-apps/blog/themes/clear/content.html:13
+#: /wa-apps/blog/themes/custom/content.html:98
+#: /wa-apps/blog/themes/default/index.html:114
+#: /wa-apps/blog/themes/facebook/content.html:22
+#: /wa-apps/blog/themes/nifty/content.html:11
+#: /wa-apps/blog/themes/sidebar/content.html:99
+#: /wa-apps/blog/themes/vk/content.html:22
+msgid "Welcome to your new blog!"
+msgstr "Ласкаво просимо до вашого нового блогу!"
+
+#: /wa-apps/blog/themes/clear/content.html:14
+#: /wa-apps/blog/themes/custom/content.html:99
+#: /wa-apps/blog/themes/default/index.html:115
+#: /wa-apps/blog/themes/facebook/content.html:23
+#: /wa-apps/blog/themes/nifty/content.html:12
+#: /wa-apps/blog/themes/sidebar/content.html:100
+#: /wa-apps/blog/themes/vk/content.html:23
+msgid "Start by writing a post in your <a href=\"%s\">blog backend</a>."
+msgstr "Почніть зі створення запису в <a href=\"%s\">бекенді блогу</a>."
+
+#: /wa-apps/blog/lib/config/logs.php:5
+msgid "published blog post"
+msgstr "опублікував запис"
+
+#: /wa-apps/blog/lib/config/logs.php:8
+msgid "unpublished blog post"
+msgstr "відмінив публікацію запису"
+
+#: /wa-apps/blog/lib/config/logs.php:8
+msgid "edited blog post"
+msgstr "відредагував запис"
+
+#: /wa-apps/blog/lib/config/logs.php:11
+msgid "deleted blog post"
+msgstr "видалив запис"
+
+#: /wa-apps/blog/lib/config/logs.php:15
+msgid "added comment to blog post"
+msgstr "додав коментар до"
+
+#: /wa-apps/blog/lib/config/logs.php:18
+msgid "deleted comment to blog post"
+msgstr "видалив коментар до запису"
+
+#: /wa-apps/blog/lib/config/logs.php:21
+msgid "restored comment to blog post"
+msgstr "відновив коментар до запису"
+
+#: /wa-apps/blog/lib/config/logs.php:25
+msgid "created a new blog"
+msgstr "створив новий блог"
+
+#: /wa-apps/blog/lib/config/logs.php:28
+msgid "deleted blog"
+msgstr "видалив блог"
+
+#: /wa-apps/blog/lib/config/logs.php:31
+msgid "modified blog settings"
+msgstr "змінив налаштування блогу"
+
+#: /wa-apps/blog/lib/config/site.php:90
+msgid "Homepage META Keywords"
+msgstr "META Keywords головної сторінки"
+
+#: /wa-apps/blog/lib/config/site.php:94
+msgid "Homepage META Description"
+msgstr "META Description головної сторінки"
+
+#: /wa-apps/blog/lib/config/site.php:98
+msgid "RSS feed title"
+msgstr "Заголовок RSS-стрічки"
+
+#: /wa-apps/blog/themes/default/main.html:36
+msgid "Follow %s"
+msgstr "Читати %s"
+
+#: /wa-apps/blog/themes/default/main.html:40
+msgid "Facebook"
+msgstr "Facebook"
+
+#: /wa-apps/blog/themes/default/main.html:43
+msgid "Twitter"
+msgstr "Twitter"
+
+#: /wa-apps/blog/themes/default/main.html:50
+msgid "VK"
+msgstr "VK"
+
+#: /wa-apps/blog/templates/actions/comments/include.comment.html:64
+msgid "Comment to an unpublished post (not visible anymore)"
+msgstr "Коментар до запису, знятого з публікації"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendMy.action.php:36
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendMy.action.php:46
+msgid "My account"
+msgstr "Особистий кабінет"
+
+#: /wa-apps/blog/lib/actions/frontend/blogFrontendMy.action.php:36
+msgid "My profile"
+msgstr "Мій профіль"
+
+#: /wa-apps/blog/themes/ascetic/index.html:116
+#: /wa-apps/blog/themes/clear/content.html:14
+#: /wa-apps/blog/themes/custom/content.html:99
+#: /wa-apps/blog/themes/default/main.html:104
+#: /wa-apps/blog/themes/facebook/content.html:23
+#: /wa-apps/blog/themes/nifty/content.html:12
+#: /wa-apps/blog/themes/pinboard/content.html:5
+#: /wa-apps/blog/themes/sidebar/content.html:100
+#: /wa-apps/blog/themes/vk/content.html:23
+msgid "Start by <a href=\"%s\">writing a post</a> in your blog backend."
+msgstr "Почніть зі <a href=\"%s\">створення запису</a> в бекенді блогу."
+
+#: /wa-apps/blog/lib/config/site.php:115
+msgid "Core content loaded according to the requested resource: a blog post, post stream, a page, etc."
+msgstr "Основний вміст, завантажений у відповідності до запиту користувача: запис блогу, потік записів, сторінка і т.ін."
+
+#: /wa-apps/blog/lib/config/site.php:124
+msgid "0 for published, 1 for deleted"
+msgstr "0 для опублікованих, 1 для видалених"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:474
+#: /wa-apps/blog/js/postEdit.js:1354
+msgid "Upload"
+msgstr "Завантажити"
+
+msgid "Select"
+msgstr "Обрати"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:476
+#: /wa-apps/blog/js/postEdit.js:1389
+msgid "Insert"
+msgstr "Вставити"
+
+#: /wa-apps/blog/templates/actions/blog/BlogSettings.html:89
+msgid "This blog is not visible on your sites now, because there were no routing rules added for Blog app with this particular blog. To make this blog visible on your site, create a route using the form below or using <a href=\"%s\">Site app</a> routing settings."
+msgstr "Цей блог не видний на сайті, тому що для нього не задані правила маршрутизації. Щоб опублікувати блог на сайті, додайте правило маршрутизації за допомогою форми нижче або в розділі «<a href=\"%s\">Структура</a>» в додатку «Сайт»."
+
+#: /wa-apps/blog/templates/actions/blog/BlogSettings.html:97
+msgid "Specify the public URL for this new blog on your site:"
+msgstr "Введіть адресу для цього блогу на сайті:"
+
+#: /wa-apps/blog/templates/actions/blog/BlogSettings.html:101
+msgid "Do not publish this blog on the site just yet"
+msgstr "Поки не публікувати цей блог на сайті"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:86
+msgid "Blog settings"
+msgstr "Налаштування блогу"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:232
+#: /wa-apps/blog/templates/actions/post/Post.html:144
+msgid "Photo album"
+msgstr "Фотоальбом"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:279
+msgid "Start by <a href=\"%s\">writing your first post</a>."
+msgstr "Почніть зі <a href=\"%s\">створення запису</a>."
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:281
+msgid "Start by <a href=\"%s\">writing a post</a> or <a href=\"%s\">importing posts</a><br> from your existing blog."
+msgstr "Почніть зі <a href=\"%s\">створення запису</a> або з <a href=\"%s\">імпорту записів</a><br> з вашого блогу, що вже існує."
+
+#: /wa-apps/blog/templates/actions/blog/BlogSettings.html:209
+msgid "Or enter image URL (image will be scaled to 16x16px)"
+msgstr "Або введіть адресу зображення (зображення буде автоматично зменшене до 16х16 пікселів)"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:9
+msgid "Live preview is not available for private and not published blogs."
+msgstr "Попередній перегляд недоступний для закритих і неопублікованих блогів."
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:155
+msgid "Mirror mode"
+msgstr "Режим паралельного редагування"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:282
+msgid "Visual"
+msgstr "Візуальный редактор"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:306
+msgid "Photo Album"
+msgstr "Фотоальбом"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:319
+msgid "Attach photo album"
+msgstr "Прикріпити фотоальбом"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:329
+msgid "(no name)"
+msgstr "(без назви)"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:329
+msgid "private album"
+msgstr "закритий альбом"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:337
+msgid "Photos from the selected album will be automatically embedded after the post content. Photos descriptions and sort order will be defined by Photos app."
+msgstr "Фотографії  з обраного альбому будуть автоматично додані після вмісту запису. Описи і порядок сортування фотографій визначається додатком «Фото»."
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:341
+msgid "Post URL"
+msgstr "Адреса запису"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:346
+msgid "Replace with the direct link to this album"
+msgstr "Замінити прямим посиланням на фотоальбом"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:348
+msgid "Great for photo galleries. Blog post will be published in the blog on a regular basis (in both post stream and RSS), but the main post title link will lead to the album page directly (Photos app)."
+msgstr "Вміст запису буде опублікований в загальній стрічці і в RSS як зазвичай, однак основне посилання на запис буде замінене прямим посиланням на обраний фотоальбом у фотогалереї (в поселенні додатку «Фото»)."
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:475
+#: /wa-apps/blog/js/postEdit.js:1355
+msgid "Select from Photos app"
+msgstr "Обрати з «Фото»"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:477
+msgid "Total photos selected:"
+msgstr "Обрано фотографій:"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:186
+msgid "Photo storage"
+msgstr "Сховище фотографій"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:192
+#: /wa-apps/blog/templates/actions/settings/Settings.html:207
+msgid "Folder"
+msgstr "Тека"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:199
+#: /wa-apps/blog/templates/actions/settings/Settings.html:214
+msgid "Photos app"
+msgstr "Додаток «Фото»"
+
+#: /wa-apps/blog/lib/actions/backend/blogBackendUpload.controller.php:92
+msgid "Save error"
+msgstr "Помилка збереження"
+
+#: /wa-apps/blog/lib/actions/backend/blogBackendUpload.controller.php:45
+msgid "No files to upload!"
+msgstr "Не обраний жоден файл для завантаження!"
+
+#: /wa-apps/blog/templates/actions/post/PostEdit.html:478
+#: /wa-apps/blog/js/postEdit.js:989
+msgid "Photos from the attached album will be displayed here."
+msgstr "Тут будуть показані фотографії з прикріпленого фотоальбому."
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:112
+#: /wa-apps/blog/templates/actions/settings/Settings.html:113
+msgid "Select Webasyst default captcha or Google reCAPTCHA"
+msgstr "Оберіть стандартну CAPTCHA від Webasyst або reCAPTCHA від Google"
+
+#: /wa-apps/blog/lib/models/blogPost.model.php:945
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "запис"
+msgstr[1] "записи"
+msgstr[2] "записів"
+
+#: /wa-apps/blog/js/compiled/plugin/import/settings.js:168
+msgid "If you leave this page now, the import process is likely to be interrupted. Leave the page?"
+msgstr "Якщо ви зараз покинете цю сторінку, процес імпорту, ймовірно, буде перервано. Залишити сторінку?"
+
+#: /wa-apps/blog/templates/actions/backend/Backend.html:36
+msgid "Manage posts"
+msgstr "Керувати записами"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:63
+msgid "Homepage &lt;title&gt;"
+msgstr "&lt;title&ГТ; головної сторінки"
+
+#: /wa-apps/blog/lib/config/site.php:32
+msgid "Post URL format <u>%s</u> and <u>%s</u> for blog URL"
+msgstr "Формат URL запису <u>%s</u> та <u>%s</u> для URL блогу"
+
+#: /wa-apps/blog/themes/default/index.html:106
+msgid "We are using <a href=\"http://www.webasyst.com/apps/photos/\">Webasyst Blog</a>"
+msgstr "Ми використовуємо <а href=\"https://www.webasyst.ru/store/app/blog/\">Блог Webasyst</а>"
+
+#: /wa-apps/blog/themes/_webasystcom/stream.html:64
+msgid "Читать дальше →"
+msgstr "Читати далі →"
+
+#: /wa-apps/blog/templates/actions/settings/Settings.html:73
+#, fuzzy
+msgid "Reminders will be sent to your <strong class=\"cron-command\">%s</strong> email address. Cron for reminders is working properly. Latest execution time: %s"
+msgstr "Нагадування будуть відправлятись вам поштою за адресою <strong class=\"cron-command\">%s</strong> не частіше, ніж раз на день. CRON, необхідний для роботи нагадувань, увімкнений і працює. Час останнього запуску: <strong>%s</strong>"

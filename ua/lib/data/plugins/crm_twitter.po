@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Webasyst CRM Twitter plugin 1.0.1.16 UA translation v 0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
+"Language: uk_UA\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: /wa-apps/crm/plugins/twitter/templates/TwitterPluginSettings.html:2
+msgid "Plugin %s is installed and working."
+msgstr "Плагін %s встановлено і запущено."
+
+#: /wa-apps/crm/plugins/twitter/templates/TwitterPluginSettings.html:3
+msgid "Specify configuration parameters on <a href=\"%s\">deal source settings</a>."
+msgstr "Задайте параметри на <a href=\"%s\">екрані налаштувань джерела угод</a>."
+
+#: /wa-apps/crm/plugins/twitter/templates/source/settings/ImSourceSettingsTwitterBlock.html:20
+msgid "Name"
+msgstr "Назва"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/settings/ImSourceSettingsTwitterBlock.html:28
+msgid "Consumer Key (API Key)"
+msgstr "Ключ споживача (ключ API)"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/settings/ImSourceSettingsTwitterBlock.html:36
+msgid "Consumer Secret (API Secret)"
+msgstr "Секрет споживача (API Secret)"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/settings/ImSourceSettingsTwitterBlock.html:44
+msgid "Access Token"
+msgstr "Токен доступу"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/settings/ImSourceSettingsTwitterBlock.html:52
+msgid "Access Token Secret"
+msgstr "Секрет токена доступу"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/settings/ImSourceSettingsTwitterBlock.html:70
+msgid "Disabled"
+msgstr "Вимкнено"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/settings/ImSourceSettingsTwitterBlock.html:72
+msgid "Enabled"
+msgstr "Увімкнено"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/settings/ImSourceSettingsTwitterBlock.html:104
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageSenderDialog.html:149
+msgid "Close"
+msgstr "Закрити"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/LogInline.html:3
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageViewerDialog.html:41
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageSenderDialog.html:42
+msgid "incoming"
+msgstr "вхідні"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/LogInline.html:4
+msgid "from"
+msgstr "від"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/LogInline.html:15
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageViewerDialog.html:43
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageSenderDialog.html:44
+msgid "outgoing"
+msgstr "вихідні"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/LogInline.html:16
+msgid "to"
+msgstr "для"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageViewerDialog.html:24
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageSenderDialog.html:24
+msgid "(no subject)"
+msgstr "(без теми)"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageViewerDialog.html:55
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageSenderDialog.html:56
+msgid "From"
+msgstr "Від"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageViewerDialog.html:70
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageSenderDialog.html:71
+msgid "To"
+msgstr "Для"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageViewerDialog.html:87
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageSenderDialog.html:88
+msgid "Deal"
+msgstr "Угода"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageViewerDialog.html:130
+msgid "Reply"
+msgstr "Відповісти"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageViewerDialog.html:131
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageSenderDialog.html:136
+msgid "or"
+msgstr "або"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageViewerDialog.html:131
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageSenderDialog.html:136
+msgid "cancel"
+msgstr "скасувати"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageViewerDialog.html:136
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageViewerDialog.html:157
+msgid "Delete message"
+msgstr "Видалити повідомлення"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageViewerDialog.html:156
+msgid "Delete"
+msgstr "Видалити"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageSenderDialog.html:135
+msgid "Send"
+msgstr "Надіслати"
+
+#: /wa-apps/crm/plugins/twitter/templates/source/message/TwitterImSourceMessageSenderDialog.html:145
+msgid "Message sent successfully"
+msgstr "Повідомлення відправлене"

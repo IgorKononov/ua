@@ -1,0 +1,2306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Webasyst Site 2.5.9.189 UA translation v 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language: uk_UA\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.2.3\n"
+
+#: /wa-apps/site/templates/actions/snippets/Snippets.html:2
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:2
+msgid "Block"
+msgstr "Блок"
+
+#: /wa-apps/site/templates/actions/snippets/Snippets.html:17
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:22
+msgid "New block"
+msgstr "Новий блок"
+
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:37
+msgid "View original"
+msgstr "Переглянути оригінал"
+
+#: /wa-apps/site/templates/actions/snippets/Snippets.html:32
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:39
+msgid "Block settings"
+msgstr "Налаштування блоку"
+
+#: /wa-apps/site/themes/default/sidebar.html:4
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:41
+msgid "Revert to original"
+msgstr "Відновити оригінал"
+
+#: /wa-apps/site/templates/actions/themes/ThemesRow.html:76
+#: /wa-apps/site/js/site.js:311
+msgid "Delete"
+msgstr "Видалити"
+
+#: /wa-apps/site/templates/actions/snippets/Snippets.html:37
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:46
+msgid "Embed block into a page or a template"
+msgstr "Вбудувати блок на сторінку або в шаблон"
+
+#: /wa-apps/site/templates/actions/snippets/Snippets.html:45
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:54
+msgid "ID"
+msgstr "ID"
+
+#: /wa-apps/site/templates/actions/design/Design.html:35
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:62
+msgid "Description"
+msgstr "Опис"
+
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:194
+msgid "This will reset all customizations you applied to this block. Are you sure?"
+msgstr "Відновлення з оригіналу скине всі зміни, які ви застосовували до блоку. Продовжити?"
+
+#: /wa-apps/site/templates/actions/snippets/Snippets.html:112
+#: /wa-apps/site/templates/actions/blocks/Blocks.html:196
+msgid "This will permanently delete this snipper. Are you sure?"
+msgstr "Блок буде видалено назавжди. Ви впевнені?"
+
+#: /wa-apps/site/templates/layouts/Default.html:88
+#: /wa-apps/site/lib/actions/backend/siteBackendLoc.action.php:22
+msgid "Saving..."
+msgstr "Збереження ..."
+
+#: /wa-apps/site/templates/layouts/Default.html:92
+#: /wa-apps/site/lib/actions/backend/siteBackendLoc.action.php:23
+msgid "Saved"
+msgstr "Збережено"
+
+#: /wa-apps/site/templates/layouts/Default.html:102
+#: /wa-apps/site/lib/actions/backend/siteBackendLoc.action.php:24
+msgid "An error occurred while saving"
+msgstr "При спробі збереження сталася помилка"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:87
+#: /wa-apps/site/templates/layouts/Sidebar.html:51
+msgid "Files"
+msgstr "Файли"
+
+#: /wa-apps/site/templates/actions/files/Files.html:64
+#: /wa-apps/site/templates/actions/files/Files.html:66
+msgid "New folder"
+msgstr "Нова папка"
+
+#: /wa-apps/site/templates/actions/files/Files.html:82
+#: /wa-apps/site/templates/actions/files/Files.html:84
+msgid "Upload files"
+msgstr "Завантажити файли"
+
+#: /wa-apps/site/templates/actions/files/Files.html:30
+#: /wa-apps/site/templates/actions/files/Files.html:32
+msgid "Selected files"
+msgstr "Вибрані файли"
+
+#: /wa-apps/site/templates/actions/files/Files.html:125
+#: /wa-apps/site/js/site.js:289
+msgid "Move to folder"
+msgstr "Перемістити в папку"
+
+#: /wa-apps/site/templates/actions/files/Files.html:38
+#: /wa-apps/site/templates/actions/files/Files.html:40
+msgid "Folder"
+msgstr "Папка"
+
+#: /wa-apps/site/templates/actions/themes/ThemesDefault.html:82
+#: /wa-apps/site/js/site.js:266
+msgid "Rename"
+msgstr "Перейменувати"
+
+#: /wa-apps/site/templates/actions/files/Files.html:50
+#: /wa-apps/site/js/site.js:313
+msgid "File"
+msgstr "Файл"
+
+#: /wa-apps/site/templates/actions/files/Files.html:51
+#: /wa-apps/site/templates/actions/files/Files.html:53
+msgid "Modified"
+msgstr "Змінено"
+
+#: /wa-apps/site/templates/actions/files/Files.html:52
+#: /wa-apps/site/templates/actions/files/Files.html:54
+msgid "Size"
+msgstr "Розмір"
+
+#: /wa-apps/site/templates/actions/files/Files.html:70
+#: /wa-apps/site/templates/actions/files/Files.html:72
+msgid "Create"
+msgstr "Створено"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:43
+#: /wa-apps/site/templates/layouts/Sidebar.html:26
+msgid "or"
+msgstr "або"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:43
+#: /wa-apps/site/templates/layouts/Sidebar.html:26
+msgid "cancel"
+msgstr "відміна"
+
+#: /wa-apps/site/templates/actions/themes/ThemesDefault.html:66
+#: /wa-apps/site/templates/actions/files/Files.html:88
+msgid "Uploading..."
+msgstr "Завантаження ..."
+
+#: /wa-apps/site/templates/actions/themes/ThemesDefault.html:72
+#: /wa-apps/site/templates/actions/files/Files.html:94
+msgid "Upload"
+msgstr "Завантажити"
+
+#: /wa-apps/site/templates/layouts/Default.html:63 /wa-apps/site/js/site.js:344
+msgid "Save"
+msgstr "Зберегти"
+
+#: /wa-apps/site/templates/actions/files/Files.html:133
+#: /wa-apps/site/templates/actions/files/Files.html:134
+msgid "Move"
+msgstr "Перемістити"
+
+#: /wa-apps/site/templates/actions/files/Files.html:315
+#: /wa-apps/site/templates/actions/files/Files.html:324
+msgid "Delete folder"
+msgstr "Видалити папку"
+
+#: /wa-apps/site/templates/actions/files/Files.html:315
+#: /wa-apps/site/templates/actions/files/Files.html:324
+msgid "Folder will be deleted without the ability to recover."
+msgstr "Папка буде видалена без можливості відновлення."
+
+#: /wa-apps/site/templates/actions/files/Files.html:355
+#: /wa-apps/site/templates/actions/files/Files.html:364
+msgid "Delete files"
+msgstr "Видалити файли"
+
+#: /wa-apps/site/templates/actions/files/Files.html:355
+#: /wa-apps/site/templates/actions/files/Files.html:364
+msgid "Files will be deleted without the ability to recover."
+msgstr "Файли будуть видалені без можливості відновлення."
+
+#: /wa-apps/site/templates/layouts/Design.html:23
+#: /wa-apps/site/templates/actions/design/Design.html:2
+msgid "New file"
+msgstr "Новий файл"
+
+#: /wa-apps/site/templates/actions/design/Design.html:14
+msgid "Template settings"
+msgstr "Налаштування шаблону"
+
+#: /wa-apps/site/templates/actions/design/Design.html:26
+msgid "File name"
+msgstr "Назва файлу"
+
+#: /wa-apps/site/templates/actions/design/Design.html:30
+msgid "File should have one of the allowed extensions: .html, .css, .js"
+msgstr "Файл повинен мати одне з дозволених розширень: .html, .css, .js"
+
+#: /wa-apps/site/templates/actions/design/Design.html:39
+msgid "Optional template description"
+msgstr "Необов'язковий опис шаблону"
+
+#: /wa-apps/site/templates/actions/design/Design.html:61
+msgid "File will be deleted without the ability to recover. Are you sure?"
+msgstr "Файл буде видалено без можливості відновлення. Ви впевнені?"
+
+#: /wa-apps/site/themes/default/error.html:7
+msgid "Error"
+msgstr "Помилка"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:86
+#: /wa-apps/site/templates/layouts/Sidebar.html:50
+msgid "Blocks"
+msgstr "Блоки"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:1
+msgid "Authorization on %s"
+msgstr "Авторизація на %s"
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:15
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:7
+msgid "Disabled"
+msgstr "Вимкнено"
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:19
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:13
+msgid "Enabled"
+msgstr "Увімкнено"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:16
+msgid "User sign up, authorization and personal accounts are not enabled on %s."
+msgstr "Реєстрацію користувачів, авторизацію та особистий кабінет вимкнено на сайті %s."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:20
+msgid "User sign up, authorization and personal accounts are enabled on %s. <a id=\"configure-app\" href=\"#\" class=\"inline-link\"><b><i>Configure URLs</i></b></a>"
+msgstr "Реєстрацію користувачів, авторизацію та особистий кабінет увімкнено на %s. <a id=\"configure-app\" href=\"#\" class=\"inline-link\"><b><i>Налаштувати</i></b></a>"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:22
+msgid "Select the app that will host authorization forms. The URLs of my profile, signup and authorization pages will be defined by the selected app routing:"
+msgstr "Оберіть програму, яка відповідатиме за функціональність форм реєстрації та авторизації користувачів на цьому сайті. Адреси сторінок реєстрації, входу і особистого кабінету будуть визначатися правилами маршрутизації обраної програми:"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:46
+msgid "Auth"
+msgstr "Авторизація"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:187
+msgid "Enable captcha for signup form"
+msgstr "Вимагати введення капчі (captcha) у формі реєстрації"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:73
+msgid "Allow \"Remember me\" option in authorization form"
+msgstr "Дозволити опцію \"Запам'ятати мене\" у формі авторизації"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:193
+msgid "Third-party authorization"
+msgstr "Авторизація через зовнішні сервіси"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:194
+msgid "Enables your site visitors to quickly sign up or sign in via accounts on external popular platforms, e.g. Facebook and Twitter. <a href=\"http://www.webasyst.com/framework/docs/dev/auth-adapters/\" target=\"_blank\">Setup instructions</a> <i class=\"icon10 new-window\"></i>"
+msgstr "Дозволяє відвідувачам вашого сайту швидко зареєструватися або авторизуватися через акаунти в популярних сторонніх сервісах, наприклад, «Фейсбук» або «Твіттер». <a href=\"http://www.webasyst.ru/developers/docs/auth/auth-adapters/\" target=\"_blank\">Документація по налаштуванню</a> <i class=\"icon10 new-window\"></i>"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:224
+msgid "To enable authorization on this website, install and settle at least one app that supports authorization forms."
+msgstr "Щоб зробити доступною авторизацію на цьому сайті, встановіть хоча б один додаток, який підтримує форми авторизації, і налаштуйте для нього маршрутизацію."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:176
+msgid "Confirm email on sign up"
+msgstr "Підтвердження email-адреси після реєстрації"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:177
+msgid "A unique email confirmation link will be sent to user after the signup. User will be able to sign in only after this confirmation link has been clicked."
+msgstr "Користувачеві по email буде направлене унікальне посилання для підтверждення реєстрації. Користувач зможе увійти тільки після того, як перейде по цьому посиланню."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:184
+msgid "Text"
+msgstr "Текст"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:189
+msgid "Variables"
+msgstr "Змінні"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:214
+msgid "Sign up form fields"
+msgstr "Поля форми реєстрації"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:231
+msgid "Edit field label"
+msgstr "Редагувати назву поля"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:236
+msgid "Edit hint for this field"
+msgstr "Редагувати підказку поля"
+
+#: /wa-apps/site/themes/default/index.html:27
+#: /wa-apps/site/themes/default/signup.html:7
+msgid "Sign up"
+msgstr "Реєстрація"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:244
+msgid "Edit button label"
+msgstr "Редагувати текст на кнопці"
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:8
+msgid "This app cannot be enabled for personal accounts on this domain, because the app is not settled in this domain's routing settings. Add this app to the routing table first so it becomes published on this site, and then you’ll be able to link it in personal accounts navigation."
+msgstr "Цей додаток не можна включити в особистому кабінеті, тому що він не підключений у правилах маршрутизації сайту. Додайте правило маршрутизації для цього додатка у налаштуваннях структури сайту, після чого ви зможете включити його в особистому кабінеті."
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:9
+msgid "Setup routing"
+msgstr "Налаштувати маршрутизацію"
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:26
+msgid "%s personal account URL: <a id=\"s-app-frontend-link\" href=\"%s\" target=\"_blank\">%s</a> <i class=\"icon10 new-window top-padded\"></i>"
+msgstr "«%s» в особистому кабінеті: <a id=\"s-app-frontend-link\" href=\"%s\" target=\"_blank\">%s</a> <i class=\"icon10 new-window top-padded\"></i>"
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:31
+msgid "%s personal account is disabled on this site."
+msgstr "Особистий кабінет «%s» вимкнений на цьому сайті."
+
+#: /wa-apps/site/lib/actions/frontend/siteFrontendMy.action.php:18
+#: /wa-apps/site/themes/default/my.nav.html:3
+#: /wa-apps/site/themes/default/my.profile.html:5
+msgid "My profile"
+msgstr "Мій профіль"
+
+#: /wa-apps/site/templates/actions/personal/Personal.html:37
+msgid "Personal account structure is defined by the list of installed Webasyst apps linked in the current website frontend."
+msgstr "Структура особистого кабінету визначається списком встановлених і підключених на даному сайті додатків Webasyst."
+
+#: /wa-apps/site/templates/actions/personal/Personal.html:41
+msgid "Auth &amp; Sign Up settings"
+msgstr "Налаштування авторизації"
+
+#: /wa-apps/site/templates/actions/personal/PersonalProfile.html:5
+msgid "My profile page is not available on this site, because user authorization on this site is hosted by <strong>%s</strong> app, while it’s personal account functionality is disabled. Either enable <a href=\"#/personal/app/%s/\">%s app’s personal account</a> on this site, or change the app that hosts user authorization in <a href=\"%s\">Auth &amp; Sign Up</a> settings."
+msgstr "Сторінка управління профілем на цьому сайті недоступна, тому що особистий кабінет додатку «<strong>%s</strong>», відповідального за функціональність форм реєстрації та авторизації на цьому сайті, відключений. Для включення сторінки управління профілем необхідно або включити <a href=\"#/personal/app/%s/\">особистий кабінет додатку «%s»</a>, або <a href=\"%s\">в налаштуваннях авторизації</a> вибрати інший додаток, який буде відповідати за функціональність форм реєстрації та авторизації на цьому сайті."
+
+#: /wa-apps/site/templates/actions/personal/PersonalProfile.html:5
+msgid "My profile form fields"
+msgstr "Поля форми настройки профілю"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:2
+msgid "Site setup"
+msgstr "Налаштування сайту"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:9
+msgid "Delete entire website"
+msgstr "Цілком видалити сайт"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:17
+#: /wa-apps/site/templates/layouts/Sidebar.html:43
+msgid "Settings"
+msgstr "Налаштування"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:22
+msgid "Domain name"
+msgstr "Доменне ім'я"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:67
+#: /wa-apps/site/templates/actions/settings/Settings.html:26
+msgid "A valid URL pointing to this Webasyst installation."
+msgstr "Діюча адреса (URL), яка веде на дану установку фреймворку Webasyst."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:27
+msgid "E.g. <em>domain.com</em> if Webasyst is installed into domain.com's root folder, <em>domain.com/wa</em> if Webasyst is installed into /wa/ subfolder on domain.com. Do not put slash at the end of the URL."
+msgstr "Наприклад, <em>domain.ru</em>, якщо Webasyst встановлюється в кореневу директорію домену domain.ru, або <em>domain.ru/wa</em>, якщо Webasyst встановлюється в піддиректорію /wa/ домену domain.ru. Наприкінці URL додавати косу риску (/) не потрібно."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:28
+msgid "IMPORTANT"
+msgstr "ВАЖЛИВО"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:28
+msgid "The URL entered must point to the root of this Webasyst framework installation."
+msgstr "Адреса повинна вказувати на кореневу папку установки фреймворку Webasyst."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:71
+#: /wa-apps/site/templates/actions/settings/Settings.html:31
+msgid "Site name"
+msgstr "Назва сайту"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:35
+msgid "Matches domain name"
+msgstr "Збігається з доменним ім'ям"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:36
+msgid "Site alias used within site selection menu (at the top left corner), and as the anchor name in frontend's <em>$wa->apps()</em> navigation menu array."
+msgstr "Псевдонім сайту, який використовується у меню вибору сайтів (у верхньому лівому куті) і в якості тексту посилання в меню навігації фронтенду <em>$wa->apps()</em>."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:49
+#: /wa-apps/site/templates/layouts/Sidebar.html:34
+msgid "Alias (mirror site) for"
+msgstr "Псевдонім (дзеркало сайту) для"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:85
+#: /wa-apps/site/templates/actions/settings/Settings.html:42
+msgid "menu"
+msgstr "меню"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:87
+#: /wa-apps/site/templates/actions/settings/Settings.html:44
+msgid "The array defining core website navigation menu"
+msgstr "Масив, який визначає основне меню навігації на сайті"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:90
+#: /wa-apps/site/templates/actions/settings/Settings.html:47
+msgid "All settled apps"
+msgstr "Усі додатки"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:90
+#: /wa-apps/site/templates/actions/settings/Settings.html:47
+msgid "Automatically define navigation menu according to the routing rules"
+msgstr "Меню навігації буде сформовано автоматично згідно з правилами маршрутизації цього сайту"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:93
+#: /wa-apps/site/templates/actions/settings/Settings.html:50
+msgid "Setup manually"
+msgstr "Налаштувати вручну"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:170
+#: /wa-apps/site/templates/actions/settings/Settings.html:277
+msgid "Edit"
+msgstr "Редагувати"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:113
+#: /wa-apps/site/templates/actions/settings/Settings.html:70
+msgid "When done editing, click “Save” to apply changes."
+msgstr "Після завершення редагування не забудьте натиснути кнопку «Зберегти»."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:115
+#: /wa-apps/site/templates/actions/settings/Settings.html:72
+msgid "Add link"
+msgstr "Додати посилання"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:82
+msgid "Background"
+msgstr "Тло"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:93
+msgid "Custom"
+msgstr "Завантажити"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:122
+msgid "Background is for customizing your Site app backend, which is useful when you have multiple websites powered by the single Webasyst installation. Selected background will not be shown in the frontend."
+msgstr "Тло використовується для індивідуальної настройки бекенду додатку «Сайт» - це зручно, якщо ви керуєте кількома сайтами всередині однієї установки фреймворку Вебасіст. Обране тло не видно у фронтенді."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:126
+msgid "Custom head JS"
+msgstr "Користувальницький JavaScript-код всередині \"head\""
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:128
+msgid "Google Analytics Property ID"
+msgstr "Google Analytics Property ID"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:149
+#: /wa-apps/site/templates/actions/settings/Settings.html:134
+msgid "Universal Analytics"
+msgstr "Universal Analytics"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:131
+msgid "E.g. <strong>UA-123456-1</strong><br />If you are using <a href=\"https://www.google.com/analytics/\">Google Analytics</a> to track your website visits and conversions, instead of embedding Google Analytics JS code manually, enter your Google Analytics Property ID here. A valid Google Analytics code will be automatically embedded into every app and every design theme before the closing &lt;/head&gt; tag."
+msgstr "Наприклад, <strong>UA-123456-1</strong><br />Якщо ви використовуєте <a href=\"https://www.google.com/analytics/\">Google Analytics</a> для відстеження статистики відвідувань та конверсії вашого сайту, то замість додавання коду Google Analytics вручну досить просто ввести тут ваш Google Analytics Property ID. Правильний код Google Analytics автоматично вставиться в усі теми оформлення усіх додатків перед закриває тегом &lt;/head&gt;."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:135
+msgid "Additional JS code to be added before the closing &lt;/head&gt; tag:"
+msgstr "Додатковий JavaScript-код для вставки перед закриваючим тегом &lt;/head&gt;:"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:125
+#: /wa-apps/site/templates/actions/settings/Settings.html:148
+msgid "Favicon"
+msgstr "Favicon"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:152
+msgid "Upload favicon"
+msgstr "Завантажити фавіконки"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:157
+msgid "Touch icon for iOS"
+msgstr "Фавіконки для iOS"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:160
+msgid "Upload iOS touch icon"
+msgstr "Завантажити iOS-фавіконки"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:160
+msgid "from 152x152 and up to 1024x1024 px"
+msgstr "від 152х152 до 1024х1024 пікселів"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:138
+#: /wa-apps/site/templates/actions/settings/Settings.html:161
+msgid "Contents of this site's robots.txt file."
+msgstr "Вміст файлу robots.txt цього сайту."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:192
+#: /wa-apps/site/templates/actions/settings/Settings.html:177
+msgid "CDN"
+msgstr "CDN"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:195
+#: /wa-apps/site/templates/actions/settings/Settings.html:180
+msgid "Enable CDN (Content Delivery Network) support for this site by entering CDN URL prefix."
+msgstr "Увімкнути підтримку CDN (Content Delivery Network, Мережі Постачання Контенту) на цьому сайті шляхом вводу префіксу CDN URL."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:146
+#: /wa-apps/site/templates/actions/settings/Settings.html:168
+msgid "Authorization"
+msgstr "Авторизація"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:178
+msgid "Personal &rarr; <a href=\"%s\">Auth &amp; Sign Up</a>"
+msgstr "Особистий кабінет &rarr; <a href=\"%s\">Налаштування авторизації</a>"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:186
+#: /wa-apps/site/templates/actions/settings/Settings.html:293
+msgid "This will delete the link from the menu. Are you sure?"
+msgstr "Це посилання буде видалене з меню. Ви впевнені?"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:344
+msgid "This will delete entire website including all its pages without the ability to recover. Are you sure?"
+msgstr "Буде видалений весь сайт з усіма сторінками без можливості відновлення. Ви впевнені?"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:2
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:2
+msgid "settings"
+msgstr "налаштування"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:162
+#: /wa-apps/site/templates/actions/routing/Routing.html:57
+msgid "Redirect"
+msgstr "Перенаправлення"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:10
+msgid "Back"
+msgstr "Назад"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:328
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:9
+msgid "Delete rule"
+msgstr "Видалити правило"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:16
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:21
+msgid "Settlement name"
+msgstr "Назва поселення"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:19
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:24
+msgid "Name is used in the <em>$wa->apps</em> navigation menu of this website"
+msgstr "Назва використовується у меню навігації <em>$wa->apps</em> цього сайта"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:23
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:28
+msgid "Design theme"
+msgstr "Тема оформлення"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:29
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:34
+msgid "Mobile design theme"
+msgstr "Мобільна тема оформлення"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:33
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:38
+msgid "Design theme for mobile multi-touch devices such as iPhone and Android"
+msgstr "Тема оформлення для мобільних multi-touch пристроїв (iPhone, Android та ін.)"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:42
+msgid "Locale"
+msgstr "Локаль"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:48
+msgid "Privacy"
+msgstr "Публічність"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:51
+msgid "Private settlement"
+msgstr "Приховане поселення"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:52
+#: /wa-apps/wa-apps/site/locale/ru_RU/LC_MESSAGES/site.posite/templates/actions/routing/RoutingEdit.html:52
+msgid "When this option is enabled, the settlement is treated as hidden (not published), i.e. accessible by the direct URL but not included either in the $wa->apps array or in the main Sitemaps file. The private setting is useful for temporary settlements, such as “Under Construction” pages, and for other settlements which should not be included in the core website navigation menu or indexed by search engines."
+msgstr "При включенні цієї настройки поселення буде вважатися прихованим (не публічним). Воно буде доступне за своєю прямою адресою, але не буде включене у масив $wa->apps і основний Sitemap-файл. Прихованими зручно робити тимчасові поселення, наприклад, сторінки «Сайт знаходиться в розробці», і поселення, які не повинні бути включені в основне меню навігації або індексуватися пошуковими системами."
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:47
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:58
+msgid "Custom parameters"
+msgstr "Додаткові параметри"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:64
+msgid "Optional set of custom <em>key=value</em> parameters which can be used within design templates and pages of this settlement as <em>&#123;$wa->globals(\"key\")&#125;</em>. Each key=value pair should be on a separate line."
+msgstr "Необов'язковий набір параметрів виду <em>key=value</em>, до значень яких можна звертатися у шаблонах дизайну і сторінках цього поселення як <em>&#123;$wa->globals(\"key\")&#125;</em>. Кожна пара key=value повинна бути вказана на окремому рядку."
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:53
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:64
+msgid "http://www.webasyst.com/framework/docs/site/design/"
+msgstr "http://www.webasyst.com/framework/docs/site/design/"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:18
+#: /wa-apps/site/templates/layouts/Sidebar.html:22
+msgid "Help"
+msgstr "Допомога"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:230
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:82
+msgid "This will delete the rule from website structure. Are you sure?"
+msgstr "Правило буде видалене зі структури сайту. Ви впевнені?"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:68
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:87
+msgid "Select route to manage its settings"
+msgstr "Оберіть правило маршрутизації для редагування його налаштувань"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:4
+msgid "Site structure"
+msgstr "Структура сайту"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:22
+#: /wa-apps/site/templates/actions/routing/Routing.html:7
+msgid "New rule"
+msgstr "Нове правило"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:33
+msgid "Site structure is defined by routing rules. Each rule sets which app should run by which URL (web address). Similar to how folders are used to organize files on a computer, routing rules are used to create a website powered by multiple apps."
+msgstr "Структура сайту визначається правилами маршрутизації. Кожне правило вказує на адреси, за якими працюють додатки. За аналогією з тим, як папки використовуються для організації файлів на комп'ютері, правила маршрутизації використовуються для розподілу додатків по розділах сайту."
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:36
+#: /wa-apps/site/templates/actions/routing/Routing.html:34
+msgid "Rules are processed one by one in the given order. The first rule matching current HTTP request (web address) will be processed. Use * symbol in the URL fields for wildcard."
+msgstr "Правила обробляються по черзі у зазначеному порядку. Обробка починається з першого правила в списку і закінчується на правилі, яке відповідає поточному HTTP-запиту (адресою). Для позначення будь-яких символів в якості маски використовуйте зірочку (*)."
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:22
+msgid "http://www.webasyst.com/developers/docs/routing/site-app-routing/"
+msgstr "http://www.webasyst.ru/developers/docs/routing/site-app-routing/"
+
+#: /wa-apps/site/templates/layouts/Default.html:45
+#: /wa-apps/site/templates/layouts/Default.html:49
+msgid "Loading"
+msgstr "Завантаження"
+
+#: /wa-apps/site/templates/layouts/Default.html:56
+#: /wa-apps/site/templates/layouts/Default.html:62
+msgid "Cheat sheet"
+msgstr "Шпаргалка"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:33
+#: /wa-apps/site/templates/layouts/Sidebar.html:53
+msgid "New site"
+msgstr "Новий сайт"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:36
+#: /wa-apps/site/templates/layouts/Sidebar.html:19
+msgid "E.g. mydomain.com, www.mydomain.com, subdomain.mydomain.com"
+msgstr "Наприклад, mydomain.ru, www.mydomain.ru, subdomain.mydomain.ru"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:22
+msgid "Enter the URL of your new website. You should own the domain and map it into your Webasyst installation (the URL should be the effective URL to access this Webasyst installation). Contact your hosting provider on how to map your domain name."
+msgstr "Вкажіть URL нового сайту. Ви маєте бути власником доменного імені і попередньо налаштувати домен таким чином, щоб він вказував на дану установку Webasyst. Для налаштування доменного імені зверніться за допомогою до вашого хостинг-провайдеру."
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:42
+#: /wa-apps/site/templates/layouts/Sidebar.html:25
+msgid "Create site"
+msgstr "Створити сайт"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:42
+msgid "Structure"
+msgstr "Структура"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:44
+msgid "Personal"
+msgstr "Особистий кабінет"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:85
+msgid "This is a mirror site (alias) for <strong>%s</strong>."
+msgstr "Цей сайт є дзеркалом для <strong>%s</strong>."
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:59
+msgid "File manager"
+msgstr "Файл-менеджер"
+
+#: /wa-apps/site/templates/layouts/Default.html:120
+#: /wa-apps/site/lib/actions/backend/siteBackendLoc.action.php:25
+msgid "Unsaved changes will be lost if you leave this page now. Are you sure?"
+msgstr "Незбережені зміни будуть втрачені. Ви впевнені?"
+
+#: /wa-apps/site/lib/actions/backend/siteBackendLoc.action.php:14
+msgid "File URL"
+msgstr "URL файлу"
+
+#: /wa-apps/site/js/site.js:263
+msgid "Download"
+msgstr "Завантажити"
+
+#: /wa-apps/site/lib/actions/backend/siteBackendLoc.action.php:19
+msgid "Delete file"
+msgstr "Видалити файл"
+
+#: /wa-apps/site/lib/actions/backend/siteBackendLoc.action.php:21
+msgid "will be deleted without the ability to recover."
+msgstr "буде видалений без можливості відновлення."
+
+#: /wa-apps/site/lib/config/app.php:4
+msgid "Site"
+msgstr "Сайт"
+
+#: /wa-apps/site/lib/config/site.php:7
+msgid "Page name"
+msgstr "Назва сторінки"
+
+#: /wa-apps/site/lib/config/site.php:8
+msgid "Page title (&lt;title&gt;)"
+msgstr "Заголовок сторінки (&lt;title&gt;)"
+
+#: /wa-apps/site/lib/config/site.php:9
+msgid "Page content"
+msgstr "Вміст сторінки"
+
+#: /wa-apps/site/lib/config/site.php:10
+msgid "Page last update datetime"
+msgstr "Час останнього оновлення сторінки"
+
+#: /wa-apps/site/lib/config/site.php:13
+msgid "Returns the array of pages associated with the current “Site” app settlement. Each page is an array of ( <em>\"id\", \"name\", \"title\", \"url\", \"create_datetime\", \"update_datetime\", \"content\"[, \"custom_1\", \"custom_2\", …]</em> )"
+msgstr "Повертає масив сторінок, пов'язаних з поселенням додатку «Сайт». Кожна сторінка являє собою масив з наступною структурою: <em>\"id\", \"name\", \"title\", \"url\", \"create_datetime\", \"update_datetime\", \"content\"[, \"custom_1\", \"custom_2\", …]</em>"
+
+#: /wa-apps/site/lib/config/site.php:14
+msgid "Page list (only id, name, title, url, create_datetime, update_datetime)"
+msgstr "Список сторінок (тільки id, name, title, url, create_datetime, update_datetime)"
+
+#: /wa-apps/site/lib/config/site.php:15
+msgid "Returns page info (array) by <em>id</em> (int)"
+msgstr "Повертає інформацію про сторінку (масив) з ідентифікатором <em>id</em> (int)"
+
+#: /wa-apps/site/lib/config/site.php:19 /wa-apps/site/lib/config/site.php:18
+msgid "Content"
+msgstr "Вміст"
+
+#: /wa-apps/site/lib/config/site.php:20 /wa-apps/site/lib/config/site.php:19
+msgid "META Keywords"
+msgstr "META Ключові слова"
+
+#: /wa-apps/site/lib/config/site.php:21 /wa-apps/site/lib/config/site.php:20
+msgid "META Description"
+msgstr "META Опис"
+
+#: /wa-apps/site/lib/config/site.php:24 /wa-apps/site/lib/config/site.php:23
+msgid "Error code (e.g. 404)"
+msgstr "Код помилки (наприклад, 404)"
+
+#: /wa-apps/site/lib/config/site.php:25 /wa-apps/site/lib/config/site.php:24
+msgid "Error message"
+msgstr "Повідомлення про помилку"
+
+#: /wa-apps/site/lib/config/site.php:29
+msgid "Email feedback form"
+msgstr "Форма для відправки повідомлень"
+
+#: /wa-apps/site/lib/config/data/welcome.html:2
+msgid "This website is powered by the Site app."
+msgstr "Цей сайт працює на основі додатку «Сайт»."
+
+#: /wa-apps/site/lib/config/data/welcome.html:3
+msgid "Refer to this tutorial to build your new site"
+msgstr "Зверніться до цього навчального матеріалу, щоб створити свій новий сайт"
+
+#: /wa-apps/site/lib/config/data/welcome.html:4
+msgid "http://www.webasyst.com/framework/docs/site/tutorial/"
+msgstr "http://www.webasyst.ru/developers/docs/creating-a-website-tutorial/"
+
+#: /wa-apps/site/lib/config/logs.php:5
+msgid "added a new site"
+msgstr "додав новий сайт"
+
+#: /wa-apps/site/lib/config/logs.php:6 /wa-apps/site/lib/config/logs.php:8
+msgid "edited site settings"
+msgstr "відредагував налаштування сайту"
+
+#: /wa-apps/site/lib/config/logs.php:11
+msgid "deleted site"
+msgstr "видалив сайт"
+
+#: /wa-apps/site/lib/config/logs.php:15
+msgid "uploaded file"
+msgstr "завантажив файл"
+
+#: /wa-apps/site/lib/config/logs.php:18
+msgid "deleted file"
+msgstr "видалив файл"
+
+#: /wa-apps/site/lib/config/logs.php:22
+msgid "added a new block for site"
+msgstr "додав новий блок для сайту"
+
+#: /wa-apps/site/lib/config/logs.php:25
+msgid "edited block for site"
+msgstr "відредагував блок для сайту"
+
+#: /wa-apps/site/lib/config/logs.php:28
+msgid "deleted block for site"
+msgstr "видалив блок на сайті"
+
+#: /wa-apps/site/lib/config/logs.php:32
+msgid "added a new routing rule"
+msgstr "додав нове правило маршрутизації"
+
+#: /wa-apps/site/lib/config/logs.php:35
+msgid "edited routing rule"
+msgstr "відредагував правило маршрутизації"
+
+#: /wa-apps/site/lib/config/logs.php:38
+msgid "deleted routing rule"
+msgstr "видалив правило маршрутизації"
+
+#: /wa-apps/site/lib/config/siteRightConfig.class.php:9
+msgid "Available sites"
+msgstr "Доступні сайти"
+
+#: /wa-apps/site/lib/actions/snippets/siteSnippetsSave.controller.php:12
+#: /wa-apps/site/lib/actions/blocks/siteBlocksSave.controller.php:12
+msgid "Only latin characters, numbers and underscore symbol are allowed."
+msgstr "Допускається використання тільки латинських букв, цифр і символу підкреслення."
+
+#: /wa-apps/site/lib/actions/blocks/siteBlocksSave.controller.php:43
+#: /wa-apps/site/lib/actions/blocks/siteBlocksSave.controller.php:45
+msgid "Block with id \"%s\" already exists"
+msgstr "Блок з ідентифікатором «%s» вже існує"
+
+#: /wa-apps/site/lib/actions/files/siteFilesAddFolder.controller.php:14
+msgid "Folder could not bet created due to the insufficient file write permissions for the %s folder."
+msgstr "Не вдалося створити папку через недостатні права на запис до папки %s."
+
+#: /wa-apps/site/lib/actions/files/siteFilesAddFolder.controller.php:18
+msgid "An unkown error occured when attempting to create a folder."
+msgstr "При спробі створення папки сталася невідома помилка."
+
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:17
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:23
+msgid "Files with extension .%s are not allowed to security considerations."
+msgstr "Файли з розширенням .%s не допускаються з міркувань безпеки."
+
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:22
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:30
+msgid "Folder or file could not bet renamed due to the insufficient file write permissions for the %s folder."
+msgstr "Не вдалося перейменувати файл (папку) через недостатні права на запис до папки %s."
+
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:33
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:41
+msgid "File (folder) can not be renamed"
+msgstr "Не вдалося перейменувати файл (папку)"
+
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:37
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:45
+msgid "Enter the new name"
+msgstr "Введіть нове ім'я"
+
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:39
+#: /wa-apps/site/lib/actions/files/siteFilesRename.controller.php:47
+msgid "Selected folder (file) does not exist anymore"
+msgstr "Обрана папка (файл) більше не існує"
+
+#: /wa-apps/site/lib/actions/files/siteFilesMove.controller.php:13
+msgid "Files could not bet moved due to the insufficient file write permissions for the %s folder."
+msgstr "Не вдалося перемістити файли через недостатні права на запис до папки %s."
+
+#: /wa-apps/site/lib/actions/files/siteFilesMove.controller.php:23
+msgid "Can not move file “%s” to a new location"
+msgstr "Не вдалося перемістити файл %s у вказану папку"
+
+#: /wa-apps/site/lib/actions/files/siteFilesMove.controller.php:35
+msgid "Can not move to a new location"
+msgstr "Не вдається перемістити в нове розташування"
+
+#: /wa-apps/site/lib/actions/files/siteFilesDelete.controller.php:21
+#: /wa-apps/site/lib/actions/files/siteFilesDelete.controller.php:22
+msgid "Folder could not bet deleted due to the insufficient permissions."
+msgstr "Не вдалося видалити папку через недостатні права доступу."
+
+#: /wa-apps/site/lib/actions/files/siteFilesUploadimage.controller.php:25
+msgid "Files with extensions %s are allowed only."
+msgstr "Дозволяются тільки файли з розширеннями %s."
+
+#: /wa-apps/site/lib/actions/backend/siteBackendLoc.action.php:26
+msgid "Image will be uploaded into"
+msgstr "Зображення буде завантажене в"
+
+#: /wa-apps/site/lib/actions/frontend/siteFrontendMy.action.php:18
+#: /wa-apps/site/lib/actions/frontend/siteFrontendMy.action.php:28
+msgid "My account"
+msgstr "Особистий кабінет"
+
+#: /wa-apps/site/lib/actions/pages/sitePages.actions.php:71
+msgid "Database error"
+msgstr "Помилка бази даних"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:9
+msgid "URL of this Webasyst installation (relative)"
+msgstr "URL установки Webasyst (відносний)"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:10
+msgid "URL of the current app settlement (relative)"
+msgstr "URL поточного поселення додатку (відносний)"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:11
+msgid "URL to access Webasyst backend (relative)"
+msgstr "URL доступу до бекенду Webasyst (відносний)"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:12
+msgid "URL of the current app design theme folder (relative)"
+msgstr "URL папки з файлами поточної теми оформлення (відносний)"
+
+#: /wa-apps/site/lib/config/site.php:18
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:14
+msgid "Title"
+msgstr "Назва"
+
+msgid "Assigns a new title"
+msgstr "Встановлює новий заголовок"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:16
+msgid "Returns name of this Webasyst installation (name is specified in “Installer” app settings)"
+msgstr "Повертає назву даної установки Webasyst, вказане в налаштуваннях програми «Інсталлер»"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:17
+msgid "Returns this site’s core navigation menu which is either set automatically or manually in the “Site settings” screen"
+msgstr "Повертає основне меню навігації цього сайту, сформоване автоматично або вказане вручну в налаштуваннях сайту"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:16
+msgid "Returns current page URL (either absolute or relative)"
+msgstr "Повертає URL поточної сторінки (абсолютний або відносний)"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:17
+msgid "Returns this domain’s root URL (absolute)"
+msgstr "Повертає кореневий URL цього домену (абсолютний)"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:18
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:20
+msgid "Returns value of the global var by <em>key</em>. Global var array is initially empty, and can be used arbitrarily."
+msgstr "Повертає значення глобальної змінної по ключу <em>key</em>. Масив глобальних змінних спочатку порожній і може використовуватися довільним чином."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:19
+msgid "Assigns global var a new value"
+msgstr "Присвоює нове значення глобальній змінній"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:20
+msgid "Returns GET parameter value (same as PHP $_GET[\"<em>key</em>\"])"
+msgstr "Повертає значення GET-параметра (аналогічно $_GET[\"<em>key</em>\"] у PHP)"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:21
+msgid "Based on current session data returns <em>true</em> or <em>false</em> if user is using a multi-touch mobile device; if no session var reflecting current website version (mobile or desktop) is available, User Agent information is used"
+msgstr "Повертає <em>true</em> або <em>false</em> в залежності від того, чи використовує користувач в даний момент мобільний multi-touch пристрій (iPhone, Android та ін.) чи ні; якщо змінна сесії, яка містить тип версії сайту (мобільний або стандартний), відсутня, то використовується інформація із заголовків User Agent"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:24
+msgid "Returns user locale, e.g. \"en_US\", \"ru_RU\". In case user is authorized, locale is retrieved from “Contacts” app user record, or detected automatically otherwise"
+msgstr "Повертає мовну локаль користувача, наприклад, en_US, ru_RU. Якщо користувач авторизований, інформація про локалі витягується з програми «Контакти»; в іншому випадку визначається автоматично"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:23
+msgid "Returns POST parameter value (same as PHP $_POST[\"<em>key</em>\"])"
+msgstr "Повертає значення POST-параметра (аналогічно $_POST[\"<em>key</em>\"] у PHP)"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:24
+msgid "Returns SERVER parameter value (same as PHP $_SERVER[\"KEY\"])"
+msgstr "Повертає значення параметра масиву SERVER (аналогічно $_SERVER[\"<em>key</em>\"] у PHP)"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:25
+msgid "Returns SESSION var value (same as PHP $_SESSION[\"<em>key</em>\"])"
+msgstr "Повертає значення змінної сесії SESSION (аналогічно $_SESSION[\"<em>key</em>\"] у PHP)"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:26
+msgid "Embeds HTML block by ID"
+msgstr "Відображає вміст блоку за його ідентифікатором"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:27
+msgid "Returns authorized user data from associated record in “Contacts” app. \"<em>field</em>\" (string) is optional and indicates the field id to be returned. If not  Returns <em>false</em> if user is not authorized"
+msgstr "Повертає масив з даними авторизованого користувача з відповідного запису у додатку «Контакти». Якщо вказаний необов'язковий параметр \"<em>field</em>\" (string), то повертається вміст конкретного поля запису про контакт. Якщо користувач не авторизований, функція повертає <em>false</em>"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:28
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:30
+msgid "Returns User Agent info by specified “<em>key</em>” parameter:"
+msgstr "Повертає інформацію User Agent за вказаною параметру <em>key</em>:"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:31
+msgid "— <em>\"platform\"</em>: current visitor device platform name, e.g. <em>windows, mac, linux, ios, android, blackberry</em>;"
+msgstr "— <em>platform</em>: назва системної платформи пристрою користувача, наприклад, <em>windows, mac, linux, ios, android, blackberry</em>;"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:30
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:32
+msgid "— <em>\"isMobile\"</em>: returns <em>true</em> or <em>false</em> if user is using a multi-touch mobile device (iOS, Android and similar), based solely on User Agent string;"
+msgstr "— <em>\"isMobile\"</em>: ґрунтуючись на вмісті заголовків User Agent, повертає <em>true</em> или <em>false</em> в залежності від того, чи використовує користувач в даний момент мобільне multi-touch пристрій (iPhone, Android та ін.) чи ні;"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:33
+msgid "Returns path to theme folder by <em>theme_id</em> and <em>APP_ID</em>"
+msgstr "Повертає шлях до папки теми дизайну по <em>theme_id</em> и <em>APP_ID</em>"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:69
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:71
+msgid "Displays a simple variable (non array/object)"
+msgstr "Відображає просту змінну (не підходить для масивів та об'єктів)"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:70
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:72
+msgid "Displays the 5th element of a zero-indexed array"
+msgstr "Відображає 5-й елемент масиву, вважаючи з нульового індексу"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:73
+msgid "Displays the \"<em>bar</em>\" key value of an array. Similar to PHP $foo[\"bar\"]"
+msgstr "Відображає значення ключа масиву «<em>bar</em>» аналогічно $foo[\"bar\"] в PHP."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:72
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:74
+msgid "Displays variable key value of an array. Similar to PHP $foo[$bar]"
+msgstr "Відображає значення елемента масиву з перемінним ключем. Аналогічно використанню $foo[$bar] в PHP"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:73
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:75
+msgid "Displays the object property named <em>bar</em>"
+msgstr "Відображає властивість об'єкта з ім'ям <em>bar</em>"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:74
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:76
+msgid "Displays the return value of object method named <em>bar()</em>"
+msgstr "Відображає значення, що повертається методом об'єкта з ім'ям <em>bar()</em>"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:77
+msgid "Displays structured information about variable. Arrays and objects are explored recursively with values indented to show structure. Similar to PHP var_dump($foo)"
+msgstr "Відображає докладну інформацію про структуру змінної, масиву або об'єкта. Працює аналогічно функції PHP var_dump($foo)"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:75
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:77
+msgid "Escapes a variable for safe display in HTML"
+msgstr "Екранує змінну для безпечного відображення в HTML-коді"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:78
+msgid "Outputs <em>$var</em> datetime in a user-friendly form. Supported <em>$format</em> values: <em>monthdate, date, dtime, datetime, fulldatetime, time, fulltime, humandate, humandatetime</em>"
+msgstr "Відображає час <em>$var</em> у зручному для читання вигляді. Доступні значення <em>$format</em>: <em>monthdate, date, dtime, datetime, fulldatetime, time, fulltime, humandate, humandatetime</em>"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:77
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:79
+msgid "Outputs the sum of <em>$x</em> and <em>$y</em>"
+msgstr "Відображає суму <em>$x</em> і <em>$y</em>"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:78
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:80
+msgid "Assigns variable a value"
+msgstr "Присвоює значення змінної"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:81
+msgid "Direct PHP function access. E.g. <em>{time()}</em> displays the current timestamp"
+msgstr "Прямий доступ до функцій PHP. Наприклад, <em>{time()}</em> відображає поточну мітку часу UNIX"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:80
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:82
+msgid "Content between {literal} tags will not be parsed by Smarty"
+msgstr "Текст між тегами {literal} не обробляється Smarty"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:83
+msgid "Embeds a Smarty template into the current content. <em>file</em> attribute specifies a template filename within the current design theme folder"
+msgstr "Впроваджує шаблон Smarty в поточний зміст. Атрибут <em>file</em> вказує на ім'я файлу шаблону в папці поточної теми дизайну"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:82
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:84
+msgid "Similar to PHP if statements"
+msgstr "Аналогічно конструкції if в PHP"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:83
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:85
+msgid "{foreach} is for looping over arrays of data"
+msgstr "Використовується для перебору елементів в масивах даних"
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:103
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:194
+msgid "File could not be saved due to the insufficient file write permissions for the \"%s\" folder."
+msgstr "Не вдалося зберегти файл через недостатні права запису до папки «%s»."
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:18
+#: /wa-apps/site/lib/actions/domains/siteDomainsSave.controller.php:9
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:20
+msgid "Incorrect domain URL: %s"
+msgstr "Некоректний URL домену: %s"
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:19
+msgid "Website with a domain name %s is already registered in this Webasyst installation. Delete %s website (Site app > %s > Settings) to be able to use it's domain name for another website."
+msgstr "Сайт з доменним ім'ям %s уже зареєстрований у цій установці Вебасиста. Видаліть сайт %s (додаток «Сайт» > %s > Налаштування), щоб підключити цей домен до іншого сайту."
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:71
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:87
+msgid "Settings could not be saved due to the insufficient file write permissions for the \"%s\" folder."
+msgstr "Не вдалося зберегти настройки через недостатні права запису до папки «%s»."
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:90
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:181
+msgid "Failed to upload file."
+msgstr "Не вдалося завантажити файл."
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:84
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:175
+msgid "Files with extension *.ico are allowed only."
+msgstr "Допускаються тільки файли з розширенням *.ico."
+
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:213
+msgid "Files with extension *.png are allowed only."
+msgstr "Дозволене завантаження тільки файлів з розширенням *.png."
+
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:150
+msgid "Touch icon you upload here will not take effect for you website %s because your website is set for a subfolder on a domain. Touch icon uploaded using the form above will be set only for websites set from the domain root folder."
+msgstr "Зображення, завантажене за допомогою цієї форми, не буде відображене на сайті %s, тому що сайт розташований в підкаталозі домену. Завантажена через дану форму іконка може бути встановлена ​​тільки для сайтів, розміщених в кореневому каталозі домену."
+
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:100
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:142
+msgid "Favicon image you upload here will not take effect for you website %s because your website is set for a subfolder on a domain. Favicon uploaded using the form above will be set only for websites set from the domain root folder."
+msgstr "Фавіконка, завантажена за допомогою цієї форми, не буде застосована до сайту %s, тому що сайт розташований в підкаталозі домена. Завантажена через дану форму іконка може бути встановлена ​​тільки для сайтів, розміщених в кореневому каталозі домена."
+
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:101
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:143
+msgid "Rules you set above for robots.txt will not take effect for you website %s because your website is set for a subfolder on a domain. Rules for robots.txt from the form above will be effective only for websites set to the domain root folder."
+msgstr "Правила для файлу robots.txt, встановлені за допомогою цієї форми, не буде застосовано для сайту %s, тому що цей сайт розташований в підкаталозі домена. Вміст robots.txt, доданий за допомогою цієї форми, може бути застосовано тільки для сайтів, розташованих в кореневому каталозі домену."
+
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:105
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:147
+msgid "File favicon.ico exists in the Webasyst framework installation folder. The favicon you upload here will be overridden by the icon uploaded as file unless you delete this file."
+msgstr "Файл favicon.ico виявлено в поточній папці установки Вебасист. Замість фавіконки, збереженої на цій сторінці, буде відображатися фавіконка з вказаного файлу,поки ви його не видалите."
+
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:159
+msgid "File apple-touch-icon.png exists in the Webasyst framework installation folder. The touch icon you upload here will be overridden by the icon uploaded as file unless you delete this file."
+msgstr "Файл apple-touch-icon.png виявлено в каталозі установки Webasyst. Замість іконки, збереженої на цій сторінці, буде відображатися іконка з вказаного файлу, поки ви його не видалите."
+
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:108
+#: /wa-apps/site/lib/actions/settings/siteSettings.action.php:150
+msgid "File robots.txt exists in the Webasyst framework installation folder. Rules for robots.txt you specify above will not take effect unless you delete this file."
+msgstr "Файл robots.txt виявлений в каталозі установки Webasyst. Правила для файлу robots.txt, збережені на цій сторінці, чи не будуть застосовані, поки ви не видалите цей файл."
+
+#: /wa-apps/site/lib/actions/routing/siteRoutingSave.controller.php:12
+msgid "Settings could not be saved due to the insufficient file write permissions for the file \"%s\"."
+msgstr "Не вдалося зберегти настройки через недостатні права на запис файлу «%s»."
+
+#: /wa-apps/site/lib/actions/routing/siteRoutingSave.controller.php:114
+msgid "The URL %s is already used by %s app. If you proceed, this will replace %s app with %s app on this URL."
+msgstr "Адреса %s вже використовується додатком «%s». Якщо ви продовжите, поселення додатку «%s» за цим URL буде повністю замінено поселенням додатки «%s»."
+
+#: /wa-apps/site/lib/actions/routing/siteRoutingEdit.action.php:66
+msgid "Auto"
+msgstr "Авто"
+
+#: /wa-apps/site/lib/actions/domains/siteDomainsSave.controller.php:18
+#: /wa-apps/site/lib/actions/settings/siteSettingsSave.controller.php:19
+msgid "Website with a domain name %s is already registered in this Webasyst installation. Delete %s website (Site app > Settings > %s) to be able to use it's domain name for another website."
+msgstr "Сайт з доменним ім'ям %s вже зареєстрований в цій установці Вебасисту. Видаліть сайт %s (додаток «Сайт»> %s> Настройки), щоб підключити цей домен до іншого сайту."
+
+#: /wa-apps/site/themes/default/index.html:46
+msgid "We are using <a href=\"http://www.webasyst.com/\">Webasyst</a>"
+msgstr "Ми використовуємо <a href=\"http://www.webasyst.ru\">Webasyst</a>"
+
+#: /wa-apps/site/themes/clear/content.html:9
+#: /wa-apps/site/themes/custom/content.html:4
+#: /wa-apps/site/themes/default/index.html:67
+#: /wa-apps/site/themes/facebook/content.html:25
+#: /wa-apps/site/themes/nifty/content.html:6
+#: /wa-apps/site/themes/sidebar/content.html:6
+#: /wa-apps/site/themes/vk/content.html:25
+msgid "Welcome to your new site!"
+msgstr "Ласкаво просимо на ваш новий сайт!"
+
+#: /wa-apps/site/themes/clear/content.html:10
+#: /wa-apps/site/themes/custom/content.html:5
+#: /wa-apps/site/themes/default/index.html:68
+#: /wa-apps/site/themes/facebook/content.html:26
+#: /wa-apps/site/themes/nifty/content.html:7
+#: /wa-apps/site/themes/sidebar/content.html:7
+#: /wa-apps/site/themes/vk/content.html:26
+#: /wa-apps/site/themes/ascetic/index.html:71
+#: /wa-apps/site/themes/default/main.html:7
+#: /wa-apps/site/themes/pinboard/content.html:5
+msgid "Start by <a href=\"%s\">creating a page</a> in your site backend."
+msgstr "Почніть зі <a href=\"%s\">створення сторінки</a> у бекенді сайту."
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:50
+#: /wa-apps/site/templates/actions/settings/Settings.html:24
+msgid "Site settings"
+msgstr "Налаштування сайту"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:84
+#: /wa-apps/site/templates/actions/system/SystemSettings.html:1
+msgid "System settings"
+msgstr "Системні налаштування"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:3
+msgid "CDN address"
+msgstr "Адреса CDN"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:4
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:9
+msgid "Remove"
+msgstr "Видалити"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:63
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:161
+msgid "Security"
+msgstr "Безпека"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:66
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:164
+msgid "Redirect to HTTPS"
+msgstr "Перенаправляти на HTTPS"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:67
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:165
+msgid "You cannot enable redirection because your web server does not allow to distinguish HTTP from HTTPS."
+msgstr "Ви не можете увімкнути перенаправлення, тому що ваш веб-сервер не в змозі відрізнити HTTP від HTTPS."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:68
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:166
+msgid "To activate this option, <a>log in via HTTPS</a>."
+msgstr "Аби увімкнути цю опцію, <a>авторизуйтесь з використанням HTTPS</a>."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:69
+msgid "Redirect website visitors from ordinary HTTP to secure HTTPS connection."
+msgstr "Перенаправити відвідувачів сайту зі звичайного HTTP до безпечного HTTPS-з'єднання."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:71
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:169
+msgid "This option will work only if an SSL certificate is installed for your domain name."
+msgstr "Ця опція буде діяти тільки якщо для вашого доменного імені встановлено SSL-сертифікат."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:228
+msgid "Добавить"
+msgstr "Додати"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:237
+msgid "Site structure error notifications"
+msgstr "Повідомлення про помилки у структурі сайту"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:240
+msgid "Show error notifications in site structure settings."
+msgstr "Показувати повідомлення про помилки у структурі сайту."
+
+#: /wa-apps/site/templates/actions/files/Files.html:48
+msgid "Files uploaded here are accessible to all website visitors without authorization. Do not upload private files."
+msgstr "Завантажені тут файли доступні усім відвідувачам сайту без авторизації. Не завантажуйте приватні файли."
+
+#: /wa-apps/site/templates/actions/files/Files.html:170
+msgid "Your file is too large. Either raise the size limit for uploaded files in PHP configuration above %s bytes or upload a smaller file."
+msgstr "Ваш файл надто великий. Підніміть обмеження на розмір завантажуваних файлів у конфігурації PHP понад %s байт або завантажте файл меншого розміру."
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:2
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:22
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:60
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:201
+#: /wa-apps/site/lib/classes/siteHelper.class.php:45
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:205
+msgid "Custom text"
+msgstr "Довільний текст"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:79
+msgid "Comment"
+msgstr "Коментар"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:91
+msgid "Redirect disabled"
+msgstr "Перенаправлення вимкнено"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:103
+msgid "Redirect enabled"
+msgstr "Перенаправлення увімкнено"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:142
+msgid "Language"
+msgstr "Мова"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:146
+msgid "Select a language to translate text strings in website frontend."
+msgstr "Оберіть мову, якою має відображатися текст у фронтенді вебсайту."
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:147
+msgid "If “Auto” option is selected, website language will be determined by user browser settings."
+msgstr "Якщо обрано опцію «Авто», мову веб-сайту буде визначати налаштування браузера відвідувача."
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:167
+msgid "Redirect website visitors from ordinary HTTP to secure HTTPS connection within this settlement."
+msgstr "Перенаправити відвідувачів сайту зі звичайного HTTP до безпечного HTTPS-з'єднання у цьому поселенні."
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:202
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:206
+msgid "Text to be returned at specified URL"
+msgstr "Текст, який має бути відображено за вказаним URL"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:205
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:209
+msgid "Content type"
+msgstr "Тип вмісту"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:208
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:212
+msgid "file"
+msgstr "файл"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:229
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:233
+msgid "App [%s] deleted or disabled."
+msgstr "Додаток [%s] видалено або вимкнено."
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:171
+msgid "To enable redirect to HTTPS for <em>all</em> website settlements, change this option in <a href=\"%s#/settings/\">common site settings</a>."
+msgstr "Аби увімкнути перенаправлення на HTTPS для <em>усіх</em> поселень веб-сайту, зробіть налаштування у <a href=\"%s#/settings/\">загальних настройках сайту</a>."
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:20
+msgid "This rule is disabled because it is placed below a more general rule. Move this rule higher in the list to enable it."
+msgstr "Це правило вимкнено тому, що воно знаходиться нижче, ніж більш загальне правило. Перетягніть це правило вище у переліку, аби увімкнути його."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:1
+#: /wa-apps/site/templates/actions/system/SystemSettings.html:16
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:124
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:161
+msgid "Email"
+msgstr "Email"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:16
+msgid "Email or domain"
+msgstr "Email або доменне ім'я"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:20
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:25
+msgid "Enter an <strong>email address</strong> to set up a transport <em>for one sender email</em>.<br>Enter a <strong>domain name</strong> to set up a transport <em>for all sender emails on that domain</em>."
+msgstr "Вкажіть <strong>email-адресу</strong>, щоб налаштувати транспорт для <em>одного email відправника</em>. Вкажіть <strong>доменне ім'я</strong>, аби налаштувати транспорт для <em>усіх email відправника на цьому домені</em>."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:31
+msgid "Transport"
+msgstr "Транспорт"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:54
+msgid "Options"
+msgstr "Параметри"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:65
+msgid "Host"
+msgstr "Хост"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:71
+msgid "Port"
+msgstr "Порт"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:77
+msgid "Login name"
+msgstr "Логін"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:83
+msgid "Password"
+msgstr "Пароль"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:89
+msgid "Encryption"
+msgstr "Шифрування"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:92
+msgid "None"
+msgstr "Немає"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:93
+msgid "SSL/TLS"
+msgstr "SSL/TLS"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:94
+msgid "STARTTLS"
+msgstr "STARTTLS"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:100
+msgid "Pop3 host"
+msgstr "Хост POP3"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:108
+msgid "Pop3 port"
+msgstr "Порт POP3"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:120
+msgid "Command"
+msgstr "Команда"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:138
+msgid "Add a DKIM signature to outgoing email messages to confirm your ownership of the sender’s email address."
+msgstr "Додайте підпис DKIM для вихідних email-повідомлень, аби підтвердити належність email-адреси вам."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:139
+msgid "Enter an email address in “Sender” field to use DKIM."
+msgstr "Для використання DKIM вкажіть адресу відправника."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:144
+msgid "You need to install openssl php extention to use DKIM"
+msgstr "Аби користуватись DKIM, вам необхідно встановити розширення PHP OpenSSL"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:147
+msgid "You need PHP version 5.3 or higher to use DKIM. Your current version is:"
+msgstr "Аби користуватись DKIM, потрібна версія PHP 5.3 або вища. Ваша поточна версія:"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:156
+msgid "Add a new <b>TXT record</b> with this public DKIM key to the DNS zone of domain name"
+msgstr "Додайте новий TXT-запис із цим публічним ключем DKIM у DNS-зону домену"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:161
+msgid "Host "
+msgstr "Хост "
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:174
+msgid "Domain"
+msgstr "Доменне ім'я"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:178
+msgid "Record type"
+msgstr "Тип запису"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:184
+msgid "Value"
+msgstr "Значення"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:201
+msgid "Email settings"
+msgstr "Параметри email"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:208
+msgid "Email address for notifications"
+msgstr "Email-адреса для сповіщень"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:212
+msgid "Main account administrative email where system notification will be sent."
+msgstr "Основна електронна адреса адміністратора, на яку відправлятимуться системні повідомлення."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:219
+msgid "Sender email address"
+msgstr "Email-адреса відправника"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:223
+msgid "Reply-To address for system email notifications sent by Webasyst."
+msgstr "Цю електронну адресу буде вказано в якості зворотної адреси в системних email-повідомленнях, що відправляються Вебасістом."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:231
+msgid "Select how email messages must be sent by default from your Webasyst."
+msgstr "Оберіть, яким чином Вебасіст відправлятиме email-повідомлення за замовчуванням."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:239
+msgid "If you use different sender email addresses in your apps, then you can add extra rules to send messages from those addresses. Emails from other addresses will be sent via the transport selected in “Default” section."
+msgstr "Якщо ви використовуєте різні email-адреси відправника у своїх додатках, то можете створити додаткові правила для цих адрес. Email з інших адрес будуть відправлятися транспортом, вказаним в розділі «За замовчуванням»."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsEmail.html:242
+msgid "Add email sending rule"
+msgstr "Додати правило відправки email"
+
+#: /wa-apps/site/templates/actions/system/SystemSettings.html:10
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:1
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:42
+msgid "General settings"
+msgstr "Загальні налаштування"
+
+#: /wa-apps/site/templates/actions/system/SystemSettings.html:22
+msgid "Maps"
+msgstr "Карти"
+
+#: /wa-apps/site/templates/actions/system/SystemSettings.html:28
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:348
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:446
+msgid "Captcha"
+msgstr "CAPTCHA"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:18
+#: /wa-apps/site/lib/actions/systemSettings/general/siteSystemSettingsUploadCustomBackground.controller.php:42
+msgid "B,KB,MB"
+msgstr "Б,КБ,МБ"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:32
+msgid "File not found"
+msgstr "Файл не знайдено"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:36
+msgid "Stretch to fill entire screen"
+msgstr "Розтягнути зображення на весь екран"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:49
+msgid "Company name"
+msgstr "Назва компанії"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:54
+msgid "May be displayed on websites and in email notifications."
+msgstr "Може відображатись на веб-сайтах та у повідомленнях email."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:63
+msgid "Website address"
+msgstr "Адреса веб-сайту"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:68
+msgid "May be used on websites and in email notifications."
+msgstr "Може відображатись на веб-сайтах та у повідомленнях email."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:78
+msgid "Locale of software available for installation in Installer"
+msgstr "Локаль програмних продуктів, доступних для установки через Інсталлер"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:93
+msgid "Localization engine"
+msgstr "Двигун локалізації"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:107
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:467
+msgid "Auto-login"
+msgstr "Автологін"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:111
+msgid "Allow “Remember me” option in Webasyst backend authorization form"
+msgstr "Можна включити «Запам'ятати мене» при вході у Вебасіст"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:118
+msgid "Authorization form background image"
+msgstr "Фон форми авторизації"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:155
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:157
+msgid "Clear cache"
+msgstr "Очистити кеш"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:165
+msgid "For developers"
+msgstr "Для розробників"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:169
+msgid "Developer mode"
+msgstr "Режим відладки (debug mode)"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:170
+msgid "Debug mode disables caching and enables verbose error messages. Recommended for debugging and during software development."
+msgstr "Режим відладки вимикає кешування та вмикає детальні повідомлення про помилки. Рекомендується для діагностики помилок та протягом розробки програмного забезпечення."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsGeneral.html:193
+msgid "Delete authorization form background image?"
+msgstr "Видалити фонове зображення форми авторизації?"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsCaptcha.html:1
+#: /wa-apps/site/templates/actions/system/SystemSettingsCaptcha.html:3
+msgid "Сaptcha settings"
+msgstr "Налаштування CAPTCHA"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsCaptcha.html:4
+msgid "Select a type of captcha to be used on your websites."
+msgstr "Оберіть тип CAPTCHA, який буде використовуватись на ваших сайтах."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsCaptcha.html:9
+msgid "Сaptcha type"
+msgstr "Тип CAPTCHA"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsCaptcha.html:12
+msgid "Webasyst Captcha"
+msgstr "CAPTCHA Webasyst"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsCaptcha.html:17
+msgid "Google reCAPTCHA"
+msgstr "reCAPTCHA від Google"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsCaptcha.html:21
+msgid "Site Key"
+msgstr "Ключ сайта"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsCaptcha.html:27
+msgid "Secret"
+msgstr "Секрет"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsCaptcha.html:30
+msgid "Get site key and secret for your website"
+msgstr "Отримати ключ та секрет для вашого веб-сайту"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsCaptcha.html:35
+msgid "Invisible mode"
+msgstr "Невидимий режим"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsMaps.html:1
+#: /wa-apps/site/templates/actions/system/SystemSettingsMaps.html:3
+msgid "Maps settings"
+msgstr "Налаштування карт"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsMaps.html:4
+msgid "Select an online map service to display maps."
+msgstr "Оберіть сервіс онлайн-карт для відображення карт."
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsMaps.html:9
+msgid "Map service"
+msgstr "Сервіс карт"
+
+#: /wa-apps/site/templates/actions/system/SystemSettingsMaps.html:26
+msgid "No map services available"
+msgstr "Немає доступних сервісів карт"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:68
+msgid "Select Webasyst default captcha or Google reCAPTCHA"
+msgstr "Оберіть стандартну CAPTCHA від Webasyst або reCAPTCHA від Google"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:74
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:73
+msgid "Allow “Remember me” option in authorization form on the website"
+msgstr "Можна включити «Запам'ятати мене» при вході в Вебасіст"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:83
+#: /wa-apps/site/templates/actions/settings/Settings.html:194
+msgid "Enables your site visitors to quickly sign up or sign in via accounts on external popular platforms, e.g. Facebook and Twitter. <a href=\"https://support.webasyst.com/5556/third-party-auth-setup/\" target=\"_blank\">Setup instructions</a> <i class=\"icon10 new-window\"></i>"
+msgstr "Дозволяє вашим відвідувачам швидко реєструватись або входити за допомогою облікових записів на зовнішніх популярних платформах — наприклад, Facebook та Twitter. <a href=\"https://support.webasyst.ru/5554/third-party-auth-setup/\" target=\"_blank\">Інструкції з налаштування</a> <i class=\"icon10 new-window\"></i>"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:244
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:312
+msgid "Personal data processing"
+msgstr "Обробка персональних даних"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:248
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:317
+msgid "Do not require consent to personal data protection policy"
+msgstr "Не вимагати згоди із політикою обробки персональних даних"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:254
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:325
+msgid "Show only notice and link to policy"
+msgstr "Показувати тільки підказку із посиланням на політику"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:259
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:332
+msgid "Show mandatory checkbox, notice, and link"
+msgstr "Пропонувати увімкнути обов'язковий прапорець із підказкою та посиланням"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:265
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:339
+msgid "Restore original text"
+msgstr "Відновити стандартний текст"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:251
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:322
+msgid "---INSERT A LINK HERE!---"
+msgstr "---ВСТАВТЕ СЮДИ ПОСИЛАННЯ НА ДОКУМЕНТ!---"
+
+#: /wa-apps/site/lib/classes/siteHelper.class.php:33
+msgid "You have no rules set up for %s app."
+msgid_plural "You have no rules set up for %s apps."
+msgstr[0] "Ви не налаштували правил для %s додатку."
+msgstr[1] "Ви не налаштували правила для %s додатків."
+msgstr[2] "Ви не налаштували правила для %s додатків."
+
+#: /wa-apps/site/lib/classes/siteHelper.class.php:52
+msgid "Some rules of %s app are incorrect."
+msgid_plural "Some rules of %s apps are incorrect."
+msgstr[0] "Деякі правила %s додатку є невірними."
+msgstr[1] "Деякі правила %s додатків є невірними."
+msgstr[2] "Деякі правила %s додатків є невірними."
+
+#: /wa-apps/site/lib/classes/siteHelper.class.php:34
+#: /wa-apps/site/lib/classes/siteHelper.class.php:53
+msgid "”, “"
+msgstr "”, “"
+
+#: /wa-apps/site/lib/actions/systemSettings/general/siteSystemSettingsClearCache.controller.php:10
+msgid "Cache cleared"
+msgstr "Кеш очищено"
+
+#: /wa-apps/site/lib/actions/systemSettings/general/siteSystemSettingsClearCache.controller.php:12
+msgid "But with errors:"
+msgstr "З помилками:"
+
+#: /wa-apps/site/lib/actions/systemSettings/general/siteSystemSettingsGeneral.action.php:58
+msgid "Gettext (recommended)"
+msgstr "Gettext (рекомендовано)"
+
+#: /wa-apps/site/lib/actions/systemSettings/general/siteSystemSettingsGeneral.action.php:59
+msgid "PHP"
+msgstr "PHP"
+
+#: /wa-apps/site/lib/actions/systemSettings/email/siteSystemSettingsGenerateDkim.controller.php:8
+msgid "Extension openssl is not installed"
+msgstr "Розширення OpenSSL не встановлено"
+
+#: /wa-apps/site/lib/actions/systemSettings/email/siteSystemSettingsGenerateDkim.controller.php:18
+#: /wa-apps/site/lib/actions/systemSettings/email/siteSystemSettingsGenerateDkim.controller.php:24
+#: /wa-apps/site/lib/actions/systemSettings/email/siteSystemSettingsGenerateDkim.controller.php:30
+msgid "Failed to create DKIM signature"
+msgstr "Не вдалось створити підпис DKIM"
+
+#: /wa-apps/site/lib/actions/systemSettings/email/siteSystemSettingsEmail.action.php:38
+msgid "SMTP"
+msgstr "SMTP"
+
+#: /wa-apps/site/lib/actions/systemSettings/email/siteSystemSettingsEmail.action.php:39
+msgid "A special server for sending email messages. You can send email via any SMTP server for which you have connection credentials: host, port, user name, and password. It may belong either to your web-hosting company or to a public mail service such as Gmail, Yahoo! Mail, Outlook.com, etc."
+msgstr "Спеціальний сервер для надсилання email-повідомлень. Ви можете надсилати email через довільний сервер SMTP, до якого у вас є дані для підключення: хост, порт, ім'я користувача та пароль. Він може належати вашому провайдеру хостинга або публічному поштовому сервісу — Gmail, Yahoo! Mail, Outlook.com та іншим."
+
+#: /wa-apps/site/lib/actions/systemSettings/email/siteSystemSettingsEmail.action.php:45
+msgid "php mail() function"
+msgstr "PHP-функція mail()"
+
+#: /wa-apps/site/lib/actions/systemSettings/email/siteSystemSettingsEmail.action.php:46
+msgid "Some web-hosting companies allow sending email message by means of this transport only. If it is required to specify additional parameters for the mail() function you can enter them in the provided text field. The default parameters are -f%s."
+msgstr "Деякі хостинг-провайдери дозволяють надсилати електронні повідомлення тільки цим транспортом. Якщо існує необхідність ввести додаткові параметри, їх можна вказати у текстовому полі при виборі варіанту «PHP-функція mail ()». За замовчуванням використовується параметр -f%s."
+
+#: /wa-apps/site/lib/actions/systemSettings/email/siteSystemSettingsEmail.action.php:52
+msgid "Sendmail"
+msgstr "Sendmail"
+
+#: /wa-apps/site/lib/actions/systemSettings/email/siteSystemSettingsEmail.action.php:53
+msgid "This is a default command for sending email in UNIX-like operating systems. You can edit it to use a different command for sending messages if you are an experienced server administrator."
+msgstr "Це стандартна команда для надсилання email у UNIX-подібних операційних системах. Ви можете відредагувати її, аби використовувати іншу команду для надсилання повідомлень, якщо ви досвідчений системний адміністратор."
+
+#: /wa-apps/site/lib/actions/systemSettings/email/siteSystemSettingsEmailSave.controller.php:21
+#: /wa-apps/site/lib/actions/systemSettings/email/siteSystemSettingsEmailSave.controller.php:28
+msgid "Invalid e-mail"
+msgstr "Невірний email"
+
+#: /wa-apps/site/themes/default/admin-sidebar.html:427
+msgid "Settings have been saved"
+msgstr "Налаштування збережено"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:268
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:371
+msgid "Delete route"
+msgstr "Видалити маршрут"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:269
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:367
+msgid "You are about to delete the only routing rule set up for <b>%s</b> app."
+msgstr "Ви збираєтесь видалити єдине правило маршрутизації для <b>%s</b> додатку."
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:269
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:367
+msgid "This will limit its functionality. Delete the rule?"
+msgstr "Це обмежить функціональність. Видалити правило?"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:7
+msgid "Login and signup settings for %s"
+msgstr "Вхід та налаштування реєстрації для %s"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:13
+msgid "User personal area"
+msgstr "Особистий кабінет користувача"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:24
+msgid "authorization enabled"
+msgstr "авторизація включена"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:40
+msgid "Ways of login and registration"
+msgstr "Способи входу та реєстрації"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:41
+msgid "Set up how website visitors will log in and sign up on your website."
+msgstr "Налаштуйте, як відвідувачі сайту будуть реєструватися на вашому сайті та входити на нього."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:71
+msgid "Login & signup forms"
+msgstr "Форми входу та реєстрації"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:72
+msgid "Set up fields website visitors will need to complete in login and signup forms."
+msgstr "Налаштуйте поля форм входу та реєстрації, які повинні будуть заповнити відвідувачі."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:105
+msgid "Cannot disable both authorization options “Email” &amp; “Phone”"
+msgstr "Неможливо відключити обидві опції авторизації «Пошта» &amp; «Телефон»"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:106
+msgid "Keep at least one of these two basic authorization option enabled for website visitors to be able to log into their accounts."
+msgstr "Збережіть принаймні один з цих двох основних варіантів авторизації, аби відвідувачі сайту були в змозі входити до своїх акаунтів."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:107
+msgid "Authorization with an email address is used by default."
+msgstr "Авторизація за адресою електронної пошти використовується за замовчуванням."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:125
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:255
+msgid "Phone"
+msgstr "Телефон"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettings.html:126
+msgid "Email or phone"
+msgstr "Email-адреса або номер телефону"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:16
+msgid "Site section for login and signup"
+msgstr "Розділ сайту для входу та реєстрації"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:18
+#: /wa-apps/site/templates/actions/settings/Settings.html:175
+msgid "Select a site section where visitors will sign up and log into their personal accounts."
+msgstr "Виберіть розділ сайту, де користувачі зможуть зареєструватися і увійти в особистий кабінет."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:28
+msgid "Select app"
+msgstr "Виберіть додаток"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:70
+msgid "Passwords type"
+msgstr "Типи паролів"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:93
+msgid "Confirm signup"
+msgstr "Підтвердіть реєстрацію"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:95
+msgid "A signup confirmation link or code will be sent in a notification."
+msgstr "Посилання для підтверждення реєстрації буде надіслано у повідомленні."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:104
+msgid "Successful signup notification"
+msgstr "Повідомлення про успішну реєстрацію"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:110
+msgid "Send successful signup notifications to users"
+msgstr "Відправляти користувачам повідомлення про успішну реєстрацію"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:121
+msgid "Verification code re-sending"
+msgstr "Повторне надсилання коду підтвердження"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:125
+msgid "Waiting period in seconds before sending next verification code:"
+msgstr "Період очікування в секундах перед надсиланням наступного коду верифікації:"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:138
+msgid "Authorization by login name"
+msgstr "Авторизація по імені користувача"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:145
+msgid "Enable to allow backend users to log in on the website with their login names. Only login names different from phone numbers, i.e. containing characters other than digits, are supported."
+msgstr "Дозволити користувачам бекенда вхід на сайт за своїми логінами. Підтримуються тільки такі логіни, що відрізняються від номера телефону — тобто містять символи, відмінні від цифр."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:166
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:260
+msgid "User notifications"
+msgstr "Повідомлення користувачів"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:168
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:262
+msgid "Select a group of notification templates to be used for sending login, signup, and password recovery notifications."
+msgstr "Виберіть групу шаблонів повідомлень, які будуть використовуватися для відправки логіна, реєстрації, відновлення пароля і повідомлень."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:169
+msgid "Edit email notification templates in <a href=\"%s\">Settings</a> app"
+msgstr "Відредагуйте шаблони email-повідомлень у додатку <a href=\"%s\">«Налаштування»</a>"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:171
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:267
+msgid "Notification templates"
+msgstr "Шаблони повідомлень"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:174
+msgid "No sender email address specified in “<a href=\"%s\">Email settings</a>” section of Settings app."
+msgstr "У розділі «<a href=\"%s\">Налаштування email</a>» додатку «Налаштування» не зазначено адресу електронної пошти відправника."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:182
+msgid "Edit the list in “<a href=\"%s\">Email&nbsp;templates</a>” section."
+msgstr "Відредагуйте перелік у розділі «<a href=\"%s\">Email&nbsp;шаблони</a>»."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:206
+msgid "Social networks (additional authorization option)"
+msgstr "Соціальні мережі (додаткова опція авторизації)"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:210
+msgid "Services"
+msgstr "Послуги"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:264
+msgid "Edit SMS notification templates in <a href=\"%s\">Settings</a> app"
+msgstr "Редагувати шаблони SMS-повідомлень у додатку «<a href=\"%s\">Налаштування</a>»"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:279
+msgid "Priority over email notifications"
+msgstr "Пріоритет над повідомленнями по електронній пошті"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:285
+msgid "Prefer SMS over email for sending notifications. In case of SMS sending failure, email will be sent as a replacement."
+msgstr "Надавати для відправлення повідомлень перевагу SMS над email. У разі відмови відправки SMS, email буде надіслано у якості заміни."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:306
+msgid "Signup form"
+msgstr "Форма реєстрації"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:348
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:446
+msgid "A user must enter characters shown in an image"
+msgstr "Користувач має увести символи із зображення"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:359
+msgid "Fields"
+msgstr "Поля"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:381
+msgid "Required field"
+msgstr "Обов'язкове поле"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:410
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:514
+msgid "Invisible captcha will be used"
+msgstr "Буде використано невидимий режим CAPTCHA"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:439
+msgid "Login form"
+msgstr "Форма логіну"
+
+#: /wa-apps/site/templates/actions/personal/Personal.html:10
+msgid "Login and signup settings"
+msgstr "Входу та налаштування реєстрації"
+
+#: /wa-apps/site/templates/actions/personal/Personal.html:16
+msgid "Personal account sections"
+msgstr "Особисті розділи рахунку"
+
+#: /wa-apps/site/templates/actions/personal/Personal.html:49
+msgid "Sections are determined by connected applications."
+msgstr "Розділи визначаються підключеними програмами."
+
+#: /wa-apps/site/templates/actions/personal/Personal.html:52
+msgid "Read <a href=\"https://support.webasyst.com/29298/site-auth-settings/\" target=\"_blank\">user manual</a>."
+msgstr "Читати <a href=\"https://support.webasyst.com/29298/site-auth-settings/\" target=\"_blank\">керівництво користувача</a>."
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:16
+msgid "authorization disabled"
+msgstr "авторизацію відключено"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:228
+msgid "Add"
+msgstr "Додати"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:394
+msgid "Deleting this site will also delete routing rules set up for installed apps. This will limit their functionality. Delete the site?"
+msgstr "Із видаленням цього сайту будуть видалені правила маршрутизації, налаштування для встановлених програм. Це обмежить їх функціональні можливості. Видалити сайт?"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:397
+msgid "”</b>, <b>“"
+msgstr "”</b>, <b>“"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:401
+msgid "Delete this site alias? It will <strong>not</strong> delete any data of the main site."
+msgstr "Видалити цей сайт-псевдонім? Це <strong>не</strong> призведе до видалення будь-яких даних основного сайту."
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:397
+msgid "Deleting this site will also delete routing rules set up for <b>%s</b> app. This will limit its functionality.</p><p>Upon site deletion, set up routing rules for this app in the structure settings of remaining sites to continue using all functions."
+msgid_plural "Deleting this site will also delete routing rules set up for <b>%s</b> apps. This will limit their functionality.</p><p>Upon site deletion, set up routing rules for these apps in the structure settings of remaining sites to continue using all functions."
+msgstr[0] "Видалення цього сайту також видалить правила маршрутизації для <b>%s</b> додатку. Це обмежить їх функції..</p><p>Перед видаленням сайту налаштуйте правила маршрутизації для цих додатків у на інших сайтах, аби продовжити використовувати усі функції."
+msgstr[1] "Видалення цього сайту також видалить правила маршрутизації для <b>%s</b> додатків. Це обмежить їх функції..</p><p>Перед видаленням сайту налаштуйте правила маршрутизації для цих додатків у на інших сайтах, аби продовжити використовувати усі функції."
+msgstr[2] "Видалення цього сайту також видалить правила маршрутизації для <b>%s</b> додатків. Це обмежить їх функції..</p><p>Перед видаленням сайту налаштуйте правила маршрутизації для цих додатків у на інших сайтах, аби продовжити використовувати усі функції."
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:43
+msgid "Login, signup, and personal account"
+msgstr "Вхід, реєстрація та особистий кабінет"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:22
+msgid "Site URL"
+msgstr "URL-адреса сайту"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:33
+msgid "Matches Site URL"
+msgstr "Відповідає URL-адреса сайту"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:152
+msgid "Upload another favicon"
+msgstr "Завантажити інший фавикон"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:171
+msgid "Enable sign up and login forms for this site"
+msgstr "Увімкнути на цьому сайті форми реєстрації та входу"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:33
+msgid "New page"
+msgstr "Нова сторінка"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:19
+msgid "Page settings"
+msgstr "Налаштування сторінки"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:25
+msgid "This will delete entire page. Are you sure?"
+msgstr "Цілу сторінку буде видалено. Ви впевнені?"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:164
+msgid "draft"
+msgstr "чернетка"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:37
+msgid "Preview"
+msgstr "Попередній перегляд"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:190
+msgid "The page is not available on the website because “Site” app is not connected in the website structure."
+msgstr "Сторінка не доступна на сайті, тому що додаток «Сайт» не підключено до структури сайту."
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:58
+msgid "Draft"
+msgstr "Чернетка"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:60
+msgid "Published"
+msgstr "Опубліковано"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:67
+msgid "Page URL"
+msgstr "URL сторінки"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:108
+msgid "Page custom parameters"
+msgstr "Додаткові параметри сторінки"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:112
+msgid "Optional set of custom <em>key=value</em> parameters which can be used within page.html template or this page content as <em>&#123;$page.key&#125;</em>. Each key=value pair should be on a separate line."
+msgstr "Додатковий набір параметрів <em>key=value</em>, який можна використовувати у шаблоні page.html або у вмісті цій сторінки як <em>&#123;$page.key&#125;</em>. Кожна пара key=value має бути розміщена на окремому рядку."
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:112
+msgid "http://www.webasyst.com/framework/docs/site/pages/"
+msgstr "https://developers.webasyst.ru/templates/pages/"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:121
+msgid "WYSIWYG"
+msgstr "Візуальний редактор"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:145
+msgid "Disable this URL"
+msgstr "Відключити цю URL-адресу"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:146
+msgid "disable"
+msgstr "відключити"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:152
+msgid "Enable this URL"
+msgstr "Включити цей URL"
+
+#: /wa-apps/site/templates/actions/pages/Pages.html:153
+msgid "enable"
+msgstr "увімкнути"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:42
+msgid "Routing"
+msgstr "Маршрутизація"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:117
+msgid "Edit URL"
+msgstr "Змінити URL"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:129
+msgid "App settings"
+msgstr "Налаштування програми"
+
+#: /wa-apps/site/templates/actions/routing/Routing.html:36
+msgid "Rules are processed one by one in the given order. The first rule matching current HTTP request will be processed. Use * symbol in the URL fields for wildcard."
+msgstr "Правила обробляються одне за одним у певному порядку. При обробці поточного HTTP-запиту буде оброблено перше відповідне правило. Для підстановки використовуйте символ “*” у стрічці з URL."
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:22
+msgid "http://www.webasyst.com/framework/docs/site/structure/"
+msgstr "https://developers.webasyst.ru/docs/cookbook/basics/routing/"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:13
+msgid "{$app.name|escape} app settled at"
+msgstr "Додаток {$app.name|escape} поселено у"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:36
+msgid "Open website in a new window"
+msgstr "Відкрити сайт у новому вікні"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:9
+msgid "URL of this Webasyst installation (relative)."
+msgstr "URL цієї установки фреймворку Webasyst (відносний)."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:10
+msgid "URL of the current app settlement (relative)."
+msgstr "URL поселення поточного додатку (відносний)."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:11
+msgid "URL to access Webasyst backend (relative)."
+msgstr "URL доступу до бекенду (відносний)."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:12
+msgid "URL of the current app’s design theme folder (relative)."
+msgstr "URL директорії теми дизайну додатку (відносний)."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:15
+msgid "Assigns a new title."
+msgstr "Встановлює новий заголовок."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:16
+msgid "Returns name of this Webasyst installation specified in Installer app settings.<br><em>escape = false</em> requires to embed special characters in account name instead of displaying them."
+msgstr "Повертає назву цієї установки Webasyst, яку вказано у налаштуваннях Інсталера<br><em>escape = false</em> потребується, аби включити спеціальні символи до назви акаунта замість того, аби їх відобразити."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:17
+msgid "Returns this site’s core navigation menu which is either defined automatically or manually in the Site‘s “Settings” screen."
+msgstr "Повертає основне меню навігації сайту, яке визначається автоматично або вручну у розділі «Налаштування сайту» додатку «Сайт»."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:18
+msgid "Returns current page URL.<br><em>$absolute = true</em> requires to return an absolute URL instead of a relative one.<br><em>$without_params = true</em> requires to return current URL without GET parameters."
+msgstr "Повертає поточний URL сторінки.<br><em>$absolute = true</em> вимагає повернути абсолютний URL, а не відносний.<br><em>$without_params = true</em> вимагає повернути поточний URL без параметрів GET."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:19
+msgid "Returns this domain’s root URL (absolute)."
+msgstr "Повертає кореневий URL домену (абсолютний)."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:21
+msgid "Assigns a new value to a global variable."
+msgstr "Присвоює нове значення глобальній змінній."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:22
+msgid "Returns GET parameter value (same as PHP $_GET[\"<em>key</em>\"]).<br>\"<em>default</em>\" is an optional default value which is returned if specified GET parameter is not found."
+msgstr "Повертає значення параметру GET (подібно до PHP $_GET[\"<em>key</em>\"]). <br>\"<em>default</em>\" — це опціональне значення за замовчуванням, яке повертається, якщо не знайдено запрошений параметр GET."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:23
+msgid "Based on current session data, returns <em>true</em> or <em>false</em> depending on whether a multi-touch mobile device is used. If no session variable indicates the requested website version (mobile or desktop), User Agent information is used."
+msgstr "На основі даних поточної сесії, повертає <em>true</em> or <em>false</em> в залежності від того, чи використовується мультитач мобільний пристрій. Якщо жодна змінна сесії не вказує на запитувану версію сайту (мобільну або стаціонарну), використовується інформація User Agent."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:24
+msgid "Returns user locale; e.g., “en_US”, “ru_RU”. If the user is authorized, the locale is retrieved from the user’s record in the Contacts app or is detected automatically otherwise."
+msgstr "Повертає локаль користувача; наприклад, “en_US”, “uk_UA”. Якщо користувач авторизований, то локаль береться із запису користувача у додатку «Контакти»; в іншому випадку визначається автоматично."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:25
+msgid "Returns POST parameter value (same as $_POST[\"<em>key</em>\"] in PHP).<br>\"<em>default</em>\" is an optional default value which is returned if specified POST parameter is not found."
+msgstr "Повертає значення параметра POST (так само як $_POST[\"<em>key</em>\"] в PHP).<br>\"<em>default</em>default</em>\" є необов'язковим значенням за замовчуванням, яке повертається, якщо вказаний параметр POST не знайдено."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:26
+msgid "Returns SERVER parameter value (same as $_SERVER[\"<em>KEY</em>\"] in PHP).<br>\"<em>default</em>\" is an optional default value which is returned if specified server parameter is not found."
+msgstr "Повертає значення параметра SERVER (так само, як $_SERVER[\"<em>KEY</em>\"] у PHP).<br>\"<em>default</em> є необов'язковим значенням за замовчуванням, яке повертається, якщо вказаний серверний параметр не знайдено."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:27
+msgid "Returns SESSION var value (same as $_SESSION[\"<em>key</em>\"] in PHP).<br>\"<em>default</em>\" is an optional default value which is returned if specified session parameter is not found."
+msgstr "Повертає значення змінної SESSION (так само, як $_SESSION[\"<em>KEY</em>\"] у PHP).<br>\"<em>default</em> є необов'язковим значенням за замовчуванням, яке повертається, якщо вказаний параметр сесії не знайдено."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:28
+msgid "Embeds HTML block by ID.<br><em>$params</em> is array of Smarty variables to be passed to block contents."
+msgstr "Підключає блок HTML за ідентифікатором.<br><em>$params</em> — це масив змінних Smarty, які передаються до вмісту блоку."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:29
+msgid "Returns authorized user‘s data. \"<em>field</em>\" (string) is optional and indicates the field id to be returned. Returns <em>false</em> if user is not authorized.<br><em>$format</em> parameter (defaults to \"html\") defines the <a href=\"https://developers.webasyst.com/cookbook/basics/classes/waContact/#method-get\" target=\"_blank\">format</a> of the returned value."
+msgstr "Повертає дані авторизованого користувача. \"<em>поле</em>\" (рядок) є необов'язковим та зазначає ідентифікатор поля, що повертається. Повертає <em>false</em>, якщо користувач не авторизований.<br>Параметр <em>$format</em> (“html” за замовчуванням) визначає <a href=\"https://developers.webasyst.ru/docs/cookbook/basics/classes/waContact/#method-get\" target=\"_blank\">формат</a> значення, що повертається."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:33
+msgid "— not specified: returns entire User Agent string;"
+msgstr "— не вказано: повертає повний рядок User Agent;"
+
+#: /wa-apps/site/lib/config/install.php:14
+msgid "Welcome"
+msgstr "Ласкаво просимо"
+
+#: /wa-apps/site/themes/default/index.html:25
+msgid "Logout"
+msgstr "Вийти"
+
+#: /wa-apps/site/themes/default/login.html:3
+msgid "Login"
+msgstr "Логін"
+
+#: /wa-apps/site/themes/default/index.html:46
+msgid "Powered by Webasyst"
+msgstr "Працює на Вебасист"
+
+#: /wa-apps/site/themes/default/signup.html:4
+msgid "Thank you!"
+msgstr "Дякуємо!"
+
+#: /wa-apps/site/themes/default/signup.html:5
+msgid "You have successfully signed up."
+msgstr "Ви успішно зареєструвались."
+
+#: /wa-apps/site/themes/default/sidebar.html:4
+msgid "Edit this layout in your <a href=\"{$wa_backend_url}\">Webasyst backend</a> using “Site” app."
+msgstr "Відредагуйте цей макет у <a href=\"{$wa_backend_url}\">бекенді Вебасисту</a> з використанням додатку «Сайт»."
+
+#: /wa-apps/site/themes/default/error.html:8
+msgid "The requested resource is not available."
+msgstr "Ресурс недоступний."
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:77
+msgid "Displays structured information about variable. Arrays and objects are explored recursively with values indented to show structure."
+msgstr "Відображає структуровану інформацію про змінну. Масиви та об'єкти розглядаються рекурсивно зі значеннями для того, щоб показати структуру."
+
+#: /wa-apps/site/themes/custom/index.html:73
+msgid "Facebook"
+msgstr "Фейсбук"
+
+#: /wa-apps/site/themes/custom/index.html:74
+msgid "Twitter"
+msgstr "Твіттер"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:11
+msgid "Close"
+msgstr "Закрити"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:11
+msgid "Cancel"
+msgstr "Відміна"
+
+#: /wa-apps/site/templates/layouts/Sidebar.html:22
+msgid "http://www.webasyst.com/developers/docs/creating-a-website-tutorial/"
+msgstr "https://developers.webasyst.ru/tutorials/creating-a-website-tutorial/"
+
+#: /wa-apps/site/themes/vk/footer.html:4
+msgid "We are using <a href=\"http://www.webasyst.com/\" target=\"_blank\">Webasyst</a>"
+msgstr "Ми використовуємо <a href=\"http://www.webasyst.ru/\" target=\"_blank\">Webasyst</a>"
+
+#: /wa-apps/site/lib/actions/helper/siteHelper.action.php:33
+msgid "Returns path to design theme folder by <em>theme_id</em> and <em>app_id</em>."
+msgstr "Повертає шлях до папки теми дизайну по <em>theme_id</em> та <em>app_id</em>."
+
+#: /wa-apps/site/themes/clear/content.html:10
+#: /wa-apps/site/themes/custom/content.html:5
+#: /wa-apps/site/themes/default/index.html:68
+#: /wa-apps/site/themes/facebook/content.html:26
+#: /wa-apps/site/themes/nifty/content.html:7
+#: /wa-apps/site/themes/sidebar/content.html:7
+#: /wa-apps/site/themes/vk/content.html:26
+msgid "Start by creating a page in your <a href=\"%s\">site backend</a>."
+msgstr "Почніть зі створення сторінки у <a href=\"%s\">бекенді сайту</a>."
+
+#: /wa-apps/site/themes/default/my.profile.html:8
+msgid "Contact information successfully updated!"
+msgstr "Контактну інформацію успішно оновлено!"
+
+#: /wa-apps/site/templates/actions/personal/Personal.html:41
+msgid "Auth & Sign Up settings"
+msgstr "Налаштування авторизації та реєстрації"
+
+#: /wa-apps/site/templates/actions/personal/PersonalApp.html:26
+msgid "%s personal account URL: <a href=\"%s\">%s</a> <i class=\"icon10 new-window top-padded\"></i>"
+msgstr "%s URL персонального акаунту: <a href=\"%s\">%s</a> <i class=\"icon10 new-window top-padded\"></i>"
+
+#: /wa-apps/site/templates/actions/personal/PersonalProfile.html:3
+msgid "Personal account profile URL: <a href=\"%s\">%s</a> <i class=\"icon10 new-window top-padded\"></i>"
+msgstr "URL персонального профілю: <a href=\"%s\">%s</a> <i class=\"icon10 new-window top-padded\"></i>"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsSignup.html:177
+msgid "A confirmation link will be sent to user after sign up"
+msgstr "Посилання для підтвердження буде надіслано користувачеві після реєстрації"
+
+#: /wa-apps/site/templates/actions/settings/Settings.html:178
+msgid "Personal &rarr; <a href=\"%s\">Auth &amp; Sign Up settings</a>"
+msgstr "Особисті &rarr; <a href=\"%s\">Налаштування авторизації та входу</a>"
+
+#: /wa-apps/site/themes/default/my.profile.html:56
+msgid "Change password"
+msgstr "Змінити пароль"
+
+#: /wa-apps/site/themes/default/my.profile.html:69
+msgid "Delete photo"
+msgstr "Видалити фото"
+
+#: /wa-apps/site/themes/default/signup.html:3
+msgid "You successfully confirmed email."
+msgstr "Ви успішно підтвердили адресу електронної пошти."
+
+#: /wa-apps/site/lib/siteCustomSignup.action.php:61
+msgid "Specified email is already in use."
+msgstr "Вказану адресу електронної пошти вже використовується."
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:79
+msgid "Temporary redirecting"
+msgstr "Тимчасове перенаправлення"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:83
+msgid "Use server response code 302"
+msgstr "Використовувати код відповіді сервера 302"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:87
+msgid "Enable for <strong>temproray</strong> redirecting only, which you are planning to cancel in the future."
+msgstr "Увімкнути тільки для тимчасового перенаправлення, яке ви плануєте скасувати у майбутньому."
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:88
+msgid "Disable for <strong>permanent</strong> redirecting with server response code 301, which is used to inform search engines that the new URL should be indexed instead of the old one."
+msgstr "Вимкніть для постійного перенаправлення з кодом відповіді сервера 301, який інформує пошукові системи про необхідність індексувати новий URL замість застарілого."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:96
+msgid "A registered website visitor will be able to log in only with an email address or phone number confirmed."
+msgstr "Зареєстрований відвідувач сайту зможе авторизуватись тільки за адресою email або підтвердженим номером телефону."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:293
+msgid "National direct-dialing code (NDD)"
+msgstr "Національній код прямого виклику (National direct-dialing code, NDD)"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:301
+msgid "Enter the NDD code which is used for making calls within your country."
+msgstr "Вкажіть код прямого виклику, який використовується для дзвінків по вашій країні."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:302
+msgid "The NDD, if specified, will be replaced with the country code in website visitors’ phone numbers."
+msgstr "Код прямого виклику, якщо вказано, буде замінено кодом країни у номерах телефонів користувачів сайту."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:305
+msgid "Country code"
+msgstr "Код країни"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:310
+msgid "Enter your country’s phone number code to be used in website visitors’ phone numbers instead of the NDD."
+msgstr "Введіть телефонний код вашої країни, який буде використовуватись у номерах телефонів користувачів замість коду прямого виклику."
+
+#: /wa-apps/site/lib/actions/personal/sitePersonalSettingsSave.controller.php:57
+#: /wa-apps/site/lib/actions/personal/sitePersonalSettingsSave.controller.php:60
+msgid "Enter digits only"
+msgstr "Введіть тільки цифри"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:227
+msgid "text (text/plain)"
+msgstr "текст (text/plain)"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:228
+msgid "HTML code (text/html)"
+msgstr "Код HTML (text/html)"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:231
+msgid "If content type “file” is selected, downloading of a file will start automatically if there is no extension in its name."
+msgstr "Якщо обрано тип «файл», завантаження файлу почнеться автоматично, у разі, коли у його назві немає розширення."
+
+#: /wa-apps/site/themes/default/main.html:5
+msgid "Open “<a href=\"%s\">Pages</a>” section and add a new page with an empty address. You will see its contents here."
+msgstr "Відкрийте розділ «<a href=\"%s\">Сторінки</a>» та додайте нову сторінку із пустою адресою. Її вміст ви побачите нижче."

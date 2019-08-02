@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Webasyst Pickup point 1.0.3.25 plugin UA translation v 0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
+"Language: uk_UA\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: /wa-plugins/shipping/sd/lib/sdShipping.class.php:61
+msgid "Pickup is not available for this address."
+msgstr "Самовивіз для цієї адреси недоступний."
+
+#: /wa-plugins/shipping/sd/lib/sdShipping.class.php:64
+msgid "Weight values above the limit."
+msgstr "Значення ваги перевищує обмеження."
+
+#: /wa-plugins/shipping/sd/lib/sdShipping.class.php:67
+msgid "Size values above the limit."
+msgstr "Розміри перевищують обмеження."
+
+#: /wa-plugins/shipping/sd/lib/sdShipping.class.php:795
+msgid "kg"
+msgstr "кг"
+
+#: /wa-plugins/shipping/sd/lib/sdShipping.class.php:796
+msgid "lbs"
+msgstr "фунти"
+
+#: /wa-plugins/shipping/sd/lib/sdShipping.class.php:870
+msgid "Fill in the required field."
+msgstr "Заповніть необхідне поле."
+
+#: /wa-plugins/shipping/sd/lib/sdShipping.class.php:880
+msgid "At least one working day is required."
+msgstr "Потрібен принаймні один робочий день."
+
+#: /wa-plugins/shipping/sd/lib/sdShipping.class.php:932
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:234
+msgid "Invalid date"
+msgstr "Неприпустима дата"
+
+#: /wa-plugins/shipping/sd/lib/sdShipping.class.php:942
+msgid "Invalid time"
+msgstr "Неприпустимий час"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_additional.html:4
+msgid "Additional info"
+msgstr "Додаткова інформація"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_additional.html:9
+msgid "How to reach"
+msgstr "Як дістатися"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_additional.html:18
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:109
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:176
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:209
+msgid "Description"
+msgstr "Опис"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_additional.html:27
+msgid "Upload a photo"
+msgstr "Завантажити фото"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_additional.html:36
+msgid "Photos"
+msgstr "Фото"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_additional.html:48
+#: /wa-plugins/shipping/sd/templates/include.settings_additional.html:65
+msgid "remove"
+msgstr "видалити"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_basic_settings.html:4
+msgid "Basic settings"
+msgstr "Основні параметри"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_basic_settings.html:8
+msgid "Currency"
+msgstr "Валюта"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_basic_settings.html:21
+msgid "Weight dimension unit"
+msgstr "Одиниця виміру ваги"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_basic_settings.html:32
+msgid "Length dimension unit"
+msgstr "Одиниця виміру довжини"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_basic_settings.html:43
+msgid "Service"
+msgstr "Послуга"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_basic_settings.html:50
+msgid "Address"
+msgstr "Адреса"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_basic_settings.html:58
+msgid "Shipping time"
+msgstr "Час доставки"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_basic_settings.html:65
+msgid "hours"
+msgstr "години"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_basic_settings.html:66
+msgid "Time required to deliver ordered items to this pickup point, which is added to the total order ready time."
+msgstr "Час, необхідний, аби доставити замовлені товари у цей пункт самовивозу. Додається до терміну загальної готовності замовлення."
+
+#: /wa-plugins/shipping/sd/templates/include.settings_basic_settings.html:71
+msgid "Storage time"
+msgstr "Термін зберігання"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_basic_settings.html:73
+msgid "days"
+msgstr "дні"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:43
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:126
+msgid "from"
+msgstr "від"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:49
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:132
+msgid "to"
+msgstr "до"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:86
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:107
+msgid "Working time"
+msgstr "Години роботи"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:90
+msgid "Time zone"
+msgstr "Часовий пояс"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:105
+msgid "Day of the week"
+msgstr "День тижня"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:106
+msgid "Works"
+msgstr "Працює"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:108
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:159
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:175
+msgid "Orders for pickup"
+msgstr "Замовлення на самовивіз"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:159
+msgid "Values in “%s” column denote the last hour of a pickup point’s workday until which orders are accepted to be ready for pickup by customers on the same day. Orders received after that hour are ready for pickup on the next workday."
+msgstr "Значення у колонці “%s” позначають останню робочу годину пункту самовивозу, до якої приймаються замовлення для видачі на той же день. Замовлення, прийняті після цієї години, будуть готові до видачі наступного робочого дня."
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:167
+msgid "Extra workdays"
+msgstr "Додаткові робочі дні"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:173
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:208
+msgid "Date"
+msgstr "Дата"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:174
+msgid "Time"
+msgstr "Час"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:182
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:215
+msgid "Add date"
+msgstr "Додати дату"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_work_time.html:202
+msgid "Extra days off"
+msgstr "Додаткові вихідні"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:5
+msgid "Shipping cost"
+msgstr "Вартість доставки"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:9
+msgid "Minimum order cost for free delivery"
+msgstr "Мінімальна вартість замовлення для безкоштовної доставки"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:12
+msgid "Base cost and markups are ignored when free delivery is applied."
+msgstr "Базова вартість і націнки ігноруються при застосуванні безкоштовної доставки."
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:17
+msgid "Base cost"
+msgstr "Базова вартість"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:25
+msgid "Markup for extra order weight"
+msgstr "Націнка за перевищення ваги замовлення"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:29
+msgid "Threshold weight"
+msgstr "Поріг ваги"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:37
+msgid "Markup for weight"
+msgstr "Націнка за вагу"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:46
+msgid "Markup for extra order dimensions"
+msgstr "Розмітка для перевищення розмірів замовлення"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:49
+msgid "Threshold length"
+msgstr "Поріг довжини"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:56
+msgid "Threshold width"
+msgstr "Поріг ширини"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:63
+msgid "Threshold height"
+msgstr "Поріг висоти"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:70
+msgid "Markup for order dimensions"
+msgstr "Націнка за розміри замовлення"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_shipping_cost.html:73
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:99
+msgid "Use data provided by special plugins for comparison with common order dimensions. If no order dimensions data are available, the maximum length, width, and height values of order items are used."
+msgstr "Використовувати дані, надані спеціальними плагінами для порівняння зі стандартними розмірами замовлення. Якщо дані про розміри недоступні, використовуються максимальна довжина, ширина і висота позицій замовлення."
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:4
+msgid "Availability options"
+msgstr "Параметри доступності"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:9
+msgid "Country"
+msgstr "Країна"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:24
+msgid "Region"
+msgstr "Регіон"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:29
+msgid "Shipping will be restricted to the selected country. Rates defined below will be applied to the entire country."
+msgstr "Доставку буде обмежено обраною країною. Визначені нижче ставки буде застосовано до усієї країни."
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:41
+msgid "Shipping will be restricted to the selected region."
+msgstr "Доставку буде обмежено обраним регіоном."
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:48
+msgid "Localities"
+msgstr "Населені пункти"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:53
+msgid "Separate localities with a comma"
+msgstr "Розділяйте населені пункти комами (,)"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:59
+msgid "Coordinates"
+msgstr "Координати"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:62
+msgid "Latitude"
+msgstr "Широта"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:68
+msgid "Longitude"
+msgstr "Довгота"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:71
+msgid "Use this service to get coordinates:"
+msgstr "Скористатися даним сервісом для отримання координат:"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:78
+msgid "Max weight"
+msgstr "Максимальна вага"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:84
+msgid "Max length"
+msgstr "Максимальна довжина"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:90
+msgid "Max width"
+msgstr "Максимальна ширина"
+
+#: /wa-plugins/shipping/sd/templates/include.settings_available_shipping.html:96
+msgid "Max height"
+msgstr "Максимальна висота"

@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Webasyst Team CalDAV plugin 1.1.0.23 UA translation v 0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
+"Language: uk_UA\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:6
+msgid "Yandex"
+msgstr "Яндекс"
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:26
+msgid "Other"
+msgstr "Інше"
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:35
+msgid "Service"
+msgstr "Послуга"
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:52
+msgid "Specify URL to your CalDAV server"
+msgstr "Вкажіть URL-адресу сервера CalDAV"
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:59
+msgid "Login"
+msgstr "Логін"
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:67
+msgid "Password"
+msgstr "Пароль"
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:78
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:79
+msgid "Connect"
+msgstr "Підключити"
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:80
+msgid "or"
+msgstr "або"
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:81
+msgid "cancel"
+msgstr "скасувати"
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:135
+msgid "Choose server"
+msgstr "Обрати сервер"
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:153
+msgid "Invalid URL"
+msgstr "Невірний URL"
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:155
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:179
+msgid "Specified login or password is invalid"
+msgstr "Невірний логін або пароль."
+
+#: /wa-apps/team/plugins/caldav/templates/authorize.html:157
+msgid "No CalDAV-server on specified URL"
+msgstr "За вказаним URL сервер CalDAV не знайдено"
+
+#: /wa-apps/team/plugins/caldav/lib/config/plugin.php:4
+msgid "CalDAV client"
+msgstr "Клієнт CalDAV"
+
+#: /wa-apps/team/plugins/caldav/lib/config/plugin.php:5
+msgid "iCloud, Yandex, Yahoo!, Fruux calendars and any CalDAV server integration"
+msgstr "Інтеграція з iCloud, Yandex, Yahoo!, Fruux та будь-якими іншими календарями на базі CalDAV"

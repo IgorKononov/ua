@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Webasyst Team iCalendar plugin 1.1.0.12 UA translation v 0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
+"Language: uk_UA\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: /wa-apps/team/plugins/ics/templates/scheduleSettings.html:2
+#: /wa-apps/team/plugins/ics/templates/ImportDialog.html:23
+msgid "Import events from file"
+msgstr "Імпортувати події з файлу"
+
+#: /wa-apps/team/plugins/ics/templates/connect.html:6
+msgid "WebCal subscription URL"
+msgstr "URL підписки WebCal"
+
+#: /wa-apps/team/plugins/ics/templates/connect.html:12
+msgid "Subscribe"
+msgstr "Підписатися"
+
+#: /wa-apps/team/plugins/ics/templates/connect.html:13
+#: /wa-apps/team/plugins/ics/templates/ImportDialog.html:73
+msgid "or"
+msgstr "або"
+
+#: /wa-apps/team/plugins/ics/templates/connect.html:14
+#: /wa-apps/team/plugins/ics/templates/ImportDialog.html:74
+msgid "cancel"
+msgstr "скасувати"
+
+#: /wa-apps/team/plugins/ics/templates/ImportDialog.html:11
+msgid "Empty"
+msgstr "Порожній"
+
+#: /wa-apps/team/plugins/ics/templates/ImportDialog.html:29
+msgid "Choose .ics file"
+msgstr "Оберіть .файл ICS"
+
+#: /wa-apps/team/plugins/ics/templates/ImportDialog.html:32
+msgid "Import from file"
+msgstr "Імпортувати з файлу"
+
+#: /wa-apps/team/plugins/ics/templates/ImportDialog.html:37
+msgid "Calendar"
+msgstr "Календар"
+
+#: /wa-apps/team/plugins/ics/templates/ImportDialog.html:73
+msgid "Import"
+msgstr "Імпорт"
+
+#: /wa-apps/team/plugins/ics/lib/teamIcs.plugin.php:59
+msgid "Can't download by current URL"
+msgstr "Не вдається скачати за поточною URL-адресою"
+
+#: /wa-apps/team/plugins/ics/lib/teamIcs.plugin.php:66
+msgid "No iCalendar found on specified URL"
+msgstr "iCalendar за вказаною URL не знайдено"
+
+#: /wa-apps/team/plugins/ics/lib/teamIcs.plugin.php:43
+msgid "URL is empty string"
+msgstr "URL-адреса є порожнім рядком"
+
+#: /wa-apps/team/plugins/ics/lib/teamIcs.plugin.php:50
+msgid "URL scheme is unknown"
+msgstr "Схема URL-адреси невідома"
+
+#: /wa-apps/team/plugins/ics/lib/teamIcs.plugin.php:55
+msgid "URL host is empty"
+msgstr "Хост URL-адреси порожній"
+
+#: /wa-apps/team/plugins/ics/lib/config/plugin.php:5
+msgid "RFC 5545 iCalendar specification support for events import via WebCal subscriptions (iCal URL) and uploading local .ics files"
+msgstr "Підтримка специфікації RFC 5545 iCalendar для імпорту подій з підписок WebCal (iCal URL) та завантаження локальних файлів .ics"

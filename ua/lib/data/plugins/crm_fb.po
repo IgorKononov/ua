@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Webasyst CRM Facebook plugin 1.0.3.12 UA translation v 0.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
+"Language: uk_UA\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:9
+#: /wa-apps/crm/plugins/fb/templates/source/message/SenderDialog.html:9
+msgid "(no subject)"
+msgstr "(без теми)"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:24
+#: /wa-apps/crm/plugins/fb/templates/source/message/formatted/LogInline.html:3
+#: /wa-apps/crm/plugins/fb/templates/source/message/SenderDialog.html:23
+msgid "incoming"
+msgstr "вхідні"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:26
+#: /wa-apps/crm/plugins/fb/templates/source/message/formatted/LogInline.html:8
+#: /wa-apps/crm/plugins/fb/templates/source/message/SenderDialog.html:25
+msgid "outgoing"
+msgstr "вихідні"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:32
+#: /wa-apps/crm/plugins/fb/templates/source/message/SenderDialog.html:31
+msgid "open conversation"
+msgstr "відкрити розмову"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:40
+#: /wa-apps/crm/plugins/fb/templates/source/message/SenderDialog.html:40
+msgid "From"
+msgstr "Від"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:51
+#: /wa-apps/crm/plugins/fb/templates/source/message/SenderDialog.html:51
+msgid "To"
+msgstr "Для"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:70
+#: /wa-apps/crm/plugins/fb/templates/source/message/SenderDialog.html:70
+msgid "Deal"
+msgstr "Угода"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:101
+msgid "Reply"
+msgstr "Відповісти"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:102
+#: /wa-apps/crm/plugins/fb/templates/source/message/SenderDialog.html:137
+msgid "or"
+msgstr "або"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:102
+#: /wa-apps/crm/plugins/fb/templates/source/message/SenderDialog.html:137
+msgid "cancel"
+msgstr "скасувати"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:107
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:129
+msgid "Delete message"
+msgstr "Видалити повідомлення"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ViewerDialog.html:128
+msgid "Delete"
+msgstr "Видалити"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ConversationReplyForm.html:16
+msgid "Write a message"
+msgstr "Написати повідомлення"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/ConversationReplyForm.html:18
+#: /wa-apps/crm/plugins/fb/templates/source/message/SenderDialog.html:136
+msgid "Send"
+msgstr "Надіслати"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/formatted/LogInline.html:4
+msgid "to"
+msgstr "для"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/formatted/LogInline.html:9
+msgid "to "
+msgstr "для "
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/SenderDialog.html:146
+msgid "Message sent successfully"
+msgstr "Повідомлення відправлене"
+
+#: /wa-apps/crm/plugins/fb/templates/source/message/SenderDialog.html:150
+msgid "Close"
+msgstr "Закрити"
+
+#: /wa-apps/crm/plugins/fb/templates/FbPluginSettings.html:2
+msgid "Plugin %s is installed and working."
+msgstr "Плагін %s встановлено і запущено."
+
+#: /wa-apps/crm/plugins/fb/templates/FbPluginSettings.html:3
+msgid "Specify configuration parameters on <a href=\"%s\">deal source settings</a>."
+msgstr "Задайте параметри на <a href=\"%s\">екрані налаштувань джерела угод</a>."
