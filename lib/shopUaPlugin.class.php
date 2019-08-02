@@ -12,6 +12,7 @@ class shopUaPlugin extends shopPlugin
             }
         }
         $this->installLocale();
+        $this->copyJs();
         if (wa('installer')) {
             installerHelper::flushCache();
         }
@@ -20,7 +21,9 @@ class shopUaPlugin extends shopPlugin
     private function getLocalePath($parts)
     {
         $home = wa()->getConfig()->getRootPath();
-        if (!isset($parts[1])) {
+        if ($parts[0] == 'webasyst') {
+            $home .= "/wa-system/webasyst/";
+        } elseif (!isset($parts[1])) {
             $home .= "/wa-apps/{$parts[0]}/";
         } elseif (in_array($parts[0], ['payment', 'shipping', 'sms'])) {
             $home .= "/wa-plugins/{$parts[0]}/{$parts[1]}/";
@@ -44,6 +47,22 @@ class shopUaPlugin extends shopPlugin
             $locales[] = 'uk_UA';
             waUtils::varExportToFile($locales, wa()->getConfig()->getPath('config', 'locale'));
         }
+    }
+
+    private function copyJs()
+    {
+        waFiles::copy(
+            wa()->getAppPath('plugins/ua/js/jquery.ui.datepicker-uk_UA.js', 'shop'),
+            wa()->getConfig()->getRootPath() . '/wa-content/js/jquery-ui/i18n/jquery.ui.datepicker-uk_UA.js'
+        );
+        waFiles::copy(
+            wa()->getAppPath('plugins/ua/js/uk.js', 'shop'),
+            wa()->getConfig()->getRootPath() . '/wa-content/js/redactor/uk.js'
+        );
+        waFiles::copy(
+            wa()->getAppPath('plugins/ua/js/uk2.js', 'shop'),
+            wa()->getConfig()->getRootPath() . '/wa-content/js/redactor/2/uk.js'
+        );
     }
 
     private function getLocaleInfo()
