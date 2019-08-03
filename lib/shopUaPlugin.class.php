@@ -11,24 +11,19 @@ class shopUaPlugin extends shopPlugin
                 waFiles::copy($datapath . $file, $path . basename($file));
             }
         }
-        $this->installLocale();
-        $this->copyJs();
-        if (wa('installer')) {
-            installerHelper::flushCache();
-        }
     }
 
     private function getLocalePath($parts)
     {
         $home = wa()->getConfig()->getRootPath();
-        if ($parts[0] == 'webasyst') {
+        if ($parts[0] === 'webasyst') {
             $home .= "/wa-system/webasyst/";
         } elseif (!isset($parts[1])) {
-            $home .= "/wa-apps/{$parts[0]}/";
-        } elseif (in_array($parts[0], ['payment', 'shipping', 'sms'])) {
-            $home .= "/wa-plugins/{$parts[0]}/{$parts[1]}/";
+            $home .= "/wa-apps/$parts[0]/";
+        } elseif (in_array($parts[0], array('payment', 'shipping', 'sms'))) {
+            $home .= "/wa-plugins/$parts[0]/$parts[1]/";
         } else {
-            $home .= "/wa-apps/{$parts[0]}/plugins/{$parts[1]}/";
+            $home .= "/wa-apps/$parts[0]/plugins/$parts[1]/";
         }
         if (!file_exists($home)) {
             return false;
@@ -79,5 +74,15 @@ class shopUaPlugin extends shopPlugin
             'thousands_sep' => ',',
             'iso3' => 'ukr',
         );
+    }
+
+    public function saveSettings($settings = array())
+    {
+        $this->installFiles();
+        $this->installLocale();
+        $this->copyJs();
+        if (wa('installer')) {
+            installerHelper::flushCache();
+        }
     }
 }
