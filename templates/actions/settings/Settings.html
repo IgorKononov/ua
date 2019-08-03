@@ -1,0 +1,13 @@
+<form action="?module=plugins&id=ua&action=save">
+    <input type="submit" class="button green" id="ua-update" value="Применить/обновить перевод">
+    <span id="ua-success" style="display: none"><i style="vertical-align:middle" class="icon16 yes"></i></span>
+</form>
+
+<script>
+    $("#ua-update").click(function (e) {
+        e.preventDefault();
+        $.get("?module=plugins&id=ua&action=save", function (response) {
+            $("#ua-success").show();
+        })
+    });
+</script>

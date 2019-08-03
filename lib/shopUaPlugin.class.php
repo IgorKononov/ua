@@ -12,7 +12,7 @@ class shopUaPlugin extends shopPlugin
         }
     }
 
-    public function installFiles()
+    private function installFiles()
     {
         $datapath = __DIR__ . '/data/';
         foreach (waFiles::listdir($datapath, true) as $file) {

@@ -5,4 +5,5 @@ return array(
     'img' => 'img/ua.png',
     'version' => '0.1',
     'vendor' => '1077750',
+    'custom_settings' => true,
 );
