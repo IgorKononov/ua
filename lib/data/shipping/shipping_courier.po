@@ -1,19 +1,19 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Courier plugin 1.4.1.38 UA Translation v 1.0\n"
+"Project-Id-Version: Webasyst Courier plugin 1.4.3.40 UA Translation v 1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2019-07-01T14:09:29+03:00\n"
-"PO-Revision-Date: 2019-07-07 16:13+0300\n"
+"PO-Revision-Date: 2019-08-03 18:03+0300\n"
 "Language: uk_UA\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 2.2.3\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
@@ -22,7 +22,7 @@ msgstr ""
 #: /wa-plugins/shipping/courier/lib/config/settings.php:38
 #: /wa-plugins/shipping/courier/lib/courierShipping.class.php:216
 msgid "Preferred delivery time"
-msgstr "Кращий термін поставки "
+msgstr "Бажаний час доставки"
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:36
 #: //wa-plugins/shipping/courier/lib/config/settings.php:23
@@ -32,12 +32,12 @@ msgstr "Розрахунковий час доставки "
 #: /wa-plugins/shipping/courier/lib/config/settings.php:37
 #: //wa-plugins/shipping/courier/lib/config/settings.php:24
 msgid "Average order transit time. Estimated delivery date will be calculated automatically and shown to customer.<br><br>"
-msgstr "Середня транзитний час замовлення. Орієнтовна дата доставки буде автоматично розрахована і показана для клієнтів.<бр><бр>"
+msgstr "Середній час обробки замовлення. Розрахункову дату доставки буде обраховано автоматично та показано клієнтові.<br><br>"
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:40
 #: //wa-plugins/shipping/courier/lib/config/settings.php:27
 msgid "Same day"
-msgstr "В той же день"
+msgstr "Той же день"
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:41
 #: //wa-plugins/shipping/courier/lib/config/settings.php:28
@@ -47,7 +47,7 @@ msgstr "Наступний день"
 #: /wa-plugins/shipping/courier/lib/config/settings.php:42
 #: //wa-plugins/shipping/courier/lib/config/settings.php
 msgid "1-2 days"
-msgstr "1-2 дня"
+msgstr "1-2 дні"
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:43
 #: //wa-plugins/shipping/courier/lib/config/settings.php:29
@@ -72,7 +72,7 @@ msgstr "Кур'єр"
 #: /wa-plugins/shipping/courier/lib/config/plugin.php:4
 #: //wa-plugins/shipping/courier/lib/config/plugin.php:4
 msgid "Shipping is restricted to the specific country and region only. Shipping rate is calculated based on either total amount or weight of the shipment."
-msgstr "Доставка обмежується тільки конкретній країні та регіоні. Вартість доставки розраховується на основі загальної кількості або ваги вантажу."
+msgstr "Доставку обмежено тільки конкретною країною та регіоном. Вартість доставки розраховується на основі загальної кількості або ваги вантажу."
 
 #: /wa-plugins/shipping/courier/templates/form.html:64
 #: //wa-plugins/shipping/courier/templates/form.html:109
@@ -103,70 +103,70 @@ msgstr "Адреса доставки"
 #: /wa-plugins/shipping/courier/templates/form.html:103
 #: //wa-plugins/shipping/courier/templates/form.html:118
 msgid "Comment"
-msgstr "Як"
+msgstr "Коментар"
 
 #: /wa-plugins/shipping/courier/templates/settings.html:19
 #: //wa-plugins/shipping/courier/templates/settings.html:18
 msgid "Shipping will be restricted to the selected country. Rates defined below will be applied to the entire country."
-msgstr "Доставка буде обмежено обраній країні. Ставки, які визначаються нижче, будуть застосовані до всієї країни."
+msgstr "Доставку буде обмежено обраною країною. Визначені нижче тарифи буде застосовано до усієї країни."
 
 #: /wa-plugins/shipping/courier/templates/settings.html:4
 #: /wa-plugins/shipping/courier/templates/settings.html:6
 #: //wa-plugins/shipping/courier/templates/settings.html:3
 msgid "Shipping region"
-msgstr "Доставка області"
+msgstr "Область доставки"
 
 #: /wa-plugins/shipping/courier/templates/settings.html:31
 #: //wa-plugins/shipping/courier/templates/settings.html:29
 msgid "Shipping will be restricted to the selected region."
-msgstr "Доставка буде у вибраному регіоні."
+msgstr "Доставку буде обмежено обраним регіоном."
 
 #: /wa-plugins/shipping/courier/templates/settings.html:41
 #: //wa-plugins/shipping/courier/templates/settings.html:39
 msgid "City name"
-msgstr "Назва міста "
+msgstr "Назва міста"
 
 #: /wa-plugins/shipping/courier/templates/settings.html:43
 #: //wa-plugins/shipping/courier/templates/settings.html:40
 msgid "If courier shipping is provided only within specific cities, enter the city names separated by comma so that customer is not be prompted to enter city name when this shipping option is selected; a city name will be automatically fetched as you specify it here. If this field is left blank, a customer will be prompted to enter a city name."
-msgstr "Якщо кур'єрська доставка здійснюється лише в межах конкретних міст, введіть назви міст через кому, так що клієнт не буде вводити назву міста, коли цей варіант доставки обрано; назву міста буде автоматично вилучено, як ви вкажіть його тут. Якщо це поле порожнє, то клієнт буде запропоновано ввести ім'я міста."
+msgstr "Якщо кур'єрська доставка здійснюється лише в межах конкретних міст, введіть назви міст через кому, таким чином клієнт не буде вводити назву міста, коли обрано цей варіант доставки; назву міста буде автоматично заповнено, як ви вкажете його тут. Якщо це поле порожнє, то клієнту буде запропоновано вказати назву міста."
 
 #: /wa-plugins/shipping/courier/templates/settings.html:49
 msgid "Address fields management"
-msgstr "Адреса Поля управління "
+msgstr "Управління полями адреси"
 
 #: /wa-plugins/shipping/courier/templates/settings.html:52
 msgid "Use plugin‘s default fields only"
-msgstr "Поля використовувати плагін за промовчанням"
+msgstr "Використовувати тільки поля плагіна за замовчуванням"
 
 #: /wa-plugins/shipping/courier/templates/settings.html:53
 msgid "Enable this option for the plugin to require from a client <em>mandatory</em> completion of the fields only, which are selected below in setting “Default address fields”.<br>Disable it to make the plugin <em>optionally</em> request only address fields defined by app settings (the app must request all address fields required for selected shipping method)."
-msgstr "Ввімкніть цю опцію для плагіна, щоб зажадати від клієнта <ЕМ>обов'язковий</em> заповнення тільки поля, які обрані нижче в параметр \"адреса Поля за замовчуванням\".<br>і вимкніть його, щоб зробити плагін <ЕМ>додатково</em> запит тільки адресних полів визначається настройками програми (додаток повинен запросити всі необхідні поля адреси для обраного способу доставки)."
+msgstr "Увімкніть цю опцію, аби запитати у клієнта лише <em>обов'язкові</em> поля, які відмічено у налаштуванні «Стандартні поля адреси».<br> Вимкніть її, аби запропонувати <em>необов'язково</em> заповнити тільки поля адреси з налаштувань додатку (додаток має запитувати усі поля адреси, необхідні для обраного варіанту доставки)."
 
 #: /wa-plugins/shipping/courier/templates/settings.html:59
 msgid "Default address fields"
-msgstr "Адреса Поля за замовчуванням "
+msgstr "Поля адреси за замовчуванням"
 
 #: /wa-plugins/shipping/courier/templates/settings.html:65
 msgid "Enable shipping address fields which must always be filled by a client during checkout."
-msgstr "Включити адресу доставки поля, які завжди повинні бути заповнені клієнтом при оформленні замовлення."
+msgstr "Увімкнути поля адреси доставки, які завжди повинні бути заповнені клієнтом при оформленні замовлення."
 
 #: /wa-plugins/shipping/courier/templates/settings.html:66
 msgid "Should some of the enabled fields be filled on the contact info step, then they will not be displayed on courier shipping selection."
-msgstr "Якщо деякі з полів дозволили бути заповнені в контактній інформації крок, то вони не будуть відображатися на вибір кур'єрська доставка."
+msgstr "Якщо деякі поля було заповнено на кроці контактної інформації, то їх не буде показано при виборі доставки кур'єром."
 
 #: /wa-plugins/shipping/courier/templates/settings.html:67
 msgid "Disabled can be only fields that are not completed in the above setting “Shipping region”."
-msgstr "Інваліди можуть бути тільки ті поля, які не завершені вище параметр \"регіон доставка\"."
+msgstr "Вимкнути можна тільки ті поля, які не заповнено у параметрі «Регіон доставки» вище."
 
 #: /wa-plugins/shipping/courier/templates/settings.html:85
 msgid "Online map settings are available in <a href=\"%s\">Installer</a> app."
-msgstr "Налаштування онлайн карті доступні в <а href=\"%з\">налаштування</a> в додаток."
+msgstr "Налаштування сервісу онлайн-карт доступне у додатку <a href=\"%s\">Налаштування</a>."
 
 #: /wa-plugins/shipping/courier/templates/settings.html:96
 #: //wa-plugins/shipping/courier/templates/settings.html:46
 msgid "Shipping rate calculation"
-msgstr "Розрахунок вартість доставки "
+msgstr "Розрахунок вартості доставки"
 
 #: /wa-plugins/shipping/courier/templates/settings.html:102
 #: //wa-plugins/shipping/courier/templates/settings.html:52
@@ -193,17 +193,17 @@ msgstr "Сума відвантаження "
 #: /wa-plugins/shipping/courier/templates/settings.html:183
 #: //wa-plugins/shipping/courier/templates/settings.html:129
 msgid "Shipping rate"
-msgstr "Вартість доставки "
+msgstr "Тариф доставки"
 
 #: /wa-plugins/shipping/courier/templates/settings.html:150
 #: //wa-plugins/shipping/courier/templates/settings.html:100
 msgid "Add rate"
-msgstr "Додайте швидкості"
+msgstr "Додати тариф"
 
 #: /wa-plugins/shipping/courier/templates/settings.html:154
 #: /wa-plugins/shipping/courier/templates/settings.html:106
 msgid "Enter shipping rate as a flat rate, as a percent of cart total, or as a sum of both. Example: <b>20+10%%</b> will calculate shipping rate as 20 %s + 10%% of cart total."
-msgstr "Введіть вартість доставки як фіксована ставка, у відсотках від загальної кошику, або як сума обох. Приклад: <б>20+10%%</B> буде розрахувати вартість доставки у розмірі 20% до + 10% від загальної кошика."
+msgstr "Вкажіть вартість доставки у вигляді фіксованої ставки, або у відсотках від загальної суми кошику, або як суму обох. Приклад: <b>20+10%%</b> буде розрахувати вартість доставки у розмірі 20 %s + 10%% від загальної суми кошика"
 
 #: /wa-plugins/shipping/courier/templates/settings.html:173
 #: /wa-plugins/shipping/courier/templates/settings.html:211
@@ -222,19 +222,19 @@ msgstr "фунтів"
 #: /wa-plugins/shipping/courier/templates/settings.html:206
 #: //wa-plugins/shipping/courier/templates/settings.html:150
 msgid "Weight dimension unit"
-msgstr "Вага одиниці виміру "
+msgstr "Одиниця виміру ваги"
 
 #: //wa-plugins/shipping/courier/templates/settings.html:154
 msgid "KG"
-msgstr "Кг"
+msgstr "КГ"
 
 #: //wa-plugins/shipping/courier/templates/settings.html:158
 msgid "LBS"
-msgstr "Фунтів"
+msgstr "ФУНТІВ"
 
 #: //wa-plugins/shipping/courier/templates/settings.html:104
 msgid "Enter shipping rate as a flat rate, as a percent of cart total, or as a sum of both. Example: <b>20+10%%</b> will calculate shipping rate as 20 %s + 10%% of cart total"
-msgstr "Введіть вартість доставки як фіксована ставка, у відсотках від загальної кошику, або як сума обох. Приклад: <б>20+10%%</B> буде розрахувати вартість доставки у розмірі 20% до + 10% від загальної кошика"
+msgstr "Вкажіть вартість доставки у вигляді фіксованої ставки, або у відсотках від загальної суми кошику, або як суму обох. Приклад: <b>20+10%%</b> буде розрахувати вартість доставки у розмірі 20 %s + 10%% від загальної суми кошика."
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:35
 #: //wa-plugins/shipping/courier/lib/config/settings.php:23
@@ -243,19 +243,19 @@ msgstr "Час доставки"
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:44
 msgid "Specified time in hours"
-msgstr "Вказаний час у годинах"
+msgstr "Вказаний у годинах час"
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:49
 msgid "Average delivery time in hours"
-msgstr "Середній термін доставки у годинах"
+msgstr "Середній час доставки у годинах"
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:50
 msgid "Average time in hours required for a courier to deliver an order. It will be added to the order ready time with the account of values in “Delivery intervals” table with extra days off and workdays."
-msgstr "Середній час у годинах, необхідний кур'єру для доставки замовлення. Його буде додано до часу готовності замовлення з урахуванням значень у таблиці \"Інтервали доставки\" та додатковими вихідними і робочими днями."
+msgstr "Час (у годинах), який у середньому необхідний кур'єру, аби доставити замовлення. Його буде додано до часу готовності замовлення з урахуванням даних з таблиці «Інтервали доставки», додаткових вихідних та робочих днів."
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:54
 msgid "Preferred delivery time &amp; working schedule"
-msgstr "Бажаний час доставки та розпорядок роботи"
+msgstr "Бажаний час доставки та робочий розклад"
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:62
 #: /wa-plugins/shipping/courier/lib/config/settings.php:64
@@ -264,7 +264,7 @@ msgstr "Додаткові вихідні"
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:65
 msgid "Select dates of extra days off and enable at least one checkbox in “Extra days off” column of the “Delivery intervals” table. Delivery intervals are valid for all extra days off."
-msgstr "Оберіть дати додаткових вихідних днів та увімкніть принаймні один прапорець у стовпці \"Додаткові вихідні дні\" таблиці \"Інтервали доставки\". Інтервали доставки дійсні для всіх додаткових вихідних днів."
+msgstr "Оберіть дати додаткових вихідних та увімкніть принаймні  один прапорець у колонці «Додаткові вихідні» таблиці «Інтервали доставки». Для усіх додаткових вихідних інтервали доставки залишаються дійсними."
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:75
 #: /wa-plugins/shipping/courier/lib/config/settings.php:77
@@ -273,7 +273,7 @@ msgstr "Додаткові робочі дні"
 
 #: /wa-plugins/shipping/courier/lib/config/settings.php:78
 msgid "Select dates of extra workdays and enable at least one checkbox in “Extra workdays” column of the “Delivery intervals” table. Delivery intervals are valid for all extra workdays."
-msgstr "Оберіть дати додаткових робочих днів та увімкніть принаймні один прапорець у стовпці \"Додаткові робочі дні\" таблиці \"Інтервали доставки\". Інтервали доставки дійсні для всіх додаткових робочих днів."
+msgstr "Оберіть дати додаткових робочих днів та увімкніть принаймні один прапорець у колонці «Додаткові робочі дні» таблиці «Інтервали доставки». Для усіх додаткових робочих днів інтервали доставки залишаються дійсними."
 
 #: /wa-plugins/shipping/courier/templates/settings.html:41
 #: //wa-plugins/shipping/courier/templates/settings.html:39
@@ -283,4 +283,4 @@ msgstr "Назва місцевості"
 #: /wa-plugins/shipping/courier/templates/settings.html:43
 #: //wa-plugins/shipping/courier/templates/settings.html:40
 msgid "If courier shipping is provided only within specific localities, enter the locality names separated by comma so that customer is not be prompted to enter a locality name when this shipping option is selected; a locality name will be automatically fetched as you specify it here. If this field is left blank, a customer will be prompted to enter a locality name."
-msgstr "Якщо кур'єрська доставка здійснюється тільки в певних місцевостях, введіть назви населених пунктів, розділені комами, аби клієнту не пропонувалося ввести назву місцевості, коли вибрано цей варіант доставки; назву місцевості буде автоматично показано згідно з введеними тут даними. Якщо це поле залишено пустим, клієнту буде запропоновано ввести назву місцевості."
+msgstr "Якщо кур'єрська доставка здійснюється тільки в межах певних місцевостей, введіть назви таких місцевостей, розділені комами, аби при виборі цього варіанту доставки клієнтові не було потрібно вводити назву населеного пункту. Назву місцевості буде автоматично отримано зі вказаного вамим переліку. Якщо залишити це поле порожнім, клієнту буде запропоновано вказати назву місцевості."

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst 1.11.7.418 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst 1.11.9.422 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2019-07-06 19:11+0300\n"
+"PO-Revision-Date: 2019-08-03 13:53+0300\n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 2.0.6\n"
@@ -7681,6 +7681,7 @@ msgstr "Можна включити «Запам'ятати мене» при в
 msgid "Login only"
 msgstr "Тільки логін"
 
+#: /wa-system/config/waBackendAuthConfig.class.php:226
 msgid "Login or email"
 msgstr "Логін або email"
 
@@ -7738,3 +7739,19 @@ msgstr "Ви успішно зареєструвалися. Перевірте, 
 
 msgid "0"
 msgstr "нуль"
+
+#: /wa-system/webasyst/lib/actions/settings/general/webasystSettingsClearCache.controller.php:43
+msgid "Some files could not be deleted."
+msgstr "Деякі файли видалити не вдалося."
+
+#: /wa-system/plugin/waSystemPlugin.class.php:355
+msgid "Shipping plugin class “%s” not found."
+msgstr "Клас “%s” плагіна доставки не знайдено."
+
+#: /wa-system/plugin/waSystemPlugin.class.php:356
+msgid "Payment plugin class “%s” not found."
+msgstr "Клас “%s” плагіна оплати не знайдено."
+
+#: /wa-system/plugin/waSystemPlugin.class.php:357
+msgid "SMS plugin class “%s” not found."
+msgstr "Клас “%s” плагіна SMS не знайдено."

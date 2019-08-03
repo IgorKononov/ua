@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Shop-Script 8.4.5.14 UA translation v 1.1\n"
+"Project-Id-Version: Webasyst Shop-Script 8.4.6.15 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.0.6\n"
 "X-Poedit-Bookmarks: 2300,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
@@ -13898,6 +13898,8 @@ msgstr "дорівнює"
 msgid "is not the same"
 msgstr "не дорівнює"
 
+#: /wa-apps/shop/templates/actions/reviews/filters/photo.inc.html:15
+#: /wa-apps/shop/templates/actions/reviews/filters/status.inc.html:21
 msgid "all"
 msgstr "усі"
 
@@ -15662,18 +15664,21 @@ msgstr "Попросити підтвердити email-адресу або но
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:980
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:972
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:999
+#: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:1027
 msgid "Проверочный код для подтверждения будет отправлен на email-адрес или телефон покупателя в зависимости от настроек авторизации для этого сайта."
 msgstr "Перевірочний код для підтвердження буде надіслано на email-адресу або телефон покупця в залежності від налаштувань авторизації для цього сайту."
 
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:982
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:974
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:1001
+#: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:1029
 msgid "После подтверждения покупатель будет авторизован и сможет войти в личный кабинет."
 msgstr "Після підтвердження покупець буде авторизований і зможе увійти в особистий кабінет."
 
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:992
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:983
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:1010
+#: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:1038
 msgid "Покупатель может пропустить подтверждение email-адрес или телефона."
 msgstr "Покупець може пропустити підтвердження email-адреси або номеру телефону."
 
@@ -17172,10 +17177,12 @@ msgid "Shipping area selection"
 msgstr "Вибір зони доставки"
 
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:737
+#: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:765
 msgid "Selected country and region will be visible to customers but not available for changing."
 msgstr "Оберіть країну та регіон, які буде показано клієнтам, без можливості зміни."
 
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:738
+#: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:766
 msgid "To hide selected country and region fields from customers, switch to “Minimal” mode and set up a single shipping area with a country and region selected in its settings."
 msgstr "Аби приховати обрані країну та регіон від покупців, змініть режим на «Мінімальний» та налаштуйте одну зону доставки зі вказаними у її налаштуваннях країною та регіоном."
 
@@ -17376,6 +17383,7 @@ msgid "Product image descriptions"
 msgstr "Описи зображень продукту"
 
 #: /wa-apps/shop/lib/actions/csv/shopCsvProductrun.controller.php:728
+#: /wa-apps/shop/lib/actions/csv/shopCsvProductrun.controller.php:729
 msgid "Updated %d product image description"
 msgid_plural "Updated %d product image descriptions"
 msgstr[0] "Updated %d product image description"
@@ -17383,6 +17391,7 @@ msgstr[1] "Updated %d product image descriptions"
 msgstr[2] "Оновлено %d описів зображення товару"
 
 #: /wa-apps/shop/lib/actions/csv/shopCsvProductrun.controller.php:790
+#: /wa-apps/shop/lib/actions/csv/shopCsvProductrun.controller.php:791
 msgid "%d SKU imported with errors"
 msgid_plural "%d SKUs imported with errors"
 msgstr[0] "%d SKU imported with errors"
@@ -17444,3 +17453,282 @@ msgstr "Ідентифікатор артикулу"
 #: /wa-apps/shop/lib/actions/orders/shopOrdersGetProduct.controller.php:257
 msgid "Unknown sku"
 msgstr "Невідомий артикул"
+
+#: /wa-apps/shop/templates/includes/productSelector.html:94
+msgid "No products are selected"
+msgstr "Не обрано жодного товару"
+
+#: /wa-apps/shop/templates/includes/productSelector.html:95
+msgid "Select products and execute a corresponding action using the menu on the right in “Products” section."
+msgstr "Оберіть товари та виконайте відповідну дію із використанням меню у правій частині розділу «Товари»."
+
+#: /wa-apps/shop/templates/actions/backend/BackendSettings.html:59
+msgid "Order editor"
+msgstr "Редактор замовлення"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:311
+#: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:309
+msgid "Discount information per product"
+msgstr "Інформація про знижки для кожного товару"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:344
+msgid "Show order items’ and total order weight"
+msgstr "Показати вагу товарів та усього замовлення"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsCheckout2Blocks.inc.html:360
+msgid "Configure recommendations (Cross-selling)"
+msgstr "Налаштувати перехресні продажі (Cross-selling)"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsGeneral.html:260
+msgid "Allow customers to attach images to their reviews"
+msgstr "Дозволити користувачам додавати зображення до відгуків"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsGeneral.html:267
+msgid "Publish reviews only after moderation"
+msgstr "Публікувати відгуки тільки після модерації"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsGeneral.html:270
+msgid "Recommended with enabled option “Allow customers to attach images to their reviews”."
+msgstr "Рекомендовано із увімкненою опцією «Дозволяти користувачам додавати зображення до своїх відгуків»."
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:64
+msgid "Manually added orders’ editor"
+msgstr "Редактор доданих вручну замовлень"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:67
+msgid "Select which fields must available for the editing of orders with selected order source “%s”."
+msgstr "Оберіть поля, які мають бути доступними для редагування замовлень, які поступили із джерела «%s»."
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:68
+msgid "If a storefront is selected as an order‘s source then that storefront’s checkout settings define which fields are available for order editing."
+msgstr "Якщо у якості джерела замовлення вказано вітрину, то поля замовлення будуть залежати від налаштувань оформлення замовлення цієї вітрини."
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:75
+msgid "Use custom settings"
+msgstr "Використовувати власні налаштування"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:84
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:323
+msgid "Use"
+msgstr "Використовувати"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:84
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:326
+msgid "Do not use"
+msgstr "Не використовувати"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:116
+msgid "Default customer source"
+msgstr "Джерело покупця за замовчуванням"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:119
+msgid "Type a source name"
+msgstr "Вкажіть назву джерела"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:127
+msgid "Pre-fill address fields"
+msgstr "Попередньо заповнити поля адреси"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:156
+msgid "These values will be selected by default for new orders created in backend."
+msgstr "Ці значення буде вказано за замовчуванням для створених у бекенді замовлень."
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:177
+msgid "Person contacts’ fields"
+msgstr "Поля контактів особи"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:184
+msgid "Name fields"
+msgstr "Поля імені"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:214
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:253
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:292
+msgid "You need access to Settings app to edit contact fields."
+msgstr "Для редагування полів контакту вам потрібен доступ до додатку «Налаштування»."
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:221
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:260
+msgid "Show payment address fields"
+msgstr "Показати поля адреси платника"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsOrderEditor.html:239
+msgid "Company contacts’ fields"
+msgstr "Поля контактів компанії"
+
+#: /wa-apps/shop/templates/actions/customers/CustomersProfileTab.html:74
+msgid "Add order"
+msgstr "Додати замовлення"
+
+#: /wa-apps/shop/templates/actions/product/include.review.html:71
+msgid "publish"
+msgstr "опублікувати"
+
+#: /wa-apps/shop/templates/actions/product/include.review.html:131
+msgid "Confirm image deletion"
+msgstr "Підтвердити видалення зображення"
+
+#: /wa-apps/shop/templates/actions/reviews/filters/status.inc.html:46
+msgid "Moderation"
+msgstr "Модерація"
+
+#: /wa-apps/shop/templates/actions/reviews/filters/status.inc.html:26
+msgid "deleted ones"
+msgstr "видалені"
+
+#: /wa-apps/shop/templates/actions/reviews/filters/status.inc.html:31
+msgid "published"
+msgstr "опубліковано"
+
+#: /wa-apps/shop/templates/actions/reviews/filters/status.inc.html:36
+msgid "pending moderation"
+msgstr "очікують на модерацію"
+
+#: /wa-apps/shop/templates/actions/reviews/filters/sort.inc.html:19
+msgid "date"
+msgstr "дата"
+
+#: /wa-apps/shop/templates/actions/reviews/filters/photo.inc.html:36
+msgid "Photos"
+msgstr "Фото"
+
+#: /wa-apps/shop/templates/actions/reviews/filters/photo.inc.html:20
+msgid "without photos"
+msgstr "без фото"
+
+#: /wa-apps/shop/templates/actions/reviews/filters/photo.inc.html:25
+msgid "with photos"
+msgstr "із фото"
+
+#: /wa-apps/shop/templates/actions/reviews/Reviews.html:167
+msgid "view all reviews"
+msgstr "переглянути усі відгуки"
+
+#: /wa-apps/shop/templates/actions/reviews/Reviews.html:65
+msgid "type a product name"
+msgstr "вкажіть назву товару"
+
+#: /wa-apps/shop/templates/actions/frontend/order/cart/CrossSelling.html:65
+#: /wa-apps/shop/templates/actions/frontend/order/cart/CrossSelling.html:66
+msgid "Prev"
+msgstr "Назад"
+
+#: /wa-apps/shop/templates/actions/frontend/order/cart/CrossSelling.html:68
+#: /wa-apps/shop/templates/actions/frontend/order/cart/CrossSelling.html:69
+msgid "Next"
+msgstr "Далі"
+
+#: /wa-apps/shop/templates/actions/frontend/order/cart/CrossSelling.html:77
+#: /wa-apps/shop/templates/actions/frontend/order/cart/CrossSelling.html:78
+#: /wa-apps/shop/templates/actions/frontend/order/cart/CrossSelling.html:79
+msgid "Added"
+msgstr "Додано"
+
+#: /wa-apps/shop/lib/classes/images/shopImagesRegenerateReview.class.php:39
+msgid "%d review image updated."
+msgid_plural "%d review images updated."
+msgstr[0] "Оновлено зображення %d відгуку."
+msgstr[1] "Оновлено зображення %d відгуків."
+msgstr[2] "Оновлено зображення %d відгуків."
+
+#: /wa-apps/shop/lib/classes/images/shopImagesRegenerateReview.class.php:40
+msgid "%d review affected."
+msgid_plural "%d reviews affected."
+msgstr[0] "Змінено %d відгук."
+msgstr[1] "Змінено %d відгуки."
+msgstr[2] "Змінено %d відгуків."
+
+#: /wa-apps/shop/lib/classes/shopOrderEditorConfig.class.php:60
+msgid "3 separate fields to enter name parts"
+msgstr "Три окремих поля для складових імені"
+
+#: /wa-apps/shop/lib/classes/shopOrderEditorConfig.class.php:63
+msgid "1 common field to enter a full name"
+msgstr "Одне загальне поле для повного імені"
+
+#: /wa-apps/shop/lib/actions/reviews/shopReviewsRemoveImage.controller.php:11
+msgid "Image deletion error"
+msgstr "Помилка видалення зображення"
+
+#: /wa-apps/shop/lib/actions/frontend/order/shopFrontendOrderCart.actions.php:91
+msgid "The product is already in your cart."
+msgstr "Товар вже у вашому кошику."
+
+#: /wa-apps/shop/lib/actions/frontend/shopFrontendProductReviewsAdd.controller.php:266
+msgid "Too large total image size. Remove some images or reduce their size with an image processing program before uploading."
+msgstr "Занадто великий загальний розмір зображень. Видаліть деякі зображення або зменшіть їх розмір за допомогою програми обробки зображень перед завантаженням."
+
+#: /wa-apps/shop/lib/actions/frontend/shopFrontendProductReviewsAdd.controller.php:272
+msgid "Image uploading is disabled."
+msgstr "Завантаження зображень вимкнене."
+
+#: /wa-apps/shop/themes/default/order.html:77
+msgid "Recommended"
+msgstr "Рекомендовано"
+
+#: /wa-apps/shop/themes/default/reviews.html:199
+msgid "Upload photos"
+msgstr "Завантажте фото"
+
+#: /wa-apps/shop/themes/default/reviews.html:199
+msgid "or drag &amp; drop here (max. 10 photos)"
+msgstr "або перетягніть сюди (максимум 10 фото)"
+
+#: /wa-apps/shop/themes/default/reviews.html:215
+msgid "Add a description"
+msgstr "Додати опис"
+
+#: /wa-apps/shop/themes/default/reviews.html:218
+msgid "Enter a description here"
+msgstr "Додайте сюди опис події"
+
+#: /wa-apps/shop/themes/default/reviews.html:281
+msgid "Your review will be published after moderation."
+msgstr "Ваш відгук буде опублікований після модерації."
+
+#: /wa-apps/shop/themes/default/reviews.html:301
+msgid "Adding"
+msgstr "Додавання"
+
+#: /wa-apps/shop/themes/default/reviews.html:263
+msgid "You can upload a maximum of 10 photos."
+msgstr "Ви можете завантажити максимум 10 фотографій."
+
+#: /wa-apps/shop/themes/default/reviews.html:264
+msgid "Unsupported image type. Use PNG, GIF and JPEG image files only."
+msgstr "Формат зображення не підтримується. Використовуйте тільки формати PNG, GIF та JPEG."
+
+#: /wa-apps/shop/themes/default/reviews.html:265
+msgid "Total size of selected files cannot be greater than"
+msgstr "Загальний обсяг обраних файлів не може перевищувати"
+
+#: /wa-apps/shop/themes/default/reviews.html:266
+msgid "Each file’s size cannot be greater than"
+msgstr "Розмір кожного з файлів не може перевищувати"
+
+#: /wa-apps/shop/templates/includes/productSelector.html:96
+msgid "Open “<a href=\"%s\">%s</a>” section."
+msgstr "Відкрити розділ “<a href=\"%s\">%s</a>”."
+
+#: /wa-apps/shop/templates/includes/productSelector.html:97
+msgid "Select products for a new coupon."
+msgstr "Оберіть товари для нового купона."
+
+#: /wa-apps/shop/templates/includes/productSelector.html:98
+msgid "Perform “<em>%s</em>” action using the menu on the right."
+msgstr "Виконайте дію “<em>%s</em>” за допомогою меню на правій стороні."
+
+#: /wa-apps/shop/lib/classes/checkout2/shopCheckoutConfig.class.php:1503
+msgid "ZIP"
+msgstr "Індекс"
+
+#: /wa-apps/shop/lib/classes/images/shopImagesRegenerateReview.class.php:39
+msgid "Updated %d review image."
+msgid_plural "Updated %d review images."
+msgstr[0] "Оновлено %d зображення у відгуку."
+msgstr[1] "Оновлено %d зображення у відгуку."
+msgstr[2] "Оновлено %d зображень у відгуку."
+
+#: /wa-apps/shop/themes/default/order.html:77
+msgid "Recommend"
+msgstr "Рекомендувати"
