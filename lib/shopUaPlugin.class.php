@@ -2,6 +2,16 @@
 
 class shopUaPlugin extends shopPlugin
 {
+    public function saveSettings($settings = array())
+    {
+        $this->installFiles();
+        $this->installLocale();
+        $this->copyJs();
+        if (wa('installer')) {
+            installerHelper::flushCache();
+        }
+    }
+
     public function installFiles()
     {
         $datapath = __DIR__ . '/data/';
@@ -18,6 +28,8 @@ class shopUaPlugin extends shopPlugin
         $home = wa()->getConfig()->getRootPath();
         if ($parts[0] === 'webasyst') {
             $home .= "/wa-system/webasyst/";
+        } elseif ($parts[0] === 'widget') {
+            $home .= "/wa-widgets/$parts[1]/";
         } elseif (!isset($parts[1])) {
             $home .= "/wa-apps/$parts[0]/";
         } elseif (in_array($parts[0], array('payment', 'shipping', 'sms'))) {
@@ -44,22 +56,6 @@ class shopUaPlugin extends shopPlugin
         }
     }
 
-    private function copyJs()
-    {
-        waFiles::copy(
-            wa()->getAppPath('plugins/ua/js/jquery.ui.datepicker-uk_UA.js', 'shop'),
-            wa()->getConfig()->getRootPath() . '/wa-content/js/jquery-ui/i18n/jquery.ui.datepicker-uk_UA.js'
-        );
-        waFiles::copy(
-            wa()->getAppPath('plugins/ua/js/uk.js', 'shop'),
-            wa()->getConfig()->getRootPath() . '/wa-content/js/redactor/uk.js'
-        );
-        waFiles::copy(
-            wa()->getAppPath('plugins/ua/js/uk2.js', 'shop'),
-            wa()->getConfig()->getRootPath() . '/wa-content/js/redactor/2/uk.js'
-        );
-    }
-
     private function getLocaleInfo()
     {
         return array (
@@ -76,13 +72,19 @@ class shopUaPlugin extends shopPlugin
         );
     }
 
-    public function saveSettings($settings = array())
+    private function copyJs()
     {
-        $this->installFiles();
-        $this->installLocale();
-        $this->copyJs();
-        if (wa('installer')) {
-            installerHelper::flushCache();
-        }
+        waFiles::copy(
+            wa()->getAppPath('plugins/ua/js/jquery.ui.datepicker-uk_UA.js', 'shop'),
+            wa()->getConfig()->getRootPath() . '/wa-content/js/jquery-ui/i18n/jquery.ui.datepicker-uk_UA.js'
+        );
+        waFiles::copy(
+            wa()->getAppPath('plugins/ua/js/uk.js', 'shop'),
+            wa()->getConfig()->getRootPath() . '/wa-content/js/redactor/uk.js'
+        );
+        waFiles::copy(
+            wa()->getAppPath('plugins/ua/js/uk2.js', 'shop'),
+            wa()->getConfig()->getRootPath() . '/wa-content/js/redactor/2/uk.js'
+        );
     }
 }
