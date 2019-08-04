@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Shop-Script 8.4.6.15 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Shop-Script 8.4.6.15 UA translation v 1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -9686,15 +9686,15 @@ msgstr "Майже закінчилося"
 
 #: /wa-apps/shop/lib/config/data/dimension.php:76
 msgid "cm3"
-msgstr "см³"
+msgstr "см3"
 
 #: /wa-apps/shop/lib/config/data/dimension.php:80
 msgid "m3"
-msgstr "м³"
+msgstr "м3"
 
 #: /wa-apps/shop/lib/config/data/dimension.php:88
 msgid "mm3"
-msgstr "мм³"
+msgstr "мм3"
 
 #: /wa-apps/shop/themes/ascetic/checkout.contactinfo.html:12
 #: /wa-apps/shop/themes/clear/checkout.contactinfo.html:15
@@ -11155,7 +11155,7 @@ msgstr "Промо — ефективний і супер-простий спо�
 
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout.html:104
 msgid "Automated assignment of guest orders to existing customers will not work on following sites: <strong>%s</strong>. Due to privacy considerations, auto order assignment requires enabling “Confirm email on signup” option in <em>Site app > select your domain > Personal > Auth & Sign up settings</em>."
-msgstr "Автоматичне прив'язування замовлень без авторизації до існуючих контактів не буде працювати на наступних сайтах: <strong>%s</strong>. Через міркування приватності, автоматичне прив'язування замовлень вимагає вмикання опції підтвердження адреси email при реєстрації у розділі <em>Сайт → (обрати домен) → Особистий кабінет → Налаштування авторизації та входу</em>."
+msgstr "Автоматичне привязування замовлень без авторизації до існуючих контактів не буде працювати на наступних сайтах: <strong>%s</strong>. Через міркування приватності, автоматичне привязування замовлень вимагає вмикання опції підтвердження адреси email при реєстрації у розділі <em>Сайт → (обрати домен) → Особистий кабінет → Налаштування авторизації та входу</em>."
 
 #: /wa-apps/shop/themes/default/home.html:228
 #: /wa-apps/shop/themes/default/home.html:247
@@ -15180,7 +15180,7 @@ msgstr "Показати тільки повідомлення і посилан
 #: /wa-apps/shop/templates/actions/settings/SettingsGeneral.html:283
 #: /wa-apps/shop/lib/classes/checkout2/shopCheckoutConfig.class.php:271
 msgid "Show mandatory checkbox, notice, and link"
-msgstr "Показати обов'язкові прапорець, повідомлення і посилання"
+msgstr "Показати обов'язковий прапорець, повідомлення і посилання"
 
 #: /wa-apps/shop/templates/actions/settings/SettingsGeneral.html:68
 msgid "Sort order items"
@@ -16092,7 +16092,7 @@ msgstr "Додайте її у розділі «<a href=\"%s\">Типи та х�
 
 #: /wa-apps/shop/lib/actions/settings/shipping/shopSettingsShipping.action.php:77
 msgid "Product dimensions (value × value × value)"
-msgstr "Габарити виробу (значення×значення×значення)"
+msgstr "Габарити виробу (значення * значення * значення)"
 
 #: /wa-apps/shop/lib/actions/settings/shipping/shopSettingsShipping.action.php:78
 msgid "Select a common product feature containing 3 dimension values to avoid selecting separate features for individual dimensions below."
@@ -17230,7 +17230,7 @@ msgstr "Загальна вага замовлення"
 
 #: /wa-apps/shop/templates/actions/order/Order.html:147
 msgid "Width × length × height"
-msgstr "Ширина × довжина ×висота"
+msgstr "Ширина * довжина * висота"
 
 #: /wa-apps/shop/templates/actions/order/Order.html:147
 msgid "Total order dimensions"
