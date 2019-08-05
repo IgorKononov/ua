@@ -7,9 +7,13 @@ class shopUaPlugin extends shopPlugin
         $this->installFiles();
         $this->installLocale();
         $this->copyJs();
-        if (wa('installer')) {
-            installerHelper::flushCache();
+        try {
+            if (wa('installer')) {
+                installerHelper::flushCache();
+            }
+        } catch (Exception $exception) {
         }
+        
     }
 
     private function installFiles()
@@ -75,15 +79,15 @@ class shopUaPlugin extends shopPlugin
     private function copyJs()
     {
         waFiles::copy(
-            wa()->getAppPath('plugins/ua/js/jquery.ui.datepicker-uk_UA.js', 'shop'),
+            $this->path . '/js/jquery.ui.datepicker-uk_UA.js',
             wa()->getConfig()->getRootPath() . '/wa-content/js/jquery-ui/i18n/jquery.ui.datepicker-uk_UA.js'
         );
         waFiles::copy(
-            wa()->getAppPath('plugins/ua/js/uk.js', 'shop'),
+            $this->path . '/js/uk.js',
             wa()->getConfig()->getRootPath() . '/wa-content/js/redactor/uk.js'
         );
         waFiles::copy(
-            wa()->getAppPath('plugins/ua/js/uk2.js', 'shop'),
+            $this->path . '/js/uk2.js',
             wa()->getConfig()->getRootPath() . '/wa-content/js/redactor/2/uk.js'
         );
     }
