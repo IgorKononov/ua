@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Shop-Script 8.4.6.15 UA translation v 1.1\n"
+"Project-Id-Version: Webasyst Shop-Script 8.4.10.19 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -9686,15 +9686,15 @@ msgstr "Майже закінчилося"
 
 #: /wa-apps/shop/lib/config/data/dimension.php:76
 msgid "cm3"
-msgstr "см3"
+msgstr "см³"
 
 #: /wa-apps/shop/lib/config/data/dimension.php:80
 msgid "m3"
-msgstr "м3"
+msgstr "м³"
 
 #: /wa-apps/shop/lib/config/data/dimension.php:88
 msgid "mm3"
-msgstr "мм3"
+msgstr "мм³"
 
 #: /wa-apps/shop/themes/ascetic/checkout.contactinfo.html:12
 #: /wa-apps/shop/themes/clear/checkout.contactinfo.html:15
@@ -11155,7 +11155,7 @@ msgstr "Промо — ефективний і супер-простий спо�
 
 #: /wa-apps/shop/templates/actions/settings/SettingsCheckout.html:104
 msgid "Automated assignment of guest orders to existing customers will not work on following sites: <strong>%s</strong>. Due to privacy considerations, auto order assignment requires enabling “Confirm email on signup” option in <em>Site app > select your domain > Personal > Auth & Sign up settings</em>."
-msgstr "Автоматичне привязування замовлень без авторизації до існуючих контактів не буде працювати на наступних сайтах: <strong>%s</strong>. Через міркування приватності, автоматичне привязування замовлень вимагає вмикання опції підтвердження адреси email при реєстрації у розділі <em>Сайт → (обрати домен) → Особистий кабінет → Налаштування авторизації та входу</em>."
+msgstr "Автоматичне прив'язування замовлень без авторизації до існуючих контактів не буде працювати на наступних сайтах: <strong>%s</strong>. Через міркування приватності, автоматичне прив'язування замовлень вимагає вмикання опції підтвердження адреси email при реєстрації у розділі <em>Сайт → (обрати домен) → Особистий кабінет → Налаштування авторизації та входу</em>."
 
 #: /wa-apps/shop/themes/default/home.html:228
 #: /wa-apps/shop/themes/default/home.html:247
@@ -15180,7 +15180,7 @@ msgstr "Показати тільки повідомлення і посилан
 #: /wa-apps/shop/templates/actions/settings/SettingsGeneral.html:283
 #: /wa-apps/shop/lib/classes/checkout2/shopCheckoutConfig.class.php:271
 msgid "Show mandatory checkbox, notice, and link"
-msgstr "Показати обов'язковий прапорець, повідомлення і посилання"
+msgstr "Показати обов'язкові прапорець, повідомлення і посилання"
 
 #: /wa-apps/shop/templates/actions/settings/SettingsGeneral.html:68
 msgid "Sort order items"
@@ -16092,7 +16092,7 @@ msgstr "Додайте її у розділі «<a href=\"%s\">Типи та х�
 
 #: /wa-apps/shop/lib/actions/settings/shipping/shopSettingsShipping.action.php:77
 msgid "Product dimensions (value × value × value)"
-msgstr "Габарити виробу (значення * значення * значення)"
+msgstr "Габарити виробу (значення×значення×значення)"
 
 #: /wa-apps/shop/lib/actions/settings/shipping/shopSettingsShipping.action.php:78
 msgid "Select a common product feature containing 3 dimension values to avoid selecting separate features for individual dimensions below."
@@ -17230,7 +17230,7 @@ msgstr "Загальна вага замовлення"
 
 #: /wa-apps/shop/templates/actions/order/Order.html:147
 msgid "Width × length × height"
-msgstr "Ширина * довжина * висота"
+msgstr "Ширина × довжина ×висота"
 
 #: /wa-apps/shop/templates/actions/order/Order.html:147
 msgid "Total order dimensions"
@@ -17732,3 +17732,53 @@ msgstr[2] "Оновлено %d зображень у відгуку."
 #: /wa-apps/shop/themes/default/order.html:77
 msgid "Recommend"
 msgstr "Рекомендувати"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsPaymentSetup.html:97
+msgid "Supported payment types"
+msgstr "Типи оплати, що підтримуються"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsPaymentSetup.html:107
+msgid "In the “In-cart checkout” mode, selected payment types can be used to filter available payment options, if a list of requried payment types has been provided by a shipping plugin. These payment types are also passed on to shipping plugins for additional shipping rates calculation."
+msgstr "У режимі оформлення замовлення у кошику обрані типи оплати можуть бути застосовані для фільтрації варіантів оплати — якщо перелік потрібних типів оплати надається плагіном доставки. Ці типи оплати також передаються плагінам доставки для підрахування додаткових тарифів на доставку."
+
+#: /wa-apps/shop/templates/actions/settings/SettingsPaymentSetup.html:108
+msgid "In the “Multi-step checkout” mode, this setting is not used."
+msgstr "У поетапному режимі оформлення замовлення це налаштування не використовується."
+
+#: /wa-apps/shop/templates/actions/settings/SettingsGeneral.html:259
+msgid "System settings"
+msgstr "Системні налаштування"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsGeneral.html:269
+msgid "To be able to change system settings, you need access to Settings app."
+msgstr "Аби змінювати системні налаштування, вам потрібен доступ до додатку «Налаштування»."
+
+#: /wa-apps/shop/lib/classes/shopPayment.class.php:802
+msgid "Order amount has changed: %0.2f expected, %0.2f received. Currency: %s."
+msgstr "Сума замовлення змінилася: %0.2f очікувалось, %0.2f отримано. Валюта: %s."
+
+#: /wa-apps/shop/lib/classes/shopShipping.class.php:561
+msgid "bank card on order receipt"
+msgstr "банківською карткою при отриманні замовлення"
+
+#: /wa-apps/shop/lib/classes/shopShipping.class.php:562
+msgid "cash on order receipt"
+msgstr "готівкою при отриманні замовлення"
+
+#: /wa-apps/shop/lib/classes/shopShipping.class.php:563
+msgid "prepayment"
+msgstr "передплата"
+
+#: /wa-apps/shop/lib/actions/products/shopProductsAssignTags.controller.php:125
+msgid "Editing of %d product is not allowed."
+msgid_plural "Editing of %d products is not allowed."
+msgstr[0] "Редагування %d товару не дозволене."
+msgstr[1] "Редагування %d товарів не дозволене."
+msgstr[2] "Редагування %d товарів не дозволене."
+
+#: /wa-apps/shop/lib/actions/product/shopProductBadgeSet.controller.php:29
+msgid "You do not have sufficient access rights to set badges for selected products."
+msgstr "У вас недостатньо прав доступу для зміни стікерів на вказаних товарах."
+
+msgid "Active promos"
+msgstr "Активні промо"

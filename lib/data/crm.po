@@ -1,17 +1,21 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst CRM 1.4.1.263 UA translation v 1.1\n"
+"Project-Id-Version: Webasyst CRM 1.4.2.293 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2019-07-05T21:22:12+03:00\n"
-"PO-Revision-Date: 2019-07-07 17:52+0300\n"
+"PO-Revision-Date: 2019-09-04 18:35+0300\n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
 
 #: /wa-apps/crm/templates/handlers/shop.backend_order.html:180
 #: /wa-apps/crm/templates/handlers/shop.backend_order.html:151
@@ -8935,6 +8939,7 @@ msgid "Stage deleted"
 msgstr "Етап видалено"
 
 #: /wa-apps/crm/lib/config/data/templates/reminder_daily.en_US.html:2
+#: /wa-apps/crm/lib/config/data/templates/reminder_daily.html:2
 msgid "Here is your <a href=\"%scrm/reminder/\">daily recap</a> for %s:"
 msgstr "Ось ваш <a href=\"%scrm/reminder/\">щоденний огляд нагадувань</a> для %s:"
 
@@ -9111,6 +9116,7 @@ msgstr "Скинуто"
 msgid "Redirected"
 msgstr "Перенаправлено"
 
+#: /wa-apps/crm/templates/actions/call/Call.html:184
 msgid "Finished"
 msgstr "Закінчення"
 
@@ -9222,3 +9228,314 @@ msgstr "Угоду відкрито повторно"
 
 msgid "Payment for invoice #%s issued on %s."
 msgstr "Оплата рахунку №%s, виставленого %s."
+
+#: /wa-apps/crm/templates/source/message/ImSourceMessageViewer.html:34
+#: /wa-apps/crm/templates/source/message/ImSourceMessageSender.html:35
+msgid "Unknown source"
+msgstr "Невідоме джерело"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:81
+msgid "Close deal"
+msgstr "Закрити угоду"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:246
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:29
+#: /wa-apps/crm/templates/actions/deal/DealId.html:301
+msgid "Create order"
+msgstr "Створити замовлення"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:273
+msgid "Предварительная сумма"
+msgstr "Попередня сума"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:287
+msgid "not specified"
+msgstr "не вказано"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:324
+msgid "Сроки сделки"
+msgstr "Строки угоди"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:340
+msgid "Дата закрытия"
+msgstr "Дата закриття"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:381
+msgid "Параметры сделки"
+msgstr "Параметри угоди"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:416
+msgid "Owner deleted"
+msgstr "Власника видалено"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:663
+#: /wa-apps/crm/templates/actions/deal/DealId.html:307
+msgid "New order"
+msgstr "Нове замовлення"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:665
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:44
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:20
+#: /wa-apps/crm/templates/actions/deal/DealId.html:309
+msgid "Edit order"
+msgstr "Редагувати замовлення"
+
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:37
+msgid "Open in Shop-Script"
+msgstr "Відкрити у Shop-Script"
+
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:53
+msgid "Order was paid on %s"
+msgstr "Замовлення було сплачено %s"
+
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:93
+#: /wa-apps/crm/templates/actions/deal/DealOrderShippingBlock.html:42
+msgid "Total order weight"
+msgstr "Загальна вага замовлення"
+
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:98
+#: /wa-apps/crm/templates/actions/deal/DealOrderShippingBlock.html:45
+msgid "Width × length × height"
+msgstr "Ширина × довжина ×висота"
+
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:99
+#: /wa-apps/crm/templates/actions/deal/DealOrderShippingBlock.html:45
+msgid "Total order dimensions"
+msgstr "Загальні виміри замовлення"
+
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:116
+msgid "View map"
+msgstr "Відкрити карту"
+
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:138
+#: /wa-apps/crm/templates/actions/deal/DealOrderShippingBlock.html:52
+msgid "Courier"
+msgstr "Кур'єр"
+
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:173
+#: /wa-apps/crm/templates/actions/deal/DealOrderShippingBlock.html:65
+msgid "Shipping time"
+msgstr "Час доставки"
+
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:179
+#: /wa-apps/crm/templates/actions/deal/DealOrderShippingBlock.html:69
+msgid "Edit shipping details"
+msgstr "Редагувати деталі доставки"
+
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:247
+msgid "Order list"
+msgstr "Перелік замовлень"
+
+#: /wa-apps/crm/templates/actions/deal/Deal.editOrderShippingDetailsDialog.html:5
+msgid "Edit order shipping details"
+msgstr "Редагувати деталі доставки замовлення"
+
+#: /wa-apps/crm/templates/actions/deal/DealContact.html:67
+#: /wa-apps/crm/templates/actions/deal/DealContact.html:61
+msgid "Registered client"
+msgstr "Зареєстрований клієнт"
+
+#: /wa-apps/crm/templates/actions/contact/ContactId.html:177
+msgid "%d more client found with the same email address"
+msgid_plural "%d more clients found with the same email address"
+msgstr[0] "Знайдений ще %d клієнт із тією ж адресою email"
+msgstr[1] "Знайдено ще %d клієнта із тією ж адресою emailЗнайдено ще %d клієнта із тією ж адресою email"
+msgstr[2] "Знайдено ще %d клієнтів із тією ж адресою email"
+
+#: /wa-apps/crm/templates/actions/contact/ContactId.html:213
+msgid "%d more client found with the same phone number"
+msgid_plural "%d more clients found with the same phone number"
+msgstr[0] "Знайдений ще %d клієнт із тим же номером телефону"
+msgstr[1] "Знайдений ще %d клієнта із тим же номером телефону"
+msgstr[2] "Знайдений ще %d клієнтів із тим же номером телефону"
+
+#: /wa-apps/crm/templates/actions/contact/ContactNew.extendedFields.inc.html:92
+msgid "ext"
+msgstr "дод"
+
+#: /wa-apps/crm/templates/actions/contact/ContactNew.extendedFields.inc.html:146
+msgid "clear"
+msgstr "очистити"
+
+#: /wa-apps/crm/templates/actions/contact/ContactAccessDialog.html:99
+msgid "Also apply this change to %d employee of this company."
+msgid_plural "Also apply this change to %d employees of this company."
+msgstr[0] "Також застосувати цю зміну до %d співробітника цієї компанії."
+msgstr[1] "Також застосувати цю зміну до %d співробітників цієї компанії."
+msgstr[2] "Також застосувати цю зміну до %d співробітників цієї компанії."
+
+#: /wa-apps/crm/templates/actions/settings/SettingsFormConstructor.inc.html:108
+msgid "Select “%s” in “%s” section below to make these fields available for adding to the form."
+msgstr "Оберіть “%s” у розділі “%s”нижче, аби зробити ці поля доступними для додавання у форму."
+
+#: /wa-apps/crm/templates/actions/settings/SettingsGeneral.html:11
+msgid "App icon counter"
+msgstr "Лічильник на іконці додатка"
+
+#: /wa-apps/crm/templates/actions/settings/SettingsGeneral.html:17
+msgid "New messages"
+msgstr "Нові повідомлення"
+
+#: /wa-apps/crm/templates/actions/settings/SettingsGeneral.html:24
+msgid "New deals"
+msgstr "Нові угоди"
+
+#: /wa-apps/crm/templates/actions/settings/SettingsGeneral.html:31
+msgid "My overdue reminders"
+msgstr "Мої прострочені нагадування"
+
+#: /wa-apps/crm/templates/actions/settings/SettingsGeneral.html:38
+msgid "Reminder settings"
+msgstr "Налаштування нагадувань"
+
+#: /wa-apps/crm/templates/actions/log/Log.html:399
+msgid "Лента событий"
+msgstr "Стрічка подій"
+
+#: /wa-apps/crm/templates/actions/log/Log.html:402
+msgid "Фильтр"
+msgstr "Фільтр"
+
+#: /wa-apps/crm/templates/actions/message/MessageBodyDialog.html:156
+#: /wa-apps/crm/templates/actions/message/MessageConversation.dealSelector.inc.html:12
+#: /wa-apps/crm/templates/actions/message/MessageBodyDialog.html:139
+#: /wa-apps/crm/templates/actions/message/MessageConversationId.html:166
+msgid "Type a deal name"
+msgstr "Введіть назву угоди"
+
+#: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:358
+msgid "Technical information about the error"
+msgstr "Технічна інформація про помилку"
+
+#: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:379
+#: /wa-apps/crm/templates/actions/message/MessageSendSMSDialog.html:121
+msgid "Message sending error"
+msgstr "Помилка відправки повідомлення"
+
+#: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:380
+msgid "Email message has not been sent."
+msgstr "Email-повідомлення не було надіслане."
+
+#: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:361
+msgid "Check <a href=\"%s\">email sending settings</a>."
+msgstr "Перевірте <a href=\"%s\">налаштування відправки email</a>."
+
+#: /wa-apps/crm/templates/actions/message/MessageConversationId.html:165
+#: /wa-apps/crm/templates/actions/message/MessageConversationDealAttachDialog.html:6
+msgid "Attach to another deal"
+msgstr "Приєднати до іншої угоди"
+
+#: /wa-apps/crm/templates/actions/message/MessageConversationId.html:168
+#: /wa-apps/crm/templates/actions/message/MessageConversationId.html:435
+msgid "Detach from deal"
+msgstr "Від'єднати від угоди"
+
+#: /wa-apps/crm/templates/actions/message/MessageConversationId.html:436
+msgid "Do you really want to detach this conversation from deal “<strong>%s</strong>”?"
+msgstr "Ви дійсно хочете від'єднати цю розмову від угоди «%s»?"
+
+#: /wa-apps/crm/templates/actions/message/MessageConversationId.html:437
+msgid "Detach"
+msgstr "Від'єднати"
+
+#: /wa-apps/crm/templates/actions/message/MessageSendSMSDialog.html:111
+msgid "Check <a href=\"%s\">sms sending settings</a>."
+msgstr "Перевірте <a href=\"%s\">налаштування відправки SMS</a>."
+
+#: /wa-apps/crm/templates/actions/message/MessageConversationDealAttachDialog.html:10
+msgid "Attach this conversation to another deal"
+msgstr "Приєднати цю розмову до іншої угоди"
+
+#: /wa-apps/crm/templates/actions/call/CallInitContactDialog.html:63
+msgid "Call error"
+msgstr "Помилка виклику"
+
+#: /wa-apps/crm/lib/config/crmRightConfig.class.php:96
+#: /wa-apps/crm/lib/config/crmRightConfig.class.php:76
+msgid "Access to calls"
+msgstr "Доступ до дзвінків"
+
+#: /wa-apps/crm/lib/config/crmRightConfig.class.php:99
+#: /wa-apps/crm/lib/config/crmRightConfig.class.php:79
+msgid "Only own calls"
+msgstr "Тільки власні дзвінки"
+
+#: /wa-apps/crm/lib/config/crmRightConfig.class.php:107
+msgid "Access to conversations"
+msgstr "Доступ до розмов"
+
+#: /wa-apps/crm/lib/config/crmRightConfig.class.php:109
+msgid "Only own"
+msgstr "Тільки власні"
+
+#: /wa-apps/crm/lib/config/crmRightConfig.class.php:110
+msgid "Own or free"
+msgstr "Власні або вільні"
+
+#: /wa-apps/crm/lib/classes/deal/crmDeal.class.php:61
+msgid "%d order"
+msgid_plural "%d orders"
+msgstr[0] "%d замовлення"
+msgstr[1] "%d замовлення"
+msgstr[2] "%d замовлень"
+
+#: /wa-apps/crm/lib/classes/deal/crmDeal.class.php:55
+msgid "No orders"
+msgstr "Немає замовлень"
+
+#: /wa-apps/crm/lib/classes/deal/crmDeal.class.php:59
+msgid "No other orders"
+msgstr "Немає інших замовлень"
+
+#: /wa-apps/crm/lib/classes/deal/crmDeal.class.php:102
+msgid "No other deals"
+msgstr "Немає інших угод"
+
+#: /wa-apps/crm/lib/classes/form/crmForm.class.php:502
+msgid "“Text” field contents"
+msgstr "Вміст поля «Текст»"
+
+#: /wa-apps/crm/lib/classes/sendEmail/crmSendEmailController.class.php:95
+msgid "Recipient email is not defined"
+msgstr "Email отримувача не визначений"
+
+#: /wa-apps/crm/lib/actions/log/crmLog.action.php:219
+msgid "Orders"
+msgstr "Замовлення"
+
+#: /wa-apps/crm/lib/actions/message/crmMessageConversationId.action.php:18
+#: /wa-apps/crm/lib/actions/message/crmMessageConversationId.action.php:131
+#: /wa-apps/crm/lib/actions/message/crmMessageConversationId.action.php:144
+msgid "Conversation not found"
+msgstr "Розмову не знайдено"
+
+#: /wa-apps/crm/lib/models/crmCall.model.php:438
+msgid "%d open deal"
+msgid_plural "%d open deals"
+msgstr[0] "%d відкрита угода"
+msgstr[1] "%d відкриті угоди"
+msgstr[2] "%d відкритих угод"
+
+#: /wa-apps/crm/lib/models/crmCall.model.php:420
+msgid "New call"
+msgstr "Новий виклик"
+
+#: /wa-apps/crm/lib/models/crmCall.model.php:438
+msgid "No open deals"
+msgstr "Немає відкритих угод"
+
+#: /wa-apps/crm/templates/actions/contact/ContactId.html:239
+msgid "Remove file \\\"%s\\\" from contact"
+msgstr "Видалити файл \\\"%s\\\" з контакту"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:422
+msgid "Exclude contact \\\"%s\\\" of deal"
+msgstr "Виключити контакт \\\"%s\\\" з угоди"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:425
+msgid "Remove file \\\"%s\\\" from deal"
+msgstr "Видалити файл \\\"%s\\\" з угоди"
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:427
+msgid "<span class=\\\"gray\\\">Delete</span> \\\"%s\\\""
+msgstr "<span class=\\\"gray\\\">Видалити</span> \\\"%s\\\""
