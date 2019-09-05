@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Logs 1.1.2.0 UA translation v 1.2\n"
+"Project-Id-Version: Webasyst Logs 1.1.2.0 UA translation v 1.3\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.0.6\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
@@ -46,7 +46,7 @@ msgid "Delete"
 msgstr "Удалить"
 
 msgid "Delete file"
-msgstr "Видалити файл "
+msgstr "Видалити файл"
 
 msgid "Deletion of files and directories"
 msgstr "Видалення файлів і директорій"
@@ -401,7 +401,7 @@ msgstr "дії користувача"
 
 #: /wa-apps/logs/lib/actions/dialog/logsDialogRename.controller.php:21
 msgid "Empty name."
-msgstr "Пусте ім'я."
+msgstr "Пусте ім&#39;я."
 
 #: /wa-apps/logs/lib/actions/dialog/logsDialogRename.controller.php:40
 msgid "New name matches the old one."
@@ -409,7 +409,7 @@ msgstr "Нова назва відповідає старій."
 
 #: /wa-apps/logs/lib/actions/dialog/logsDialogRename.controller.php:48
 msgid "Cannot rename to “%s”. Invalid name or insufficient permissions."
-msgstr "Не вдається перейменувати на \"%s\". Неприпустиме ім'я або недостатньо прав."
+msgstr "Не вдається перейменувати на \"%s\". Неприпустиме ім&#39;я або недостатньо прав."
 
 #: /wa-apps/logs/lib/actions/dialog/logsDialogDelete.action.php:34
 msgid "Deleting this directory will also delete %u file contained in it."
@@ -504,7 +504,7 @@ msgstr "Перейменування файлів і директорій"
 
 #: /wa-apps/logs/lib/actions/dialog/logsDialogRename.controller.php:32
 msgid "Invalid name."
-msgstr "Неприпустиме ім'я."
+msgstr "Неприпустиме ім&#39;я."
 
 #: /wa-apps/logs/lib/classes/logsItemFile.class.php:37
 msgid "File is not accessible."
@@ -593,7 +593,7 @@ msgstr "%s додаток"
 
 #: /wa-apps/logs/lib/actions/dialog/logsDialogRename.controller.php:32
 msgid "A file with this name exists. Enter another name."
-msgstr "Файл з таким ім'ям існує. Введіть інше ім'я."
+msgstr "Файл з таким ім&#39;ям існує. Введіть інше ім&#39;я."
 
 #: /wa-apps/logs/lib/classes/logsFrontendPublishedItemController.class.php:36
 msgid "File access password has changed. Reload this page to enter a correct password."

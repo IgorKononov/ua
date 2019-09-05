@@ -1,16 +1,21 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"MIME-Version: 1.0\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Webasyst CRM Telegram plugin 1.0.3.37 UA Translation v 0.1\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
+"Project-Id-Version: Webasyst CRM Telegram plugin 1.0.4.43 UA Translation v 1.0\n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2017-06-14 14:20+0300\n"
+"PO-Revision-Date: \n"
 "Language: uk_UA\n"
 "X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/settings/ImSourceSettingsTelegramBlock.html:68
 msgid "You can not change the bot within the same source.<br><br>If you want to change the bot — <a href=\"%ssettings/sources/telegram\">create a new source</a> for it."
@@ -18,6 +23,7 @@ msgstr "Ви не можете змінити бота у тому ж джере
 
 #: /wa-apps/crm/plugins/telegram/templates/source/settings/ImSourceSettingsTelegramBlock.html:69
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:204
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:241
 msgid "Close"
 msgstr "Закрити"
 
@@ -45,21 +51,28 @@ msgstr "відкрити розмову"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:59
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:58
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:76
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:75
 msgid "From"
 msgstr "Від"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:74
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:73
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:91
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:90
 msgid "To"
 msgstr "Для"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:91
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:90
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:138
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:137
 msgid "Deal"
 msgstr "Угода"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:128
 #: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:7
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:165
 msgid "Write a message"
 msgstr "Написати повідомлення"
 
@@ -67,6 +80,8 @@ msgstr "Написати повідомлення"
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:171
 #: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:28
 #: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:50
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:186
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:208
 msgid "File successful added"
 msgstr "Файл додано"
 
@@ -74,34 +89,44 @@ msgstr "Файл додано"
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:172
 #: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:29
 #: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:51
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:187
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:209
 msgid "delete"
 msgstr "видалити"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:157
 #: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:36
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:194
 msgid "Attach file"
 msgstr "Прикріпити файл"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:157
 #: /wa-apps/crm/plugins/telegram/templates/source/message/ConversationReplyForm.html:36
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:194
 msgid "Drop file here"
 msgstr "Перетягніть сюди файл"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:190
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:227
 msgid "Send"
 msgstr "Надіслати"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:191
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:135
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:228
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:172
 msgid "or"
 msgstr "або"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:191
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:136
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:228
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:173
 msgid "cancel"
 msgstr "скасувати"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:200
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:237
 msgid "Message sent successfully"
 msgstr "Повідомлення відправлене"
 
@@ -114,19 +139,24 @@ msgid "to "
 msgstr "для "
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:134
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:171
 msgid "Reply"
 msgstr "Відповісти"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:138
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:175
 msgid "close"
 msgstr "закрити"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:144
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:165
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:181
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:202
 msgid "Delete message"
 msgstr "Видалити повідомлення"
 
 #: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:164
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:201
 msgid "Delete"
 msgstr "Видалити"
 
@@ -201,3 +231,17 @@ msgstr "Невідоме відео"
 
 msgid "Audio"
 msgstr "Аудіо"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/settings/ImSourceSettingsTelegramBlock.html:68
+msgid "You can not change the bot within the same source.<br><br>If you want to change the bot — <a href=\\\"%ssettings/sources/telegram\\\">create a new source</a> for it."
+msgstr "Ви не можете змінити бота у тому ж джерелі.<br><br>Якщо ви хочете змінити бота — <a href=\\\"%ssettings/sources/telegram\\\">створіть нове джерело</a> для нього."
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:120
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:119
+msgid "Stage deleted"
+msgstr "Етап видалено"
+
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageSenderDialog.html:123
+#: /wa-apps/crm/plugins/telegram/templates/source/message/TelegramImSourceMessageViewerDialog.html:122
+msgid "Funnel deleted"
+msgstr "Воронку видалено"

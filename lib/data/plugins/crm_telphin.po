@@ -1,15 +1,21 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"MIME-Version: 1.0\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Webasyst CRM telphin plugin 1.1.0.25 UA translation v 0.1\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
+"Project-Id-Version: Webasyst CRM telphin plugin 1.1.1.32 UA translation v 1.0\n"
+"Report-Msgid-Bugs-To: \n"
 "Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-06-15 17:53+0300\n"
+"PO-Revision-Date: \n"
 "Language: uk_UA\n"
 "X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
 
 #: /wa-apps/crm/plugins/telphin/lib/actions/crmTelphinPluginBackend.actions.php:16
 msgid "Error fetching record URL from telphin API:"
@@ -18,3 +24,23 @@ msgstr "Помилка отримання URL запису від API telphin:"
 #: /wa-apps/crm/plugins/telphin/lib/actions/crmTelphinPluginBackend.actions.php:36
 msgid "Record does not exist"
 msgstr "Запису не існує"
+
+#: /wa-apps/crm/plugins/telphin/templates/settings.html:48
+msgid "E-mail"
+msgstr "Електронна пошта"
+
+#: /wa-apps/crm/plugins/telphin/templates/settings.html:76
+msgid "or"
+msgstr "або"
+
+#: /wa-apps/crm/plugins/telphin/templates/settings.html:77
+msgid "cancel"
+msgstr "відмінити"
+
+#: /wa-apps/crm/plugins/telphin/templates/settings.html:130
+msgid "Save"
+msgstr "Зберегти"
+
+#: /wa-apps/crm/plugins/telphin/templates/settings.html:148
+msgid "Close"
+msgstr "Закрити"

@@ -4,11 +4,11 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"Project-Id-Version: Webasyst Helpdesk 1.2.7.61 UA translation v 0.2\n"
+"Project-Id-Version: Webasyst Helpdesk 1.2.7.61 UA translation v 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Igor Kononov <igor.kononov@webasyst.ru>\n"
-"Language-Team: Skeeter Dev\n"
+"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
 "X-Generator: Poedit 2.0.6\n"
 
@@ -100,7 +100,7 @@ msgstr "Особистий"
 #: /wa-apps/helpdesk/templates/layouts/includeFilterSettings.html:35
 #: /wa-apps/helpdesk/templates/actions/filters/FiltersDialog.html:19
 msgid "Will appear in the sidebar in MY FILTERS section and will be available for me only"
-msgstr "З'явиться у бічній панелі у розділі «МОЇ ФІЛЬТРИ» і буде доступний тільки мені"
+msgstr "З&#39;явиться у бічній панелі у розділі «МОЇ ФІЛЬТРИ» і буде доступний тільки мені"
 
 #: /wa-apps/helpdesk/templates/layouts/Mobile.html:171
 #: /wa-apps/helpdesk/templates/layouts/Backend.html:171
@@ -114,7 +114,7 @@ msgstr "Публічний"
 #: /wa-apps/helpdesk/templates/layouts/includeFilterSettings.html:40
 #: /wa-apps/helpdesk/templates/actions/filters/FiltersDialog.html:24
 msgid "Will appear in the main section in sidebar and will be available for all users"
-msgstr "З'явиться в основному розділі у бічній панелі та будет доступний усім користувачам"
+msgstr "З&#39;явиться в основному розділі у бічній панелі та будет доступний усім користувачам"
 
 #: /wa-apps/helpdesk/templates/layouts/Mobile.html:180
 #: /wa-apps/helpdesk/templates/layouts/Backend.html:180
@@ -433,7 +433,7 @@ msgstr "Вкажіть, що має відображатися у якості �
 #: /wa-apps/helpdesk/templates/actions/settings/SettingsPortal.html:159
 #: /wa-apps/helpdesk/templates/actions/settings/SettingsPortal.html:103
 msgid "Assigned person name"
-msgstr "Ім'я призначеного"
+msgstr "Ім&#39;я призначеного"
 
 #: /wa-apps/helpdesk/templates/handlers/PersonalSettings.html:70
 #: /wa-apps/helpdesk/templates/actions/settings/SettingsPortal.html:163
@@ -618,7 +618,7 @@ msgstr "Змінні"
 #: /wa-apps/helpdesk/templates/actions/editor/email_template_editor.html:127
 #: /wa-apps/helpdesk/templates/actions/editor/email_template_editor.html:188
 msgid "1-Click Feedback"
-msgstr "Зворотній зв'язок в одне торкання"
+msgstr "Зворотній зв&#39;язок в одне торкання"
 
 #: /wa-apps/helpdesk/templates/actions/editor/email_template_editor.html:171
 #: /wa-apps/helpdesk/templates/actions/editor/email_template_editor.html:191
@@ -998,7 +998,7 @@ msgstr "Відмітка стеження"
 #: /wa-apps/helpdesk/templates/actions/requests/RequestsInfo.html:611
 #: /wa-apps/helpdesk/js/wa.controller.js:485
 msgid "After you set \"Follow\" mark, next time someone performs an action with this request it will appear as \"Unread\" for you and you will receive email notification about this action. So you will be able to follow all further activity related to this request."
-msgstr "Після установки відмітки стеження , коли наступного разу хтось виконає дію з цим запитом, для вас його буде помічено як \"непрочитаний\" і ви отримаєте повідомлення про цю дію електронною поштою. Так ви зможете стежити за усіма подальшими діями, що пов'язані із цим запитом."
+msgstr "Після установки відмітки стеження , коли наступного разу хтось виконає дію з цим запитом, для вас його буде помічено як \"непрочитаний\" і ви отримаєте повідомлення про цю дію електронною поштою. Так ви зможете стежити за усіма подальшими діями, що пов&#39;язані із цим запитом."
 
 #: /wa-apps/helpdesk/templates/actions/requests/RequestsInfo.html:860
 #: /wa-apps/helpdesk/templates/actions/requests/RequestsInfo.html:543
@@ -1073,7 +1073,7 @@ msgstr "Дата створення"
 #: /wa-apps/helpdesk/lib/classes/helpdeskRequestsCollection.class.php:536
 #: /wa-apps/helpdesk/templates/actions/requests/RequestsSearch.html:26
 msgid "Client name"
-msgstr "Ім'я клієнта"
+msgstr "Ім&#39;я клієнта"
 
 #: /wa-apps/helpdesk/templates/actions/requests/RequestsSearch.html:61
 #: /wa-apps/helpdesk/lib/classes/helpdeskRequestsCollection.class.php:512
@@ -1518,7 +1518,7 @@ msgstr "Усі доступні для читання і виконання ді
 #: /wa-apps/helpdesk/lib/sources/templates/backend/backend.html:111
 #: /wa-apps/helpdesk/lib/workflow/templates/Basic_settings.html:102
 msgid "Clients do not see any information associated with this action in their Customer Portal"
-msgstr "Клієнти не бачать будь-яку інформацію, пов'язану із цією дією, у своєму особистому кабінеті"
+msgstr "Клієнти не бачать будь-яку інформацію, пов&#39;язану із цією дією, у своєму особистому кабінеті"
 
 #: /wa-apps/helpdesk/templates/actions/settings/SettingsPortal.html:141
 #: /wa-apps/helpdesk/lib/workflow/templates/Basic_settings.html:140
@@ -1737,7 +1737,7 @@ msgstr "Тема запиту"
 #: /wa-apps/helpdesk/templates/actions/constructor/Constructor.html:93
 #: /wa-apps/helpdesk/templates/actions/constructor/Constructor.html:107
 msgid "Customer's name"
-msgstr "Ім'я замовника"
+msgstr "Ім&#39;я замовника"
 
 #: /wa-apps/helpdesk/templates/actions/constructor/Constructor.html:95
 #: /wa-apps/helpdesk/templates/actions/constructor/Constructor.html:109
@@ -2402,7 +2402,7 @@ msgstr "Форма"
 #: /wa-apps/helpdesk/lib/workflow/templates/form_settings.include.html:15
 #: /wa-apps/helpdesk/lib/workflow/templates/Basic_settings.html:18
 msgid "Customize form that appears for users when they perform this action. Choose required fields and set up their properties and location in the form."
-msgstr "Налаштувати форму, що з'являється у користувачів, коли вони виконують цю дію. Оберіть необхідні поля та вкажіть їх властивості та розташування у формі."
+msgstr "Налаштувати форму, що з&#39;являється у користувачів, коли вони виконують цю дію. Оберіть необхідні поля та вкажіть їх властивості та розташування у формі."
 
 #: /wa-apps/helpdesk/lib/workflow/templates/form_settings.include.html:36
 #: /wa-apps/helpdesk/lib/workflow/templates/Basic_settings.html:44
@@ -2674,7 +2674,7 @@ msgstr "Заповнювач"
 #: /wa-apps/helpdesk/lib/sources/templates/form/include_edit_field_dialog.html:84
 #: /wa-apps/helpdesk/lib/sources/templates/include_form_constructor.html:124
 msgid "Required"
-msgstr "Обов'язково"
+msgstr "Обов&#39;язково"
 
 #: /wa-apps/helpdesk/lib/sources/templates/form/include_edit_field_dialog.html:92
 #: /wa-apps/helpdesk/lib/sources/templates/form_constructor.html:140
@@ -2684,7 +2684,7 @@ msgstr "Ідентифікація"
 #: /wa-apps/helpdesk/lib/sources/templates/form/include_edit_field_dialog.html:96
 #: /wa-apps/helpdesk/lib/sources/templates/form_constructor.html:144
 msgid "If enabled we shall search for an existing contact with the same phone number and associate request sent via this form with the contact found."
-msgstr "Якщо увімкнено, ми будемо шукати існуючий контакт із тим же номером телефону і пов'яжемо запит, відправлений через цю форму, із знайденим контактом."
+msgstr "Якщо увімкнено, ми будемо шукати існуючий контакт із тим же номером телефону і пов&#39;яжемо запит, відправлений через цю форму, із знайденим контактом."
 
 #: /wa-apps/helpdesk/lib/sources/templates/form/include_form_constructor_preview.html:8
 msgid "Edit field settings"
@@ -2780,7 +2780,7 @@ msgstr "Після успішної відправки цієї форми ав�
 #: /wa-apps/helpdesk/lib/sources/templates/form/form_settings.html:151
 #: /wa-apps/helpdesk/lib/sources/templates/form_settings.html:108
 msgid "NOTE: Request will be accepted and shows up in your request lists only after client clicks confirmation link in this message. It's probably a good idea to write about this in the text that appears on your web page after this form submission."
-msgstr "Примітка: заявку буде прийнято і показано у вашому переліку запитів тільки після того, як клієнт натисне на посилання для підтвердження, направлене йому в повідомленні. Ймовірно, буде гарною ідеєю писати про це в тексті, який з'являється на веб-сторінці, після відправки форми."
+msgstr "Примітка: заявку буде прийнято і показано у вашому переліку запитів тільки після того, як клієнт натисне на посилання для підтвердження, направлене йому в повідомленні. Ймовірно, буде гарною ідеєю писати про це в тексті, який з&#39;являється на веб-сторінці, після відправки форми."
 
 #: /wa-apps/helpdesk/lib/sources/templates/form/form_settings.html:165
 #: /wa-apps/helpdesk/lib/sources/templates/form_settings.html:120
@@ -2936,7 +2936,7 @@ msgstr "Email"
 #: /wa-apps/helpdesk/lib/sources/templates/email/email_settings.html:41
 #: /wa-apps/helpdesk/lib/sources/templates/email_settings.html:30
 msgid "Username"
-msgstr "Ім'я користувача"
+msgstr "Ім&#39;я користувача"
 
 #: /wa-apps/helpdesk/lib/sources/templates/email/email_settings.html:48
 #: /wa-apps/helpdesk/lib/sources/templates/email_settings.html:37
@@ -3017,7 +3017,7 @@ msgstr "Відповідь на відповідь за зверненням"
 #: /wa-apps/helpdesk/lib/sources/templates/email/email_settings.html:269
 #: /wa-apps/helpdesk/lib/sources/templates/email_settings.html:94
 msgid "In case a message incoming to this email address contains a request ID in their subject (e.g., [ID:12345-XXXXX]; 12345 is request ID in this sample), then we bind incoming message with this request. However, you can customize special processing for this kind of messages."
-msgstr "У разі, якщо вхідне повідомлення на цю адресу містить ідентифікатор запиту в своїй темі (наприклад, [ID:12345-ХХХХХ]; де 12345 — ідентифікатор запиту в цьому прикладі), то ми пов'язуємо вхідне повідомлення з цим запросом. Тим не менш, ви можете налаштувати спеціальну обробку для такого роду повідомлень."
+msgstr "У разі, якщо вхідне повідомлення на цю адресу містить ідентифікатор запиту в своїй темі (наприклад, [ID:12345-ХХХХХ]; де 12345 — ідентифікатор запиту в цьому прикладі), то ми пов&#39;язуємо вхідне повідомлення з цим запросом. Тим не менш, ви можете налаштувати спеціальну обробку для такого роду повідомлень."
 
 #: /wa-apps/helpdesk/lib/sources/templates/email/email_settings.html:279
 #: /wa-apps/helpdesk/lib/sources/templates/email/email_settings.html:289
@@ -3111,7 +3111,7 @@ msgstr "Дякуємо за відправку запиту в службу пі
 #: /wa-apps/helpdesk/lib/sources/helpdeskPublicfrontendSourceType.class.php:442
 #: /wa-apps/helpdesk/lib/config/install.php:64
 msgid "Full name"
-msgstr "Повне ім'я"
+msgstr "Повне ім&#39;я"
 
 #: /wa-apps/helpdesk/lib/sources/helpdeskFormConstructor.class.php:323
 #: /wa-apps/helpdesk/lib/sources/templates/publicfrontend_settings.html:98
@@ -3375,7 +3375,7 @@ msgstr "Тема запиту"
 #: /wa-apps/helpdesk/lib/classes/helpdeskHelper.class.php:875
 #: /wa-apps/helpdesk/lib/classes/helpdeskHelper.class.php:713
 msgid "Request subject followed by the request ID (e.g. Request subject [ID: 1001-XXXXX]). The request ID and hash will associate any reply you receive from the customer with the original request."
-msgstr "Тема запиту, післа якої вказується ідентифікатор запиту (наприклад, Тема запиту [ID: 1001-XXXXX]). Ідентифікатор запиту та хеш пов'яжуть отриману вами відповідь клієнта з оригінальним запитом."
+msgstr "Тема запиту, післа якої вказується ідентифікатор запиту (наприклад, Тема запиту [ID: 1001-XXXXX]). Ідентифікатор запиту та хеш пов&#39;яжуть отриману вами відповідь клієнта з оригінальним запитом."
 
 #: /wa-apps/helpdesk/lib/classes/helpdeskHelper.class.php:876
 #: /wa-apps/helpdesk/lib/classes/helpdeskHelper.class.php:714
@@ -3431,18 +3431,18 @@ msgstr "Основна адреса електронної пошти клієн
 #: /wa-apps/helpdesk/lib/classes/helpdeskHelper.class.php:886
 #: /wa-apps/helpdesk/lib/classes/helpdeskHelper.class.php:723
 msgid "Name of customer in the format First Middle Last"
-msgstr "Ім'я клієнта у форматі Ім'я По-батькові Прізвище"
+msgstr "Ім&#39;я клієнта у форматі Ім&#39;я По-батькові Прізвище"
 
 #: /wa-apps/helpdesk/lib/classes/helpdeskHelper.class.php:887
 #: /wa-apps/helpdesk/lib/classes/helpdeskHelper.class.php:724
 msgid "Full name of person who has performed this action"
-msgstr "Повне ім'я персони, яка виконала цю дію"
+msgstr "Повне ім&#39;я персони, яка виконала цю дію"
 
 #: /wa-apps/helpdesk/lib/classes/helpdeskHelper.class.php:888
 #: /wa-apps/helpdesk/lib/sources/helpdeskCommonST.class.php:526
 #: /wa-apps/helpdesk/lib/workflow/helpdeskWorkflowBasicAction.class.php:287
 msgid "Name of user or group assigned to the request"
-msgstr "Ім'я користувача або групи, призначених на запит"
+msgstr "Ім&#39;я користувача або групи, призначених на запит"
 
 #: /wa-apps/helpdesk/lib/classes/helpdeskHelper.class.php:889
 #: /wa-apps/helpdesk/lib/classes/helpdeskHelper.class.php:727
@@ -3722,7 +3722,7 @@ msgstr "Невідоме поле:"
 #: /wa-apps/helpdesk/lib/actions/constructor/helpdeskConstructorFieldSave.controller.php:50
 #: /wa-apps/helpdesk/lib/actions/constructor/helpdeskConstructorSave.controller.php:50
 msgid "Required field"
-msgstr "Обов'язкове поле"
+msgstr "Обов&#39;язкове поле"
 
 #: /wa-apps/helpdesk/lib/actions/constructor/helpdeskConstructorFieldSave.controller.php:54
 #: /wa-apps/helpdesk/lib/actions/constructor/helpdeskConstructorSave.controller.php:54
@@ -3757,7 +3757,7 @@ msgstr "Цей URL вже використовується"
 #: /wa-apps/helpdesk/lib/actions/faq/helpdeskFaqCategorySave.controller.php:33
 #: /wa-apps/helpdesk/lib/actions/faq/helpdeskFaqCategorySave.controller.php:24
 msgid "This field is required"
-msgstr "Це поле є обов'язковим"
+msgstr "Це поле є обов&#39;язковим"
 
 #: /wa-apps/helpdesk/lib/actions/frontend/my/helpdeskFrontendMyRequest.action.php:23
 #: /wa-apps/helpdesk/lib/actions/frontend/helpdeskFrontendActionForm.controller.php:22
@@ -3998,7 +3998,7 @@ msgstr "Введіть символи, які ви бачите на зобра�
 #: /wa-apps/helpdesk/lib/workflow/helpdeskWorkflowBasicAction.class.php:284
 #: /wa-apps/helpdesk/lib/workflow/helpdeskWorkflowBasicAction.class.php:304
 msgid "Name of requestor"
-msgstr "Ім'я запитувача"
+msgstr "Ім&#39;я запитувача"
 
 #: /wa-apps/helpdesk/lib/sources/helpdeskCommonST.class.php:508
 #: /wa-apps/helpdesk/lib/sources/helpdeskCommonST.class.php:527
@@ -4049,7 +4049,7 @@ msgstr "URL-адреса сторінки запиту у особистому �
 #: /wa-apps/helpdesk/lib/sources/helpdeskEmailSourceType.class.php:432
 #: /wa-apps/helpdesk/lib/sources/helpdeskPublicfrontendSourceType.class.php:257
 msgid "Client original name"
-msgstr "Оригінальне ім'я клієнта"
+msgstr "Оригінальне ім&#39;я клієнта"
 
 #: /wa-apps/helpdesk/lib/sources/helpdeskEmailSourceType.class.php:433
 #: /wa-apps/helpdesk/lib/sources/helpdeskPublicfrontendSourceType.class.php:258
@@ -4232,7 +4232,7 @@ msgstr "Замінити форму заданим текстом"
 #: /wa-apps/helpdesk/lib/workflow/helpdeskWorkflowBasicAction.class.php:285
 #: /wa-apps/helpdesk/lib/workflow/helpdeskWorkflowBasicAction.class.php:305
 msgid "Name of a person who performs the action"
-msgstr "Ім'я особи, яка виконує дію"
+msgstr "Ім&#39;я особи, яка виконує дію"
 
 #: /wa-apps/helpdesk/lib/workflow/templates/Basic.html:19
 #: /wa-apps/helpdesk/lib/workflow/templates/Basic_settings.html:74
@@ -4257,7 +4257,7 @@ msgstr "Коли користувач виконує цю дію, буде ро�
 
 #: /wa-apps/helpdesk/lib/workflow/templates/Basic_settings.html:40
 msgid "After action is performed this text will be saved in the request history and included in notifications associated with this action (if it's included in email templates)."
-msgstr "Після того, як дію буде виконано, цей текст буде збережено в історії запитів і включено у повідомлення, пов'язані з цією дією (якщо її включено до шаблонів email)."
+msgstr "Після того, як дію буде виконано, цей текст буде збережено в історії запитів і включено у повідомлення, пов&#39;язані з цією дією (якщо її включено до шаблонів email)."
 
 #: /wa-apps/helpdesk/lib/workflow/templates/Basic_settings.html:62
 msgid "Allow to attach files"
@@ -4369,7 +4369,7 @@ msgstr "Email-шаблони відповіді в службу підтримк
 
 #: /wa-apps/helpdesk/lib/sources/templates/email_settings.html:165
 msgid "Following replies to these emails sent by your clients and received in Helpdesk can be associated with the corresponding requests."
-msgstr "Відповіді на ці листи, надіслані вашими клієнтами і отримані у додатку «Підтримка», можуть бути пов'язані з відповідними запитами."
+msgstr "Відповіді на ці листи, надіслані вашими клієнтами і отримані у додатку «Підтримка», можуть бути пов&#39;язані з відповідними запитами."
 
 #: /wa-apps/helpdesk/lib/sources/templates/email_settings.html:166
 msgid "Select an action in the table below that should be performed with such requests; the choice of such an action depends on the current request state and the sender of the reply."
@@ -4414,7 +4414,7 @@ msgstr "Назва"
 
 #: /wa-apps/helpdesk/templates/actions/constructor/Constructor.html:19
 msgid "First name"
-msgstr "Ім'я"
+msgstr "Ім&#39;я"
 
 #: /wa-apps/helpdesk/templates/actions/constructor/Constructor.html:19
 msgid "Middle name"
@@ -4457,7 +4457,7 @@ msgstr "вимкнено"
 
 #: /wa-apps/helpdesk/templates/actions/constructor/Constructor.html:614
 msgid "Add name in another language"
-msgstr "Додати ім'я у іншій мові"
+msgstr "Додати ім&#39;я у іншій мові"
 
 #: /wa-apps/helpdesk/templates/actions/constructor/Constructor.html:647
 msgid "Menu items"
@@ -4668,7 +4668,7 @@ msgstr "Увага: початкові параметри запиту <a href=\
 
 #: /wa-apps/helpdesk/templates/actions/requests/RequestsConstructor.html:90
 msgid "Name of client"
-msgstr "Ім'я клієнта"
+msgstr "Ім&#39;я клієнта"
 
 #: /wa-apps/helpdesk/templates/actions/faq/Faq.html:43
 msgid "Comment"

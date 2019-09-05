@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Hub 1.2.4.72 UA translation v 1.1\n"
+"Project-Id-Version: Webasyst Hub 1.2.4.72 UA translation v 1.2\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -648,7 +648,7 @@ msgstr "Теми опубліковано на вебсайті:"
 #: /wa-apps/hub/templates/actions/settings/SettingsHub.html:59
 #: /wa-apps/hub/templates/actions/topics/Topics.html:101
 msgid "This hub is not visible on your sites now, because there were no routing rules added for Hub app with this particular hub. To make this hub visible on your site, <a href=\"%s\">create a route</a> for Hub app and this hub in your Site app routing settings."
-msgstr "Цей хаб наразі не видно на вашому сайті, тому що для додатку «Хаб» не налаштовано правил маршрутизації, пов'язаних з конкретним хабом. Аби зробити цей хаб видимим на вашому сайті, <a href=\"%s\">створіть правило</a> для додатку «Хаб» та цього хабу у налаштуваннях структури сайта."
+msgstr "Цей хаб наразі не видно на вашому сайті, тому що для додатку «Хаб» не налаштовано правил маршрутизації, пов&#39;язаних з конкретним хабом. Аби зробити цей хаб видимим на вашому сайті, <a href=\"%s\">створіть правило</a> для додатку «Хаб» та цього хабу у налаштуваннях структури сайта."
 
 #: /wa-apps/hub/templates/actions/settings/SettingsHub.html:70
 msgid "Kudos"
@@ -700,7 +700,7 @@ msgstr "Перерахуйте ключових користувачів, які
 
 #: /wa-apps/hub/templates/actions/settings/SettingsHub.html:127
 msgid "User name"
-msgstr "Ім'я користувача"
+msgstr "Ім&#39;я користувача"
 
 #: /wa-apps/hub/templates/actions/settings/SettingsHub.html:128
 msgid "Badge (role)"
@@ -708,7 +708,7 @@ msgstr "Бейдж (роль)"
 
 #: /wa-apps/hub/templates/actions/settings/SettingsHub.html:137
 msgid "Start typing user name..."
-msgstr "Почніть вводити ім'я користувача..."
+msgstr "Почніть вводити ім&#39;я користувача..."
 
 #: /wa-apps/hub/templates/actions/settings/SettingsHub.html:147
 msgid "Click “Save” button below to commit changes."
@@ -1098,7 +1098,7 @@ msgstr "Для"
 
 #: /wa-apps/hub/templates/actions/topics/TopicsEdit.html:218
 msgid "Start typing user or user group name..."
-msgstr "Почніть вводити ім'я користувача або назву групи користувачів..."
+msgstr "Почніть вводити ім&#39;я користувача або назву групи користувачів..."
 
 #: /wa-apps/hub/templates/actions/topics/TopicsEdit.html:223
 msgid "Message"
@@ -1304,7 +1304,7 @@ msgstr "Гілка форуму (обговорення)"
 #: /wa-apps/hub/lib/classes/hubHelper.class.php:36
 #: /wa-apps/hub/lib/updates/dev/1411473875.php:19
 msgid "A bug report is attached to a specific product version, and has a status"
-msgstr "Звіт про помилку прив'язаний до конкретної версії продукту, і має статус"
+msgstr "Звіт про помилку прив&#39;язаний до конкретної версії продукту, і має статус"
 
 #: /wa-apps/hub/lib/classes/hubHelper.class.php:42
 msgid "Question & Answers"
@@ -1316,7 +1316,7 @@ msgstr "Питання та відповіді. Правильний тип те
 
 #: /wa-apps/hub/lib/classes/hubHelper.class.php:52
 msgid "Feedback (+/-)"
-msgstr "Зворотній зв'язок (+/-)"
+msgstr "Зворотній зв&#39;язок (+/-)"
 
 #: /wa-apps/hub/lib/classes/hubHelper.class.php:53
 msgid "Ideas, bug reports, thank-yous and other feedback."
@@ -1791,7 +1791,7 @@ msgstr "%d тем, %d відповідей, and %d коментарів"
 
 #: /wa-apps/hub/templates/actions/settings/SettingsHub.html:59
 msgid "This hub is not visible on your sites now, because there were no routing rules added for Hub app with this particular hub. To make this hub visible on your site, create a route using the form below or using <a href=\"%s\">Site app</a> routing settings."
-msgstr "Цей хаб наразі не видно на вашому сайті, тому що для додатку «Хаб» не налаштовано правил маршрутизації, пов'язаних з конкретним хабом. Аби зробити цей хаб видимим на вашому сайті, створіть правило, використовуючи форму нижче, або через налаштування структури у додатку <a href=\"%s\">«Сайт»</a>."
+msgstr "Цей хаб наразі не видно на вашому сайті, тому що для додатку «Хаб» не налаштовано правил маршрутизації, пов&#39;язаних з конкретним хабом. Аби зробити цей хаб видимим на вашому сайті, створіть правило, використовуючи форму нижче, або через налаштування структури у додатку <a href=\"%s\">«Сайт»</a>."
 
 #: /wa-apps/hub/templates/actions/settings/SettingsHub.html:73
 msgid "Specify the public URL for this new hub on your site:"

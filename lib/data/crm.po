@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst CRM 1.4.2.293 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst CRM 1.4.2.293 UA translation v 1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2019-07-05T21:22:12+03:00\n"
-"PO-Revision-Date: 2019-09-04 18:35+0300\n"
+"PO-Revision-Date: 2019-09-05 18:12+0300\n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 2.0.6\n"
@@ -637,7 +637,7 @@ msgstr "Електронна пошта"
 #: /wa-apps/crm/templates/source/settings/EmailSourceSettingsPop3Block.html:22
 #: /wa-apps/crm/templates/actions/settings/SettingsSourceId.html:48
 msgid "Username"
-msgstr "Ім'я користувача"
+msgstr "Ім&#39;я користувача"
 
 #: /wa-apps/crm/templates/source/settings/EmailSourceSettingsPop3Block.html:29
 #: /wa-apps/crm/templates/actions/settings/SettingsSourceId.html:55
@@ -1064,7 +1064,7 @@ msgstr "Виклик очікує"
 
 #: /wa-apps/crm/templates/actions/call/CallInitContactDialog.html:70
 msgid "Call connected"
-msgstr "Виклик з'єднано"
+msgstr "Виклик з&#39;єднано"
 
 #: /wa-apps/crm/templates/actions/call/CallInitContactDialog.html:71
 msgid "Call finished"
@@ -1072,7 +1072,7 @@ msgstr "Виклик завершено"
 
 #: /wa-apps/crm/templates/actions/call/CallAssociateDealDialog.html:11
 msgid "Associate call with a deal"
-msgstr "Пов'язати виклик із угодою"
+msgstr "Пов&#39;язати виклик із угодою"
 
 #: /wa-apps/crm/templates/actions/call/CallAssociateDealDialog.html:17
 #: /wa-apps/crm/templates/actions/call/Call.html:138
@@ -1149,7 +1149,7 @@ msgstr "Назва угоди"
 #: /wa-apps/crm/templates/actions/call/CallAssociateDealDialog.html:140
 #: /wa-apps/crm/templates/actions/message/MessageConversationAssociateDealDialog.html:140
 msgid "Associate"
-msgstr "Пов'язати"
+msgstr "Пов&#39;язати"
 
 #: /wa-apps/crm/templates/actions/call/Call.html:1
 #: /wa-apps/crm/templates/actions/Sidebar.html:66
@@ -1251,7 +1251,7 @@ msgstr "Створити або оновити контакт"
 #: /wa-apps/crm/templates/actions/message/MessageListByConversation.html:265
 #: /wa-apps/crm/templates/actions/call/Call.html:216
 msgid "Associate with a deal"
-msgstr "Пов'язати з угодою"
+msgstr "Пов&#39;язати з угодою"
 
 #: /wa-apps/crm/templates/actions/call/Call.html:223
 #: /wa-apps/crm/templates/actions/message/MessageListByConversation.html:270
@@ -1321,7 +1321,7 @@ msgstr "Видалити виклик"
 
 #: /wa-apps/crm/templates/actions/pbx/PbxIfrLayout.html:98
 msgid "No contacts match this phone"
-msgstr "Не знайдено пов'язаних із цим номером телефону контактів"
+msgstr "Не знайдено пов&#39;язаних із цим номером телефону контактів"
 
 #: /wa-apps/crm/templates/actions/pbx/PbxIfrLayout.html:107
 #: /wa-apps/crm/templates/actions/deal/DealCreateDialog.html:136
@@ -1870,7 +1870,7 @@ msgstr "Особисті налаштування"
 #: /wa-apps/crm/templates/actions/settings/SettingsSms.html:16
 #: /wa-apps/crm/templates/actions/settings/SettingsVaultDialog.html:11
 msgid "Name"
-msgstr "Ім'я"
+msgstr "Ім&#39;я"
 
 #: /wa-apps/crm/templates/actions/email/EmailPersonalSettingsDialog.html:21
 msgid "Signature"
@@ -1882,7 +1882,7 @@ msgstr "Підпис"
 #: /wa-apps/crm/lib/config/data/templates/invoice.template_b.html:48
 #: /wa-apps/crm/templates/actions/frontend/FrontendInvoice.html:63
 msgid "Billed To"
-msgstr "Рахунок на ім'я"
+msgstr "Рахунок на ім&#39;я"
 
 #: /wa-apps/crm/templates/actions/frontend/invoice/template1.html:52
 #: /wa-apps/crm/lib/config/data/templates/invoice.template_a.html:61
@@ -2373,7 +2373,7 @@ msgstr "Пусто"
 #: /wa-apps/crm/templates/actions/deal/DealContact.html:172
 #: /wa-apps/crm/templates/actions/deal/DealId.html:339
 msgid "User name"
-msgstr "Ім'я користувача"
+msgstr "Ім&#39;я користувача"
 
 #: /wa-apps/crm/templates/actions/message/MessageConversationId.html:326
 #: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:45
@@ -2462,7 +2462,7 @@ msgstr "Додати угоду"
 
 #: /wa-apps/crm/templates/actions/message/MessageConversationAssociateDealDialog.html:11
 msgid "Associate conversation with a deal"
-msgstr "Пов'язати розмову з угодою"
+msgstr "Пов&#39;язати розмову з угодою"
 
 #: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:12
 msgid "Write message"
@@ -2479,7 +2479,7 @@ msgstr "Надіслати повідомлення для"
 
 #: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:38
 msgid "Start typing a name"
-msgstr "Почніть вводити ім'я"
+msgstr "Почніть вводити ім&#39;я"
 
 #: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:68
 #: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:363
@@ -2492,7 +2492,7 @@ msgstr "Видалити з копії"
 #: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:78
 #: /wa-apps/crm/templates/actions/message/MessageConversationId.replyEmail.inc.html:59
 msgid "Name or email"
-msgstr "Ім'я або адреса електронної пошти"
+msgstr "Ім&#39;я або адреса електронної пошти"
 
 #: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:84
 #: /wa-apps/crm/templates/actions/message/MessageConversationId.replyEmail.inc.html:65
@@ -2821,7 +2821,7 @@ msgstr "Невірні дата або час"
 #: /wa-apps/crm/templates/actions/log/Log.html:218
 #: /wa-apps/crm/templates/actions/reminder/ReminderFormEdit.inc.html:121
 msgid "Required field is empty"
-msgstr "Не заповнене обов'язкове поле"
+msgstr "Не заповнене обов&#39;язкове поле"
 
 #: /wa-apps/crm/templates/actions/log/Log.html:455
 #: /wa-apps/crm/templates/actions/log/Log.html:213
@@ -2896,7 +2896,7 @@ msgstr "Сторінку не знайдено"
 
 #: /wa-apps/crm/templates/actions/DialogErrorNotFound.html:3
 msgid "<p>The requested URL was not found on this server.</p><p>Please contact app developer.</p>"
-msgstr "<p>Запитаний URL не знайдено на цьому сервері.</p><p>Будь ласка, зв'яжіться з розробником програми.</p>"
+msgstr "<p>Запитаний URL не знайдено на цьому сервері.</p><p>Будь ласка, зв&#39;яжіться з розробником програми.</p>"
 
 #: /wa-apps/crm/templates/actions/reminder/ReminderSettings.html:24
 #: /wa-apps/crm/templates/actions/reminder/ReminderSettings.html:23
@@ -3206,7 +3206,7 @@ msgstr "Призначити"
 
 #: /wa-apps/crm/templates/actions/deal/DealMerge.html:1
 msgid "Deals merge"
-msgstr "Об'єднати угоди"
+msgstr "Об&#39;єднати угоди"
 
 #: /wa-apps/crm/templates/actions/deal/DealMerge.html:9
 #: /wa-apps/crm/templates/actions/deal/DealMerge.html:8
@@ -3216,7 +3216,7 @@ msgstr "Оберіть основну угоду, яку буде збереже
 #: /wa-apps/crm/templates/actions/deal/DealMerge.html:10
 #: /wa-apps/crm/templates/actions/deal/DealMerge.html:8
 msgid "Other deals will be deleted during this merging operation."
-msgstr "Під час операції об'єднання інші угоди буде видалено."
+msgstr "Під час операції об&#39;єднання інші угоди буде видалено."
 
 #: /wa-apps/crm/templates/actions/deal/DealMerge.html:25
 #: /wa-apps/crm/templates/actions/deal/DealMerge.html:24
@@ -3230,7 +3230,7 @@ msgstr "Обрати основною угодою"
 #: /wa-apps/crm/templates/actions/contact/Contact.list.operations.inc.html:9
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:89
 msgid "Merge"
-msgstr "Об'єднати"
+msgstr "Об&#39;єднати"
 
 #: /wa-apps/crm/templates/actions/deal/DealCreateDialog.html:36
 #: /wa-apps/crm/templates/handlers/shop.backend_order.html:234
@@ -3244,7 +3244,7 @@ msgstr "Створити нову угоду"
 
 #: /wa-apps/crm/templates/actions/deal/DealCreateDialog.html:122
 msgid "Bind"
-msgstr "Прив'язати"
+msgstr "Прив&#39;язати"
 
 #: /wa-apps/crm/templates/actions/deal/DealCreateDialog.html:158
 #: /wa-apps/crm/templates/handlers/shop.backend_order.html:173
@@ -3575,7 +3575,7 @@ msgstr "Знайти існуючий контакт"
 #: /wa-apps/crm/templates/actions/contact/ContactForm.inc.html:47
 #: /wa-apps/crm/templates/actions/deal/DealContactForm.inc.html:26
 msgid "First name"
-msgstr "Ім'я"
+msgstr "Ім&#39;я"
 
 #: /wa-apps/crm/templates/actions/deal/DealContactForm.inc.html:36
 #: /wa-apps/crm/templates/actions/deal/DealContactForm.inc.html:39
@@ -3613,7 +3613,7 @@ msgstr "Контакт"
 #: /wa-apps/crm/templates/actions/deal/DealContactForm.inc.html:37
 #: /wa-apps/crm/templates/actions/deal/DealContactForm.inc.html:133
 msgid "Enter name, email or phone"
-msgstr "Введіть ім'я, адресу електронної пошти або телефон"
+msgstr "Введіть ім&#39;я, адресу електронної пошти або телефон"
 
 #: /wa-apps/crm/templates/actions/deal/DealContactForm.inc.html:91
 #: /wa-apps/crm/templates/actions/contact/ContactForm.inc.html:104
@@ -3649,9 +3649,9 @@ msgstr[2] "Перемістити %d угод до"
 #: /wa-apps/crm/templates/actions/deal/DealMassClose.html:33
 msgid "%d selected deal are linked to Shop-Script orders."
 msgid_plural "%d selected deals are linked to Shop-Script orders."
-msgstr[0] "%d обрану угоду пов'язано із замовленнями Shop-Script."
-msgstr[1] "%d обрані угоди пов'язано із замовленнями Shop-Script."
-msgstr[2] "%d обраних угод пов'язано із замовленнями Shop-Script."
+msgstr[0] "%d обрану угоду пов&#39;язано із замовленнями Shop-Script."
+msgstr[1] "%d обрані угоди пов&#39;язано із замовленнями Shop-Script."
+msgstr[2] "%d обраних угод пов&#39;язано із замовленнями Shop-Script."
 
 #: /wa-apps/crm/templates/actions/deal/DealExport.html:8
 msgid "Export deals"
@@ -3818,7 +3818,7 @@ msgstr "Злиття дублікатів"
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:15
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:20
 msgid "Duplicates are the contacts actually representing the same person or company though existing as two or more separate records in your database. This may happen if you use multiple scenarios to collect your contacts, e.g. sign up on your site, mailing subscription, adding contacts in the backend, and etc. Whatever reasons cause duplicates appearance, they are undesirable as do not allow to gather under the same unique account a client's profile, their activities and communication history. Merging duplicates resolves this problem. Two or more contact records will be merged in one. Contact information (phone numbers, email address, and etc.) will be consolidated as well as links from other apps (Shop, Helpdesk, Mailer, and etc.) will be modified to refer the only unique contact left after merging."
-msgstr "Дублікати — це контакти, які насправді представляють ту ж особу або компанію через існуючі дві або більше записів у вашій базі даних. Це може траплятися через те, що ви використовуєте декілька сценаріїв збору контактів: наприклад, реєстрацію на сайті, підписування на розсилку по email, додавання контактів через бекенд та інші. Які б не були причини створення дублікатів, вони є небажаними, так як не дозволяють реєструвати профіль, активність клієнта та історію його повідомлень. Об'єднання дублікатів вирішує цб проблему. Два або більше контактів можна об'єднати в один. Контактна інформація (номери телефонів, адреси email, інше) буде об'єднано, також зв'язки з іншими додатками (Магазин, Підтримка, Розсилання, інше) буде оновлено таким чином, що після об'єднання залишиться один унікальний контакт."
+msgstr "Дублікати — це контакти, які насправді представляють ту ж особу або компанію через існуючі дві або більше записів у вашій базі даних. Це може траплятися через те, що ви використовуєте декілька сценаріїв збору контактів: наприклад, реєстрацію на сайті, підписування на розсилку по email, додавання контактів через бекенд та інші. Які б не були причини створення дублікатів, вони є небажаними, так як не дозволяють реєструвати профіль, активність клієнта та історію його повідомлень. Об&#39;єднання дублікатів вирішує цб проблему. Два або більше контактів можна об&#39;єднати в один. Контактна інформація (номери телефонів, адреси email, інше) буде об&#39;єднано, також зв&#39;язки з іншими додатками (Магазин, Підтримка, Розсилання, інше) буде оновлено таким чином, що після об&#39;єднання залишиться один унікальний контакт."
 
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:19
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:37
@@ -3828,47 +3828,47 @@ msgstr "Новий пошук"
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:34
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:53
 msgid "Merge all groups automatically"
-msgstr "Автоматично об'єднати всі групи"
+msgstr "Автоматично об&#39;єднати всі групи"
 
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:41
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:60
 msgid "As a master contact in every group we will choose contact with the latest creation date. Other contacts will be deleted during this merging operation. Contact info from the contacts to be deleted, except unique fields, will be added to master contact. Links to deleted contacts from other applications will be updated to link to master contact."
-msgstr "У якості основного контакту у кожній групі ми виберемо контакт з самою останньою датою створення. Інші контакти будуть видалені під час операції об'єднання. Контактну інформацію буде видалено з контактів за винятком унікальних полів, які буде додано до основного контакту. Посилання на видалені контакти з інших додатків буде оновлено посиланнями на основний контакт."
+msgstr "У якості основного контакту у кожній групі ми виберемо контакт з самою останньою датою створення. Інші контакти будуть видалені під час операції об&#39;єднання. Контактну інформацію буде видалено з контактів за винятком унікальних полів, які буде додано до основного контакту. Посилання на видалені контакти з інших додатків буде оновлено посиланнями на основний контакт."
 
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:44
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:63
 msgid "<strong>IMPORTANT NOTE:</strong> Merging operation is irreversible."
-msgstr "<strong>ВАЖЛИВО:</strong> Відмінити операцію об'єднання неможливо."
+msgstr "<strong>ВАЖЛИВО:</strong> Відмінити операцію об&#39;єднання неможливо."
 
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:45
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:74
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:64
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:95
 msgid "Merging complete."
-msgstr "Об'єднання завершено."
+msgstr "Об&#39;єднання завершено."
 
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:46
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:65
 msgid "Start auto merging"
-msgstr "Запустити автоматичне об'єднання"
+msgstr "Запустити автоматичне об&#39;єднання"
 
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:47
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:66
 msgid "Pause merging"
-msgstr "Призупинити об'єднання"
+msgstr "Призупинити об&#39;єднання"
 
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:48
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:76
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:67
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:97
 msgid "Resume merging"
-msgstr "Відновити об'єднання"
+msgstr "Відновити об&#39;єднання"
 
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:65
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:61
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:80
 msgid "Merge this group"
-msgstr "Об'єднати цю групу"
+msgstr "Об&#39;єднати цю групу"
 
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:78
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:79
@@ -3886,7 +3886,7 @@ msgstr "Шукати дублікати за"
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:89
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:27
 msgid "Full person name"
-msgstr "Повне ім'я персони"
+msgstr "Повне ім&#39;я персони"
 
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:94
 #: /wa-apps/crm/templates/actions/contact/ContactMergeDuplicates.html:95
@@ -3966,7 +3966,7 @@ msgstr "Додати ще"
 
 #: /wa-apps/crm/templates/actions/contact/ContactColumns.html:17
 msgid "Contact name"
-msgstr "Ім'я контакту"
+msgstr "Ім&#39;я контакту"
 
 #: /wa-apps/crm/templates/actions/contact/ContactSearch.html:2
 #: /wa-apps/crm/templates/actions/contact/ContactSearch.html:35
@@ -4075,7 +4075,7 @@ msgstr "Імпорт контактів"
 #: /wa-apps/crm/templates/actions/contact/ContactImportUpload.html:17
 #: /wa-apps/crm/templates/actions/contact/ContactImportUpload.html:12
 msgid "You must select at least one of the following fields: First name, Last name, Company name, Email."
-msgstr "Ви маєте обрати щонайменше одне з наступних полів: Ім'я, Прізвище, Назва компанії, email."
+msgstr "Ви маєте обрати щонайменше одне з наступних полів: Ім&#39;я, Прізвище, Назва компанії, email."
 
 #: /wa-apps/crm/templates/actions/contact/ContactImportUpload.html:23
 #: /wa-apps/crm/templates/actions/contact/ContactImportUpload.html:18
@@ -4100,7 +4100,7 @@ msgstr "Імпортувати перший рядок"
 #: /wa-apps/crm/templates/actions/contact/ContactImportUpload.html:70
 #: /wa-apps/crm/templates/actions/contact/ContactImportUpload.html:65
 msgid "Enable validation control (required and unique fields and data format)"
-msgstr "Увімкнути перевірку даних (обов'язкових та унікальних полів, а також формату даних)"
+msgstr "Увімкнути перевірку даних (обов&#39;язкових та унікальних полів, а також формату даних)"
 
 #: /wa-apps/crm/templates/actions/contact/ContactImportUpload.html:73
 #: /wa-apps/crm/templates/actions/contact/ContactImportUpload.html:68
@@ -4236,19 +4236,19 @@ msgstr[2] "%d співробітників."
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:12
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:14
 msgid "Merge contacts"
-msgstr "Об'єднати контакти"
+msgstr "Об&#39;єднати контакти"
 
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:15
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:104
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:17
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:101
 msgid "Choose a master contact that will be retained after merging."
-msgstr "Оберіть основний контакт, який залишиться після об'єднання."
+msgstr "Оберіть основний контакт, який залишиться після об&#39;єднання."
 
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:16
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:18
 msgid "Other contacts will be deleted during this merging operation."
-msgstr "Інші контакти буде видалено в результаті процедури об'єднання."
+msgstr "Інші контакти буде видалено в результаті процедури об&#39;єднання."
 
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:17
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:19
@@ -4295,7 +4295,7 @@ msgstr "%s обрано як головний контакт."
 
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:74
 msgid "However, there are no contacts to be merged with %s, by the reasons designated above."
-msgstr "Проте, немає жодного контакту, який міг би бути об'єднаний із %s, з вищевказаних причин."
+msgstr "Проте, немає жодного контакту, який міг би бути об&#39;єднаний із %s, з вищевказаних причин."
 
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:68
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:70
@@ -4309,9 +4309,9 @@ msgstr[2] "%d інших контактів буде поєднано з %%s."
 #: /wa-apps/crm/templates/actions/contact/ContactMerge.html:73
 msgid "%d contact will not be merged by the reasons designated above."
 msgid_plural "%d contacts will not be merged by the reasons designated above."
-msgstr[0] "%d контакт не буде об'єднано з зазначених вище причин."
-msgstr[1] "%d контакти не буде об'єднано з зазначених вище причин."
-msgstr[2] "%d контактів не буде об'єднано з зазначених вище причин."
+msgstr[0] "%d контакт не буде об&#39;єднано з зазначених вище причин."
+msgstr[1] "%d контакти не буде об&#39;єднано з зазначених вище причин."
+msgstr[2] "%d контактів не буде об&#39;єднано з зазначених вище причин."
 
 #: /wa-apps/crm/templates/actions/contact/ContactResponsibleDialog.html:11
 msgid "The customer owner"
@@ -4335,7 +4335,7 @@ msgstr "видалити"
 #: /wa-apps/crm/templates/actions/contact/ContactOperationAssignResponsible.html:37
 #: /wa-apps/crm/templates/actions/contact/ContactAccessDialog.html:31
 msgid "Start typing user name..."
-msgstr "Почніть вводити ім'я користувача..."
+msgstr "Почніть вводити ім&#39;я користувача..."
 
 #: /wa-apps/crm/templates/actions/contact/ContactResponsibleDialog.html:80
 msgid "Clear"
@@ -4538,7 +4538,7 @@ msgstr "Опис"
 #: /wa-apps/crm/templates/actions/contact/ContactNew.html:375
 #: /wa-apps/crm/templates/actions/contact/ContactNew.html:227
 msgid "Contact name required"
-msgstr "Необхідно вказати ім'я контакта"
+msgstr "Необхідно вказати ім&#39;я контакта"
 
 #: /wa-apps/crm/templates/actions/contact/ContactNew.html:376
 #: /wa-apps/crm/templates/actions/contact/ContactNew.html:228
@@ -4562,7 +4562,7 @@ msgstr "ВАЖЛИВА ПРИМІТКА:"
 #: /wa-apps/crm/templates/actions/contact/ContactOperationDelete.html:28
 #: /wa-apps/crm/templates/actions/contact/ContactOperationDelete.html:22
 msgid "All selected contacts have links to other applications."
-msgstr "Усі обрані контакти мають зв'язки з іншими додатками."
+msgstr "Усі обрані контакти мають зв&#39;язки з іншими додатками."
 
 #: /wa-apps/crm/templates/actions/contact/ContactOperationDelete.html:33
 #: /wa-apps/crm/templates/actions/contact/ContactOperationDelete.html:27
@@ -4774,7 +4774,7 @@ msgstr[2] "%d співробітників"
 
 #: /wa-apps/crm/templates/actions/contact/ContactUpdateDialog.html:16
 msgid "Enter name or email"
-msgstr "Введіть ім'я або email"
+msgstr "Введіть ім&#39;я або email"
 
 #: /wa-apps/crm/templates/actions/contact/ContactUpdateDialog.html:8
 msgid "Add phone %s to contact"
@@ -4793,7 +4793,7 @@ msgstr "Колонки"
 
 #: /wa-apps/crm/templates/actions/contact/ContactOperationDeleteCheckingDialog.inc.html:9
 msgid "Checking links to other applications..."
-msgstr "Пошук зв'язків з іншими додатками..."
+msgstr "Пошук зв&#39;язків з іншими додатками..."
 
 #: /wa-apps/crm/templates/actions/contact/ContactOperationAssignResponsible.html:66
 msgid "The error in the appointment of"
@@ -5513,7 +5513,7 @@ msgstr "Прізвище"
 #: /wa-apps/crm/lib/classes/crmViewHelper.class.php:145
 #: /wa-apps/crm/templates/actions/deal/DealContactForm.inc.html:118
 msgid "Firstname"
-msgstr "Ім'я"
+msgstr "Ім&#39;я"
 
 #: /wa-apps/crm/templates/actions/settings/SettingsGeneral.html:27
 #: /wa-apps/crm/templates/actions/settings/SettingsGeneral.html:31
@@ -5790,7 +5790,7 @@ msgstr "Коди змінних мають бути унікальними"
 
 #: /wa-apps/crm/templates/actions/settings/SettingsTemplates.html:195
 msgid "Removing a template is prohibited. The template is associated with {$company_count} companies"
-msgstr "Видалення шаблону заборонене. Шаблон пов'язаний з {$company_count} компаніями"
+msgstr "Видалення шаблону заборонене. Шаблон пов&#39;язаний з {$company_count} компаніями"
 
 #: /wa-apps/crm/templates/actions/settings/SettingsCronDailyRecap.inc.html:10
 msgid "<tt>Cron</tt> job required for daily recap is set up properly."
@@ -5919,7 +5919,7 @@ msgstr "Залежно від обраного значення поля-пер�
 #: /wa-apps/crm/templates/actions/settings/SettingsFormFieldEdit.inc.html:68
 #: /wa-apps/crm/templates/actions/settings/SettingsFormFieldEdit.inc.html:37
 msgid "Required"
-msgstr "Обов'язкове"
+msgstr "Обов&#39;язкове"
 
 #: /wa-apps/crm/templates/actions/settings/SettingsFieldEditor.html:130
 msgid "Please specify options for multiple choice field."
@@ -5936,11 +5936,11 @@ msgstr "Натисніть на кнопку «Зберегти», аби під
 #: /wa-apps/crm/templates/actions/settings/SettingsFieldEditor.html:166
 #: /wa-apps/crm/templates/actions/settings/SettingsFieldEdit.html:200
 msgid "This field is required."
-msgstr "Це поле є обов'язковим."
+msgstr "Це поле є обов&#39;язковим."
 
 #: /wa-apps/crm/templates/actions/settings/SettingsFieldEditor.html:182
 msgid "This field can be invisible in some cases, so it may not be required."
-msgstr "Це поле в деяких випадках стає невидимим, і тому не може бути обов'язковим."
+msgstr "Це поле в деяких випадках стає невидимим, і тому не може бути обов&#39;язковим."
 
 #: /wa-apps/crm/templates/actions/settings/SettingsFieldEdit.html:21
 #: /wa-apps/crm/templates/actions/settings/SettingsFieldEdit.html:26
@@ -5957,7 +5957,7 @@ msgstr "Нове поле"
 #: /wa-apps/crm/templates/actions/settings/SettingsFieldEdit.html:56
 #: /wa-apps/crm/templates/actions/settings/SettingsFieldEdit.html:60
 msgid "Add name in another language"
-msgstr "Додати ім'я в іншій мові"
+msgstr "Додати ім&#39;я в іншій мові"
 
 #: /wa-apps/crm/templates/actions/settings/SettingsFieldEdit.html:72
 #: /wa-apps/crm/templates/actions/settings/SettingsFieldEdit.html:76
@@ -6015,7 +6015,7 @@ msgstr "Вимкнути поле"
 
 #: /wa-apps/crm/templates/actions/settings/SettingsFieldEdit.html:198
 msgid "This will remove field and all its data from all existing contacts. Are you sure?"
-msgstr "Буде видалено це поле і пов'язані з ним дані в усіх контактах. Видалити?"
+msgstr "Буде видалено це поле і пов&#39;язані з ним дані в усіх контактах. Видалити?"
 
 #: /wa-apps/crm/templates/actions/settings/SettingsFieldDeleteConfirm.html:18
 msgid "No data in the field"
@@ -6495,7 +6495,7 @@ msgstr "Інформація про доставку"
 
 #: /wa-apps/crm/templates/actions/settings/SettingsPaymentEdit.html:71
 msgid "Optional text to be sent to customer with the order notification email. Plain text, no HTML allowed."
-msgstr "Необов'язковий текст, який буде відправлено покупцеві разом з email-повідомленням про замовлення. Простий текст, HTML-теги не підтримуються."
+msgstr "Необов&#39;язковий текст, який буде відправлено покупцеві разом з email-повідомленням про замовлення. Простий текст, HTML-теги не підтримуються."
 
 #: /wa-apps/crm/templates/actions/settings/SettingsCompanyDeleteDialog.html:19
 #: /wa-apps/crm/templates/actions/settings/SettingsCompanyDeleteDialog.html:12
@@ -7081,11 +7081,11 @@ msgstr "Сегмент #%s"
 #: /wa-apps/crm/lib/actions/contact/segment/crmContactSegmentSave.controller.php:40
 #: /wa-apps/crm/lib/classes/source/im/crmImSourceSettingsPage.class.php:121
 msgid "Name is required"
-msgstr "Ім'я є обов'язковим"
+msgstr "Ім&#39;я є обов&#39;язковим"
 
 #: /wa-apps/crm/lib/actions/contact/merge/crmContactMerge.action.php:94
 msgid "Users can not be merged into other contacts."
-msgstr "Користувачів не може бути об'єднано з іншими контактами."
+msgstr "Користувачів не може бути об&#39;єднано з іншими контактами."
 
 #: /wa-apps/crm/lib/actions/contact/merge/crmContactMergeRun.controller.php:144
 #: /wa-apps/crm/lib/actions/contact/merge/crmContactMergeRun.controller.php:35
@@ -7098,12 +7098,12 @@ msgstr[2] "%d контактів було пропущено, оскільки �
 #: /wa-apps/crm/lib/actions/contact/merge/crmContactMergeRun.controller.php:135
 #: /wa-apps/crm/lib/actions/contact/merge/crmContactMergeRun.controller.php:29
 msgid "%s of %s contacts have been merged"
-msgstr "%s з %s контактів об'єднано"
+msgstr "%s з %s контактів об&#39;єднано"
 
 #: /wa-apps/crm/lib/actions/contact/merge/crmContactMergeRun.controller.php:138
 #: /wa-apps/crm/lib/actions/contact/merge/crmContactMergeRun.controller.php:32
 msgid "No contacts were merged"
-msgstr "Не було об'єднано жодного контакта"
+msgstr "Не було об&#39;єднано жодного контакта"
 
 #: /wa-apps/crm/lib/actions/contact/crmContactSave.controller.php:98
 #: /wa-apps/crm/lib/actions/contact/crmContactSave.controller.php:85
@@ -7255,7 +7255,7 @@ msgstr "Приховане поле"
 
 #: /wa-apps/crm/lib/actions/settings/field/crmSettingsFieldFormRow.action.php:61
 msgid "Full name"
-msgstr "Повне ім'я"
+msgstr "Повне ім&#39;я"
 
 #: /wa-apps/crm/lib/actions/settings/field/crmSettingsFieldSave.controller.php:36
 #: /wa-apps/crm/lib/actions/settings/field/crmSettingsFieldSave.controller.php:26
@@ -7479,7 +7479,7 @@ msgstr "Кожному клієнту у додатку «Контакти» а�
 #: /wa-apps/crm/lib/classes/form/crmForm.class.php:497
 #: /wa-apps/crm/lib/classes/crmSource.class.php:412
 msgid "Full formatted name of customer"
-msgstr "Повністю відформатоване ім'я клієнта"
+msgstr "Повністю відформатоване ім&#39;я клієнта"
 
 #: /wa-apps/crm/lib/classes/source/email/crmEmailSource.class.php:231
 #: /wa-apps/crm/lib/classes/form/crmForm.class.php:502
@@ -7505,7 +7505,7 @@ msgstr "Невідома локаль: %s"
 #: /wa-apps/crm/lib/classes/crmFieldConstructor.class.php:179
 #: /wa-apps/crm/lib/classes/crmFieldConstructor.class.php:189
 msgid "Required field"
-msgstr "Обов'язкове поле"
+msgstr "Обов&#39;язкове поле"
 
 #: /wa-apps/crm/lib/classes/crmFieldConstructor.class.php:256
 #: /wa-apps/crm/lib/classes/crmFieldConstructor.class.php:193
@@ -8023,7 +8023,7 @@ msgstr "відредагував контакт"
 
 #: /wa-apps/crm/lib/config/logs.php:16
 msgid "merged contacts"
-msgstr "об'єднав контакти"
+msgstr "об&#39;єднав контакти"
 
 #: /wa-apps/crm/lib/config/logs.php:22
 msgid "changed stage"
@@ -8594,7 +8594,7 @@ msgstr "Перемістити цю угоду на етап <strong>%s</strong>
 
 #: /wa-apps/crm/templates/actions/contact/ContactNew.html:227
 msgid "Contact name if required"
-msgstr "Ім'я контакту (якщо необхідно)"
+msgstr "Ім&#39;я контакту (якщо необхідно)"
 
 #: /wa-apps/crm/templates/actions/contact/ContactNew.html:228
 msgid "Deal name if required"
@@ -8779,7 +8779,7 @@ msgstr "Кількість"
 
 #: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:75
 msgid "Name or e-mail"
-msgstr "Ім'я або адреса електронної пошти"
+msgstr "Ім&#39;я або адреса електронної пошти"
 
 #: /wa-apps/crm/templates/actions/message/MessageSendEmailDialog.html:342
 msgid "Type e-mail"
@@ -9203,7 +9203,7 @@ msgid "Action <strong>%s</strong> is not available. Order will remain unchanged.
 msgstr "Дія <strong>%s</strong> недоступна. Замовлення залишиться без змін."
 
 msgid "This deal is linked to Shop-Script order %s"
-msgstr "Ця угода пов'язана із замовленням %s у Shop-Script"
+msgstr "Ця угода пов&#39;язана із замовленням %s у Shop-Script"
 
 msgid "To recieve and handle messages from clients %sset up a message source%s"
 msgstr "Аби отримувати та обробляти повідомлення від клієнтів, %sналаштуйте джерела повідомлень%s"
@@ -9310,7 +9310,7 @@ msgstr "Відкрити карту"
 #: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:138
 #: /wa-apps/crm/templates/actions/deal/DealOrderShippingBlock.html:52
 msgid "Courier"
-msgstr "Кур'єр"
+msgstr "Кур&#39;єр"
 
 #: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:173
 #: /wa-apps/crm/templates/actions/deal/DealOrderShippingBlock.html:65
@@ -9428,15 +9428,15 @@ msgstr "Приєднати до іншої угоди"
 #: /wa-apps/crm/templates/actions/message/MessageConversationId.html:168
 #: /wa-apps/crm/templates/actions/message/MessageConversationId.html:435
 msgid "Detach from deal"
-msgstr "Від'єднати від угоди"
+msgstr "Від&#39;єднати від угоди"
 
 #: /wa-apps/crm/templates/actions/message/MessageConversationId.html:436
 msgid "Do you really want to detach this conversation from deal “<strong>%s</strong>”?"
-msgstr "Ви дійсно хочете від'єднати цю розмову від угоди «%s»?"
+msgstr "Ви дійсно хочете від&#39;єднати цю розмову від угоди «%s»?"
 
 #: /wa-apps/crm/templates/actions/message/MessageConversationId.html:437
 msgid "Detach"
-msgstr "Від'єднати"
+msgstr "Від&#39;єднати"
 
 #: /wa-apps/crm/templates/actions/message/MessageSendSMSDialog.html:111
 msgid "Check <a href=\"%s\">sms sending settings</a>."
