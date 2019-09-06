@@ -3,13 +3,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Webasyst Shop-Script Invoice plugin 1.0.2.4 UA Translation v 0.1\n"
+"Project-Id-Version: Webasyst Shop-Script Invoice plugin 1.0.2.4 UA Translation v 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.2.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
 #: /wa-apps/shop/plugins/invoice/templates/actions/printform/PrintformDisplay.html:4
 msgid "Invoice"
@@ -60,12 +61,12 @@ msgstr "АДРЕСА ПЛАТНИКА:"
 #: /wa-apps/shop/plugins/invoice/templates/actions/printform/template.html:62
 #: /wa-apps/shop/plugins/invoice/templates/actions/printform/template.html:74
 msgid "Name"
-msgstr "Ім'я"
+msgstr "Ім&#39;я"
 
 #: /wa-apps/shop/plugins/invoice/templates/actions/printform/template.html:63
 #: /wa-apps/shop/plugins/invoice/templates/actions/printform/template.html:75
 msgid "Company name"
-msgstr "Назва компанії "
+msgstr "Назва компанії"
 
 #: /wa-apps/shop/plugins/invoice/templates/actions/printform/template.html:64
 #: /wa-apps/shop/plugins/invoice/templates/actions/printform/template.html:76
@@ -119,7 +120,7 @@ msgstr "КІЛЬКІСТЬ"
 
 #: /wa-apps/shop/plugins/invoice/templates/actions/printform/template.html:123
 msgid "UNIT PRICE"
-msgstr "ЦІНА ЗА ОДИНИЦЮ "
+msgstr "ЦІНА ЗА ОДИНИЦЮ"
 
 #: /wa-apps/shop/plugins/invoice/templates/actions/printform/template.html:124
 #: /wa-apps/shop/plugins/invoice/templates/actions/printform/template.html:168

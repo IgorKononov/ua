@@ -4,13 +4,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"Project-Id-Version: Webasyst Photos 1.2.8.34 UA translation v 0.1\n"
+"Project-Id-Version: Webasyst Photos 1.2.8.34 UA translation v 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Igor Kononov <igor.kononov@webasyst.ru>\n"
-"Language-Team: Skeeter Dev\n"
+"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: /wa-apps/photos/templates/actions-mobile/photo/PhotoList.html:5
 msgid "Upload photo"
@@ -77,7 +77,7 @@ msgstr "Публічні"
 
 #: /wa-apps/photos/templates/actions/upload/Upload.html:40
 msgid "Photos automatically appear in the public gallery"
-msgstr "Фотографії автоматично з'являться у публічній галереї"
+msgstr "Фотографії автоматично з&#39;являться у публічній галереї"
 
 #: /wa-apps/photos/templates/actions/upload/Upload.html:48
 #: /wa-apps/photos/templates/actions/dialog/DialogCreateAlbum.html:51
@@ -151,7 +151,7 @@ msgstr "Файли завантажено з помилками"
 #: /wa-apps/photos/lib/actions/backend/photosBackendLoc.action.php:35
 #: /wa-apps/photos/lib/actions/backend/photosBackendLoc.action.php:33
 msgid "Failed to upload. Most probably, there were not enough memory to create thumbnails."
-msgstr "Не вдалося завантажити. Швидше за все, не вистачає пам'яті для створення ескізів."
+msgstr "Не вдалося завантажити. Швидше за все, не вистачає пам&#39;яті для створення ескізів."
 
 #: /wa-apps/photos/templates/actions/backend/BackendAlbums.html:6
 msgid "The album list is empty."
@@ -731,9 +731,9 @@ msgstr[2] "%d фотографій буде видалено без можлив
 #: /wa-apps/photos/templates/actions/dialog/DialogConfirm.html:12
 msgid "This will unstack %d photo."
 msgid_plural "This will unstack %d photos."
-msgstr[0] "Ця дія роз'єднає %d фотографію."
-msgstr[1] "Ця дія роз'єднає %d фотографії."
-msgstr[2] "Ця дія роз'єднає %d фотографій."
+msgstr[0] "Ця дія роз&#39;єднає %d фотографію."
+msgstr[1] "Ця дія роз&#39;єднає %d фотографії."
+msgstr[2] "Ця дія роз&#39;єднає %d фотографій."
 
 #: /wa-apps/photos/templates/actions/dialog/DialogEmbedPhoto.html:7
 msgid "Share photo"
@@ -929,7 +929,7 @@ msgstr "Автоматичне формування ескізів @2х (рек�
 
 #: /wa-apps/photos/templates/actions/settings/Settings.html:149
 msgid "Enabling this option will allow automatic creation of image thumbnails on-fly for devices with high pixel density displays, e.g. Retina displays. Generating bigger images require more memory resources for image generation, requires more disk space for storing images, but significantly improves user experience on devices with high-end displays"
-msgstr "Включення цієї опції дозволить автоматичне створення мініатюр зображень за вимогою для пристроїв із високою щільністю пікселів — наприклад, дисплеїв Retina. Генерація великих зображень вимагає більше ресурсів пам'яті для генерації зображення, потрібно більше дискового простору для зберігання зображень, але також значно покращується взаємодія із користувачем на пристроях з високоякісними екранами"
+msgstr "Включення цієї опції дозволить автоматичне створення мініатюр зображень за вимогою для пристроїв із високою щільністю пікселів — наприклад, дисплеїв Retina. Генерація великих зображень вимагає більше ресурсів пам&#39;яті для генерації зображення, потрібно більше дискового простору для зберігання зображень, але також значно покращується взаємодія із користувачем на пристроях з високоякісними екранами"
 
 #: /wa-apps/photos/templates/actions/settings/Settings.html:154
 msgid "Thumbnail quality @2x"
@@ -1486,7 +1486,7 @@ msgstr "згрупував фотографії"
 
 #: /wa-apps/photos/lib/config/logs.php:21
 msgid "ungrouped photos"
-msgstr "роз'єднав фото"
+msgstr "роз&#39;єднав фото"
 
 #: /wa-apps/photos/lib/config/logs.php:24
 msgid "deleted photos"
@@ -1648,7 +1648,7 @@ msgstr "Почніть із <a href=\"%s\">завантаження фотогр
 #: /wa-apps/photos/themes/default/photos-plain.html:47
 #: /wa-apps/photos/themes/default/photos-thumbs.html:41
 msgid "Load more"
-msgstr "Показати ще ..."
+msgstr "Показати ще"
 
 msgid "of %d photo"
 msgid_plural "of %d photos"
@@ -1698,7 +1698,7 @@ msgstr "Динамічний альбом, заснований на крите�
 
 #: /wa-apps/photos/templates/actions/album/AlbumSettings.html:97
 msgid "Optional set of custom <em>key=value</em> parameters which can be used within a frontend's theme template as <em>&#123;$album.key&#125;</em>. Each key=value pair should be on a separate line"
-msgstr "Додатковий набір <em>key=value</em> параметрів, які можуть бути використані у шаблоні теми дизайну як <em>&#123;$album.key&#125;</em>. Кожна пара key=value має бути на окремому рядку."
+msgstr "Додатковий набір <em>key=value</em> параметрів, які можуть бути використані у шаблоні теми дизайну як <em>&#123;$album.key&#125;</em>. Кожна пара key=value має бути на окремому рядку"
 
 #: /wa-apps/photos/templates/actions/dialog/DialogEmbedPhotoList.html:74
 msgid "Image size"
@@ -1718,7 +1718,7 @@ msgstr "Альбом видно тільки зареєстрованим кор
 
 #: /wa-apps/photos/templates/actions/upload/Upload.html:50
 msgid "Only authorized users of the Webasyst Photos app can see these photos. Photos can be shared via sending a secure private link, or via embedded into external websites and apps."
-msgstr "Тільки авторизовані користувачі додатку \"Фотографії\" можуть побачити ці фотографії. Фотографії можуть бути поширені за допомогою відправки приватного посилання, або вбудовані у зовнішні веб-сайти і додатки"
+msgstr "Тільки авторизовані користувачі додатку \"Фотографії\" можуть побачити ці фотографії. Фотографії можуть бути поширені за допомогою відправки приватного посилання, або вбудовані у зовнішні веб-сайти і додатки."
 
 #: /wa-apps/photos/templates/actions/upload/Upload.html:63
 msgid "Uncheck all groups to make photos visible to you only"
@@ -1734,7 +1734,7 @@ msgstr "Далі"
 
 #: /wa-apps/photos/lib/classes/photosFrontendCollectionViewAction.class.php:57
 msgid "Uploaded by "
-msgstr "Завантажено"
+msgstr "Завантажено "
 
 #: /wa-apps/photos/lib/config/site.php:86
 msgid "Rendered html block of links' to album in where is curret photo"
@@ -1774,7 +1774,7 @@ msgstr "Основний вміст, завантажений у відпові�
 
 #: /wa-apps/photos/lib/config/site.php:68
 msgid "Optional var. Available only if current context of photo is album. Below are describe keys of this param"
-msgstr "Необов'язкова змінна. Доступно тільки, якщо поточний контекст цього фото — альбом. Нижче наведені ключі опису цього параметру"
+msgstr "Необов&#39;язкова змінна. Доступно тільки, якщо поточний контекст цього фото — альбом. Нижче наведені ключі опису цього параметру"
 
 #: /wa-apps/photos/lib/config/site.php:84
 msgid "Url to next photo"

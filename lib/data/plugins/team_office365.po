@@ -3,13 +3,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Webasyst Team Outlook.com Calendar plugin 1.0.5 UA translation v 0.1\n"
+"Project-Id-Version: Webasyst Team Outlook.com Calendar plugin 1.0.5 UA translation v 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.2.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
 #: /wa-apps/team/plugins/office365/templates/accountInfo.html:10
 msgid "Authorization code is canceled or expired"
@@ -81,7 +82,7 @@ msgstr "Аби отримати ідентифікатор та секрет д�
 
 #: /wa-apps/team/plugins/office365/lib/teamOffice365.plugin.php:438
 msgid "<a href=\"https://support.webasyst.com/16034/team-add-calendar-microsoft-office-365/\" target=\"_blank\">Step-by-step manual on connecting with a Microsoft Office Online</a>"
-msgstr "<a href=\"https://support.webasyst.com/16034/team-add-calendar-microsoft-office-365/\" target=\"_blank\">Поетапна інструкція з під'єднання до Microsoft Office Online</a>"
+msgstr "<a href=\"https://support.webasyst.com/16034/team-add-calendar-microsoft-office-365/\" target=\"_blank\">Поетапна інструкція з під&#39;єднання до Microsoft Office Online</a>"
 
 #: /wa-apps/team/plugins/office365/lib/teamOffice365.plugin.php:459
 msgid "Redirect URI"

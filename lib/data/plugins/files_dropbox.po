@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Files Dropbox plugin 1.1.0.54 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Files Dropbox plugin 1.1.0.54 UA translation v 1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -83,7 +83,7 @@ msgstr "Підключити"
 
 #: /wa-apps/files/plugins/dropbox/lib/config/requirements.php:8
 msgid "Max memory limit"
-msgstr "Максимальний ліміт пам'яті"
+msgstr "Максимальний ліміт пам&#39;яті"
 
 #: /wa-apps/files/plugins/dropbox/lib/classes/filesDropboxSourceProvider.class.php:12
 #: /wa-apps/files/plugins/dropbox/lib/classes/filesDropboxSourceProvider.class.php:17

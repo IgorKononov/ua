@@ -4,13 +4,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"Project-Id-Version: Webasyst Photos Public Gallery plugin 1.0.1.36004 UA translation v 0.1\n"
+"Project-Id-Version: Webasyst Photos Public Gallery plugin 1.0.1.36004 UA translation v 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: /wa-apps/photos/plugins/publicgallery/templates/actions/backend/BackendRatesDistribution.html:30
 msgid "User votes"
@@ -44,7 +44,7 @@ msgstr "Фотографії завантажено"
 
 #: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendImageUpload.html:51
 msgid "Failed to upload. Most probably, there were not enough memory to create thumbnails."
-msgstr "Не вдалося завантажити. Швидше за все, для створення ескізів не вистачає пам'яті."
+msgstr "Не вдалося завантажити. Швидше за все, для створення ескізів не вистачає пам&#39;яті."
 
 #: /wa-apps/photos/plugins/publicgallery/templates/actions/frontend/FrontendMyphotos.html:1
 #: /wa-apps/photos/plugins/publicgallery/lib/photosPublicgallery.plugin.php:23
@@ -165,7 +165,7 @@ msgstr "Модерація"
 
 #: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:12
 msgid "Define if photos uploaded in the frontend needs to be moderated in the backend or not. In case moderation is disabled, all photos will automatically appear in the frontend after upload"
-msgstr "Визначити, чи має бути промодеровано у бекенді фотографії, надіслані через фронтенд. У разі, якщо модерацію вимкнено, усі фотографії автоматично з'являться у фронтенді після завантаження."
+msgstr "Визначити, чи має бути промодеровано у бекенді фотографії, надіслані через фронтенд. У разі, якщо модерацію вимкнено, усі фотографії автоматично з&#39;являться у фронтенді після завантаження"
 
 #: /wa-apps/photos/plugins/publicgallery/lib/config/settings.php:16
 msgid "Yes"

@@ -3,13 +3,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Webasyst CRM IMAP plugin 1.0.1.13 UA translation v 0.1\n"
+"Project-Id-Version: Webasyst CRM IMAP plugin 1.0.1.13 UA translation v 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.2.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
 #: /wa-apps/crm/plugins/imap/templates/source/settings/EmailSourceSettingsImapBlock.html:6
 msgid "Set up an email address to receive messages and deal requests."
@@ -33,7 +34,7 @@ msgstr "Email"
 
 #: /wa-apps/crm/plugins/imap/templates/source/settings/EmailSourceSettingsImapBlock.html:23
 msgid "Username"
-msgstr "Ім'я користувача"
+msgstr "Ім&#39;я користувача"
 
 #: /wa-apps/crm/plugins/imap/templates/source/settings/EmailSourceSettingsImapBlock.html:30
 msgid "Password"
