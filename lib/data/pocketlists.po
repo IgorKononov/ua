@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 1312 Inc. Pocket Lists 3.3.0.0 UA Translation v 1.2\n"
+"Project-Id-Version: 1312 Inc. Pocket Lists 3.4.1.0 UA Translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 2.0.6\n"
-"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
@@ -1952,23 +1952,23 @@ msgstr "Встановити дату та час відповідно до на
 
 #: /wa-apps/pocketlists/templates/actions/settings/Settings.html:56
 msgid "When enabled, Pocket Lists will automatically parse to-do name and set due date and time if it was typed.<br> E.g. “meeting tomorrow morning”, “call James next friday 5pm”."
-msgstr ""
+msgstr "Коли увімкнено, Pocket Lists автоматично обробить назву справи та витягне назначені дату та час (при наявності). Наприклад, “meeting tomorrow morning”, “позвонить Николаю в пятницу в 17 часов” (підтримуються тільки англійська та російська мови)."
 
 #: /wa-apps/pocketlists/templates/actions/settings/Settings.html:332
 msgid "ALL TO-DO LISTS AND ITEMS FROM THIS PROJECT WILL BE DELETED PERMANENTLY. ARE YOU SURE?"
-msgstr ""
+msgstr "УСІ ПЕРЕЛІКИ СПРАВ ТА ЕЛЕМЕНТИ ЦЬОГО ПРОЕКТУ БУДЕ ВИДАЛЕНО НАЗАВЖДИ. ВИ ВПЕВНЕНІ?"
 
 #: /wa-apps/pocketlists/templates/actions/todo/TodoDate.html:5
 msgid "This is <strong>To-do Stream</strong> — your personal dynamic to-do list that automatically collects all important to-dos from all of your lists and presents them in the priority &amp; due order. Most important to-dos are on top. Since this is your personal list, to-do items assigned to your teammates won’t be listed on this list."
-msgstr ""
+msgstr "Це <strong>потік справ</strong> — ваш персональний динамічний перелік справ, який автоматично збирає усі важливі справи з ваших списків та відображує їх у порядку приорітета. Найбільш важливі справи знаходятся зверху. Так як це ваш персональний перелік, призначені на ваших колег справи у ньому не з'являться."
 
 #: /wa-apps/pocketlists/templates/actions/todo/TodoDate.html:8
 msgid "To-dos added to this list directly will be automatically added to <strong>%s</strong> list and thus will be available to your teammates who can access this list. <a href=\"%s\">Configure</a>"
-msgstr ""
+msgstr "Додані до цього списку справи буде автоматично додано до переліку <strong>%s</strong>, і таким чином вони будуть доступні колегам із правом доступу до цього переліку. <a href=\"%s\">Налаштувати</a>"
 
 #: /wa-apps/pocketlists/templates/actions/todo/TodoDate.html:10
 msgid "To-dos added to the stream directly will be <em>your private to-dos</em> unless you manually assign them to any to-do list or <a href=\"%s\">select the default stream inbox list</a> in the app settings."
-msgstr ""
+msgstr "Справи, додані напряму у поток, будуть <em>вашими приватними справами</em>, доки ви вручну не додасте їх до будь-якого переліку або <a href=\"%s\">оберете стандартний список для потоку</a> у налаштуваннях додатку."
 
 #: /wa-apps/pocketlists/templates/mails/completeanyitem.html:2
 msgid "%s have just completed <strong>&#10004; %s</strong>"
