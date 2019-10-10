@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Site 2.5.10.193 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Site 2.5.11.197 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -2308,3 +2308,19 @@ msgstr "Відкрийте розділ «<a href=\"%s\">Сторінки</a>» 
 #: /wa-apps/site/lib/classes/siteHelper.class.php:57
 msgid "Move rule %s/* to the bottom of the rule list."
 msgstr "Перемістіть правило %s/* у кінець переліку."
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:346
+msgid "By submitting this form I agree to %spersonal data protection policy%s"
+msgstr "Надсилаючи цю форму, я погоджуюсь із %sполітикою обробки персональних даних%s"
+
+#: /wa-apps/site/templates/actions/personal/PersonalSettingsHelpers.inc.html:353
+msgid "I agree to %spersonal data protection policy%s"
+msgstr "Я погоджуюсь із %sполітикою обробки персональних даних%s"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:492
+msgid "Rule cannot be saved"
+msgstr "Не вдалося зберегти правило"
+
+#: /wa-apps/site/templates/actions/routing/RoutingEdit.html:493
+msgid "Rule address contains unsupported character <strong class=\"highlighted\">%s</strong>."
+msgstr "Правило містить символ, що не підтримується: <strong class=\"highlighted\">%s</strong>."
