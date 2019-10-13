@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst CRM 1.4.2.293 UA translation v 1.1\n"
+"Project-Id-Version: Webasyst CRM 1.4.4.306 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2019-07-05T21:22:12+03:00\n"
-"PO-Revision-Date: 2019-09-05 18:12+0300\n"
+"PO-Revision-Date: 2019-10-13 17:32+0300\n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 2.0.6\n"
@@ -8948,6 +8948,7 @@ msgid "Select (radio)"
 msgstr "Вибір (радіокнопка)"
 
 #: /wa-apps/crm/templates/actions/contact/ContactAccessDialog.html:6
+#: /wa-apps/crm/templates/actions/contact/ContactAccessDialog.html:9
 msgid "Who can see %s profile and timeline:"
 msgstr "Хто може переглядати профіль і хронологію %s:"
 
@@ -9018,6 +9019,7 @@ msgstr "Створити примітку"
 msgid "from %s"
 msgstr "з %s"
 
+#: /wa-apps/crm/lib/models/crmLog.model.php:630
 msgid "Incoming call from %s."
 msgstr "Вхідний дзвінок від %s."
 
@@ -9027,12 +9029,15 @@ msgstr "для "
 msgid "to %s"
 msgstr "для %s"
 
+#: /wa-apps/crm/lib/models/crmLog.model.php:641
 msgid "Status: %s"
 msgstr "Статус: %s"
 
+#: /wa-apps/crm/lib/models/crmLog.model.php:646
 msgid "Duration: %s"
 msgstr "Тривалість: %s"
 
+#: /wa-apps/crm/lib/models/crmLog.model.php:635
 msgid "Outgoing call to %s."
 msgstr "Вихідний дзвінок до %s."
 
@@ -9047,6 +9052,7 @@ msgid "Form"
 msgstr "Форма"
 
 #: /wa-apps/crm/templates/actions/settings/SettingsVaultDialog.html:65
+#: /wa-apps/crm/templates/actions/settings/SettingsVaultDialog.html:103
 msgid "There are no contacts in vault \"%s\". Vault deleting cause no effect to access any contacts data."
 msgstr "У сховищі \"%s\" немає контактів. Видалення сховища не вплине на доступ до будь-яких контактних даних."
 
@@ -9074,12 +9080,15 @@ msgstr "Не налаштовано email-джерела."
 msgid "To recieve and handle emails from clients %sset up an email deal source%s"
 msgstr "Аби отримувати та обробляти email-листи від клієнтів, %sналаштуйте email-джерела%s"
 
+#: /wa-apps/crm/templates/actions/settings/SettingsCompanyDeleteDialog.html:15
 msgid "There are %s for this company."
 msgstr "У цієї компанії є %s."
 
+#: /wa-apps/crm/templates/actions/settings/SettingsCompanyDeleteDialog.html:25
 msgid "There are %s from this company."
 msgstr "Від цієї компанії є %s."
 
+#: /wa-apps/crm/templates/actions/settings/SettingsCompanyDeleteDialog.html:30
 msgid "Switch %s to"
 msgstr "Переключити %s до"
 
@@ -9107,6 +9116,7 @@ msgstr "{$customer.name}, з днем народження! З повагою, {
 msgid "Happy birthday to you from {$wa->accountName()}"
 msgstr "Вітання с днем нарождення від {$wa->accountName()}"
 
+#: /wa-apps/crm/templates/actions/settings/SettingsPBX.html:8
 msgid "Install and set up <a href=\"%s\">IP telephony integration plugins</a>."
 msgstr "Встановіть та налаштуйте <a href=\"%s\">плагіни інтеграції IP-телефонії</a>."
 
@@ -9153,6 +9163,7 @@ msgstr "випадаючий список"
 msgid "date"
 msgstr "дата"
 
+#: /wa-apps/crm/templates/actions/call/Call.html:265
 msgid "To handle phone calls in CRM, install and set up <a href=\"%s\">IP telephony integration plugins</a>."
 msgstr "Для обробки телефонних дзвінків у CRM, встановіть на налаштуйте <a href=\"%s\">плагіни інтеграції IP-телефонії</a>."
 
@@ -9165,10 +9176,18 @@ msgstr "Крапка з комою"
 msgid "Tab"
 msgstr "Табуляція"
 
+#: /wa-apps/crm/templates/actions/settings/SettingsCronNotificationBirthday.inc.html:37
+#: /wa-apps/crm/templates/actions/settings/SettingsCronDealStagesOverDue.inc.html:37
+#: /wa-apps/crm/templates/actions/settings/SettingsCronInvoicesArchive.inc.html:37
+#: /wa-apps/crm/templates/actions/settings/SettingsCronEmailSource.inc.html:16
+#: /wa-apps/crm/templates/actions/settings/SettingsCronDailyRecap.inc.html:37
+#: /wa-apps/crm/templates/actions/settings/SettingsCronCurrenciesCopy.inc.html:37
 msgid "Please set up a <tt>cron</tt> job (<a href=\"%s\" target=\"_blank\">view instructions</a>) using the command specified below in your web-hosting control panel:"
 msgstr "Будь-ласка, налаштуйте завдання <tt>cron</tt> (<a href=\"%s\" target=\"_blank\">переглянути інструкції</a>) за допомогою вказаної нижче команди у контрольній панелі вашого хостингу:"
 
 #: /wa-apps/crm/templates/actions/settings/SettingsShop.html:6
+#: /wa-apps/crm/templates/actions/settings/SettingsShop.html:17
+#: /wa-apps/crm/templates/actions/settings/SettingsShopWorkflow.html:16
 msgid "You need Shop-Script version %s or newer for CRM integration."
 msgstr "Для інтеграції з CRM вам потрібен Shop-Script версії %s або новіше."
 
@@ -9178,6 +9197,12 @@ msgstr[0] "%d хвилина"
 msgstr[1] "%d хвилини"
 msgstr[2] "%d хвилин"
 
+#: /wa-apps/crm/templates/actions/settings/SettingsCronNotificationBirthday.inc.html:19
+#: /wa-apps/crm/templates/actions/settings/SettingsCronDealStagesOverDue.inc.html:19
+#: /wa-apps/crm/templates/actions/settings/SettingsCronInvoicesArchive.inc.html:19
+#: /wa-apps/crm/templates/actions/settings/SettingsCronEmailSource.inc.html:36
+#: /wa-apps/crm/templates/actions/settings/SettingsCronDailyRecap.inc.html:19
+#: /wa-apps/crm/templates/actions/settings/SettingsCronCurrenciesCopy.inc.html:19
 msgid "The following <tt>cron</tt> job command is currently in use (%ssetting up a cron job%s):"
 msgstr "Наступні завдання <tt>cron</tt> наразі використовуються (%sналаштування завдань cron%s):"
 
@@ -9196,15 +9221,22 @@ msgstr "підпис"
 msgid "IF"
 msgstr "ЯКЩО"
 
+#: /wa-apps/crm/templates/actions/deal/DealMoveActionUnavailable.html:10
 msgid "Shop-Script order %s is in <strong>%s</strong> state."
 msgstr "Замовлення %s у Shop-Script знаходиться у статусі <strong>%s</strong>."
 
+#: /wa-apps/crm/templates/actions/deal/DealMoveActionUnavailable.html:11
 msgid "Action <strong>%s</strong> is not available. Order will remain unchanged."
 msgstr "Дія <strong>%s</strong> недоступна. Замовлення залишиться без змін."
 
+#: /wa-apps/crm/templates/actions/deal/DealEdit.html:33
 msgid "This deal is linked to Shop-Script order %s"
 msgstr "Ця угода пов&#39;язана із замовленням %s у Shop-Script"
 
+#: /wa-apps/crm/templates/actions/message/MessageList.html:110
+#: /wa-apps/crm/templates/actions/message/MessageList.html:115
+#: /wa-apps/crm/templates/actions/message/MessageListByConversation.html:96
+#: /wa-apps/crm/templates/actions/message/MessageListByConversation.html:101
 msgid "To recieve and handle messages from clients %sset up a message source%s"
 msgstr "Аби отримувати та обробляти повідомлення від клієнтів, %sналаштуйте джерела повідомлень%s"
 
@@ -9226,6 +9258,7 @@ msgstr "Угоду відновлено"
 msgid "Deal reopened"
 msgstr "Угоду відкрито повторно"
 
+#: /wa-apps/crm/lib/classes/crmPayment.class.php:486
 msgid "Payment for invoice #%s issued on %s."
 msgstr "Оплата рахунку №%s, виставленого %s."
 
@@ -9304,6 +9337,7 @@ msgid "Total order dimensions"
 msgstr "Загальні виміри замовлення"
 
 #: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:116
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:119
 msgid "View map"
 msgstr "Відкрити карту"
 
@@ -9323,6 +9357,7 @@ msgid "Edit shipping details"
 msgstr "Редагувати деталі доставки"
 
 #: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:247
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:261
 msgid "Order list"
 msgstr "Перелік замовлень"
 
@@ -9539,3 +9574,63 @@ msgstr "Видалити файл \\\"%s\\\" з угоди"
 #: /wa-apps/crm/templates/actions/deal/DealId.html:427
 msgid "<span class=\\\"gray\\\">Delete</span> \\\"%s\\\""
 msgstr "<span class=\\\"gray\\\">Видалити</span> \\\"%s\\\""
+
+#: /wa-apps/crm/templates/actions/deal/DealMoveNoRights.html:10
+msgid "The deal is linked to Shop-Script order #%s."
+msgstr "Ця угода пов&#39;язана із замовленням %s у Shop-Script."
+
+#: /wa-apps/crm/templates/actions/deal/DealId.html:683
+msgid "It looks like your online store is not set up yet.<br>Please <a href=\"%s\">make initial Shop-Script settings</a>"
+msgstr "Схоже, що ваш інтернет-магазин ще не налаштовано. <br>Виконайте, будь-ласка, <a href=\"%s\">початкові налаштування Shop-Script</a>"
+
+#: /wa-apps/crm/templates/actions/deal/Deal.order.inc.html:12
+msgid "Order %s"
+msgstr "Замовлення %s"
+
+#: /wa-apps/crm/templates/actions/deal/DealMoveOverJump.html:10
+msgid "Move <strong>%s</strong> to <strong>%s</strong> stage?"
+msgstr "Перемістити <strong>%s</strong> на етап <strong>%s</strong>?"
+
+#: /wa-apps/crm/templates/actions/settings/SettingsFieldEditor.html:105
+msgid "Show %d more"
+msgstr "Показати ще %d"
+
+#: /wa-apps/crm/templates/actions/invoice/InvoiceId.html:139
+#: /wa-apps/crm/lib/classes/crmTemplatesRender.class.php:214
+#: /wa-apps/crm/lib/actions/invoice/crmInvoiceSidebar.action.php:100
+msgid "deleted id=%d"
+msgstr "видалено id=%d"
+
+#: /wa-apps/crm/lib/classes/crmHelper.class.php:286
+msgid "Reminder due to %s"
+msgstr "Нагадування спливає %s"
+
+#: /wa-apps/crm/lib/classes/crmHelper.class.php:651
+msgid "%d min."
+msgstr "%d хв."
+
+#: /wa-apps/crm/lib/classes/crmHelper.class.php:653
+msgid "%d h."
+msgstr "%d год."
+
+#: /wa-apps/crm/lib/classes/crmHelper.class.php:655
+msgid "%d d."
+msgstr "%d д."
+
+#: /wa-apps/crm/lib/models/crmLog.model.php:574
+msgid "to <span class=\"c-message-to-with-name\">%s</span>"
+msgstr "для <span class=\"c-message-to-with-name\">%s</span>"
+
+#: /wa-apps/crm/lib/models/crmLog.model.php:582
+msgid "from <span class=\"c-message-from\">%s</span>"
+msgstr "від <span class=\"c-message-from\">%s</span>"
+
+#: /wa-apps/crm/lib/models/crmDealStages.model.php:94
+#: /wa-apps/crm/lib/models/crmDealStages.model.php:99
+#: /wa-apps/crm/lib/models/crmDealStages.model.php:142
+msgid "%d pcs."
+msgstr "%d шт."
+
+#: /wa-apps/crm/lib/models/crmDealStages.model.php:159
+msgid "%s pcs."
+msgstr "%s шт."
