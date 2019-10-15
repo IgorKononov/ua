@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Shop-Script 8.4.10.19 UA translation v 1.1\n"
+"Project-Id-Version: Webasyst Shop-Script 8.5.2.23 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -13865,18 +13865,22 @@ msgstr "Контакти"
 msgid "added"
 msgstr "додано"
 
+#: /wa-apps/shop/lib/classes/shopAffiliate.class.php:315
 msgid "Affiliate bonus (%s) is used for additional discount"
 msgstr "Партнерський бонус (%s) використано для отримання знижки"
 
+#: /wa-apps/shop/lib/classes/shopAffiliate.class.php:190
 msgid "Refund bonus used to get discount for order %s"
 msgstr "Витрачений на знижку у замовленні бонус (%s) відновлено"
 
 msgid "By customer category, %s%%%%"
 msgstr "За категорією покупця, %s%%%%"
 
+#: /wa-apps/shop/lib/classes/shopDiscounts.class.php:293
 msgid "By order total, %s%%"
 msgstr "За сумою замовлення, %s%%"
 
+#: /wa-apps/shop/lib/classes/shopAffiliate.class.php:158
 msgid "Bonus for the order %s totalling %s"
 msgstr "Бонус за замовлення %s із сумою %s"
 
@@ -14022,9 +14026,11 @@ msgstr "Загальна сума замовлень"
 msgid "No discounts defined yet."
 msgstr "Знижки ще не визначено."
 
+#: /wa-apps/shop/lib/classes/shopAffiliate.class.php:326
 msgid "Discount of %s"
 msgstr "Знижка на суму %s"
 
+#: /wa-apps/shop/lib/classes/shopAffiliate.class.php:324
 msgid "Recalculation of order total, new discount: %s"
 msgstr "Перерахунок суми замовлення, нова знижка: %s"
 
@@ -17754,18 +17760,22 @@ msgid "To be able to change system settings, you need access to Settings app."
 msgstr "Аби змінювати системні налаштування, вам потрібен доступ до додатку «Налаштування»."
 
 #: /wa-apps/shop/lib/classes/shopPayment.class.php:802
+#: /wa-apps/shop/lib/classes/shopPayment.class.php:806
 msgid "Order amount has changed: %0.2f expected, %0.2f received. Currency: %s."
 msgstr "Сума замовлення змінилася: %0.2f очікувалось, %0.2f отримано. Валюта: %s."
 
 #: /wa-apps/shop/lib/classes/shopShipping.class.php:561
+#: /wa-apps/shop/lib/classes/shopShipping.class.php:562
 msgid "bank card on order receipt"
 msgstr "банківською карткою при отриманні замовлення"
 
 #: /wa-apps/shop/lib/classes/shopShipping.class.php:562
+#: /wa-apps/shop/lib/classes/shopShipping.class.php:563
 msgid "cash on order receipt"
 msgstr "готівкою при отриманні замовлення"
 
 #: /wa-apps/shop/lib/classes/shopShipping.class.php:563
+#: /wa-apps/shop/lib/classes/shopShipping.class.php:564
 msgid "prepayment"
 msgstr "передплата"
 
@@ -17782,3 +17792,534 @@ msgstr "У вас недостатньо прав доступу для змін
 
 msgid "Active promos"
 msgstr "Активні промо"
+
+#: /wa-apps/shop/templates/layouts/Backend.html:149
+#: /wa-apps/shop/templates/actions/backend/BackendSettings.html:118
+#: /wa-apps/shop/templates/actions/backend/BackendOrders.html:146
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:4
+#: /wa-apps/shop/templates/actions/reports/sales_sidebar.html:23
+msgid "Marketing"
+msgstr "Маркетинг"
+
+#: /wa-apps/shop/templates/actions/products/Products.html:127
+msgid "Add to promo"
+msgstr "Додати до акції"
+
+#: /wa-apps/shop/templates/actions/products/ProductsAssociatePromoDialog.html:7
+msgid "Add selected products to promo %s"
+msgstr "Додати обрані товари до акції %s"
+
+#: /wa-apps/shop/templates/actions/products/ProductsAssociatePromoDialog.html:13
+msgid "Add a new promo"
+msgstr "Додати нову акцію"
+
+#: /wa-apps/shop/templates/actions/products/ProductsAssociatePromoDialog.html:35
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:303
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:8
+#: /wa-apps/shop/templates/actions/marketing/MarketingSidebar.html:31
+msgid "Scheduled promos"
+msgstr "Заплановані акції"
+
+#: /wa-apps/shop/templates/actions/products/ProductsAssociatePromoDialog.html:51
+msgid "No products."
+msgstr "Немає товарів."
+
+#: /wa-apps/shop/templates/actions/backend/BackendSettings.html:118
+msgid "To set up <em>discounts</em>, <em>followups</em>, <em>recommendations</em>, and <em>affiliate programs</em>, please open “%s” section."
+msgstr "Аби налаштувати <em>знижки</em>, <em>заплановані розсилання</em>, <em>рекомендації</em> та <em>бонусні програми</em>, відкрийте розділ “%s”."
+
+#: /wa-apps/shop/templates/actions/backend/BackendOrders.html:146
+msgid "To set up <em>discount coupons</em>, please open “%s” section."
+msgstr "Аби налаштувати купони для знижок, відкрийте розділ “%s”."
+
+#: /wa-apps/shop/templates/actions/settings/SettingsShipping.html:52
+msgid "Rounding of fractional shipping costs can be set up in %scurrency settings%s."
+msgstr "Округлення оплати доставки можна налаштувати у %sпараметрах валют%s."
+
+#: /wa-apps/shop/templates/actions/settings/SettingsGeneral.html:220
+#: /wa-apps/shop/templates/actions/settings/SettingsCheckoutContactForm.html:105
+#: /wa-apps/shop/templates/actions/settings/SettingsCheckoutShipping.html:52
+msgid "By submitting this form I agree to %spersonal data protection policy%s"
+msgstr "Надсилаючи цю форму, я погоджуюсь із %sполітикою обробки персональних даних%s"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsGeneral.html:226
+#: /wa-apps/shop/templates/actions/settings/SettingsCheckoutContactForm.html:111
+msgid "I agree to %spersonal data protection policy%s"
+msgstr "Я погоджуюсь із %sполітикою обробки персональних даних%s"
+
+#: /wa-apps/shop/templates/actions/settings/SettingsDiscounts.html:39
+#: /wa-apps/shop/templates/actions/marketing/MarketingDiscountsSidebar.html:40
+msgid "Rounding of fractional discount values can be set up in %scurrency settings%s."
+msgstr "Округлення знижки можна налаштувати у %sпараметрах валют%s."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingAbtesting.html:177
+msgid "Please add at least 2 versions."
+msgstr "Додайте, будь ласка, щонайменше дві версії."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromoOrders.html:65
+msgid "No orders."
+msgstr "Немає замовлень."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:46
+#: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoClone.controller.php:56
+msgid "Promo not found."
+msgstr "Акцію не знайдено."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:68
+msgid "Add a new promo based on this one"
+msgstr "Додати нову акцію на основі цієї"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:121
+msgid "Promo"
+msgstr "Акція"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:159
+msgid "Total values for entire promo period"
+msgstr "Загальні значення на увесь термін акції"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:205
+msgid "Active action"
+msgstr "Активна акція"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:211
+msgid "Scheduled"
+msgstr "Заплановано"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:220
+msgid "Stop"
+msgstr "Зупинити"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:224
+msgid "Stopped"
+msgstr "Зупинено"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:225
+msgid "Resume"
+msgstr "Продовжити"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:233
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:341
+msgid "Beginning"
+msgstr "Початок"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:268
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:346
+msgid "End"
+msgstr "Кінець"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:346
+msgid "Banner"
+msgstr "Банер"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:350
+msgid "Set up banner"
+msgstr "Налаштувати банер"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:354
+msgid "Hide settings"
+msgstr "Приховати налаштування"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:416
+msgid "Image background color"
+msgstr "Колір фону зображення"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:426
+msgid "Countdown"
+msgstr "Зворотний відлік"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:469
+msgid "date format"
+msgstr "формат дати"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:508
+msgid "Add tools to run this promo campaign and to define when placed orders must be associated with this promo."
+msgstr "Додйте інструменти для проведення цієї акції та визначте, коли розміщені замовлення будуть пов'язуватись із цієї акцією."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:520
+msgid "Add tool"
+msgstr "Додати інструмент"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:531
+msgid "All available tools already added"
+msgstr "Усі доступні інструменти вже додано."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:646
+msgid "Saving"
+msgstr "Збереження"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:662
+msgid "Clone this promo?"
+msgstr "Клонувати цю акцію?"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:663
+msgid "All data of this promo will be copied to a new promo."
+msgstr "Усі дані поточної акції буде скопійовано до нової акції."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:664
+msgid "A new promo will be dislabled by default."
+msgstr "Нову акцію буде вимкнено за замовчуванням."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:669
+msgid "Clone"
+msgstr "Клонувати"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:684
+msgid "Delete promo?"
+msgstr "Видалити акцію?"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:685
+msgid "All data of this promo will be deleted."
+msgstr "Усі дані цієї акції буде видалено."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:686
+msgid "You will not be able to undo this action."
+msgstr "Ви не зможете відмінити цю акцію."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:11
+msgid "Promo does not exist."
+msgstr "Акції не існує."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:17
+msgid "Tools"
+msgstr "Інструменти"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:25
+msgid "Costs"
+msgstr "Кошти"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:746
+msgid "d"
+msgstr "д"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:747
+msgid "h"
+msgstr "год"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:750
+msgid "%s ago"
+msgstr "%s тому"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:751
+msgid "in %s"
+msgstr "через %s"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:752
+msgid "Do you really want to delete this tool?"
+msgstr "Ви дійсно хочете видалити цей інструмент?"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:753
+msgid "Server error"
+msgstr "Помилка сервера"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:228
+msgid "Promos on website"
+msgstr "Акції не сайті"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:282
+msgid "Change the sort order of active promos by using drag&amp;drop."
+msgstr "Змінюйте порядок сортування активних акцій, використовуючи перетягування."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:284
+msgid "Select a storefront to change active promos’ sort order."
+msgstr "Оберіть вітрину, аби змінити порядок сортування активних промоакцій."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:294
+msgid "No active promos."
+msgstr "Немає активних акцій."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:314
+msgid "No scheduled promos."
+msgstr "Немає запланованих акцій."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:325
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:10
+msgid "Completed promos"
+msgstr "Завершені акції"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:326
+msgid "Complete report"
+msgstr "Повний звіт"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:336
+msgid "Promo name"
+msgstr "Назва акції"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromos.html:450
+msgid "No completed promos."
+msgstr "Немає завершених акцій."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromoRuleEditor.html:3
+msgid "Please specify a tool type."
+msgstr "Будь ласка, вкажіть назву інструмента."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromoRuleEditor.html:18
+msgid "Unknown tool type."
+msgstr "Невідомий тип інструмента."
+
+#: /wa-apps/shop/templates/actions/marketing/rules/coupon.html:58
+msgid "Coupon settings"
+msgstr "Налаштування купону"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/coupon.html:75
+msgid "Select coupons for this promo. Orders with selected coupons will be automatically associated with this promo."
+msgstr "Оберіть купони для цієї акції. Замовлення з обраними купонами буде автоматично пов'язано з цїєю акцією."
+
+#: /wa-apps/shop/templates/actions/marketing/rules/coupon.html:87
+msgid "Find coupon & add to promo"
+msgstr "Оберіть купон та додайте до акції."
+
+#: /wa-apps/shop/templates/actions/marketing/rules/coupon.html:94
+msgid "No coupons."
+msgstr "Немає купонів."
+
+#: /wa-apps/shop/templates/actions/marketing/rules/coupon.html:95
+msgid "Add a new coupon"
+msgstr "Додайте новий купон"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/coupon.html:89
+msgid "Enter coupon code"
+msgstr "Введіть код купона"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:20
+msgid "UTM tags help you learn where a customer has come from."
+msgstr "Мітки UTM допоможуть вам з'ясувати, звідки прийшов покупець."
+
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:21
+#: /wa-apps/shop/templates/actions/marketing/MarketingSidebar.html:121
+msgid "https://www.shop-script.com/help/33511/marketing/"
+msgstr "https://support.webasyst.ru/shop-script/33510/marketing/"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:21
+msgid "Read more about UTM tags"
+msgstr "Дізнайтесь більше про мітки UTM"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:22
+msgid "Press “Enter” upon entering each UTM tag to add it to the list."
+msgstr "Натисніть “Enter”, при введенні міток UTM, аби додати до мітки переліку."
+
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:29
+msgid "Campaign source"
+msgstr "Джерело кампанії"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:34
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:46
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:58
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:70
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:82
+msgid "Add UTM tag"
+msgstr "Додати UTM мітку"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:41
+msgid "Traffic type"
+msgstr "Тип трафіку"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:53
+msgid "Campaign name"
+msgstr "Назва кампанії"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/utm.html:65
+msgid "Message ID"
+msgstr "Ідентифікатор повідомлення"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/custom_price.html:20
+msgid "Use the form below to set up extra rules for ordinary and purchase prices which should apply while this promo is active."
+msgstr "Використовуйте форму нижче, аби налаштувати додаткові правила для звичайних та акційних цін, які мають діяти тільки протягом акції."
+
+#: /wa-apps/shop/templates/actions/marketing/rules/custom_price.html:28
+msgid "or add from “%s” section"
+msgstr "або додати з розділу “%s”"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/custom_price.html:37
+msgid "Default prices"
+msgstr "Ціни за замовчуванням"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/custom_price.html:38
+msgid "Promo’s prices"
+msgstr "Ціни під час акції"
+
+#: /wa-apps/shop/templates/actions/marketing/rules/custom_price.html:53
+msgid "No products in this tool. First add products please."
+msgstr "У цьому інструменті немає товарів. Додайте спочатку товари, будь ласка."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromoCosts.html:49
+msgid "Add entry"
+msgstr "Додати запис"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingPromoCosts.html:84
+msgid "Save a promo to add marketing costs for it."
+msgstr "Створіть акцію та додайте маркетингові витрати на неї."
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingSidebar.html:17
+msgid "All promos"
+msgstr "Усі акції"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingSidebar.html:38
+msgid "Finished promos"
+msgstr "Закінчені акції"
+
+#: /wa-apps/shop/templates/actions/marketing/MarketingSidebar.html:121
+msgid "Help"
+msgstr "Допомога"
+
+#: /wa-apps/shop/templates/actions/reports/ReportsProducts.html:154
+msgid "Subtotal %1$s &minus; discount %2$s"
+msgstr "Усього %1$s &minus; знижка %2$s"
+
+#: /wa-apps/shop/templates/actions/reports/sales_sidebar.html:23
+msgid "To view <em>marketing expenses</em> and set up <em>A/B tests</em>, please open section “%s”."
+msgstr "Аби переглянути <em>витрати на маркетинг</em> та налаштувати <em>А/Б-тести</em>, відкрийте розділ “%s”."
+
+#: /wa-apps/shop/templates/actions/reports/ReportsProductsWhatToSell.html:94
+msgid "%s in stock"
+msgstr "%s у наявності"
+
+#: /wa-apps/shop/templates/actions/reports/ReportsProductsWhatToSell.html:95
+msgid "+%s items to buy"
+msgstr "+%s елементів для покупки"
+
+#: /wa-apps/shop/lib/workflow/templates/ShipAction.html:63
+msgid "Only couriers for storefront %s are shown."
+msgstr "Показано тільки кур'єрів для вітрини %s."
+
+#: /wa-apps/shop/lib/workflow/templates/ShipAction.html:72
+msgid "Set up couriers for storefront %s to be able assign orders to them."
+msgstr "Налаштуйте кур'єрів для вітрини %s, аби мати змогу призначати їм замовлення."
+
+#: /wa-apps/shop/lib/config/shopRightConfig.class.php:15
+msgid "Can manage product sets, categories"
+msgstr "Може керувати переліками товарів, категоріями"
+
+#: /wa-apps/shop/lib/config/shopRightConfig.class.php:17
+msgid "Can use marketing tools"
+msgstr "Може використовувати маркетингові інструменти"
+
+#: /wa-apps/shop/lib/config/shopRightConfig.class.php:18
+msgid "Can set up marketing tools"
+msgstr "Може налаштовувати маркетингові інструменти"
+
+#: /wa-apps/shop/lib/classes/shopImportexportHelper.class.php:381
+#: /wa-apps/shop/lib/classes/shopImportexportHelper.class.php:382
+#: /wa-apps/shop/lib/classes/shopImportexportHelper.class.php:384
+#: /wa-apps/shop/lib/model/shopPromoRules.model.php:12
+msgid "Products & prices"
+msgstr "Товари та ціни"
+
+#: /wa-apps/shop/lib/classes/shopShippingDummy.class.php:21
+msgid "Free shipping by courier"
+msgstr "Безкоштовна кур'єрська доставка "
+
+#: /wa-apps/shop/lib/classes/shopViewHelper.class.php:59
+msgid "Total:"
+msgstr ""
+
+#: /wa-apps/shop/lib/classes/shopViewHelper.class.php:62
+msgid "Folders:"
+msgstr ""
+
+#: /wa-apps/shop/lib/classes/shopViewHelper.class.php:65
+msgid "Files:"
+msgstr ""
+
+#: /wa-apps/shop/lib/classes/shopViewHelper.class.php:68
+msgid "Page:"
+msgstr ""
+
+#: /wa-apps/shop/lib/classes/shopViewHelper.class.php:71
+msgid "prev"
+msgstr ""
+
+#: /wa-apps/shop/lib/classes/shopViewHelper.class.php:91
+msgid "next"
+msgstr ""
+
+#: /wa-apps/shop/lib/classes/shopDiscounts.class.php:98
+msgid "Shop is set up to use sum of all discounts: %s"
+msgstr ""
+
+#: /wa-apps/shop/lib/classes/shopDiscounts.class.php:114
+msgid "Shop is set up to use single largest of all discounts: %s"
+msgstr ""
+
+#: /wa-apps/shop/lib/classes/shopDiscounts.class.php:140
+msgid "Discount rounded to %s"
+msgstr ""
+
+#: /wa-apps/shop/lib/model/shopAffiliateTransaction.model.php:72
+msgid "Affiliate balance of %1$s is increased by amount %2$s"
+msgstr ""
+
+#: /wa-apps/shop/lib/model/shopAffiliateTransaction.model.php:74
+msgid "Affiliate balance of %1$s is decreased by amount %2$s"
+msgstr ""
+
+#: /wa-apps/shop/lib/model/shopPromoRules.model.php:18
+msgid "UTM tags"
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/coupons/shopMarketingCouponDelete.controller.php:13
+msgid "Invalid ID"
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/coupons/shopMarketingCouponSave.controller.php:14
+msgid "Invalid data"
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/coupons/shopMarketingCouponSave.controller.php:66
+msgid "This code already exists."
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/followups/shopMarketingFollowupsSave.controller.php:79
+msgid "Saving error"
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/costs/shopMarketingCosts.action.php:32
+#: /wa-apps/shop/lib/actions/marketing/costs/shopMarketingCosts.action.php:215
+#: /wa-apps/shop/lib/actions/marketing/costs/shopMarketingCosts.action.php:227
+msgid "Deleted promo"
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/abtesting/shopMarketingAbtesting.action.php:93
+msgid "... your HTML for option “%s” here ..."
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/abtesting/shopMarketingAbtestingSave.controller.php:16
+msgid "A/B test not found."
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoClone.controller.php:59
+msgid "copy"
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:238
+msgid "Unknown tool type"
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:248
+msgid "Exceeded allowed number of tools of this type."
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:311
+msgid "Override the price of at least one product."
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:334
+msgid "Add at least one UTM tag."
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:356
+msgid "Please select at least one coupon."
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:368
+msgid "An image must be uploaded."
+msgstr ""
+
+#: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:420
+#: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:435
+#: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:452
+msgid "Invalid date or time"
+msgstr ""
+
+#: /wa-apps/shop/lib/cli/shopFollowup.cli.php:269
+msgid "Follow-up <strong>%s</strong> sent to customer."
+msgstr ""
