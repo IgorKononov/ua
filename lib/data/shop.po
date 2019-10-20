@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Shop-Script 8.5.2.23 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Shop-Script 8.5.2.23 UA translation v 1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -17941,7 +17941,7 @@ msgstr "Додати інструмент"
 
 #: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:531
 msgid "All available tools already added"
-msgstr "Усі доступні інструменти вже додано."
+msgstr "Усі доступні інструменти вже додано"
 
 #: /wa-apps/shop/templates/actions/marketing/MarketingPromo.html:646
 msgid "Saving"
@@ -18066,7 +18066,7 @@ msgstr "Оберіть купони для цієї акції. Замовлен
 
 #: /wa-apps/shop/templates/actions/marketing/rules/coupon.html:87
 msgid "Find coupon & add to promo"
-msgstr "Оберіть купон та додайте до акції."
+msgstr "Оберіть купон та додайте до акції"
 
 #: /wa-apps/shop/templates/actions/marketing/rules/coupon.html:94
 msgid "No coupons."
@@ -18206,120 +18206,120 @@ msgstr "Товари та ціни"
 
 #: /wa-apps/shop/lib/classes/shopShippingDummy.class.php:21
 msgid "Free shipping by courier"
-msgstr "Безкоштовна кур'єрська доставка "
+msgstr "Безкоштовна кур'єрська доставка"
 
 #: /wa-apps/shop/lib/classes/shopViewHelper.class.php:59
 msgid "Total:"
-msgstr ""
+msgstr "Усього:"
 
 #: /wa-apps/shop/lib/classes/shopViewHelper.class.php:62
 msgid "Folders:"
-msgstr ""
+msgstr "Каталоги:"
 
 #: /wa-apps/shop/lib/classes/shopViewHelper.class.php:65
 msgid "Files:"
-msgstr ""
+msgstr "Файли:"
 
 #: /wa-apps/shop/lib/classes/shopViewHelper.class.php:68
 msgid "Page:"
-msgstr ""
+msgstr "Сторінка:"
 
 #: /wa-apps/shop/lib/classes/shopViewHelper.class.php:71
 msgid "prev"
-msgstr ""
+msgstr "назад"
 
 #: /wa-apps/shop/lib/classes/shopViewHelper.class.php:91
 msgid "next"
-msgstr ""
+msgstr "далі"
 
 #: /wa-apps/shop/lib/classes/shopDiscounts.class.php:98
 msgid "Shop is set up to use sum of all discounts: %s"
-msgstr ""
+msgstr "Магазин налаштовано на використання суми усіх знижок: %s"
 
 #: /wa-apps/shop/lib/classes/shopDiscounts.class.php:114
 msgid "Shop is set up to use single largest of all discounts: %s"
-msgstr ""
+msgstr "Магазин налаштовано на використання максимальної з усіх знижок: %s"
 
 #: /wa-apps/shop/lib/classes/shopDiscounts.class.php:140
 msgid "Discount rounded to %s"
-msgstr ""
+msgstr "Знижку округлено до %s"
 
 #: /wa-apps/shop/lib/model/shopAffiliateTransaction.model.php:72
 msgid "Affiliate balance of %1$s is increased by amount %2$s"
-msgstr ""
+msgstr "Реферальний баланс %1$s збільшено на %2$s"
 
 #: /wa-apps/shop/lib/model/shopAffiliateTransaction.model.php:74
 msgid "Affiliate balance of %1$s is decreased by amount %2$s"
-msgstr ""
+msgstr "Реферальний баланс %1$s зменшено на %2$s"
 
 #: /wa-apps/shop/lib/model/shopPromoRules.model.php:18
 msgid "UTM tags"
-msgstr ""
+msgstr "Мітки UTM"
 
 #: /wa-apps/shop/lib/actions/marketing/coupons/shopMarketingCouponDelete.controller.php:13
 msgid "Invalid ID"
-msgstr ""
+msgstr "Помилковий ідентифікатор"
 
 #: /wa-apps/shop/lib/actions/marketing/coupons/shopMarketingCouponSave.controller.php:14
 msgid "Invalid data"
-msgstr ""
+msgstr "Невірні дані"
 
 #: /wa-apps/shop/lib/actions/marketing/coupons/shopMarketingCouponSave.controller.php:66
 msgid "This code already exists."
-msgstr ""
+msgstr "Цей код вже існує."
 
 #: /wa-apps/shop/lib/actions/marketing/followups/shopMarketingFollowupsSave.controller.php:79
 msgid "Saving error"
-msgstr ""
+msgstr "Помилка при збереженні"
 
 #: /wa-apps/shop/lib/actions/marketing/costs/shopMarketingCosts.action.php:32
 #: /wa-apps/shop/lib/actions/marketing/costs/shopMarketingCosts.action.php:215
 #: /wa-apps/shop/lib/actions/marketing/costs/shopMarketingCosts.action.php:227
 msgid "Deleted promo"
-msgstr ""
+msgstr "Промоакцію видалено"
 
 #: /wa-apps/shop/lib/actions/marketing/abtesting/shopMarketingAbtesting.action.php:93
 msgid "... your HTML for option “%s” here ..."
-msgstr ""
+msgstr "... ваш HTML для опції “%s” наведено далі ..."
 
 #: /wa-apps/shop/lib/actions/marketing/abtesting/shopMarketingAbtestingSave.controller.php:16
 msgid "A/B test not found."
-msgstr ""
+msgstr "A/B-тест не знайдено."
 
 #: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoClone.controller.php:59
 msgid "copy"
-msgstr ""
+msgstr "копія"
 
 #: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:238
 msgid "Unknown tool type"
-msgstr ""
+msgstr "Невідомий тип інструмента"
 
 #: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:248
 msgid "Exceeded allowed number of tools of this type."
-msgstr ""
+msgstr "Перевищено дозволену кількість інструментів для цього типу."
 
 #: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:311
 msgid "Override the price of at least one product."
-msgstr ""
+msgstr "Змініть вартість щонайменше одного товару."
 
 #: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:334
 msgid "Add at least one UTM tag."
-msgstr ""
+msgstr "Додайте щонайменше одну мітку UTM."
 
 #: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:356
 msgid "Please select at least one coupon."
-msgstr ""
+msgstr "Оберіть хоча б один купон, будь ласка."
 
 #: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:368
 msgid "An image must be uploaded."
-msgstr ""
+msgstr "Має бути завантажено зображення."
 
 #: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:420
 #: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:435
 #: /wa-apps/shop/lib/actions/marketing/promo/shopMarketingPromoSave.controller.php:452
 msgid "Invalid date or time"
-msgstr ""
+msgstr "Неприпустимі дата або час"
 
 #: /wa-apps/shop/lib/cli/shopFollowup.cli.php:269
 msgid "Follow-up <strong>%s</strong> sent to customer."
-msgstr ""
+msgstr "Нагадування <strong>%s</strong> надіслане клієнтові."
