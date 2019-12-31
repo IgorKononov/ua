@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: Webasyst Helpdesk 1.2.7.61 UA translation v 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #: /wa-apps/helpdesk/templates/layouts/Mobile.html:6
 #: /wa-apps/helpdesk/templates/layouts/Backend.html:5

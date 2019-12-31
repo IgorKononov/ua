@@ -6,10 +6,10 @@ msgstr ""
 "Project-Id-Version: Webasyst Traffic Widget 1.0.42413 UA Translation v 0.1\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Igor Kononov <igor.kononov@webasyst.ru>\n"
+"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: Skeeter Dev\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #: /wa-widgets/traffic/templates/Default.html:78
 #: /wa-widgets/traffic/templates/Default.html:118

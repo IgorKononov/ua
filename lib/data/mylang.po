@@ -1,1527 +1,866 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst MyLang 2.6 UA translation v 1.1\n"
+"Project-Id-Version: Webasyst MyLang 2.6.12 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2019-04-12T16:12:04+03:00\n"
-"PO-Revision-Date: 2019-10-13 18:31+0300\n"
+"PO-Revision-Date: 2019-12-31 12:23+0300\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.2.4\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-#: /wa-apps/mylang/templates/actions/site/SiteAuth.html:2
-#: /wa-apps/mylang/templates/actions/site/SiteDefault.html:9
 msgid "Sign up"
 msgstr "Реєстрація"
 
-#: /wa-apps/mylang/templates/actions/site/SiteAuth.html:5
-#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:19
 msgid "You have custom fields names available only for 1 language:"
 msgstr "У вас є користувальницькі поля імен, які доступні тільки для 1 мови:"
 
-#: /wa-apps/mylang/templates/actions/site/SiteAuth.html:11
-#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:11
-#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:27
-#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:28
 msgid "Use default"
 msgstr "Використовувати за замовчування"
 
-#: /wa-apps/mylang/templates/actions/site/SiteAuth.html:12
-#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:12
-#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:28
-#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:29
 msgid "Names will be changed to use system translations."
 msgstr "Назви буде змінено, аби використовувати системні переклади."
 
-#: /wa-apps/mylang/templates/actions/site/SiteAuth.html:15
 msgid "You have default auth settings and all fields use system translations."
 msgstr "Ви використовуєте стандартні налаштування авторизації і усі поля використовують системний переклад."
 
-#: /wa-apps/mylang/templates/actions/site/SiteDefault.html:6
-#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:4
-#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:6
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:27
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:5
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:7
-#: /wa-apps/mylang/templates/actions/photos/PhotosDefault.html:9
-#: /wa-apps/mylang/templates/actions/blog/BlogDefault.html:6
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:24
-#: /wa-apps/mylang/templates/actions/site/SiteThemes.html:4
-#: /wa-apps/mylang/templates/actions/site/SiteThemes.html:6
-#: /wa-apps/mylang/templates/actions/blog/BlogThemes.html:4
-#: /wa-apps/mylang/templates/actions/blog/BlogThemes.html:6
 msgid "Themes"
 msgstr "Теми дизайну"
 
-#: /wa-apps/mylang/templates/actions/site/SiteDefault.html:17
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:45
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:26
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:39
-#: /wa-apps/mylang/templates/actions/photos/PhotosDefault.html:17
-#: /wa-apps/mylang/templates/actions/blog/BlogDefault.html:14
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:21
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:28
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:26
 msgid "Loading..."
 msgstr "Завантаження..."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopSettings.html:2
 msgid "Store settings"
 msgstr "Налаштування магазину"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopSettings.html:9
 msgid "Search scope"
 msgstr "Область пошуку"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopSettings.html:12
 msgid "Use full text search."
 msgstr "Використовувати повнотекстовий пошук."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopSettings.html:13
-#: /wa-apps/mylang/templates/actions/shop/ShopExport.html:20
 msgid "By default search is using translated strings. Check option to use full text search."
 msgstr "За замовчуванням пошук здійснюється з допомогою перекладу рядка. Відмітьте опцію, аби використовувати повнотекстовий пошук."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopSettings.html:19
-#: /wa-apps/mylang/templates/actions/shop/ShopTags.html:25
-#: /wa-apps/mylang/templates/actions/shop/ShopStocks.html:39
-#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:56
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:59
-#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:57
-#: /wa-apps/mylang/templates/actions/shop/ShopWorkflow.html:26
-#: /wa-apps/mylang/templates/actions/shop/ShopFeature.html:40
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:66
-#: /wa-apps/mylang/templates/actions/shop/ShopExport.html:26
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:44
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:96
-#: /wa-apps/mylang/templates/actions/photos/PhotosTags.html:24
-#: /wa-apps/mylang/templates/actions/contacts/Contacts.html:27
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:118
-#: /wa-apps/mylang/lib/handlers/photos.backend_photo.handler.php:31
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:33
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:53
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:65
-#: /wa-apps/mylang/templates/actions/shop/ShopTags.html:24
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:58
 msgid "Save"
 msgstr "Зберегти"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopTags.html:3
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:9
-#: /wa-apps/mylang/templates/actions/photos/PhotosDefault.html:6
-#: /wa-apps/mylang/templates/actions/photos/PhotosTags.html:2
-#: /wa-apps/mylang/templates/actions/shop/ShopTags.html:2
 msgid "Tags"
 msgstr "Теги"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopTags.html:7
-#: /wa-apps/mylang/templates/actions/photos/PhotosTags.html:6
-#: /wa-apps/mylang/templates/actions/shop/ShopTags.html:6
 msgid "Tag name"
 msgstr "Назва тегу"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopTags.html:27
-#: /wa-apps/mylang/templates/actions/shop/ShopStocks.html:41
-#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:58
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:61
-#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:59
-#: /wa-apps/mylang/templates/actions/shop/ShopWorkflow.html:28
-#: /wa-apps/mylang/templates/actions/shop/ShopFeature.html:42
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:68
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:46
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:98
-#: /wa-apps/mylang/templates/actions/photos/PhotosTags.html:26
-#: /wa-apps/mylang/templates/actions/contacts/Contacts.html:29
-#: /wa-apps/mylang/lib/handlers/photos.backend_photo.handler.php:32
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:35
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:55
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:67
-#: /wa-apps/mylang/templates/actions/shop/ShopTags.html:26
 msgid "Saved"
 msgstr "Збережено"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:3
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:30
 msgid "Autotranslate"
 msgstr "Автопереклад"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:8
 msgid "Cache files"
 msgstr "Файли кешу"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:19
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:9
 msgid "Source language"
 msgstr "Мова джерела"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:29
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:19
 msgid "Target language"
 msgstr "Цільова мова"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:41
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:32
 msgid "Providers"
 msgstr "Провайдери"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:45
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:36
 msgid "No API key"
 msgstr "Немає API-ключа"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:55
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:46
 msgid "Replace old data"
 msgstr "Замінити старі дані"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:57
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:48
 msgid "Replace old data with new"
 msgstr "Замінити старі дані новими"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:58
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:49
 msgid "All selected fields will be overwritten with new translations data."
 msgstr "Усі обрані поля буде замінено новими даними перекладу."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:63
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:54
 msgid "Items to translate"
 msgstr "Що підлягає перекладу"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:66
-#: /wa-apps/mylang/templates/actions/shop/ShopExport.html:19
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:57
 msgid "Categories"
 msgstr "Категорії"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:66
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:57
 msgid "not translated"
 msgstr "не перекладено"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:67
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:72
-#: /wa-apps/mylang/lib/handlers/photos.backend_photo.handler.php:19
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:58
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:63
 msgid "Name"
 msgstr "Назва"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:68
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:74
-#: /wa-apps/mylang/js/mylang.js:135 /wa-apps/mylang/js/mylang.js:187
-#: /wa-apps/mylang/lib/handlers/photos.backend_photo.handler.php:20
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:117
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:127
-#: /wa-apps/mylang/js/mylang.js:112 /wa-apps/mylang/js/mylang.js:159
-#: /wa-apps/mylang/lib/handlers/shop.backend_product.handler.php:20
 msgid "Description"
 msgstr "Опис"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:71
-#: /wa-apps/mylang/templates/actions/shop/ShopExport.html:19
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:62
 msgid "Products"
 msgstr "Продукти"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:73
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:116
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:126
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:64
 msgid "Summary"
 msgstr "Короткий опис"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:82
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:73
 msgid "Start"
 msgstr "Почати"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:122
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:113
 msgid "Source and target language should be different."
 msgstr "Вихідна і цільова мова мають відрізнятися."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:126
-#: /wa-apps/mylang/templates/actions/shop/ShopAutotranslate.html:117
 msgid "Check at least 1 field to translate."
 msgstr "Оберіть як мінімум 1 поле для перекладу."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopStocks.html:2
 msgid "Stocks list is empty. Add <a href=\"{$wa_backend_url}shop/?action=settings#/stock/\">new stock</a> to translate it."
 msgstr "Перелік складів порожній. Додайте <a href=\"{$wa_backend_url}shop/?action=settings#/stock/\">новий склад</a>, аби перевести його."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopStocks.html:5
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:12
 msgid "Stocks"
 msgstr "Склади"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopStocks.html:9
 msgid "Stock name"
 msgstr "Назва складу"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:4
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:26
-#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:27
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:5
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:5
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:4
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:32
 msgid "Back"
 msgstr "Назад"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:15
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:16
-#: /wa-apps/mylang/templates/actions/site/SiteThemes.html:15
-#: /wa-apps/mylang/templates/actions/blog/BlogThemes.html:15
 msgid "Theme has no text fields to translate."
 msgstr "У темі немає текстових полів для перекладу."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:21
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:22
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:51
-#: /wa-apps/mylang/templates/actions/site/SiteThemes.html:21
-#: /wa-apps/mylang/templates/actions/blog/BlogThemes.html:21
 msgid "Theme field"
 msgstr "Поле «Тема»"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:23
-#: /wa-apps/mylang/templates/actions/shop/ShopFeature.html:26
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:23
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:24
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:53
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:22
 msgid "Value"
 msgstr "Значення"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:41
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:81
-#: /wa-apps/mylang/templates/actions/site/SiteThemes.html:41
-#: /wa-apps/mylang/templates/actions/blog/BlogThemes.html:41
 msgid "Theme name"
 msgstr "Назва теми дизайну"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:42
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:82
-#: /wa-apps/mylang/templates/actions/site/SiteThemes.html:42
-#: /wa-apps/mylang/templates/actions/blog/BlogThemes.html:42
 msgid "Theme ID"
 msgstr "Ідентифікатор теми"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopThemes.html:59
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:69
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:47
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:134
-#: /wa-apps/mylang/templates/actions/design/DesignDefault.html:99
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:36
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:120
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:56
 msgid "Error"
 msgstr "Помилка"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:2
 msgid "Services list is empty. Add <a href=\"{$wa_backend_url}shop/?action=products#/services/\">new</a> to translate it."
 msgstr "Список послуг порожній. Додайте <a href=\"{$wa_backend_url}shop/?action=products#/services/\">нові</a>, аби перекласти їх."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:6
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:15
 msgid "Services"
 msgstr "Послуги"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:9
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:33
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:38
 msgid "Service name"
 msgstr "Назва послуги"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:26
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:32
 msgid "Service"
 msgstr "Послуга"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:26
-#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:27
-#: /wa-apps/mylang/templates/actions/shop/ShopServices.html:32
 msgid "Noname"
 msgstr "Немає назви"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:6
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:5
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:7
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:4
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:6
 msgid "Features"
 msgstr "Характеристики"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:18
-#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:2
 msgid "Checkout"
 msgstr "Оформлення замовлення"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:21
-#: /wa-apps/mylang/templates/actions/shop/ShopWorkflow.html:3
 msgid "Order states"
 msgstr "Статуси замовлень"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:24
-#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:7
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:21
 msgid "Promos"
 msgstr "Промо"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:33
-#: /wa-apps/mylang/templates/actions/shop/ShopExport.html:2
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:9
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:8
 msgid "Export"
 msgstr "Експорт"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopDefault.html:37
-#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:58
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:18
-#: /wa-apps/mylang/templates/layouts/Backend.html:39
-#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:52
 msgid "Settings"
 msgstr "Налаштування"
 
-#: /wa-apps/mylang/templates/actions/shop/translate.block.html:2
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:29
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:24
 msgid "Translate empty"
 msgstr "Перекласти порожні"
 
-#: /wa-apps/mylang/templates/actions/shop/translate.block.html:4
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:31
-#: /wa-apps/mylang/lib/classes/mylangHelper.class.php:172
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:26
 msgid "Yandex Translate"
 msgstr "Яндекс.Переклад"
 
-#: /wa-apps/mylang/templates/actions/shop/translate.block.html:5
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:32
-#: /wa-apps/mylang/lib/classes/mylangHelper.class.php:168
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:27
 msgid "Google Translate"
 msgstr "Google Translate"
 
-#: /wa-apps/mylang/templates/actions/shop/translate.block.html:6
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:33
-#: /wa-apps/mylang/lib/classes/mylangHelper.class.php:176
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:28
 msgid "Microsoft Translate"
 msgstr "Microsoft Translate"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:2
 msgid "Promos list is empty. Add <a href=\"{$wa_backend_url}shop/?action=products#/promos/\">new</a> to translate it."
 msgstr "Список промо порожній. Додайте <a href=\"{$wa_backend_url}shop/?action=products#/promos/\">нові</a>, аби перекласти їх."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:10
-#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:33
 msgid "Promo title"
 msgstr "Назва промо"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:27
 msgid "Promo"
 msgstr "Промо"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopPromos.html:44
 msgid "Promo text"
 msgstr "Текст промо"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopWorkflow.html:2
 msgid "Set default"
 msgstr "За замовчуванням"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopWorkflow.html:8
 msgid "Order state"
 msgstr "Статус замовлення"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:5
 msgid "You have custom steps names available only for 1 language:"
 msgstr "У вас є власні назви статусів, що доступні тільки для 1 мови:"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:32
-#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:33
 msgid "You have default checkout settings and all fields use system translations."
 msgstr "Ви використовуєте стандартні налаштування оформлення замовлення і усі поля використовують системний переклад."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopFeature.html:12
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:14
-#: /wa-apps/mylang/templates/actions/shop/ShopFeatures.html:13
 msgid "Feature name"
 msgstr "Назва характеристики"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopFeature.html:22
 msgid "Save the main value beforehand, to translate it."
 msgstr "Аби перевести головне значення, спочатку збережіть його."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopExport.html:8
-#: ang/wa-apps/mylang/templates/actions/shop/ShopExport.html:8
 msgid "Select locale"
 msgstr "Оберіть мову"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopExport.html:16
-#: ang/wa-apps/mylang/templates/actions/shop/ShopExport.html:16
 msgid "Select items"
 msgstr "Оберіть елементи"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:8
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:176
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:196
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:90
 msgid "Add"
 msgstr "Додати"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:10
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:9
 msgid "Import"
 msgstr "Імпорт"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:19
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:21
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:18
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:20
 msgid "Search"
 msgstr "Пошук"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:24
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:19
 msgid "Reload file"
 msgstr "Перезавантажити файл"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:28
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:23
 msgid "Actions"
 msgstr "Дії"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:49
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:38
 msgid "prev"
 msgstr "назад"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:50
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:39
 msgid "next"
 msgstr "далі"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:67
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:56
 msgid "PO-file for locale - "
 msgstr "PO-файл для локалі — "
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:71
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:60
 msgid "App doesn't support additional locales."
 msgstr "Додаток не підтримує додаткові локалі."
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:78
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:102
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:135
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:177
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:67
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:91
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:121
 msgid "Close"
 msgstr "Закрити"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:90
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:79
 msgid "File to upload should have *.po extension and been created with poedit or other tools."
 msgstr "Завантажуваний файл повинен мати розширення *.po і має бути створений за допомогою POEdit або інших інструментів."
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:93
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:94
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:83
 msgid "Select locale to upload"
 msgstr "Оберіть локаль для завантаження"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:102
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:91
 msgid "Upload"
 msgstr "Завантажити"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:102
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:71
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:196
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:91
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:80
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:90
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:115
 msgid "or"
 msgstr "або"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:118
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:113
 msgid "Scan new"
 msgstr "Сканування нових"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:120
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:112
 msgid "Scan product to get new strings to translate for all locales."
 msgstr "Сканувати продукт, аби отримати нові рядки перекладу для всіх мов."
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:121
 msgid "Clean hash strings"
 msgstr "Очистити хеш рядків"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:123
 msgid "Repair file for md5-hash keys."
 msgstr "Відновити файл для хеш-ключів MD5."
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:124
 msgid "Unescape keys"
 msgstr "Ключі unescape"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:126
 msgid "Repair keys."
 msgstr "Відновити ключі."
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:133
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:119
 msgid "Completed"
 msgstr "Завершено"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:148
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:139
 msgid "Add custom text"
 msgstr "Додати довільний текст"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:151
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:142
 msgid "Plural forms"
 msgstr "Множинні форми"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:154
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:145
 msgid "Original text"
 msgstr "Оригінальний текст"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:155
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:167
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:146
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:158
 msgid "Key text"
 msgstr "Текст ключа"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:156
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:147
 msgid "Key text plural"
 msgstr "Текст ключа множини"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:160
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:151
 msgid "ID string"
 msgstr "ID рядка"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:162
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:153
 msgid "plural"
 msgstr "множина"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:166
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:157
 msgid "Usage:"
 msgstr "Використання:"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:167
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:158
 msgid "[&#96;Key text&#96;] or {_w('Key text')} for apps"
 msgstr "[&#96;Key text&#96;] або {_w(&#39;Key text&#39;)} для додатків"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:328
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:203
 msgid "Plural form"
 msgstr "Форма множини"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:204
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:195
 msgid "Delete string?"
 msgstr "Видалити рядок?"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:323
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:205
 msgid "System keys"
 msgstr "Системні ключі"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:354
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:380
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:429
-#: /wa-apps/mylang/lib/classes/mylangTranslateGoogle.class.php:15
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:15
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:298
 msgid "Api error. Check the token key and quota."
 msgstr "Помилка API. Перевірте ключ-токен і квоти."
 
-#: /wa-apps/mylang/templates/actions/editor/EditorSidebar.html:15
-#: /wa-apps/mylang/templates/actions/editor/EditorSidebar.html:45
 msgid "Widgets"
 msgstr "Віджети"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorSidebar.html:25
-#: /wa-apps/mylang/lib/actions/editor/mylangEditor.actions.php:97
-#: /wa-apps/mylang/templates/actions/editor/EditorSidebar.html:18
-#: /wa-apps/mylang/lib/actions/editor/mylangEditor.actions.php:77
 msgid "Payment"
 msgstr "Оплата"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorSidebar.html:35
-#: /wa-apps/mylang/lib/actions/editor/mylangEditor.actions.php:93
-#: /wa-apps/mylang/templates/actions/editor/EditorSidebar.html:28
-#: /wa-apps/mylang/lib/actions/editor/mylangEditor.actions.php:73
 msgid "Shipping"
 msgstr "Доставка"
 
-#: /wa-apps/mylang/templates/actions/contacts/Contacts.html:1
-#: /wa-apps/mylang/templates/actions/contacts/Contacts.html:6
 msgid "Contact fields"
 msgstr "Поля контактів"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:9
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:103
 msgid "Delete locale"
 msgstr "Видалити локаль"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:10
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:8
 msgid "Edit locale"
 msgstr "Редагувати локаль"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:14
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:145
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:115
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:112
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:12
 msgid "Currency"
 msgstr "Валюта"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:20
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:151
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:118
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:18
 msgid "Original"
 msgstr "Оригінал"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:22
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:29
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:153
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:160
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:120
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:127
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:20
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:27
 msgid "Name:"
 msgstr "Ім&#39;я:"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:23
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:30
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:154
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:161
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:121
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:128
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:21
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:28
 msgid "Region:"
 msgstr "Регіон:"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:27
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:158
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:125
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:25
 msgid "English"
 msgstr "Англійська"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:34
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:165
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:32
 msgid "Thousands separator"
 msgstr "Роздільник тисяч"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:37
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:168
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:135
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:35
 msgid "Usually space or comma"
 msgstr "Зазвичай пробіл або кома"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:41
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:172
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:139
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:39
 msgid "Decimal point"
 msgstr "Десяткова крапка"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:44
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:175
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:142
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:42
 msgid "Usually full stop or comma"
 msgstr "Зазвичай крапка або кома"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:48
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:179
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:146
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:46
 msgid "Fractional digits"
 msgstr "Десяткові цифри"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:54
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:185
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:152
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:52
 msgid "First day of week"
 msgstr "Перший день тижня"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:61
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:45
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:41
 msgid "This locale is not installed on the server."
 msgstr "Локаль не встановлено на сервері."
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:61
 msgid "Some transalted strings may display incorrect."
 msgstr "Деякі перекладені рядки можуть відображатися некоректно."
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:71
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:64
 msgid "Update"
 msgstr "Оновити"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:71
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:196
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:90
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:115
 msgid "close"
 msgstr "закрити"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:92
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:141
 msgid "All data with locale %s will be cleared. Are you sure?"
 msgstr "Усі дані локалі %s буде очищено. Ви впевнені?"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:16
 msgid "Selector settings"
 msgstr "Налаштування селектора"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:19
 msgid "Redirects"
 msgstr "Перенаправлення"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:22
 msgid "New rule"
 msgstr "Нове правило"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:61
-#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:55
 msgid "Remove"
 msgstr "Видалити"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsSelector.html:73
 msgid "Available selectors"
 msgstr "Доступні селектори"
 
-#: /wa-apps/mylang/templates/actions/settings/selector3.html:193
 msgid "Customize Your Shopping Experience!"
 msgstr "Налаштуйте почуття від магазину!"
 
-#: /wa-apps/mylang/templates/actions/settings/selector3.html:196
 msgid "Please select the destination country, language, and currency you prefer."
 msgstr "Оберіть, будь ласка, країну призначення, мову і валюту, яким ви надаєте перевагу."
 
-#: /wa-apps/mylang/templates/actions/settings/selector3.html:201
 msgid "Select the Destination"
 msgstr "Оберіть місце призначення"
 
-#: /wa-apps/mylang/templates/actions/settings/selector3.html:216
 msgid "Select Your Language"
 msgstr "Оберіть вашу мову"
 
-#: /wa-apps/mylang/templates/actions/settings/selector3.html:231
 msgid "Select Your Currency"
 msgstr "Оберіть вашу валюту"
 
-#: /wa-apps/mylang/templates/actions/settings/selector3.html:247
 msgid "Available Shipping Methods"
 msgstr "Доступні способи доставки"
 
-#: /wa-apps/mylang/templates/actions/settings/selector3.html:254
 msgid "Available Payment Methods"
 msgstr "Доступні способи оплати"
 
-#: /wa-apps/mylang/templates/actions/settings/selector3.html:262
 msgid "Save Preferences"
 msgstr "Зберегти налаштування"
 
-#: /wa-apps/mylang/templates/actions/settings/selector.html:2
 msgid "Change language"
 msgstr "Змінити мову"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:6
 msgid "General settings"
 msgstr "Загальні налаштування"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:9
 msgid "Selector"
 msgstr "Селектор"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:26
 msgid "Domains"
 msgstr "Домени"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:39
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:35
 msgid "Available locales"
 msgstr "Список доступних локалей"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:49
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:43
 msgid "Select additional locales"
 msgstr "Обрати додаткові локалі"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:50
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:44
 msgid "Add new locale"
 msgstr "Додати нову локаль"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:56
 msgid "Fix locales"
 msgstr "Відремонтувати локалі"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:56
 msgid "Done"
 msgstr "Готово"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:61
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:49
 msgid "Main language"
 msgstr "Основна мова"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:69
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:57
 msgid "Yandex API key"
 msgstr "Ключ API Яндекс"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:73
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:61
 msgid "https://tech.yandex.com/translate/"
 msgstr "https://tech.yandex.ru/translate/"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:73
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:61
 msgid "Free < 10 millions chars per month. More info..."
 msgstr "Безкоштовно — до 10 мільйонів символів в місяць. Детальніше..."
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:78
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:66
 msgid "Google API key"
 msgstr "Ключ API Google"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:82
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:91
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:70
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:79
 msgid "Free trial. More info..."
 msgstr "Безкоштовна пробна версія. Детальніше..."
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:87
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:75
 msgid "Microsoft API key"
 msgstr "Ключ Microsoft API"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:97
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:91
 msgid "Select main provider"
 msgstr "Виберіть основного постачальника"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:109
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:103
 msgid "Integrate with Menu app"
 msgstr "Інтеграція із додатком «Меню»"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:112
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:106
 msgid "Translate menu items"
 msgstr "Перекласти пункти меню"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:135
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:74
 msgid "New locale"
 msgstr "Нова локаль"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:139
-#: /wa-apps/mylang/js/mylang.js:278
-#: /wa-apps/mylang/lib/handlers/blog.backend_page_edit.handler.php:14
-#: /wa-apps/mylang/lib/handlers/blog.backend_post_edit.handler.php:13
-#: /wa-apps/mylang/lib/handlers/blog.backend_blog_edit.handler.php:14
-#: /wa-apps/mylang/lib/handlers/site.backend_page_edit.handler.php:14
-#: /wa-apps/mylang/lib/handlers/shop.backend_page_edit.handler.php:14
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:78
-#: /wa-apps/mylang/js/mylang.js:223
 msgid "Locale"
 msgstr "Локаль"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:231
-#: /wa-apps/mylang/lib/actions/backend/mylangSettingsSave.controller.php:60
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:151
-#: /wa-apps/mylang/lib/actions/backend/mylangSettingsSave.controller.php:42
 msgid "Empty value"
 msgstr "Порожнє значення"
 
-#: /wa-apps/mylang/templates/layouts/Backend.html:35
-#: /wa-apps/mylang/lib/actions/editor/mylangEditor.actions.php:113
-#: /wa-apps/mylang/lib/actions/editor/mylangEditor.actions.php:52
 msgid "Plugins"
 msgstr "Плагіни"
 
-#: /wa-apps/mylang/js/mylang.js:58 /wa-apps/mylang/js/mylang.js:56
-#: /wa-apps/mylang/lib/handlers/shop.backend_product.handler.php:18
 msgid "All"
 msgstr "Усі"
 
-#: /wa-apps/mylang/js/mylang.js:73
 msgid "Translate"
 msgstr "Переклад"
 
-#: /wa-apps/mylang/js/mylang.js:278
-#: /wa-apps/mylang/lib/classes/mylangHelper.class.php:123
-#: /wa-apps/mylang/js/mylang.js:223
-#: /wa-apps/mylang/lib/classes/mylangHelper.class.php:149
 msgid "Everyone"
 msgstr "Усі"
 
-#: /wa-apps/mylang/js/mylang_backend.js:406
-#: /wa-apps/mylang/js/mylang_backend.js:223
 msgid "Locale is not selected."
 msgstr "Локаль не обрано."
 
-#: /wa-apps/mylang/js/mylang_backend.js:410
-#: /wa-apps/mylang/js/mylang_backend.js:227
 msgid "File is not selected."
 msgstr "Файл не обрано."
 
-#: /wa-apps/mylang/lib/handlers/shop.backend_product.handler.php:14
-#: /wa-apps/mylang/lib/handlers/shop.backend_category_dialog.handler.php:14
-#: /wa-apps/mylang/lib/handlers/shop.backend_product.handler.php:19
 msgid "None"
 msgstr "Немає"
 
-#: /wa-apps/mylang/lib/actions/site/mylangSitejs.actions.php:35
-#: /wa-apps/mylang/lib/actions/site/mylangSitejs.actions.php:36
 msgid "File could not be saved due to the insufficient file write permissions for the \"%s\" folder."
 msgstr "Файл не вдалося зберегти через недостатні права запису до папки «%s»."
 
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:104
-#: /wa-apps/mylang/lib/actions/shop/mylangAutotranslateShop.controller.php:130
-#: /wa-apps/mylang/lib/actions/shop/mylangAutotranslateShop.controller.php:127
 msgid "Translate process is finished."
 msgstr "Процес перекладу закінчено."
 
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:111
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:125
-#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:113
-#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:127
 msgid "Product name"
 msgstr "Назва продукту"
 
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:112
-#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:114
 msgid "SKU name"
 msgstr "Назва артикулу"
 
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:113
-#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:115
 msgid "SKU code"
 msgstr "Код артикулу"
 
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:114
-#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:116
 msgid "Price"
 msgstr "Ціна"
 
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:121
-#: /wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:131
-#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:123
-#: ang/wa-apps/mylang/lib/actions/shop/mylangShopExportRun.controller.php:133
 msgid "Storefront link"
 msgstr "Посилання на вітрину"
 
-#: /wa-apps/mylang/lib/actions/backend/mylangSettingsSave.controller.php:8
-#: /wa-apps/mylang/lib/actions/backend/mylangSettings.action.php:8
 msgid "Access denied"
 msgstr "Доступ заборонено"
 
-#: /wa-apps/mylang/lib/actions/backend/mylangBackendTranslate.controller.php:17
-#: /wa-apps/mylang/lib/actions/backend/mylangBackendTranslate.controller.php:16
 msgid "Language is empty."
 msgstr "Мову не заповнено."
 
-#: /wa-apps/mylang/lib/actions/backend/mylangBackendTranslate.controller.php:20
-#: /wa-apps/mylang/lib/actions/backend/mylangBackendTranslate.controller.php:19
 msgid "Empty provider."
 msgstr "Порожній постачальник."
 
-#: /wa-apps/mylang/lib/actions/backend/mylangSettings.actions.php:23
-#: /wa-apps/mylang/lib/actions/backend/mylangSettings.action.php:29
-#: /wa-apps/mylang/lib/actions/backend/mylangSettings.action.php:24
-#: /wa-apps/mylang/lib/actions/backend/mylangSettings.actions.php:21
 msgid "Select currency"
 msgstr "Оберіть валюту"
 
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:106
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:156
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:302
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:439
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:469
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:48
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:99
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:171
 msgid "Input data error"
 msgstr "Помилка у вхідних даних"
 
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:124
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:68
 msgid "Input file error"
 msgstr "Помилка у вхідному файлі"
 
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:131
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:77
 msgid "Input file content error"
 msgstr "Помилка у вмісті вхідного файлу"
 
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:140
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:87
 msgid "Previous file content error"
 msgstr "Помилка у вмісті попереднього вхідного файлу"
 
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:216
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:122
 msgid "File not found."
 msgstr "Файл не знайдено."
 
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:251
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:153
 msgid "Empty filename."
 msgstr "Назва файлу порожня."
 
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:306
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:174
 msgid "Request strings error"
 msgstr "Помилка запиту рядків"
 
-#: /wa-apps/mylang/lib/actions/editor/mylangEditor.actions.php:38
-#: ang/wa-apps/mylang/lib/actions/editor/mylangEditor.actions.php:37
 msgid "Custom strings"
 msgstr "Користувальницькі рядки"
 
-#: /wa-apps/mylang/lib/classes/mylangAutoTranslate.class.php:42
-#: /wa-apps/mylang/lib/classes/mylangAutoTranslate.class.php:21
 msgid "Unknown provider"
 msgstr "Невідомий провайдер"
 
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:82
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:80
 msgid "Invalid API key"
 msgstr "Невірний ключ API"
 
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:85
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:83
 msgid "Blocked API key"
 msgstr "Ключ API заблоковано"
 
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:89
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:86
 msgid "Exceeded the daily limit on the amount of translated text"
 msgstr "Перевищено добовий ліміт на обсяг перекладеного тексту"
 
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:92
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:89
 msgid "Exceeded the maximum text size"
 msgstr "Перевищено максимальний розмір тексту"
 
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:95
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:92
 msgid "The text cannot be translated"
 msgstr "Текст не може бути перекладено"
 
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:98
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:95
 msgid "The specified translation direction is not supported"
 msgstr "Зазначений напрямок перекладу не підтримується"
 
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:101
-#: /wa-apps/mylang/lib/classes/mylangTranslateMicrosoft.class.php:115
-#: /wa-apps/mylang/lib/classes/mylangTranslateYandex.class.php:98
 msgid "Unknown error. See logs."
 msgstr "Невідома помилка. Перегляньте логи."
 
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1878
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1854
 msgid "Theme %s not found"
 msgstr "Тему дизайна %s не знайдено"
 
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1937
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1976
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1913
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1952
 msgid "Duplicate theme failed"
 msgstr "Дублювати тему не вдалося"
 
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:972
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:960
 msgid "Missed theme file(s): %s"
 msgstr "Не вистачає файлів теми дизайну: %s"
 
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1871
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1847
 msgid "Invalid theme slug"
 msgstr "Помилковий ідентифікатор теми"
 
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1894
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:1870
 msgid "Brush custom theme not available"
 msgstr "Тема дизайну Brush custom недоступна"
 
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2134
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2110
 msgid "Theme “%s” is for app “%s”, which is not installed in your Webasyst. Install the app, and upload theme once again."
 msgstr "Тема дизайну “%s” призначена для додатку %s, який не встановлено у вашому Webasyst. Встановіть додаток та завантажте тему повторно."
 
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2234
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2249
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2210
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2225
 msgid "http://www.webasyst.com/framework/docs/site/themes/#%s"
 msgstr "http://www.webasyst.com/framework/docs/site/themes/#%s"
 
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2235
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2211
 msgid "Invalid theme archive structure (%s). <a href=\"%s\" target=\"_blank\">See help</a> for details"
 msgstr "Невірна структура архіву з темою дизайну (%s). <a href=\"%s\" target=\"_blank\">Дивіться довідку</a> аби дізнатись більше"
 
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2250
-#: /wa-apps/mylang/lib/classes/mylangTheme.class.php:2226
 msgid "Failed to extract files from theme archive (%s). <a href=\"%s\" target=\"_blank\">See help</a> for details"
 msgstr "Не вдалося витягти файли з архіву теми дизайну (%s). <a href=\"%s\" target=\"_blank\">Дивіться довідку</a> аби дізнатися більше"
 
-#: /wa-apps/mylang/lib/layouts/mylangBackend.layout.php:23
-#: /wa-apps/mylang/lib/layouts/mylangBackend.layout.php:19
 msgid "Editor"
 msgstr "Редактор"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:12
 msgid "Select locale to edit"
 msgstr "Оберіть локаль для редагування"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:23
 msgid "Compile"
 msgstr "Компілювати"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:24
 msgid "Translate empty(Yandex)"
 msgstr "Перекласти порожні (Яндекс)"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:106
 msgid "Generate mo-file containing all translated strings."
 msgstr "Створити МО-файл, що містить усі перекладені рядки."
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:107
 msgid "Generate"
 msgstr "Створити"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:109
 msgid "Rollback to first original mo-file. May contain partial translation."
 msgstr "Повернутися до першого оригінального MO-файлу. Може містити частковий переклад."
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:110
 msgid "Rollback"
 msgstr "Відкат"
 
-#: /wa-apps/mylang/templates/actions/editor/EditorDefault.html:251
 msgid "Choose strings locale"
 msgstr "Оберіть рядки локалі"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopCheckout.html:23
 msgid "change"
 msgstr "змінити"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:115
 msgid "Delete"
 msgstr "Видалити"
 
-#: /wa-apps/mylang/lib/handlers/shop.backend_product.handler.php:21
 msgid "You can translate tags in"
 msgstr "Теги можна перекласти у"
 
-#: /wa-apps/mylang/lib/handlers/shop.backend_product.handler.php:22
 msgid "Mylang app"
 msgstr "Додаток Mylang"
 
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:36
 msgid "MO-file restored"
 msgstr "МО-файл відновлено"
 
-#: /wa-apps/mylang/lib/actions/editor/mylangEditorjs.actions.php:38
 msgid "No backup MO-file"
 msgstr "Немає резервного MO-файлу"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:132
-#: /wa-apps/mylang/templates/actions/settings/SettingsGetlocale.html:32
 msgid "Thousands sep"
 msgstr "Роздільник тисяч"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopWorkflow.html:8
 msgid "State"
 msgstr "Держава"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:117
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:120
 msgid "MyLang version"
 msgstr "Версія MyLang"
 
-#: /wa-apps/mylang/lib/actions/plugins/mylangPlugins.actions.php:14
 msgid "Plugin settings page"
 msgstr "Сторінка налаштувань плагіну"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:4
 msgid "Language packs"
 msgstr "Мовні пакети"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:17
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:15
 msgid "Version"
 msgstr "Версія"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:18
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:56
 msgid "Language"
 msgstr "Мова"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:32
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:73
 msgid "There are no language packs installed."
 msgstr "Не встановлено жодного мовного пакету."
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:34
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:76
 msgid "Install new plugins from the Webasyst Store using the Installer app"
 msgstr "Встановіть нові плагіни з магазину Webasyst за допомогою додатку «Інсталлер»"
 
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:12
 msgid "Language pack"
 msgstr "Мовний пакет"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:9
 msgid "For developers"
 msgstr "Для розробників"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:26
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:39
 msgid "Your current version is"
 msgstr "Ваша поточна версія"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:66
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:133
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:134
 msgid "Install"
 msgstr "Встановити"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:80
 msgid "Show other plugins"
 msgstr "Показати інші плагіни"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:89
 msgid "Select locale to generate export files:"
 msgstr "Оберіть локаль для генерації файлів експорту:"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:97
 msgid "By default langpack will replace all supported:"
 msgstr "За замовчуванням мовний пакет замінить усі підтримувані:"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:98
 msgid "Only missing"
 msgstr "Тільки відсутні"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:116
 msgid "Create data for langpack"
 msgstr "Створити дані для мовного пакету"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:117
 msgid "Create pack"
 msgstr "Створити пакет"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:132
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:133
 msgid "Install langpack"
 msgstr "Встановити мовний пакет"
 
-#: /wa-apps/mylang/lib/actions/backend/mylangBackend.actions.php:22
 msgid "%d app"
 msgid_plural "%d apps"
 msgstr[0] "%d додаток"
 msgstr[1] "%d додатки"
 msgstr[2] "%d додатків"
 
-#: /wa-apps/mylang/lib/actions/backend/mylangBackend.actions.php:23
 msgid "%d plugin"
 msgid_plural "%d plugins"
 msgstr[0] "%d плагін"
 msgstr[1] "%d плагіни"
 msgstr[2] "%d плагінів"
 
-#: /wa-apps/mylang/lib/actions/backend/mylangBackend.actions.php:24
 msgid "%d widget"
 msgid_plural "%d widgets"
 msgstr[0] "%d віджет"
 msgstr[1] "%d віджети"
 msgstr[2] "%d віджетів"
 
-#: /wa-apps/mylang/lib/actions/backend/mylangBackend.actions.php:26
 msgid "Download"
 msgstr "Скачати"
 
-#: /wa-apps/mylang/lib/actions/backend/mylangBackend.actions.php:45
 msgid "Files added:"
 msgstr "Додані файли:"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:117
-#: /wa-apps/mylang/templates/actions/settings/SettingsLangpack.html:134
 msgid "Cancel"
 msgstr "Скасувати"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:8
-#: /wa-apps/mylang/templates/actions/settings/Settings.html:15
 msgid "Maintenance"
 msgstr "Обслуговування"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:12
 msgid "Tables"
 msgstr "Таблиці"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:17
 msgid "Optimize"
 msgstr "Оптимізувати"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:21
 msgid "All tables are optimized."
 msgstr "Оптимізовано усі таблиці."
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:26
 msgid "Clean data"
 msgstr "Очистити дані"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:29
 msgid "Autotranslate cache files"
 msgstr "Автоматичний переклад файлів кешу"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:38
 msgid "No files"
 msgstr "Немає файлів"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:45
 msgid "Localized data"
 msgstr "Локалізовані дані"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:59
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:60
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:61
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:62
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:63
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:64
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:65
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:66
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:67
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:68
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:69
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:70
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:71
 msgid "Shop"
 msgstr "Магазин"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:62
 msgid "Values"
 msgstr "Значення"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:70
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:71
 msgid "Category"
 msgstr "Категорія"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:74
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:75
 msgid "Site"
 msgstr "Сайт"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:79
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:80
 msgid "Blog"
 msgstr "Блог"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:84
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:85
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:86
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:87
 msgid "Photos"
 msgstr "Фотографії"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:86
 msgid "Albums"
 msgstr "Альбоми"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:87
 msgid "Photo"
 msgstr "Фото"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:94
 msgid "Themes data is removed from datatbase, not from theme files."
 msgstr "Дані тем видалено з бази даних, а не з файлів теми."
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:97
 msgid "Clear"
 msgstr "Очистити"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:50
 msgid "%d entry"
 msgid_plural "%d entries"
 msgstr[0] "%d запис"
 msgstr[1] "%d записи"
 msgstr[2] "%d записів"
 
-#: /wa-apps/mylang/templates/actions/settings/SettingsMaintenance.html:146
 msgid "Clear selected data?"
 msgstr "Очистити виділені дані?"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopSettings.html:18
 msgid "Reviews filter"
 msgstr "Фільтр відгуків"
 
-#: /wa-apps/mylang/templates/actions/shop/ShopSettings.html:21
 msgid "Disable reviews filter."
 msgstr "Вимкнути фільтр відгуків."
 
-#: /wa-apps/mylang/templates/actions/shop/ShopSettings.html:22
 msgid "By default reviews are filtered by locale."
 msgstr "За умовчанням відгуки фільтруються за локаллю."
 
-#: /wa-apps/mylang/lib/actions/backend/mylangBackend.actions.php:55
-#: /wa-apps/mylang/lib/actions/backend/mylangBackend.actions.php:63
 msgid "No table name"
 msgstr "Відсутня назва таблиці"
 
-#: /wa-apps/mylang/lib/actions/backend/mylangBackend.actions.php:66
 msgid "Database error"
 msgstr "Помилка бази даних"
 
-#: /wa-apps/mylang/lib/actions/backend/mylangBackend.actions.php:79
 msgid "No filename"
 msgstr "Назва файлу порожня"
 
-#: /wa-apps/mylang/lib/actions/backend/mylangBackend.actions.php:96
 msgid "No data"
 msgstr "Немає даних"
 
-#: /wa-apps/mylang/lib/actions/backend/mylangSettingsMaintenance.action.php:23
 msgid "B,KB,MB,GB"
 msgstr "Б,КБ,МБ,ГБ"
+
+msgid "There are no translate plugins installed."
+msgstr "Плагіни локалізації не встановлено."
+
+msgid "Meta title"
+msgstr "Meta title"
+
+msgid "Meta keywords"
+msgstr "Meta keywords"
+
+msgid "Meta description"
+msgstr "Meta description"
+
+msgid "added a product"
+msgstr "додав товар"
+
+msgid "String"
+msgstr "Рядок"

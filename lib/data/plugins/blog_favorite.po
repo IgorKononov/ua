@@ -6,10 +6,10 @@ msgstr ""
 "Project-Id-Version: Webasyst Blog Favorite plugin 1.0.0.25986 UA Translation v 0.1\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #: /wa-apps/blog/plugins/favorite/lib/blogFavorite.plugin.php:15
 #: /wa-apps/blog/plugins/favorite/lib/blogFavorite.plugin.php:57

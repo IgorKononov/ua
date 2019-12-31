@@ -6,10 +6,10 @@ msgstr ""
 "Project-Id-Version: Webasyst Auth Widget 1.0 UA Translation v 0.1\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Igor Kononov <igor.kononov@webasyst.ru>\n"
+"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: Skeeter Dev\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #: /wa-widgets/auth/templates/Default.html:2
 msgid "Last login attempts"

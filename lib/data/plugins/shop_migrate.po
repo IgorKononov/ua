@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #: /wa-apps/shop/plugins/migrate/templates/actions/backend/BackendSetup.html:2
 #: /wa-apps/shop/plugins/migrate/lib/shopMigrate.plugin.php:117

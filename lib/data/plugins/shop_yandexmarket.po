@@ -1,72 +1,120 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Shop-Script Yandex.Market plugin 2.3.3.92 UA translation v 0.1\n"
-"POT-Creation-Date: 2019-04-09 15:52+0300\n"
-"PO-Revision-Date: \n"
-"Last-Translator: Igor Kononov <igor.kononov@webasyst.ru>\n"
-"Language-Team: Skeeter Dev\n"
+"Project-Id-Version: Webasyst Shop-Script Yandex.Market plugin 2.3.10.112 UA translation v 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Language-Team: skeeter.studio\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-04-09 15:52+0300\n"
+"PO-Revision-Date: \n"
+"Language: uk_UA\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"Language: uk_UA\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.2.4\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
-#: /wa-apps/shop/plugins/yandexmarket/templates/actions/settings/SettingsCampaigns.html:205
 msgid "Save"
 msgstr "Зберегти"
 
-#: /wa-apps/shop/plugins/yandexmarket/templates/actions/settings/SettingsCampaigns.html:205
 msgid "or"
 msgstr "або"
 
-#: /wa-apps/shop/plugins/yandexmarket/templates/actions/settings/SettingsCampaigns.html:205
 msgid "cancel"
 msgstr "скасувати"
 
-#: /wa-apps/shop/plugins/yandexmarket/templates/actions/reports/Reports.html:31
 msgid "Group by"
 msgstr "Групувати за"
 
-#: /wa-apps/shop/plugins/yandexmarket/lib/actions/backend/shopYandexmarketPluginRun.controller.php:956
 msgid "%d категория"
 msgid_plural "%d категорий"
 msgstr[0] "%d категорія"
 msgstr[1] "%d категорії"
 msgstr[2] "%d категорій"
 
-#: /wa-apps/shop/plugins/yandexmarket/lib/actions/backend/shopYandexmarketPluginRun.controller.php:960
 msgid "%d способ доставки"
 msgid_plural "%d способа доставки"
 msgstr[0] "%d варіант доставки"
 msgstr[1] "%d варіанти доставки"
 msgstr[2] "%d варіантів доставки"
 
-#: /wa-apps/shop/plugins/yandexmarket/lib/actions/backend/shopYandexmarketPluginRun.controller.php:963
 msgid "%d товарное предложение"
 msgid_plural "%d товарных предложения"
 msgstr[0] "%d товарна пропозиція"
 msgstr[1] "%d товарні пропозиції"
 msgstr[2] "%d товарних пропозицій"
 
-#: /wa-apps/shop/plugins/yandexmarket/lib/actions/backend/shopYandexmarketPluginRun.controller.php:976
 msgid "%d подарок"
 msgid_plural "%d подарков"
 msgstr[0] "%d подарунок"
 msgstr[1] "%d подарунки"
 msgstr[2] "%d подарунків"
 
-#: /wa-apps/shop/plugins/yandexmarket/lib/actions/backend/shopYandexmarketPluginRun.controller.php:979
 msgid "%d промоакция"
 msgid_plural "%d промоакций"
 msgstr[0] "%d промоакція"
 msgstr[1] "%d промоакції"
 msgstr[2] "%d промоакцій"
 
-#: /wa-apps/shop/plugins/yandexmarket/lib/actions/backend/shopYandexmarketPluginRun.controller.php:1188
 msgid "Экспортировано"
 msgstr "Експортовано"
+
+msgid "Square crop"
+msgstr "Квадратна обрізка"
+
+msgid "Max"
+msgstr "Макс"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Height"
+msgstr "Висота"
+
+msgid "auto"
+msgstr "авто"
+
+msgid "Product name"
+msgstr "Найменування товару"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "Summary"
+msgstr "Короткий опис"
+
+msgid "SKU code"
+msgstr "Код артикулу"
+
+msgid "Attachment"
+msgstr "Вкладення"
+
+msgid "In stock"
+msgstr "У наявності"
+
+msgid "Product type"
+msgstr "Тип товару"
+
+msgid "Tax rates"
+msgstr "Податкові ставки"
+
+msgid "%02d hr %02d min %02d sec"
+msgstr "%02d год %02d хв %02d сек"
+
+msgid "(total time: %s)"
+msgstr "(загальний час: %s)"
+
+msgid "Access denied"
+msgstr "Доступ заборонено"
+
+msgid "day"
+msgstr "день"
+
+msgid "week"
+msgstr "тиждень"
+
+msgid "month"
+msgstr "місяць"
