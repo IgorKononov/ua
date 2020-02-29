@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst PayPal payment plugin v.1.0.5.6 UA translation v1.0\n"
+"Project-Id-Version: Webasyst Paypal payment plugin 1.0.6.8 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -8,12 +8,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2019-07-01T12:39:00+03:00\n"
-"PO-Revision-Date: 2019-12-31 12:24+0300\n"
-"Language: uk_UA\n"
+"PO-Revision-Date: 2020-02-25 23:53+0300\n"
+"Language: uk\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 2.2.4\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
@@ -31,7 +31,7 @@ msgstr "Email-адреса вашого акаунту PayPal"
 #: /wa-plugins/payment/paypal/lib/config/settings.php:33
 #: //wa-plugins/payment/paypal/lib/config/settings.php:13
 msgid "Transaction currency"
-msgstr "Валюта операцій"
+msgstr "Валюта транзакції"
 
 #: /wa-plugins/payment/paypal/lib/config/settings.php:35
 #: //wa-plugins/payment/paypal/lib/config/settings.php:14
@@ -61,12 +61,12 @@ msgstr "Стандартна інтеграція платежів PayPal"
 #: /wa-plugins/payment/paypal/templates/payment.html:8
 #: //wa-plugins/payment/paypal/templates/payment.html:8
 msgid "Redirecting to secure PayPal website for payment..."
-msgstr "Перенаправлення на захищений веб-сайт PayPal для оплати..."
+msgstr "Перенаправлення на захищений сайт PayPal для оплати..."
 
 #: /wa-plugins/payment/paypal/templates/payment.html:16
 #: //wa-plugins/payment/paypal/templates/payment.html:16
 msgid "Proceed to PayPal to make payment"
-msgstr "Перейти до PayPal, щоб зробити платіж"
+msgstr "Перейдіть до PayPal, аби виконати платіж"
 
 #: /wa-plugins/payment/paypal/lib/paypalPayment.class.php:312
 msgid "Transaction type: %s"

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Hub 1.2.6.80 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Hub 1.2.7.85 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
@@ -1327,3 +1327,12 @@ msgstr "Опублікувати і повідомити підписувачі�
 
 msgid "%s has posted new topic “<a href=\"%s\"><strong>%s</strong></a>” and invites you to take a look:"
 msgstr "%s створив нову тему“<a href=\"%s\"><strong>%s</strong></a>” та запрошує вас її переглянути:"
+
+msgid "Allowed actions for authorized website visitors"
+msgstr "Дії, дозволені авторизованим користувачам сайту"
+
+msgid "deletion of own topics"
+msgstr "видалення власних тем"
+
+msgid "editing of own topics"
+msgstr "редагування власних тем"
