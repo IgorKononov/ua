@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst CRM 1.4.5.315 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst CRM 1.4.6.355 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -8,10 +8,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2019-07-05T21:22:12+03:00\n"
-"PO-Revision-Date: 2019-12-31 12:23+0300\n"
+"PO-Revision-Date: 2020-05-04 13:59+0300\n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -4972,3 +4972,93 @@ msgstr "%s шт."
 
 msgid "Contact with ID %s doesn't exist"
 msgstr "Контакту з ідентифікатором %s не існує"
+
+msgid "%d deal will not be affected by the action due to insufficient access rights"
+msgid_plural "%d deals will not be affected by the action due to insufficient access rights"
+msgstr[0] "%d угода не буде змінена дією через брак прав доступу"
+msgstr[1] "%d угоди не буде змінено дією через брак прав доступу"
+msgstr[2] "%d угод не буде змінено дією через брак прав доступу"
+
+msgid "Add description"
+msgstr "Додати опис"
+
+msgid "Edit description"
+msgstr "Редагувати опис"
+
+msgid "Deal term"
+msgstr "Термін угоди"
+
+msgid "Source"
+msgstr "Джерело"
+
+msgid "Deal properties"
+msgstr "Властивості угоди"
+
+msgid "Deal fields"
+msgstr "Поля угоди"
+
+msgid "Any company"
+msgstr "Будь-яка компанія"
+
+msgid "Live Stream"
+msgstr "Стрічка подій"
+
+msgid "Are you sure you want to detach selected messages from the deals?"
+msgstr "Ви впевнені, що бажаєте від&#39;єднати обрані повідомлення від угод?"
+
+msgid "Are you sure you want to delete all selected messages?"
+msgstr "Ви впевнені, що бажаєте видалити усі обрані повідомлення?"
+
+msgid "Are you sure you want to detach selected conversations from the deals?"
+msgstr "Ви впевнені, що бажаєте від&#39;єднати обрані листування від угод?"
+
+msgid "Are you sure you want to delete all selected conversations?"
+msgstr "Ви впевнені, що бажаєте видалити усі обрані листування?"
+
+msgid "Are you sure you want to detach this conversation from the deal “<strong>%s</strong>”?"
+msgstr "Ви впевнені, що бажаєте від&#39;єднати це листування від угоди “<strong>%s</strong>”?"
+
+msgid "Write SMS to %s"
+msgstr "Написати SMS до %s"
+
+msgid "Mark as read"
+msgstr "Помітити як прочитане"
+
+msgid "Mark as unread"
+msgstr "Помітити як непрочитане"
+
+msgid "%d contact"
+msgid_plural "%d contacts"
+msgstr[0] "%d контакт"
+msgstr[1] "%d контакти"
+msgstr[2] "%d контактів"
+
+msgid "\"%s\""
+msgstr "\"%s\""
+
+msgid "has deleted"
+msgstr "видалив"
+
+msgid "has deleted contacts"
+msgstr "видалив контакти"
+
+msgid "has deleted contact"
+msgstr "видалив контакт"
+
+msgid "%s and %s more"
+msgstr "%s та ще %s"
+
+msgid "%s \"%s\" to contact %s"
+msgstr "%s \"%s\" до контакту %s"
+
+msgid "%s to contact %s"
+msgstr "%s до контакту %s"
+
+msgid "Access to a deal is denied"
+msgstr "Доступ до угоди заборонено"
+
+msgid "%d conversation will not be affected by the action due to insufficient access rights"
+msgid_plural "%d conversations will not be affected by the action due to insufficient access rights"
+msgstr[0] "%d листування не буде змінено дією через брак прав доступу"
+msgstr[1] "%d листування не буде змінено дією через брак прав доступу"
+msgstr[2] "%d листувань не буде змінено дією через брак прав доступу"

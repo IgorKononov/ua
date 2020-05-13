@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Mailer 1.0.20.46 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Mailer 1.0.21.50 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -11,122 +11,60 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Language: uk\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
-# &ldquo;%s&rdquo; &mdash; &laquo;%s&raquo;    :::    “%s” — «%s»
 msgid "Mailer"
 msgstr "Розсилання"
 
-#: /wa-apps/mailer/templates/actions/backend/Backend.html:2
 msgid "Loading..."
 msgstr "Завантаження..."
 
 msgid "Edit template &ldquo;%s&rdquo;"
 msgstr "Редагування шаблону &laquo;%s&raquo;"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:22
 msgid "Type here a description for your reference only. It will not be shown to your campaign recipients."
 msgstr "Додайте сюди опис шаблону тільки для вашої власної довідки. Він не буде показуватись отримувачам розсилання."
 
-#: /wa-apps/mailer/templates/actions/subscribers/email_template_editor.html:53
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:248
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:35
 msgid "Subject"
 msgstr "Тема"
 
 msgid "Description"
 msgstr "Опис"
 
-#: /wa-apps/mailer/templates/actions/subscribers/email_template_editor.html:65
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:265
 msgid "Variables"
 msgstr "Змінні"
 
-#: /wa-apps/mailer/templates/handlers/PersonalSettings.html:9
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedInfo.html:50
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:67
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:303
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:53
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:89
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:62
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:149
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:395
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:24
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:115
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:143
-#: /wa-apps/mailer/themes/default/my.subscriptions.html:56
 msgid "Save"
 msgstr "Зберегти"
 
 msgid "Create"
 msgstr "Створити"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:105
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedInfo.html:58
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:68
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:170
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:262
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:482
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:70
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:71
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:98
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:178
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:66
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:149
-#: /wa-apps/mailer/templates/actions/templates/TemplatesImport1.html:28
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:156
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:144
-#: /wa-apps/mailer/templates/actions/schedule/ScheduleDialog.html:39
 msgid "or"
 msgstr "або"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:123
 msgid "more"
 msgstr "ще"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:105
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedInfo.html:60
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:69
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:172
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:54
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:264
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:484
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:65
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:71
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:179
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:151
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:158
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:145
-#: /wa-apps/mailer/templates/actions/schedule/ScheduleDialog.html:40
 msgid "cancel"
 msgstr "відмінити"
 
-# Unsubscribe self
-#: /wa-apps/mailer/templates/layouts/Backend.html:71
-#: /wa-apps/mailer/lib/classes/mailerHelper.class.php:12
-#: /wa-apps/mailer/lib/models/mailerTemplate.model.php:55
 msgid "Unsubscribe"
 msgstr "Відписатись"
 
-# Unsubscribe someone else
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:103
 msgid "Unsubscribe "
 msgstr "Відписати "
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:86
 msgid "Unsubscribe contact"
 msgstr "Відписати контакт"
 
-#: /wa-apps/mailer/templates/actions/templates/Templates.html:5
 msgid "New template"
 msgstr "Новий шаблон"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep0.html:14
-#: /wa-apps/mailer/templates/actions/backend/BackendSidebar.html:6
 msgid "New campaign"
 msgstr "Нова розсилка"
 
@@ -136,28 +74,21 @@ msgstr "Створіть нове повідомлення з чистого л�
 msgid "Or select a template:"
 msgstr "Або оберіть шаблон:"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:96
 msgid "No"
 msgstr "Ні"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:96
 msgid "Yes"
 msgstr "Так"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:102
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:110
 msgid "Sending speed:"
 msgstr "Швидкість розсилання:"
 
 msgid "as fast as possible"
 msgstr "якомога швидше"
 
-#: /wa-apps/mailer/lib/config/mailerConfig.class.php:67
 msgid "send not more than"
 msgstr "надсилати не більше"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:107
-#: /wa-apps/mailer/lib/config/mailerConfig.class.php:67
 msgid "letters per hour"
 msgstr "листів за годину"
 
@@ -170,12 +101,9 @@ msgstr "Додати список"
 msgid "Add recipients:"
 msgstr "Додати отримувачів:"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsBlockFlatList.html:4
 msgid "Paste emails here, one email (or Name <email>) per line."
 msgstr "Скопіюйте сюди перелік адрес Email (або Ім&#39;я <email>), по одній на стрічку."
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:67
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:143
 msgid "Add"
 msgstr "Додати"
 
@@ -185,70 +113,39 @@ msgstr "Початок"
 msgid "Finished"
 msgstr "Закінчення"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:3
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:45
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:54
 msgid "Sender"
 msgstr "Відправник"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:46
 msgid "Recipients"
 msgstr "Отримувачі"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:47
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:32
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:36
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsReport.action.php:154
 msgid "Opened"
 msgstr "Відкрито"
 
 msgid "Clicked"
 msgstr "Кліки"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:48
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:156
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:57
 msgid "Bounced"
 msgstr "Відмови"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:49
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:155
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:44
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsReport.action.php:157
 msgid "Unsubscribed"
 msgstr "Відписались"
 
-#: /wa-apps/mailer/templates/actions/backend/BackendContactTab.html:22
 msgid "Unsubscribed "
 msgstr "Відписався "
 
-#: /wa-apps/mailer/templates/actions/backend/BackendSidebar.html:17
 msgid "Drafts"
 msgstr "Чернетки"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1ReadOnly.html:6
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:5
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:105
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:15
-#: /wa-apps/mailer/templates/actions/backend/BackendSidebar.html:50
 msgid "Sent"
 msgstr "Надіслано"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:38
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:40
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:42
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:164
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:24
 msgid "Sent "
 msgstr "Надіслано "
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:14
 msgid "Sent:"
 msgstr "Надіслано:"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:79
-#: /wa-apps/mailer/templates/actions/templates/Templates.html:17
-#: /wa-apps/mailer/templates/actions/backend/BackendSidebar.html:62
 msgid "Templates"
 msgstr "Шаблони"
 
@@ -282,134 +179,87 @@ msgstr "переглянути перелік"
 msgid "See the list"
 msgstr "Переглянути перелік"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:55
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:147
 msgid "Delete"
 msgstr "Видалити"
 
 msgid "In new window"
 msgstr "У новому вікні"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1ReadOnly.html:10
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:10
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:19
 msgid "Letter"
 msgstr "Лист"
 
 msgid "Settings"
 msgstr "Налаштування"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:116
 msgid "Send"
 msgstr "Надіслати"
 
-#: /wa-apps/mailer/templates/handlers/PersonalSettings.html:11
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:595
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:536
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:173
-#: /wa-apps/mailer/js/mailer.js:414
 msgid "Saved"
 msgstr "Збережено"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:62
 msgid "Delete campaign"
 msgstr "Видалити розсилку"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:114
 msgid "This campaign has been successfully deleted."
 msgstr "Цю розсилку було видалено."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1ReadOnly.html:19
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:68
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:23
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:28
 msgid "Now sending"
 msgstr "Іде розсилка"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:43
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:173
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:279
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:23
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:109
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:54
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:278
-#: /wa-apps/mailer/templates/actions/backend/BackendSidebar.html:26
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsStep0.action.php:27
-#: /wa-apps/mailer/lib/actions/templates/mailerTemplates.action.php:18
 msgid "<no subject>"
 msgstr "<без теми>"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:11
 msgid "not written yet"
 msgstr "ще не написано"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:66
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:93
 msgid "not set yet"
 msgstr "ще не налаштовано"
 
-#: /wa-apps/mailer/js/mailer.js:445
 msgid "not specified yet"
 msgstr "ще не обрано"
 
-#: /wa-apps/mailer/js/mailer.js:441
 msgid "Total selected:"
 msgstr "Усього обрано:"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:93
 msgid "&lt;type a subject of your message&gt;"
 msgstr "&lt;вкажіть тему вашого листа&gt;"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:34
 msgid "type a subject of your message"
 msgstr "вкажіть тему вашого листа"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:60
 msgid "Delete this draft"
 msgstr "Видалити цю чернетку"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:112
 msgid "This draft has been deleted."
 msgstr "Чернетку видалено."
 
 msgid "Preparing list of recipients"
 msgstr "Формується перелік отримувачів"
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsPresend.action.php:52
 msgid "Unable to prepare recipients list. Another user attempted to start sending this campaign?"
 msgstr "Неможливо підготувати перелік отримувачів. Інший користувач почав цю розсилку?"
 
 msgid "Status:"
 msgstr "Статус:"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:118
 msgid "If many of your recipients addresses reside on popular mail services (e.g. @gmail.com, @yahoo.com, and etc.) then too high sending speed may cause banning of your sender server because of spam suspicion and these recipients will not receive your message."
 msgstr "Якщо адреси багатьох ваших отримувачів знаходяться на популярних поштових сервісах (наприклад, @gmail.com, @yahoo.com та інших), то надто велика швидкість надсилання може призвести до блокування вашого сервера відправника з причини підозри на спам, і ці отримувачі не отримають ваше повідомлення."
 
 msgid "Details"
 msgstr "Подробиці"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1ReadOnly.html:17
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1ReadOnly.html:23
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:21
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:27
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:26
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:32
 msgid "Sending report"
 msgstr "Звіт по розсилці"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:109
 msgid "%s distinct recipient"
 msgid_plural "%s distinct recipients"
 msgstr[0] "%s унікальний отримувач"
 msgstr[1] "%s унікальні отримувачі"
 msgstr[2] "%s унікальних отримувачів"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:8
 msgid "Total"
 msgstr "Усього"
 
-#: /wa-apps/mailer/lib/classes/mailerHelper.class.php:167
 msgid "Category"
 msgstr "Категорія"
 
@@ -428,22 +278,18 @@ msgstr "Додати міста"
 msgid "Recipients:"
 msgstr "Отримувачі:"
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsReport.action.php:220
 msgid "%d second"
 msgid_plural "%d seconds"
 msgstr[0] "%d секунда"
 msgstr[1] "%d секунди"
 msgstr[2] "%d секунд"
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsReport.action.php:222
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsReport.action.php:229
 msgid "%d minute"
 msgid_plural "%d minutes"
 msgstr[0] "%d хвилина"
 msgstr[1] "%d хвилини"
 msgstr[2] "%d хвилин"
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsReport.action.php:227
 msgid "%d hour"
 msgid_plural "%d hours"
 msgstr[0] "%d година"
@@ -462,61 +308,42 @@ msgstr "Тривалість:"
 msgid "Error:"
 msgstr "Помилка:"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:312
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:356
 msgid "Upload thumbnail"
 msgstr "Завантажити ескіз"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:160
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:312
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:322
 msgid "Change thumbnail"
 msgstr "Змінити ескіз"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:38
 msgid "Delete thumbnail"
 msgstr "Видалити ескіз"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:17
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:168
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:255
 msgid "Add a description"
 msgstr "Додати опис"
 
 msgid "edit"
 msgstr "редагувати"
 
-#: /wa-apps/mailer/templates/actions/templates/Templates.html:6
-#: /wa-apps/mailer/templates/actions/templates/TemplatesImport1.html:2
-#: /wa-apps/mailer/templates/actions/templates/TemplatesImport2.html:2
 msgid "Import template"
 msgstr "Імпорт шаблону"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesImport1.html:27
 msgid "Drag and drop ZIP-archive file here"
 msgstr "Перетягніть архів ZIP сюди"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesImport1.html:28
 msgid "choose a file to upload"
 msgstr "оберіть файл для завантаження"
 
-#: /wa-apps/mailer/lib/classes/mailerUploadedFile.class.php:135
 msgid "Server error. Upload directory isn't writable."
 msgstr "Помилка: директорія завантаження недоступна для запису."
 
-#: /wa-apps/mailer/lib/classes/mailerUploadedFile.class.php:139
 msgid "No files were uploaded."
 msgstr "Не завантажено жодного файлу."
 
-#: /wa-apps/mailer/lib/classes/mailerUploadedFile.class.php:165
 msgid "Could not save uploaded file."
 msgstr "Неможливо зберегти завантажений файл."
 
-#: /wa-apps/mailer/lib/classes/mailerUploadedFile.class.php:172
 msgid "File is too large"
 msgstr "Файл занадто великий"
 
-#: /wa-apps/mailer/lib/classes/mailerUploadedFile.class.php:208
 msgid "The upload was cancelled, or server error encountered"
 msgstr "Завантаження було скасовано, або виникла помилка серверу"
 
@@ -526,56 +353,39 @@ msgstr "Припустимі типи файлів: %s."
 msgid "File size can not exceed %s MB"
 msgstr "Розмір файлу не має перевищувати %s МБ"
 
-#: /wa-apps/mailer/lib/actions/templates/mailerTemplatesImport1.action.php:15
-#: /wa-apps/mailer/lib/actions/templates/mailerTemplatesImport2.action.php:15
-#: /wa-apps/mailer/lib/actions/templates/mailerTemplatesExport.controller.php:14
 msgid "ZipArchive class not found. Template import is not available on your server."
 msgstr "Класс ZipArchive не знайдено. Імпорт шаблонів на вашому сервері неможливий."
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:109
-#: /wa-apps/mailer/templates/actions/templates/Templates.html:86
 msgid "Cancel"
 msgstr "Відміна"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesImport1.html:10
 msgid "Archive (zip) file for template import must contain an html file in the root of archive, and all other files (e.g. images) referred from html file, in the root or in subfolders of your archive file."
 msgstr "Архівний ZIP-файл для імпорту шаблону має включати файл HTML в корені архіву й інші необхідні файли (наприклад, зображення), на які є посилання у файлі HTML, а також у корені або вкладених папках архіву."
 
-#: /wa-apps/mailer/lib/actions/templates/mailerTemplatesImport2.action.php:32
 msgid "Archive (zip) file for template import must contain an html file in the root of archive."
 msgstr "Архівний ZIP-файл для імпорту шаблону має включати файл HTML в корені архіву."
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesImport2.html:4
 msgid "Please select html file to import:"
 msgstr "Будь ласка, оберіть файл HTML для імпорту:"
 
 msgid "Return"
 msgstr "Повернутися"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:64
 msgid "Delete template"
 msgstr "Видалити шаблон"
 
 msgid "Template &ldquo;%s&rdquo; has been successfully deleted."
 msgstr "Шаблон &laquo;%s&raquo; було видалено."
 
-#: /wa-apps/mailer/lib/actions/backend/mailerBackendUpload.controller.php:36
 msgid "File is not an image or is broken."
 msgstr "Файл не є зображенням або у ньому помилка."
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:15
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:166
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:253
 msgid "Edit description"
 msgstr "Редагувати опис"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:157
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:70
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsReport.action.php:150
 msgid "Unknown"
 msgstr "Невідомо"
 
-#: /wa-apps/mailer/lib/actions/templates/mailerTemplatesImport2.action.php:113
 msgid "Error importing template."
 msgstr "Помилка імпорту шаблону."
 
@@ -585,7 +395,6 @@ msgstr "видалити"
 msgid "TEXT"
 msgstr "ТЕКСТ"
 
-#: /wa-apps/mailer/js/mailer.js:390
 msgid "Search results"
 msgstr "Результати пошуку"
 
@@ -595,25 +404,18 @@ msgstr[0] "Знайдено <strong>%d</strong> розсилку"
 msgstr[1] "Знайдено <strong>%d</strong> розсилання"
 msgstr[2] "Знайдено <strong>%d</strong> розсилок"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:44
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:102
 msgid "Design editor"
 msgstr "Візуальний редактор"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1ReadOnly.html:43
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:51
 msgid "Plain-text"
 msgstr "Простий текст"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:81
 msgid "This plain-text version of your message is automatically created from HTML version and displayed if recipients have disabled HTML view in their email programs."
 msgstr "Ця текстова версія вашого повідомлення автоматично створюється з HTML-версії і показується отримувачам, якщо у їхніх поштових програмах вимкнено опцію перегляду HTML-повідомлень."
 
 msgid "View recipients"
 msgstr "Показати отримувачів"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsPreview.html:12
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsReport.html:48
 msgid "Load next 50"
 msgstr "Показати наступні 50"
 
@@ -623,13 +425,6 @@ msgstr "Неможливо доставити"
 msgid "Unable to send"
 msgstr "Неможливо надіслати"
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:90
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:196
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:199
-#: /wa-apps/mailer/lib/actions/returnpath/mailerReturnpathSave.controller.php:41
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsReport.action.php:210
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersSave.controller.php:67
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersSave.controller.php:86
 msgid "Unknown error"
 msgstr "Невідома помилка"
 
@@ -639,23 +434,15 @@ msgstr "Невірна email-адреса"
 msgid "Email address &lt;%s&gt; has been removed from the %s mailing list."
 msgstr "Поштову адресу &lt;%s&gt; видалено із переліку розсилання %s."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:18
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsReport.action.php:208
 msgid "Earlier unsubscribed"
 msgstr "Той, що раніше відписався"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:3
 msgid "search by words in subject or text"
 msgstr "знайти по словам у темі або тексті"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:127
 msgid "Enable Google Analytics for this campaign"
 msgstr "Увімкнути UTM- мітки (для Яндекс.Метрики або Google Analytics)"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:47
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:53
-#: /wa-apps/mailer/lib/updates/1363931415.php:55
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.prepare.handler.php:127
 msgid "All contacts"
 msgstr "Усі контакти"
 
@@ -683,20 +470,15 @@ msgstr "Або скопіювати/вставити:"
 msgid "Added"
 msgstr "Додано"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:87
 msgid "Remaining:"
 msgstr "Залишилось:"
 
-#: /wa-apps/mailer/js/mailer.js:671 /wa-apps/mailer/js/mailer.js:675
-#: /wa-apps/mailer/js/mailer.js:680
 msgid "%ds"
 msgstr "%d сек"
 
-#: /wa-apps/mailer/js/mailer.js:675 /wa-apps/mailer/js/mailer.js:680
 msgid "%dm"
 msgstr "%d хв"
 
-#: /wa-apps/mailer/js/mailer.js:680
 msgid "%dh"
 msgstr "%d год"
 
@@ -715,151 +497,84 @@ msgstr "Показати перелік:"
 msgid "Show list"
 msgstr "Показати перелік"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:123
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:4
 msgid "All recipients"
 msgstr "Усі отримувачі"
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsReport.action.php:206
 msgid "Delivering error in past campaigns"
 msgstr "Помилка доставки у минулих розсилках"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:11
-#: /wa-apps/mailer/templates/actions/backend/BackendSidebar.html:66
-#: /wa-apps/mailer/lib/classes/mailerHelper.class.php:150
-#: /wa-apps/mailer/lib/updates/1363931415.php:27
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:43
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.prepare.handler.php:48
 msgid "Subscribers"
 msgstr "Підписники"
 
-#: /wa-apps/mailer/lib/handlers/contacts.search.config.handler.php:25
 msgid "Campaign"
 msgstr "Розсилка"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:5
-#: /wa-apps/mailer/templates/actions/backend/BackendSidebar.html:70
 msgid "Unsubscribed  "
 msgstr "Відписались "
 
 msgid "No one unsubscribed yet."
 msgstr "Ще ніхто не відписався."
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:3
 msgid "search by email"
 msgstr "пошук за email"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:57
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:77
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:78
-#: /wa-apps/mailer/templates/actions/subscribers/basic_form.html:4
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:12
-#: /wa-apps/mailer/lib/actions/subscribers/mailerSubscribersList.action.php:61
-#: /wa-apps/mailer/lib/actions/subscribers/mailerSubscribersListold.action.php:36
-#: /wa-apps/mailer/lib/actions/undeliverable/mailerUndeliverableList.action.php:55
 msgid "Name"
 msgstr "Ім&#39;я"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:26
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:28
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:30
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:90
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedInfo.html:3
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:16
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:61
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:88
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:89
-#: /wa-apps/mailer/templates/actions/subscribers/basic_form.html:8
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:18
-#: /wa-apps/mailer/lib/actions/subscribers/mailerSubscribersList.action.php:62
-#: /wa-apps/mailer/lib/actions/subscribers/mailerSubscribersListold.action.php:37
-#: /wa-apps/mailer/lib/actions/undeliverable/mailerUndeliverableList.action.php:56
 msgid "Email"
 msgstr "Email"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:35
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:37
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:39
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedInfo.html:19
 msgid "Unsubscribe date"
 msgstr "Дата відписки"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:53
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:78
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:136
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:57
 msgid "Total addresses:"
 msgstr "Усього адрес:"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedInfo.html:30
 msgid "Resubscribe"
 msgstr "Підписати знову"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedInfo.html:44
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:455
-#: /wa-apps/mailer/js/redactor.vars.js:25
 msgid "Close"
 msgstr "Закрити"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:14
 msgid "No unsubscribers match search criteria."
 msgstr "Жоден контакт не відповідає умовам пошуку."
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:96
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedInfo.html:7
 msgid "Linked to contact"
 msgstr "Пов&#39;язаний з контактом"
 
-#: /wa-apps/mailer/lib/actions/unsubscribed/mailerUnsubscribedInfo.action.php:24
 msgid "Unsubscriber does not exist."
 msgstr "Відписаної адреси не існує."
 
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:19
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsReport.action.php:146
 msgid "Not sent yet"
 msgstr "Ще не надіслано"
 
 msgid "List is outdated. Click to update."
 msgstr "Перелік застарів. Натисніть, аби оновити."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:7
 msgid "Subscribe form"
 msgstr "Форма підписки"
 
-#: /wa-apps/mailer/templates/actions/subscribers/basic_form.html:21
 msgid "Thank you for your subscription."
 msgstr "Дякуємо за підписку."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:15
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:171
 msgid "No subscribers match search criteria."
 msgstr "Жоден контакт не відповідає крітеріям пошуку."
 
-#: /wa-apps/mailer/templates/actions/subscribers/basic_form.html:15
 msgid "Subscribe"
 msgstr "Підписатися"
 
-#: /wa-apps/mailer/templates/actions/subscribers/basic_form.html:34
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:223
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:230
 msgid "This field is required."
 msgstr "Це поле є обов&#39;язковим."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:568
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:119
 msgid "Enabled"
 msgstr "Увімкнено"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:571
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:114
 msgid "Disabled"
 msgstr "Вимкнено"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:105
 msgid "No limit"
 msgstr "Без обмежень"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:71
 msgid "Not specified"
 msgstr "Не вказано"
 
@@ -869,31 +584,24 @@ msgstr "Виключити із усіх підписок"
 msgid "Eliminate from this subscribers list"
 msgstr "Виключити з цього переліку підписувачів"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:194
 msgid "Do you really want to eliminate contact %s from all subscribers?"
 msgid_plural "<span id=\"delete-contact-name-email\"></span>"
 msgstr[0] "Do you really want to eliminate contact %s from all subscribers?"
 msgstr[1] "<span id=\"delete-contact-name-email\"></span>"
 msgstr[2] "<span id=\"delete-contact-name-email\"></span>"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:197
 msgid "Do you really want to eliminate contact %s from this subscribers list?"
 msgid_plural "<span id=\"delete-contact-name-email\"></span>"
 msgstr[0] "Do you really want to eliminate contact %s from this subscribers list?"
 msgstr[1] "<span id=\"delete-contact-name-email\"></span>"
 msgstr[2] "<span id=\"delete-contact-name-email\"></span>"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:99
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:195
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:91
 msgid "Do not show this question any more"
 msgstr "Більше не показувати це питання"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:195
 msgid "NOTE: This contact will not be deleted. It will be only eliminated from all subscription lists."
 msgstr "ПРИМІТКА: Контакт не будет видалено. Його буде тільки виключено з усіх підписок."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:198
 msgid "NOTE: This contact will not be deleted. It will be only eliminated from this subscription list."
 msgstr "ПРИМІТКА: Контакт не будет видалено. Його буде тільки виключено з цього переліку розсилання."
 
@@ -903,80 +611,54 @@ msgstr "Налаштувати"
 msgid "Return-path address is used to automatically process bounced emails. We recommend to create a special email address to receive bounces as it allows to obtain a true statistics about your message delivering."
 msgstr "Адреса Return-path використовується для автоматичного отримання і обробки відмов (bounces) поштовим сервером одержувача. Ми рекомендуємо вам створити спеціальну адресу для отримання таких відмов, це дозволить вам отримувати об&#39;єктивну статистику доставки листа у звіті про розсилку."
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:93
 msgid "Error checking mail:"
 msgstr "Помилка перевірки пошти:"
 
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersSave.controller.php:69
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersSave.controller.php:88
 msgid "Error checking mail transport:"
 msgstr "Помилка перевірки відправника:"
 
-#: /wa-apps/mailer/lib/classes/mailerMessage.class.php:361
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsReport.action.php:212
 msgid "Bounced by sender mail server"
 msgstr "Відмовлено сервером відправника"
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsReport.action.php:117
 msgid "All bounces"
 msgstr "Усі відмови"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:83
 msgid "Do you really want to remove this campaign (you will not be able to undo this action)?"
 msgstr "Ви дійсно хочете видалити розсилку (без можливості відновлення)?"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:85
 msgid "Images containing in your message will be unavailable to your recipients."
 msgstr "Зображення, які містить ваше повідомлення, стануть недоступними отримувачам."
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:264
 msgid "Do you really want to remove this template (you will not be able to undo this action)?"
 msgstr "Ви дійсно хочете видалити шаблон (без можливості відновлення)?"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1ReadOnly.html:17
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:66
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:21
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:26
 msgid "Paused"
 msgstr "Зупинено"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:91
 msgid "Pause"
 msgstr "Пауза"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:98
 msgid "Resume"
 msgstr "Продовжити"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:95
 msgid "Sending paused"
 msgstr "Розсилку припинено"
 
 msgid "Error checking Return-path mailbox"
 msgstr "Помилка перевірки адреси Return-path"
 
-#: /wa-apps/mailer/templates/actions/subscribers/Subscribers.html:8
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:9
-#: /wa-apps/mailer/lib/updates/1363931415.php:27
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.prepare.handler.php:46
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsBlockSubscribers.action.php:19
 msgid "All subscribers"
 msgstr "Усі підписувачі"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:2
 msgid "Edit sender"
 msgstr "Редагувати відправника"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:75
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:4
 msgid "Add a new sender"
 msgstr "Додати нового відправника"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:29
 msgid "If you leave this field empty, replies will come to the main sender address specified above."
 msgstr "Якщо ви залишите це поле пустим, відповіді будуть надходити на основну адресу відправника, що вказана вище."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:72
 msgid "add a new sender"
 msgstr "додати нового відправника"
 
@@ -986,16 +668,12 @@ msgstr "додати новий Return-path"
 msgid "Add a new Return-path"
 msgstr "Додати новий Return-path"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:15
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:70
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:97
 msgid "Edit"
 msgstr "Редагувати"
 
 msgid "Edit Return-path"
 msgstr "Редагувати Return-path"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:83
 msgid "n/a"
 msgstr "н/д"
 
@@ -1011,15 +689,12 @@ msgstr "Помилка відправки:"
 msgid "incomplete data"
 msgstr "неповні дані"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:238
 msgid "Unsubscribe URL is located only in your message headers. It does not guarantee an appearance of unsubscribe link in recipient mail program."
 msgstr "Посилання відписки міститься тільки у заголовках вашого листа. Це не гарантує появу посилання відписки у поштовій програмі одержувача."
 
 msgid "Return-path is not customized. This does not allow to track most of potential bounces from recipient mail servers. Only invalid messages bounced by your sender server have been counted."
 msgstr "Return-path не налаштовано. Це не дозволяє відстежити більшість відмов від поштових серверів одержувачів. Пораховано тільки адреси, відкинуті вашим сервером відправника."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:59
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:86
 msgid "select"
 msgstr "обрати"
 
@@ -1029,31 +704,24 @@ msgstr "Додавання одержувачів"
 msgid "Recipients already added:"
 msgstr "Вже додані одержувачі:"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:140
 msgid "Delete this sender"
 msgstr "Видалити відправника"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:215
 msgid "Do you really want to delete this sender?"
 msgstr "Ви дійсно хочете видалити цього відправника?"
 
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersSave.controller.php:26
 msgid "Invalid Email address"
 msgstr "Неправильна адреса email"
 
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersSave.controller.php:19
 msgid "Email is required"
 msgstr "Поле email обов&#39;язкове"
 
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersSave.controller.php:103
 msgid "Sender Email must be unique"
 msgstr "Email відправника має бути унікальним"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsReport.html:51
 msgid "No entries in this list"
 msgstr "У цьому переліку немає записів"
 
-#: /wa-apps/mailer/templates/actions/templates/Templates.html:46
 msgid "You do not have any templates so far."
 msgstr "У вас ще немає жодного шаблону."
 
@@ -1063,26 +731,15 @@ msgstr "Видалити цей Return-path"
 msgid "Do you really want to delete this Return-path?"
 msgstr "Ви дійсно хочете видалити цей Return-path?"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:238
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:244
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:250
 msgid "* NOTE:"
 msgstr "* ПРИМІТКА:"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:44
 msgid "Edit settings"
 msgstr "Редагувати налаштування"
 
-#: /wa-apps/mailer/lib/updates/1363931415.php:41
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:31
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.prepare.handler.php:100
 msgid "Categories"
 msgstr "Категорії"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:115
-#: /wa-apps/mailer/lib/updates/1363931415.php:61
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:54
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.prepare.handler.php:142
 msgid "Additional emails"
 msgstr "Додаткові адреси"
 
@@ -1095,25 +752,18 @@ msgstr "рахуємо унікальних отримувачів"
 msgid "Campaign recipients:"
 msgstr "Отримувачі розсилання:"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:86
 msgid "(auto included in All contacts)"
 msgstr "(автоматично включені в Усі контакти)"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:28
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:30
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:32
 msgid "ID"
 msgstr "ID"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:98
 msgid "Total campaigns:"
 msgstr "Усього розсилок:"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:112
 msgid "No campaigns match search criteria."
 msgstr "Жодна розсилка не відповідає умовам пошуку."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsArchive.html:114
 msgid "Nothing has been sent yet."
 msgstr "Ще нічого не надсилалось."
 
@@ -1132,153 +782,105 @@ msgstr "5 повідомлень за хвилину"
 msgid "1 message per minute"
 msgstr "1 повідомлення за хвилину"
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsPresend.action.php:104
 msgid "Maximum recipients daily limit has been exceeded:"
 msgstr "Перевищено максимально припустимий ліміт отримувачів на день:"
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsPresend.action.php:86
 msgid "Maximum recipients limit has been exceeded:"
 msgstr "Перевищено максимально припустимий ліміт отримувачів:"
 
-#: /wa-apps/mailer/lib/config/mailerRightConfig.class.php:7
 msgid "Author: can create their own campaigns and send them"
 msgstr "Автор: може створювати розсилання та надсилати їх"
 
 msgid "Inspector: can only view all existing campaigns, but can not edit or send them"
 msgstr "Інспектор: може тільки переглядати існуючі розсилання, але не може редагувати чи надсилати їх"
 
-#: /wa-apps/mailer/lib/config/mailerRightConfig.class.php:21
 msgid "NOTE: Limited access does not allow to modify transport settings and manage subscribers."
 msgstr "ПРИМ.: Ограниченный доступ не позволяет модифицировать настройки транспорта и управлять подписчиками."
 
-#: /wa-apps/mailer/lib/actions/returnpath/mailerReturnpathSave.controller.php:43
 msgid "IMAP is not supported. Please use POP3."
 msgstr "Протокол IMAP не підтримується. Використовуйте, будь ласка, POP3."
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:22
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:36
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:77
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:70
 msgid "Server"
 msgstr "Сервер"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:42
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:83
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:76
 msgid "Port"
 msgstr "Порт"
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:28
 msgid "POP3 Port"
 msgstr "Порт (POP3)"
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:34
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:48
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:89
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:82
 msgid "Login"
 msgstr "Логін"
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:41
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:88
 msgid "Password"
 msgstr "Пароль"
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:46
 msgid "Leave blank to keep current password."
 msgstr "Залиште пустим, аби залишити поточний пароль."
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:51
 msgid "Secure (SSL)"
 msgstr "Безпека (SSL)"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:18
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:35
 msgid "Transport"
 msgstr "Транспорт"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:23
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersDialog.action.php:38
 msgid "php mail() function"
 msgstr "PHP-функція mail()"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:29
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersDialog.action.php:54
 msgid "Debug mailer"
 msgstr "Тестовий відправник"
 
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersDialog.action.php:35
 msgid "When this option is selected messages are sent by the default transport specified in the Webasyst framework configuration."
 msgstr "Якщо обрано цей варіант, розсилання будуть надсилатися транспортом за замовчуванням, обраним в конфігурації фреймворка Webasyst."
 
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersDialog.action.php:39
 msgid "Some web-hosting companies allow sending email message by means of this transport only. If it is required to specify additional parameters for the mail() function you can enter them in the provided text field. The default parameters are -f%s."
 msgstr "Деякі хостинг-провайдери дозволяють надсилати електронні повідомлення тільки цим транспортом. Якщо існує необхідність ввести додаткові параметри, їх можна вказати у текстовому полі при виборі варіанту «PHP-функція mail ()». За замовчуванням використовується параметр -f%s."
 
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersDialog.action.php:49
 msgid "This is the web server's system command for sending email in UNIX-like operating systems. The \"Sendmail\" option will allow you to specify a non-standard system command for sending messages if you are an experienced server administrator."
 msgstr "Це системна команда веб-сервера, за допомогою якої виконується відправка повідомлень на UNIX-хостингах. Варіант транспорту “Sendmail” дозволить вам вказати нестандартну системну команду для відправки повідомлень, якщо ви самостійно адмініструєте роботу вашого веб-сервера."
 
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersDialog.action.php:43
 msgid "Special server which is specifically used for sending email messages. You can send newsletters via any SMTP server for which you have connection credentials: host, port, user name, and password. It can be the SMTP server of your web-hosting company or that of a public mail service such as Gmail, Yahoo! Mail, Outlook.com, etc."
 msgstr "Спеціальний поштовий сервер, призначений для надсилання електронної пошти. Ви можете відправляти розсилання через будь-який SMTP-сервер, для підключення до якого у вас є дані: адреса сервера, номер порту, ім&#39;я користувача (логін) і пароль. Це може бути SMTP-сервер вашого хостинг-провайдера або публічного поштового сервісу (Mail.ru, Gmail, Outlook.com та інші)."
 
 msgid "Options"
 msgstr "Параметри"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:109
 msgid "Command"
 msgstr "Команда"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:54
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:94
 msgid "Encryption"
 msgstr "Шифрування"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:120
 msgid "Note: mail will be saved in wa-log/mailer/ and will NOT be sent to recipients."
 msgstr "Увага: повідомлення буде збережено у wa-log/mailer/ і не буде надіслано отримувачам."
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:97
 msgid "None"
 msgstr "Немає"
 
 msgid "Image will be uploaded into"
 msgstr "Зображення буде завантажено до"
 
-#: /wa-apps/mailer/js/redactor.vars.js:28
-#: /wa-apps/mailer/js/redactor.vars.js:30
 msgid "Insert variable"
 msgstr "Вставити змінну"
 
-#: /wa-apps/mailer/lib/updates/1363931415.php:53
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:20
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.prepare.handler.php:122
 msgid "Languages"
 msgstr "Мови"
 
-#: /wa-apps/mailer/lib/classes/mailerHelper.class.php:177
 msgid "Language"
 msgstr "Мова"
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsBlockLanguages.action.php:28
 msgid "not set"
 msgstr "не визначено"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedInfo.html:14
 msgid "not set "
 msgstr "не вказані "
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:121
 msgid "0 recipients"
 msgstr "0 отримувачів"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:29
 msgid "Use this source code to embed in your website or blog where you want this signup form to appear."
 msgstr "Вставте цей код на сторінку сайту або у блог — туди, де ви хочете розмістити форму підписки."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:25
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:51
 msgid "Preview"
 msgstr "Попередній перегляд"
 
@@ -1291,112 +893,78 @@ msgstr "Отримувач"
 msgid "Subscriber"
 msgstr "Підписник"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:63
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:120
 msgid "contact deleted"
 msgstr "контакт видалено"
 
 msgid "total %s"
 msgstr "усього %s"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:63
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:116
 msgid "Ctrl+S"
 msgstr "Ctrl+S"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:147
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:160
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:192
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:11
 msgid "Exceptions"
 msgstr "Виключення"
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsReport.action.php:117
 msgid "All exceptions"
 msgstr "Усі виключення"
 
-#: /wa-apps/mailer/lib/classes/mailerHelper.class.php:351
 msgid "Timeout error during recipient list preparation."
 msgstr "Перевищено ліміт часу на підготовку списку одержувачів."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:5
-#: /wa-apps/mailer/lib/classes/mailerHelper.class.php:365
 msgid "Recipient list preparation is in progress."
 msgstr "Триває підготовка списку одержувачів."
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:9
 msgid "We recommend that you create a dedicated email account for this purpose, and use it merely for receiving and processing these kinds of auto notification messages."
 msgstr "Рекомендуємо для цієї мети завести спеціальну адресу, і не використовувати її для інших цілей, крім отримання і обробки подібних автоматичних повідомлень."
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:8
 msgid "Specify access parameters for an existing email account that will be used to receive auto notifications from recipients’ mail servers in case of campaign delivery errors."
 msgstr "Вкажіть реквізити доступу до існуючої адреси електронної пошти, на яку будуть приходити автоматичні повідомлення від поштових серверів одержувачів у разі помилки доставки повідомлення."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:130
 msgid "UTM tags will be added to all links (URLs) containing in the campaign message. It will allow to track these links visiting in your Google Analytics reports."
 msgstr "До усіх адрес (URL), що містяться в тексті розсилання, буде автоматично додано UTM-мітки, які дозволять засобам веб-аналітики відстежити відкриття сторінок за цими адресами."
 
 msgid "Send to selected recipients (%d)"
 msgstr "Надіслати обраним отримувачам (%d)"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:50
 msgid "An error occured while sending the campaign."
 msgstr "Під час відправки розсилання виникла помилка."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:162
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:166
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:177
 msgid "Send test message"
 msgstr "Надіслати тестове повідомлення"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:168
 msgid "Send to yourself:"
 msgstr "Надіслати собі:"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:170
 msgid "Additional emails:"
 msgstr "Додаткові адреси:"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSendTest.html:7
 msgid "Test message has been sent to:"
 msgstr "Тестові листи відправлено на наступні адреси:"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSendTest.html:18
 msgid "Send one more test"
 msgstr "Відправити тест ще раз"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:40
 msgid "Excepted from this list are unsubscribed contacts and those having delivering errors in previous campaign."
 msgstr "З них будуть виключені ті, хто відписався раніше й ті, хто мав помилки доставки у минулих розсилках."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:41
 msgid "We could not count the number of excepted recipients at this point, because a total number of your campaign recipients is too high. However, we will count every exception in the process of sending, and all such contacts will be placed in &ldquo;Exceptions&rdquo; list in the Sending Report."
 msgstr "У зв&#39;язку із великою кількістю одержувачів ми зараз не змогли порахувати точну кількість виключених адрес. Однак усіх виключених одержувачів буде точно визначено у процесі розсилання і внесено до переліку &laquo;Виключення&raquo; у звіті про розсилку."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:33
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:44
 msgid "Send to contacts having delivering errors anyway"
 msgstr "Все одно надіслати тим, хто мав помилки доставки"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:34
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:45
 msgid "Use this option only if the reason of delivering errors has been resolved; otherwise recipient mail servers can ban your sending server for spam."
 msgstr "Використовуйте цю опцію тільки після усунення причини помилок доставки повідомлень. В іншому випадку поштові сервери одержувачів можуть помістити ваш сервер відправника до в &laquo;чорного списку&raquo;."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:12
 msgid "Excepted from this list are:"
 msgstr "З них буде виключено:"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:26
 msgid "Having delivering errors in previous campaign"
 msgstr "Ті, що мали помилки доставки у минулих розсилках"
 
 msgid "Delivering errors"
 msgstr "Помилки доставки"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:4
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:4
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:3
 msgid "search by name or email"
 msgstr "пошук за іменем або email"
 
@@ -1409,110 +977,81 @@ msgstr "Такі адреси або не існують, або не можут
 msgid "Attempts to repeat sending messages to these addresses may cause banning of your sender server."
 msgstr "Спроби повторних розсилок на ці адреси можуть призвести до того, що ваш сервер відправника потрапить до &laquo;чорного списку&raquo;."
 
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:10
 msgid "This is the reason to exclude these addresses from the lists of your campaigns recipients."
 msgstr "З цієї причини дані адреси виключаються за замовчуванням зі списків одержувачів ваших розсилок."
 
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:49
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:89
 msgid "Remove address from this list"
 msgstr "Видалити адресу с цього переліку"
 
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:90
 msgid "We recommend you to remove addresses from the list of &ldquo;undeliverable&rdquo; only in case you have resolved issues with delivering errors for these email addresses."
 msgstr "Ми рекомендуємо вам видаляти адресу зі списку &laquo;помилкових&raquo; тільки в тих випадках, коли ви усунули причину неможливості доставки повідомлень до даного адресата."
 
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:15
 msgid "No addresses match search criteria."
 msgstr "Жодна адреса не відповідає критеріям пошуку."
 
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:17
 msgid "No delivering errors yet."
 msgstr "Помилок доставки ще не було."
 
-#: /wa-apps/mailer/lib/actions/undeliverable/mailerUndeliverableList.action.php:57
 msgid "Campaign date"
 msgstr "Дата розсилання"
 
-#: /wa-apps/mailer/lib/actions/undeliverable/mailerUndeliverableList.action.php:58
 msgid "Campaign subject"
 msgstr "Тема розсилання"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedInfo.html:33
 msgid "We believe that you act on behalf of and for the benefit of this client, or used to unsubscribe for testing purposes."
 msgstr "Ми віримо, що ви дієте від імені та в інтересах даного контакту, або відписка була раніше виконана з метою тестування."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:21
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersDialog.action.php:34
 msgid "System Default"
 msgstr "Системний за замовчуванням"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:221
 msgid "System default"
 msgstr "Системний за замовчуванням"
 
 msgid "System Default (%s)"
 msgstr "Системний за замовчуванням (%s)"
 
-#: /wa-apps/mailer/templates/actions/templates/Templates.html:11
 msgid "To change a template location in this list, simply drag it and drop."
 msgstr "Щоб поміняти місце розташування шаблона у цьому списку, просто перетягніть його."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep0.html:23
 msgid "Blank"
 msgstr "Чистий аркуш"
 
 msgid "Compose"
 msgstr "Написати"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsPreview.html:15
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsPresend.action.php:80
 msgid "No recipients selected."
 msgstr "Не обрано жодного отримувача."
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsPresend.action.php:70
 msgid "No message body."
 msgstr "Немає тексту повідомлення."
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsPresend.action.php:73
 msgid "No message subject."
 msgstr "Немає теми повідомлення."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:194
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:231
 msgid "Unsaved changes will be lost if you leave this page now. Are you sure?"
 msgstr "Незбережені зміни будуть втрачені. Піти з цієї сторінки?"
 
 msgid "How recipients were chosen:"
 msgstr "Як було обрано отримувачів:"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:126
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:167
 msgid "how were chosen"
 msgstr "як було обрано"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:36
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:43
 msgid "Author"
 msgstr "Автор"
 
-#: /wa-apps/mailer/lib/actions/returnpath/mailerReturnpathSave.controller.php:33
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersSave.controller.php:57
 msgid "Encryption requires OpenSSL PHP module to be installed."
 msgstr "Аби увімкнути шифровання, має бути встановлено модуль PHP OpenSSL."
 
-#: /wa-apps/mailer/lib/config/app.php:4
 msgid "No <tt>cron</tt> jobs, required for long or scheduled automated mailings, have been set up for your account."
 msgstr "Не налаштовано завдань <tt>cron</tt>, які необхідні для виконання тривалих розсилок."
 
-#: /wa-apps/mailer/templates/actions/schedule/ScheduleDialog.html:41
 msgid "Scheduled sending is unavailable (no <tt>cron</tt> jobs set up)!"
 msgstr "Відкладена розсилка неможлива (не налаштовані завдання <tt>cron</tt>)!"
 
 msgid "Without <tt>cron</tt> jobs set up, do not close your browser window after clicking on the “Send” button to complete the email sending process."
 msgstr "Увага! Без налаштування <tt>cron</tt> не закривайте сторінку після натискання на кнопку «Відправити» до завершення відправки."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:28
 msgid "Without <tt>cron</tt> jobs set up, do not close your browser window after clicking on the \"Send to selected recipients\" button to complete the email sending process."
 msgstr "Увага! Без налаштування <tt>cron</tt> не закривайте сторінку після натискання на кнопку «Відправити обраним одержувачам» до завершення відправки."
 
@@ -1522,54 +1061,42 @@ msgstr "Аби розсилка автоматично тривала без в�
 msgid "http://www.webasyst.com/framework/docs/server/cron/"
 msgstr "http://www.webasyst.ru/developers/docs/tips/cron/"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:8
 msgid "This list contains the email addresses of contacts who have clicked on the “unsubscribe” link in a received message. These addresses are automatically excluded from the recipient lists of all future mailings."
 msgstr "У цьому переліку містяться адреси контактів, які відписалися від розсилок за допомогою посилання для відписки. Ці адреси автоматично виключаються з числа одержувачів всіх наступних розсилок."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:17
 msgid "Subscribers are the persons who have expressly opted for receiving email messages from you by submitting their email addresses via a subscription form on your website. To collect subscribers' email addresses, publish the form displayed below on your website or blog."
 msgstr "Підписувачі — це ті, хто добровільно виявив бажання отримувати від вас розсилання, відправивши свої електронні адреси через форму підписки на вашому сайті. Для того, аби у вас з&#39;явилися підписувачі, розмістіть наведений нижче код форми підписки на вашому сайті або у блозі."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep0.html:5
 msgid "Manage templates"
 msgstr "Керування шаблонами"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep0.html:3
 msgid "Please choose one of these templates to create a new email campaign. If none of the templates suits your needs, click on &ldquo;Blank&rdquo; to compose a new message."
 msgstr "Скористайтеся одним з готових шаблонів для створення тексту розсилання. Якщо жоден шаблон не підійшов, наберіть текст повідомлення з &laquo;чистого аркушу&raquo;."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:6
 msgid "Be sure to enter your message subject and text to proceed to recipient selection and message sending steps."
 msgstr "Введіть тему і текст повідомлення. Після цього ви зможете перейти до вибору одержувачів і відправки повідомлення."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:32
 msgid "To specify recipients for your campaign, select the desired contact groups provided by the Contacts application or enter additional email addresses."
 msgstr "У якості одержувачів розсилання можуть бути вказані електронні адреси з папки «Контакти», а також додаткові адреси, додані вручну."
 
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:24
 msgid "Your contacts may be speaking different languages. You can limit the recipient list by selecting only the desired languages."
 msgstr "Ваші контакти розмовляють різними мовами. Ви можете обмежити перелік одержувачів розсилання, вибравши потрібні мови."
 
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:35
 msgid "Categories are groups of contacts which you can freely manage in the Contacts application. In addition to manually created categories, there are also system categories created by other Webasyst applications; e.g., Shop-Script or Blog. Those categories contain contacts added by the corresponding applications: customers of the online store or authors of comments posted in the blog."
 msgstr "Категорії — це групи контактів, які ви можете формувати в меню «Контакти» довільним чином. Крім довільно створених категорій, у «Контактах» є спеціальні категорії, створені іншими програмами, такими як «Магазин» або «Блог» — у цих категоріях містяться контакти, створені у відповідних додатках: покупці магазину, автори коментарів до записів у блозі та інші."
 
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:47
 msgid "This option allows selecting contacts who have opted for receiving your email newsletters using a subscription form (see Subscribers section)."
 msgstr "Дозволяє вибрати адреси контактів, які самі підписалися на ваші розсилання за допомогою форми підписки (див. розділ Підписники)."
 
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:57
 msgid "Use this field  to manually enter any additional email addresses. If such addresses are not yet contained in the Contacts application, they will be added there as new contacts once the sending of this message is completed."
 msgstr "У цьому полі можна вручну вказати будь-які електронні адреси. Якщо у меню «Контакти» ще немає таких адрес, то вони будуть автоматично додані до нього у вигляді нових контактів відразу після завершення розсилання."
 
 msgid "No one subscribed yet."
 msgstr "Ще ніхто не підписався."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1ReadOnly.html:37
 msgid "Design"
 msgstr "Дизайн"
 
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:85
 msgid "Search by name or email"
 msgstr "Пошук за іменем або email"
 
@@ -1579,26 +1106,21 @@ msgstr "Ви можете змінити тему, для того, аби по�
 msgid "Self unsubscribed from %s."
 msgstr "Відписався самостійно у розсилці %s."
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedInfo.html:26
 msgid "Unsubscribed by administrator."
 msgstr "Відписаний адміністратором."
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:9
 msgid "You can also %sunsubscribe any address yourself%s."
 msgid_plural "<a href=\"javascript:void(0)\" id=\"unsibscribe-dialog-link\" class=\"inline-link\"><b><i>"
 msgstr[0] "You can also %sunsubscribe any address yourself%s."
 msgstr[1] "<a href=\"javascript:void(0)\" id=\"unsibscribe-dialog-link\" class=\"inline-link\"><b><i>"
 msgstr[2] "<a href=\"javascript:void(0)\" id=\"unsibscribe-dialog-link\" class=\"inline-link\"><b><i>"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:243
 msgid "N/A"
 msgstr "Немає"
 
 msgid "%s is not writable"
 msgstr "%s недоступний для запису"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:13
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:22
 msgid "WARNING:"
 msgstr "ПОПЕРЕДЖЕННЯ:"
 
@@ -1617,144 +1139,108 @@ msgstr "Return-path \"%s\" заборонений сервером відпра�
 msgid "WARNING: Amount of data in the field above can not exceed %d characters."
 msgstr "УВАГА: Обсяг даних у полі додаткових адрес не може перевищувати %d символів."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:53
 msgid "Save as a template"
 msgstr "Зберегти як шаблон"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:50
 msgid "Create a clone"
 msgstr "Клонувати"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep0.html:7
 msgid "To create new campaign as a copy of previously sent, navigate to the sent message and click “Create new from this”."
 msgstr "Для створення копії раніше відправленого розсилання, перейдіть до неї, та оберіть пункт «Клонувати»."
 
-#: /wa-apps/mailer/templates/layouts/Backend.html:72
-#: /wa-apps/mailer/lib/classes/mailerHelper.class.php:12
 msgid "Unsubscribe URL"
 msgstr "URL для відписки"
 
-#: /wa-apps/mailer/templates/layouts/Backend.html:75
 msgid "In every outgoing message this variable will be replaced with a personal recipient link that can be used to unsubscribe from your future mailings."
 msgstr "У кожному відправленому повідомленні цю змінну буде замінено на персональне посилання для переходу на сторінку керування підписками."
 
-#: /wa-apps/mailer/templates/layouts/Backend.html:80
 msgid "Following variables will be replaced with recipient's contact data:"
 msgstr "Наступні змінні буде замінено персональними даними одержувача:"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:59
 msgid "Export to file (zip)"
 msgstr "Експорт до файлу (zip)"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:55
 msgid "You have no routing rules defined for Mailer application."
 msgstr "Для додатку Розсилання не налаштовано правил маршрутизації."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:56
 msgid "Unsubscribe links in your message will not work."
 msgstr "Посилання відписки у вашій розсилці не працюватимуть."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:57
 msgid "To set up routing rules use %sSite application%s."
 msgid_plural "<a href=\"../site/#/routing/\" target=\"_blank\">"
 msgstr[0] "To set up routing rules use %sSite application%s."
 msgstr[1] "<a href=\"../site/#/routing/\" target=\"_blank\">"
 msgstr[2] "<a href=\"../site/#/routing/\" target=\"_blank\">"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:16
 msgid "Settings checking passed. Campaign is ready for sending."
 msgstr "Перевірку налаштувань виконано. Повідомлення готове до відправки."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:75
-#: /wa-apps/mailer/templates/actions/schedule/ScheduleDialog.html:1
 msgid "Scheduled sending"
 msgstr "Відкладене розсилання"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:193
 msgid "We will provide final checking and offer you to choose: send now or schedule sending for future date/time."
 msgstr "Ми виконаємо фінальну перевірку та запропонуємо вибір: відправити зараз або налаштувати відкладену розсилку."
 
-#: /wa-apps/mailer/templates/actions/schedule/ScheduleDialog.html:25
 msgid "current time is"
-msgstr "поточний час:"
+msgstr "поточний час"
 
-#: /wa-apps/mailer/templates/actions/schedule/ScheduleDialog.html:25
 msgid "format"
 msgstr "формат"
 
-#: /wa-apps/mailer/templates/actions/schedule/ScheduleDialog.html:23
 msgid "Incorrect date/time"
 msgstr "Некоректні дата/час"
 
-#: /wa-apps/mailer/templates/actions/schedule/ScheduleDialog.html:32
 msgid "Cron is working properly. Latest execution time: %s"
 msgstr "CRON для відкладеного розсилання включений і працює. Час останнього запуску: %s"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:63
 msgid "Sending is scheduled for"
 msgstr "Відправку розсилання заплановано на"
 
-#: /wa-apps/mailer/templates/actions/schedule/ScheduleDialog.html:38
 msgid "Schedule"
 msgstr "Запланувати"
 
-#: /wa-apps/mailer/templates/actions/backend/BackendSidebar.html:33
 msgid "all drafts"
 msgstr "усі чернетки"
 
-#: /wa-apps/mailer/templates/actions/subscribers/Subscribers.html:13
 msgid "Lists"
 msgstr "Переліки"
 
-#: /wa-apps/mailer/templates/actions/subscribers/Subscribers.html:31
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:61
 msgid "New list"
 msgstr "Новий перелік"
 
-#: /wa-apps/mailer/templates/actions/subscribers/Subscribers.html:38
 msgid "Forms"
 msgstr "Форми"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:7
-#: /wa-apps/mailer/templates/actions/subscribers/Subscribers.html:55
 msgid "New form"
 msgstr "Нова форма"
 
 msgid "Form name"
 msgstr "Назва форми"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:221
 msgid "Confirm subscription"
 msgstr "Підтверждення підписки"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:299
 msgid "Delete this form"
 msgstr "Видалити цю форму"
 
 msgid "Choose lists"
 msgstr "Оберіть списки"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:36
 msgid "This name appears only for your reference in the form list."
 msgstr "Ця назва показана тільки у вашому переліку форм."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:154
 msgid "Add to lists"
 msgstr "Додати до списків"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:157
 msgid "Select lists to which new subscriber will be added:"
 msgstr "Вкажіть, в які списки слід додати підписувача:"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:173
 msgid "In case no lists selected, subscriber will be added to All subscribers."
 msgstr "Якщо не обрано жодного списку, то підписувача буде додано в «Усі підписувачі»."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:181
 msgid "Show list selection in the form"
 msgstr "Показати вибір списків у формі"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:182
 msgid "In this case subscribers will be able to select lists themselves."
 msgstr "У цьому випадку підписувач зможе самостійно обрати потрібні йому списки."
 
@@ -1767,160 +1253,111 @@ msgstr "Підказка, якщо поле не заповнене"
 msgid "Set up the appearance of the web form as it should be displayed on your website."
 msgstr "Налаштувати відображення веб-форм так, як вони повинні виглядати на вашому сайті."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:65
 msgid "Captcha"
 msgstr "CAPTCHA"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:68
 msgid "Button"
 msgstr "Кнопка"
 
-#: /wa-apps/mailer/templates/actions/subscribers/Subscribers.html:27
 msgid "Subscriber lists are useful for a thematic grouping of your subscribers, e.g.: news, special offers, new product release, and etc."
 msgstr "Переліки зручно використовувати для групування підписувачів. Наприклад: новини, спеціальні пропозиції, вихід нових продуктів та ін."
 
-#: /wa-apps/mailer/templates/actions/subscribers/Subscribers.html:51
 msgid "Forms are required to organize a subscription on your website. Create a form, publish it on your website, and visitor will be able to subscribe themselves."
 msgstr "Форми необхідні для організації підписки на вашому сайті. Створіть форму, опублікуйте її на сайті, і тоді відвідувач матиме можливість підписатися."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:13
 msgid "Publishing on external site"
 msgstr "Публікація на зовнішньому сайті"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:12
 msgid "To publish the form on your site use this code:"
 msgstr "Для публікації форми на сайті використовуйте цей код:"
 
-#: /wa-apps/mailer/templates/forms/subscription_form_inner_script.html:62
 msgid "Select at least one subscription subject"
 msgstr "Оберіть хоча б одну тему підписки"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:174
 msgid "Subscribers are the persons who have expressly opted for receiving email messages from you by submitting their email addresses via a subscription form on your website. To collect subscribers' email addresses, <a href=\"javascript:void(0)\">create a form</a> and publish it on your website or blog."
 msgstr "Підписувачі — це ті, хто виявив бажання отримувати від вас email-повідомлення, вказавши свою адресу email у формі підписки на вашому сайті. Аби зібрати адреси email, <a href=\"javascript:void(0)\">створіть форму</a> та опублікуйте її на вашому сайті або у блозі."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:35
 msgid "form name"
 msgstr "назва форми"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:177
 msgid "To collect subscribers' email addresses to this list, enable this list in your subscription form settings."
 msgstr "Аби у вас з&#39;явились підписувачі у цьому переліку, увімкніть цей перелік у налаштуваннях вашої форми підписки."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:249
 msgid "Please confirm your subscription"
 msgstr "Підтвердіть, будь ласка, свою підписку"
 
 msgid "To"
 msgstr "Кому"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:76
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:87
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:97
 msgid "Edit field label"
 msgstr "Редагувати підпис поля"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:81
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:92
 msgid "Edit hint for this field"
 msgstr "Редагувати підказку для цього поля"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:188
 msgid "Do you really want to delete this list?"
 msgstr "Ви дійсно хочете видалити цей перелік?"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:189
 msgid "Contacts will NOT be deleted."
 msgstr "Контакти НЕ буде видалено."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:55
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:263
 msgid "Delete list"
 msgstr "Видалити перелік"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:116
 msgid "Edit button label"
 msgstr "Редагувати назву кнопки"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:22
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:28
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:32
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:38
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:12
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:18
 msgid "Check and send"
 msgstr "Перевірити та відправити"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:21
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:27
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:31
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:37
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:11
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:17
 msgid "Choose recipients"
 msgstr "Обрати отримувачів"
 
 msgid "Actually sent"
 msgstr "Фактично надіслано"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:123
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:4
 msgid "Selected recipients"
 msgstr "Обрані отримувачі"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:154
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:32
-#: /wa-apps/mailer/templates/actions/campaigns/pie_diagram_legend.html:36
 msgid "Read"
 msgstr "Прочитано"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:123
 msgid "%s recipient"
 msgid_plural "%s recipients"
 msgstr[0] "%s отримувач"
 msgstr[1] "%s отримувача"
 msgstr[2] "%s отримувачів"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:62
 msgid "Start"
 msgstr "Старт"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:65
 msgid "Finish"
 msgstr "Фініш"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:68
 msgid "sending duration"
 msgstr "тривалість розсилання"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:202
 msgid "Number of recipients"
 msgstr "Кількість отримувачів"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:205
 msgid "per hour"
 msgstr "на годину"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:203
 msgid "per minute"
 msgstr "на хвилину"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:211
 msgid "Shown"
 msgstr "Показано"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:216
 msgid "or select a required period on the chart"
 msgstr "або оберіть потрібний період на графікові"
 
 msgid "selected period"
 msgstr "обраний період"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:212
 msgid "24h"
 msgstr "24 год"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:213
 msgid "48h"
 msgstr "48 год"
 
@@ -1939,401 +1376,252 @@ msgstr "Виключень: "
 msgid "Sent: "
 msgstr "Надіслано: "
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsReport.html:68
 msgid "%s recipient appear in the period selected"
 msgid_plural "%s recipients appear in the period selected"
 msgstr[0] "%s отримувач потрапляє в обраний період"
 msgstr[1] "%s отримувача потрапляє в обраний період"
 msgstr[2] "%s отримувачів потрапляють в обраний період"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:145
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:190
 msgid "%s recipient have been selected for this campaign"
 msgid_plural "%s recipients have been selected for this campaign"
 msgstr[0] "Для даного розсилання було обрано %s отримувача"
 msgstr[1] "Для даного розсилання було обрано %s отримувачів"
 msgstr[2] "Для даного розсилання було обрано %s отримувачів"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:147
 msgid "However, not every one of them was actually included in the mailing list (see %s for details)"
 msgid_plural "<a href=\"#\" rel=\"status=-3,-4\" class=\"show-recipients-link inline-link inline-link-notop\"><b>[`Exceptions`]</b></a>"
 msgstr[0] "Однак не усі вони були включені у перелік розсилання (дивись подробиці у %s )"
 msgstr[1] "<a href=\"#\" rel=\"status=-3,-4\" class=\"show-recipients-link inline-link inline-link-notop\"><b>[`Exceptions`]</b></a>"
 msgstr[2] "<a href=\"#\" rel=\"status=-3,-4\" class=\"show-recipients-link inline-link inline-link-notop\"><b>[`Exceptions`]</b></a>"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:161
 msgid "Excluded were previously unsubscribed and also those email addresses that have resulted in a permanent error returned by the recipient server in your past mailing campaigns. Those mail boxes either do not exist, or cannot receive your message by any reason. Further attempts to send messages to these addresses may result in blacklisting of your mail server. This is the reason to exclude these addresses from the lists of your campaigns recipients."
 msgstr "Із розсилання були виключені ті користувачі, що раніше відписалися. А також ті адреси, поштовий сервер яких повернув у минулих розсилках повідомлення про постійну помилку у адресі отримувача. Такі адреси або не існують, або не можуть отримувати від вас повідомлення в силу різних причин. Намагання повторних розсилок на ці адреси можуть привести до того, що ваш сервер відправника опиниться у  «чорному списку». З цієї причини вказані адреси за замовчуванням виключаються із переліку отримувачів ваших розсилок."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:20
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:26
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:30
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:36
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:10
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:16
 msgid "Compose letter"
 msgstr "Написати листа"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:143
 msgid "Preparing recipient list"
 msgstr "Готуємо список одержувачів"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:400
 msgid "Search contacts"
 msgstr "Пошук контактів"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:139
 msgid "The type of resource that is sending you traffic, e.g. newsletter."
 msgstr "Тип ресурсу, який створює вам приплив відвідувачів — наприклад, newsletter."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:147
 msgid "The type of marketing medium that the link is featured in, e.g. email."
 msgstr "Маркетинговий інструмент, яким є ваша розсилка, наприклад — email."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:155
 msgid "The name of your marketing campaign, e.g. your email subject."
 msgstr "Назва вашої маркетингової кампанії, наприклад — тема листа."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1ReadOnly.html:21
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:54
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1ReadOnly.html:40
 msgid "HTML"
 msgstr "HTML"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:25
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:72
 msgid "Return-path"
 msgstr "Return-path"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:46
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:51
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:113
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:118
 msgid "Google Analytics"
 msgstr "Google Analytics"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:55
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:126
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:123
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:135
 msgid "Source (utm_source):"
 msgstr "Джерело (utm_source):"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:59
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:132
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:127
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:143
 msgid "Medium (utm_medium):"
 msgstr "Канал (utm_medium):"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:63
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:138
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:131
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:151
 msgid "Campaign (utm_campaign):"
 msgstr "Кампанія (utm_campaign):"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSendTest.html:3
 msgid "Unable to send test messages:"
 msgstr "Неможливо надіслати тестові повідомлення:"
 
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:345
-#: /wa-apps/mailer/templates/actions/templates/TemplatesEdit.html:311
 msgid "Drag and drop an image file here (JPG, GIF, PNG)"
 msgstr "Перетягніть сюди файл зображення (JPG, GIF, PNG)"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:25
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:8
 msgid "Reply-To Email"
 msgstr "Reply-To Email"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:94
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:56
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:98
 msgid "SSL/TLS"
 msgstr "SSL/TLS"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:95
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:57
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:99
 msgid "STARTTLS"
 msgstr "STARTTLS"
 
-#: /wa-apps/mailer/lib/actions/subscribers/mailerSubscribersList.action.php:38
-#: /wa-apps/mailer/lib/actions/subscribers/mailerSubscribersList.action.php:63
-#: /wa-apps/mailer/lib/actions/subscribers/mailerSubscribersListold.action.php:38
 msgid "Subscribe date"
 msgstr "Дата підписки"
 
-#: /wa-apps/mailer/lib/actions/files/mailerFilesUploadimage.controller.php:39
-#: /wa-apps/mailer/lib/actions/files/mailerFilesUploadimage.controller.php:58
 msgid "Files with extensions %s are allowed only."
 msgstr "Дозволено тільки файли з розширеннями %s."
 
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsRecipientsReport.action.php:100
 msgid "<no_name>"
 msgstr "<no_name>"
 
-#: /wa-apps/mailer/lib/actions/templates/mailerTemplatesImport2.action.php:28
 msgid "Unable to open archive file."
 msgstr "Неможливо відкрити архів."
 
-#: /wa-apps/mailer/lib/actions/templates/mailerTemplatesImport2.action.php:101
 msgid "Unable to extract template file."
 msgstr "Неможливо витягти файл шаблону."
 
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersDialog.action.php:35
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:25
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersDialog.action.php:42
 msgid "SMTP"
 msgstr "SMTP"
 
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersDialog.action.php:38
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:27
-#: /wa-apps/mailer/lib/actions/senders/mailerSendersDialog.action.php:48
 msgid "Sendmail"
 msgstr "Sendmail"
 
-#: /wa-apps/mailer/lib/config/logs.php:5
 msgid "subscribed"
 msgstr "підписався"
 
-#: /wa-apps/mailer/lib/config/logs.php:8
 msgid "unsubscribed"
 msgstr "відписався"
 
-#: /wa-apps/mailer/templates/forms/subscription_form_inner_script.html:68
-#: /wa-apps/mailer/templates/forms/subscription_form_inner_script.html:67
 msgid "Required fields"
 msgstr "Обов&#39;язкові поля"
 
-#: /wa-apps/mailer/templates/forms/subscription_form_inner_script.html:72
 msgid "Required field"
 msgstr "Обов&#39;язкове поле"
 
-#: /wa-apps/mailer/templates/forms/subscription_form_inner_script.html:108
-#: /wa-apps/mailer/templates/forms/subscription_form_inner_script.html:106
 msgid "Server error"
 msgstr "Помилка сервера"
 
-#: /wa-apps/mailer/templates/forms/subscription_form.html:35
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:103
 msgid "Reload image"
 msgstr "Оновити зображення"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:73
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:103
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:77
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:156
 msgid "Show"
 msgstr "Показувати"
 
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:79
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:109
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:82
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:162
 msgid "records"
 msgstr "записів"
 
-#: /wa-apps/mailer/templates/actions/subscribers/email_template_editor.html:30
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:234
 msgid "From"
 msgstr "Від"
 
-#: /wa-apps/mailer/templates/actions/subscribers/email_template_editor.html:34
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:238
 msgid "Specified"
 msgstr "Вказаний"
 
-#: /wa-apps/mailer/templates/actions/subscribers/email_template_editor.html:38
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:241
 msgid "It is recommended to specify an existing email address which you do not check for new mail as the sender's address for such notifications; e.g., noreply@yourdomain.com. This will help minimize the number of redundant requests."
 msgstr "Рекомендовано вказати, як адресу відправника для таких повідомлень, існуючу адресу електронної пошти, яку ви не перевіряєте на нову пошту; наприклад, noreply@yourdomain.com. Це допоможе мінімізувати кількість надлишкових запитів."
 
-#: /wa-apps/mailer/templates/actions/subscribers/email_template_editor.html:47
 msgid "Use source email address if request came by email"
 msgstr "Використовувати електронну адресу джерела, якщо запит надійшов по електронній пошті"
 
-#: /wa-apps/mailer/templates/actions/subscribers/email_template_editor.html:60
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:255
 msgid "Text"
 msgstr "Текст"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:5
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:6
 msgid "Edit form name"
 msgstr "Редагувати назву форми"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:43
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:29
 msgid "Form view setup"
 msgstr "Налаштування вигляду форми"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:50
 msgid "Fields"
 msgstr "Поля"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:116
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:56
 msgid "Field labels"
 msgstr "Підписи полів"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:119
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:59
 msgid "Left aligned"
 msgstr "Зліва від поля"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:122
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:62
 msgid "Top aligned"
 msgstr "Над полем"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:125
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:65
 msgid "Hide"
 msgstr "Сховати"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:98
-#: /wa-apps/mailer/templates/actions/subscribe rs/SubscribersFormeditor.html:99
 msgid "Please enter symbols shown on the image:"
 msgstr "Введіть символи з зображення:"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:126
 msgid "Form width (200-600px)"
 msgstr "Ширина форми (200-600 пікселів)"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:189
 msgid "After form submission"
 msgstr "Після відправки форми"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:192
 msgid "This setting will redirect clients to any specified URL or display any text message after the form is submitted."
 msgstr "Ця установка дозволяє після заповнення форми та відправлення запиту перенаправляти клієнтів на будь-яку вказану статтю або показувати на місці форми повідомлення."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:200
 msgid "After successfull submission:"
 msgstr "Після успішного відправлення:"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:204
 msgid "Redirect to URL"
 msgstr "Перейти на сторінку"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:212
 msgid "Display text instead of the form"
 msgstr "Показати вказаний текст замість форми"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:213
 msgid "Thanks for subscribing!"
 msgstr "Дякуємо за підписку!"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:242
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:240
 msgid "Dear {SUBSCRIBER_NAME}!"
 msgstr "Шановний(на) {SUBSCRIBER_NAME}!"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:242
 msgid "Please click the following link to confirm your subscription:"
 msgstr "Перейдіть за посиланням для підтвердження підписки:"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:245
 msgid "Thank you!"
 msgstr "Дякуємо!"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:226
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:210
 msgid "Message will be sent to the subscriber's address. This message contains a special link which must be clicked to confirm the subscription."
 msgstr "Підписувачу буде відправлено повідомлення. У цьому повідомленні міститиметься спеціальне посилання, за яким необхідно перейти для підтвердження підписки."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:644
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:662
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:548
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:591
 msgid "Are you sure?"
 msgstr "Ви впевнені?"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:660
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:548
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:591
 msgid "Unsaved changes will be lost if you leave this page now."
 msgstr "Усі незбережені зміни буде втрачено, якщо ви зараз залишите цю сторінку."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:95
 msgid "SSL"
 msgstr "SSL"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:481
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:494
 msgid "Cancel schedule"
 msgstr "Відмінити розклад"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:205
 msgid "Remove"
 msgstr "Видалити"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:214
 msgid "All history"
 msgstr "Увесь період"
 
-#: /wa-apps/mailer/templates/actions/frontend/FrontendConfirm.html:9
 msgid "thanks for subscription!"
 msgstr "дякуємо за підписку!"
 
-#: /wa-apps/mailer/themes/default/my.subscriptions.html:4
-#: /wa-apps/mailer/themes/default/my.subscriptions.html:8
 msgid "Thanks for subscription!"
 msgstr "Дякуємо за підписку!"
 
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:37
 msgid "Contacts list"
 msgstr "Перелік контактів"
 
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:41
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:71
 msgid "Contact list are contact lists."
 msgstr "Перелік контактів — це перелік контактів."
 
-#: /wa-apps/mailer/lib/handlers/contacts.search.config.handler.php:14
-#: /wa-apps/mailer/lib/handlers/contacts.search.config.handler.php:19
 msgid "Campaign recipients"
 msgstr "Отримувачі розсилок"
 
-#: /wa-apps/mailer/lib/handlers/contacts.search.config.handler.php:26
 msgid "campaign"
 msgstr "розсилка"
 
-#: /wa-apps/mailer/lib/handlers/contacts.search.config.handler.php:31
 msgid "status"
 msgstr "статус"
 
-#: /wa-apps/mailer/lib/handlers/contacts.search.config.handler.php:33
 msgid "Bounces"
 msgstr "Відмови"
 
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.prepare.handler.php:97
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.prepare.handler.php:109
 msgid "Contacts Lists"
 msgstr "Списки контактов"
 
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.prepare.handler.php:100
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.prepare.handler.php:112
 msgid "Prosearch"
 msgstr "Контакти PRO"
 
-#: /wa-apps/mailer/lib/actions/subscribers/mailerSubscribersFormeditor.action.php:43
 msgid "Subscriber name, if it used in the form.."
 msgstr "Ім&#39;я підписувача, якщо воно використовується у формі."
 
-#: /wa-apps/mailer/lib/actions/subscribers/mailerSubscribersFormeditor.action.php:44
 msgid "URL address to confirm subscription. Click on this link opens \"My subscriptions\" page in the client's Customer Portal."
 msgstr "Адреса підтвердження підписки. Клік на такому посиланні відкриває сторінку «Мої підписки» в особистому кабінеті підписувача."
 
-#: /wa-apps/mailer/lib/actions/frontend/mailerFrontendMySubscriptions.action.php:158
-#: /wa-apps/mailer/lib/actions/frontend/mailerFrontendUpdateSubscriptions.action.php:30
-#: /wa-apps/mailer/themes/default/my.nav.html:4
 msgid "My subscriptions"
 msgstr "Мої підписки"
 
-#: /wa-apps/mailer/themes/default/my.subscriptions.html:6
 msgid "Thanks for subscribe!"
 msgstr "Дякуємо за підписку!"
 
@@ -2346,86 +1634,60 @@ msgstr "Ваш перелік підписок оновлено!"
 msgid "You unsubscribed from all subscriptions"
 msgstr "Ви відписалися від усіх розсилань"
 
-#: /wa-apps/mailer/themes/default/my.subscriptions.html:31
 msgid "Subscribe again"
 msgstr "Підписатися знову"
 
-#: /wa-apps/mailer/themes/default/my.subscriptions.html:62
 msgid "Unsubscribe from all"
 msgstr "Відписатися від усіх"
 
-#: /wa-apps/mailer/themes/default/footer.html:6
 msgid "We are using <a href=\"http://www.webasyst.com/\">Webasyst</a>"
 msgstr "Ми використовуємо <a href=\"http://www.webasyst.ru/\">Webasyst</a>"
 
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:67
 msgid "Contact lists"
 msgstr "Переліки контактів"
 
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.form.handler.php:79
 msgid "Contact search"
 msgstr "Пошук серед контактів"
 
-#: /wa-apps/mailer/lib/classes/mailerHelper.class.php:170
 msgid "List"
 msgstr "Перелік"
 
-#: /wa-apps/mailer/lib/classes/mailerHelper.class.php:174
 msgid "Search"
 msgstr "Пошук"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:40
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:39
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:67
 msgid "Choose forms that will add subscribers to this list"
 msgstr "Оберіть форми, через використання яких підписувачі будуть додаватись до цього переліку"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:27
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:24
 msgid "Subscription forms"
 msgstr "Форми підписки"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:25
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:22
 msgid "This list is not associated with any subscription form."
 msgstr "Цей перелік не зв&#39;язаний з жодною формою підписки."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:175
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:179
 msgid "No subscribers in this list."
 msgstr "У цьому переліку немає підписувачів."
 
-#: /wa-apps/mailer/lib/actions/frontend/mailerFrontendSubscribe.controller.php:56
 msgid "Invalid email format"
 msgstr "Невірний формат email"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipientsStat.html:3
 msgid "reload"
 msgstr "оновити"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:192
 msgid "Send to selected recipients"
 msgstr "Надіслати обраним отримувачам"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:318
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:321
 msgid "Checking campaign settings and preparing recipient list"
 msgstr "Перевірка налаштувань розсилання та підготовка переліку отримувачів"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:158
 msgid "{$g.name}"
 msgstr "{$g.name}"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:161
 msgid "{$g.comment}"
 msgstr "{$g.comment}"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:337
 msgid "Nothing found. Change search criteria"
 msgstr "Нічого не знайдено. Оновіть критерії пошуку"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:140
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:134
 msgid "Show recipient list with unique email addresses"
 msgstr "Показати перелік отримувачів з унікальними адресами"
 
@@ -2435,190 +1697,141 @@ msgstr "Аби обрати переліки контактів — спочат
 msgid "No subscriber lists - create it in \"Subscribers\""
 msgstr "Немає переліків підписувачів — створіть їх у розділі «Підписувачі»"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsRecipients.html:35
 msgid "You must have access to Contacts app."
 msgstr "Необхідно мати доступ до додатку «Контакти»."
 
-#: /wa-apps/mailer/themes/default/my.subscriptions.html:12
 msgid "Your subscription list successfully updated."
 msgstr "Ваш перелік підписувачів успішно оновлено."
 
-#: /wa-apps/mailer/themes/default/my.subscriptions.html:16
 msgid "You are unsubscribed from all mailing campaigns."
 msgstr "Ви відписалися від усіх розсилань."
 
-#: /wa-apps/mailer/themes/default/my.subscriptions.html:34
 msgid "Select emailing campaigns you would like to participate in:"
 msgstr "Оберіть теми, за якими ви бажаєте отримувати розсилання:"
 
-#: /wa-apps/mailer/themes/default/my.subscriptions.html:56
 msgid "Unsubscribe from all mailings"
 msgstr "Відписатися від усіх розсилань"
 
 msgid "Please specify your email in \"Contacts\" app"
 msgstr "Вкажіть свою електронну адресу у додатку «Контакти»"
 
-#: /wa-apps/mailer/lib/actions/frontend/mailerFrontendSubscribe.controller.php:16
-#: /wa-apps/mailer/lib/actions/frontend/mailerFrontendSubscribe.controller.php:27
 msgid "Incorrect data"
 msgstr "Невірні дані"
 
 msgid "Apply"
 msgstr "Застосувати"
 
-#: /wa-apps/mailer/lib/config/logs.php:5
 msgid "sent campaign"
 msgstr "відправив розсилання"
 
-#: /wa-apps/mailer/lib/config/logs.php:8
 msgid "composed a new campaign"
 msgstr "створив нове розсилання"
 
-#: /wa-apps/mailer/lib/config/logs.php:11
 msgid "composed a new template"
 msgstr "створив новий шаблон"
 
-#: /wa-apps/mailer/lib/config/logs.php:14
 msgid "subscribed via form"
 msgstr "підписався через форму"
 
-#: /wa-apps/mailer/lib/config/logs.php:17
 msgid "subscribed via customer portal"
 msgstr "підписався через особистий кабінет"
 
-#: /wa-apps/mailer/lib/config/logs.php:20
 msgid "unsubscribed from all mailings"
 msgstr "відписався від усіх розсилань"
 
-#: /wa-apps/mailer/lib/config/logs.php:23
 msgid "edited subscription list in customer portal"
 msgstr "відредагував перелік підписок у особистому кабінеті"
 
-#: /wa-apps/mailer/lib/config/logs.php:26
 msgid "scheduled delayed sending"
 msgstr "запланував відкладене розсилання"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:139
 msgid "<a target=\"_blank\" href=\"https://www.webasyst.com/crm/support/2024/mailer-dkim/\">What is DKIM</a>"
 msgstr "<a target=\"_blank\" href=\"https://support.webasyst.ru/2023/mailer-dkim/\">Що таке DKIM</a>"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:140
 msgid "Please enter sender's email address to use DKIM."
 msgstr "Для використання DKIM вкажіть адресу відправника."
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:161
 msgid "Add a new TXT record with this public DKIM key to the DNS zone of domain name"
 msgstr "Додайте новий TXT-запис із цим публічним ключем DKIM у DNS-зону домену"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:166
 msgid "Host"
 msgstr "Хост"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:174
 msgid "Record type"
 msgstr "Тип запису"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:180
 msgid "Value"
 msgstr "Значення"
 
-#: /wa-apps/mailer/templates/layouts/Backend.html:86
 msgid "Open in browser"
 msgstr "Відкрити у браузері"
 
-#: /wa-apps/mailer/templates/layouts/Backend.html:87
 msgid "Open in browser link"
 msgstr "Посилання для відкриття у браузері"
 
-#: /wa-apps/mailer/templates/layouts/Backend.html:90
 msgid "This variable will be replaced with a personal recipient link that can be used to view message on browser."
 msgstr "Цю змінну буде замінено на персональне посилання для перегляду повідомлення в браузері."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:69
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:171
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:126
 msgid "Eliminate from subscribers"
 msgstr "Виключити із підписувачів"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:98
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:194
 msgid "NOTE: This contact will not be deleted. It will be only eliminated from the subscription list."
 msgstr "ПРИМІТКА: Цей контакт не буде видалено. Його буде виключено лише з переліку підписки."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:97
 msgid "Do you really want to eliminate contact %s from subscribers?"
 msgid_plural "<span id=\"delete-contact-name-email\"></span>"
 msgstr[0] "Do you really want to eliminate contact %s from subscribers?"
 msgstr[1] "<span id=\"delete-contact-name-email\"></span>"
 msgstr[2] "<span id=\"delete-contact-name-email\"></span>"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:148
 msgid "You need to install openssl php extention to use DKIM"
 msgstr "Аби користуватись DKIM, вам необхідно встановити розширення PHP OpenSSL"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:153
 msgid "You need PHP version 5.3 or higher to use DKIM. Your current version is:"
 msgstr "Аби користуватись DKIM, потрібна версія PHP 5.3 або вища. Ваша поточна версія:"
 
-#: /wa-apps/mailer/templates/actions/backend/BackendContactTab.html:2
 msgid "Subscriptions"
 msgstr "Підписки"
 
-#: /wa-apps/mailer/templates/actions/backend/BackendContactTab.html:29
 msgid "Not included in any mailing list"
 msgstr "Не включений в жоден перелік розсилань"
 
-#: /wa-apps/mailer/templates/actions/backend/BackendContactTab.html:32
-#: /wa-apps/mailer/lib/handlers/contacts.profile.tab.handler.php:14
 msgid "Campaigns"
 msgstr "Розсилання"
 
-#: /wa-apps/mailer/templates/actions/backend/BackendContactTab.html:42
-#: /wa-apps/mailer/lib/handlers/contacts.search.config.handler.php:35
 msgid "Status"
 msgstr "Статус"
 
-#: /wa-apps/mailer/lib/handlers/shop.backend_customers_list.handler.php:73
 msgid "Send newsletter in Mailer"
 msgstr "Відправити лист через «Розсилання»"
 
-#: /wa-apps/mailer/lib/handlers/mailer.recipients.prepare.handler.php:115
 msgid "Shop customers"
 msgstr "Покупці"
 
-#: /wa-apps/mailer/lib/actions/backend/mailerBackendContactTab.action.php:79
 msgid "Unavailable"
 msgstr "Недоступно"
 
-#: /wa-apps/mailer/lib/actions/backend/mailerBackendContactTab.action.php:89
 msgid "Awaiting"
 msgstr "Чекають"
 
-#: /wa-apps/mailer/templates/actions/backend/BackendContactTab.html:10
 msgid "Subscription name"
 msgstr "Назва підписки"
 
-#: /wa-apps/mailer/templates/actions/backend/BackendContactTab.html:11
 msgid "Email address"
 msgstr "Адреса email"
 
-#: /wa-apps/mailer/templates/actions/backend/BackendContactTab.html:12
 msgid "Subscription date"
 msgstr "Дата підписки"
 
-#: /wa-apps/mailer/templates/actions/backend/BackendContactTab.html:62
 msgid "No campaigns were sent to this recipient"
 msgstr "Жодного розсилання цьому отримувачу направлено не було"
 
-#: /wa-apps/mailer/lib/classes/mailerHelper.class.php:20
 msgid "Full name"
 msgstr "Повне ім&#39;я"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:139
 msgid "Personal data processing"
 msgstr "Обробка персональних даних"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:145
 msgid "---INSERT A LINK HERE!---"
 msgstr "---ВСТАВТЕ СЮДИ ПОСИЛАННЯ НА ДОКУМЕНТ!---"
 
@@ -2628,238 +1841,179 @@ msgstr "Я погоджуюсь із %sполітикою обробки пер�
 msgid "By submitting this form I agree to %spersonal data protection policy%s"
 msgstr "Натискаючи кнопку підтверждення, я погоджуюсь із %sполітикою обробки персональних даних%s"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:143
 msgid "Do not require consent to personal data protection policy"
 msgstr "Не вимагати згоди із політикою обробки персональних даних"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:148
 msgid "Show only notice and link to policy"
 msgstr "Показувати тільки підказку із посиланням на політику"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:152
 msgid "Show mandatory checkbox, notice, and link"
 msgstr "Пропонувати увімкнути обов&#39;язковий прапорець із підказкою та посиланням"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:157
 msgid "Restore original text"
 msgstr "Відновити стандартний текст"
 
 msgid "Show notice"
 msgstr "Показувати повідомлення"
 
-#: /wa-apps/mailer/templates/forms/subscription_form_inner_script.html:79
 msgid "Please confirm your agreement"
 msgstr "Підтвердіть свою згоду"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsStep1.html:57
 msgid "Upload image"
 msgstr "Завантажити зображення"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:164
 msgid "Enable Feedback-ID header for GMail FBL Tool"
 msgstr "Увімкнути Feedback-ID header для засобу GMail FBL"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:169
 msgid "Feedback-ID:"
 msgstr "Feedback-ID:"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:171
 msgid "campaignId:campaignType:SenderId"
 msgstr "campaignId:campaignType:SenderId"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:173
 msgid "a:b:c:SenderId"
 msgstr "a:b:c:SenderId"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:174
 msgid "Where: a, b, c are optional fields that can be used to embed up to 3 Identifiers (campaign/customer/other)."
 msgstr "Де a, b, c — необов&#39;язкові поля, які можуть бути використані для трьох ідентифікаторів (кампанія/клієнт/інше)."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:175
 msgid "SenderId is a mandatory unique Identifier (5–15 characters)."
 msgstr "SenderId — це обов&#39;язковий унікальний ідентифікатор (5–15 символів)."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:265
 msgid "Invalid string."
 msgstr "Невірна стрічка."
 
-#: /wa-apps/mailer/lib/classes/dependency/controller/mailerContactsProDependencyJsonController.class.php:9
 msgid "Controller supported only when Contacts App with PRO plugin are installed"
 msgstr "Контроллер підтримується тільки коли встановлений додаток «Контакти» із плагіном “PRO”"
 
-#: /wa-apps/mailer/lib/classes/dependency/controller/mailerContactsDependencyViewAction.class.php:9
 msgid "Action supported only when Contacts App is available (with not PRO plugin installed)"
 msgstr "Дія підтримується тільки коли встановлений додаток «Контакти» (без плагіна “PRO”)."
 
-#: /wa-apps/mailer/lib/classes/dependency/controller/mailerCrmDependencyViewAction.class.php:9
 msgid "Action supported only when CRM are installed"
 msgstr "Дія пітримується тільки коли встановлено CRM"
 
-#: /wa-apps/mailer/lib/classes/dependency/controller/mailerContactsProDependencyViewAction.class.php:9
 msgid "Action supported only when Contacts App with PRO plugin are installed"
 msgstr "Контроллер підтримується тільки коли встановлений додаток «Контакти» із плагіном “PRO”"
 
-#: /wa-apps/mailer/lib/classes/dependency/mailerCrmDependency.class.php:17
 msgid "Segment"
 msgstr "Сегмент"
 
-#: /wa-apps/mailer/lib/classes/dependency/mailerCrmDependency.class.php:30
 msgid "CRM segments"
 msgstr "Сегменти CRM"
 
-#: /wa-apps/mailer/lib/classes/dependency/mailerCrmDependency.class.php:86
 msgid "CRM Segments"
 msgstr "Сегменти CRM"
 
-#: /wa-apps/mailer/lib/actions/frontend/mailerFrontendSubscribe.controller.php:29
 msgid "Invalid captcha"
 msgstr "Невірний код CAPTCHA"
 
-#: /wa-apps/mailer/templates/actions/senders/SendersDialog.html:148
 msgid "You need to install PHP extention openssl to use DKIM."
 msgstr "Аби користуватись DKIM, вам необхідно встановити розширення PHP OpenSSL."
 
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:8
 msgid "These addresses either do not exist, or cannot receive your message by any reason."
 msgstr "Такі адреси або не існують, або не можуть отримувати від вас повідомлення."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:81
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettingsReadOnly.html:66
 msgid "Return-Path"
 msgstr "Return-path"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:99
 msgid "add a new Return-Path"
 msgstr "додати новий Return-path"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:102
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:2
 msgid "Add a new Return-Path"
 msgstr "Додати новий Return-path"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:106
 msgid "Return-Path address is used to automatically process bounced emails. We recommend to create a special email address to receive bounces as it allows to obtain a true statistics about your message delivering."
 msgstr "Адреса Return-path використовується для автоматичного отримання і обробки відмов (bounces) поштовим сервером одержувача. Ми рекомендуємо вам створити спеціальну адресу для отримання таких відмов, це дозволить вам отримувати об&#39;єктивну статистику доставки листа у звіті про розсилку."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:41
-#: /wa-apps/mailer/lib/actions/campaigns/mailerCampaignsArchive.action.php:135
 msgid "Error checking Return-Path mailbox"
 msgstr "Помилка перевірки адреси Return-path"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:212
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:244
 msgid "Return-Path is not customized. This does not allow to track most of potential bounces from recipient mail servers. Only invalid messages bounced by your sender server have been counted."
 msgstr "Return-path не налаштовано. Це не дозволяє відстежити більшість відмов від поштових серверів одержувачів. Пораховано тільки адреси, відкинуті вашим сервером відправника."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:218
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsReport.html:250
 msgid "Message viewing statistics cannot be counted as your message does not contain images."
 msgstr "Статистику переглядів неможливо порахувати, так як у вашому повідомленні немає зображень."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:44
 msgid "Return-Path address specified above is not available."
 msgstr "Вказана адреса Return-path недоступна."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsPresend.html:48
 msgid "Return-Path address is used to automatically process bounced emails."
 msgstr "Адреса Return-path використовується для автоматичного отримання і обробки відмов (bounces) поштовим сервером одержувача."
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:4
 msgid "Edit Return-Path"
 msgstr "Редагувати Return-path"
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:64
 msgid "Delete this Return-Path"
 msgstr "Видалити цей Return-path"
 
-#: /wa-apps/mailer/templates/actions/returnpath/ReturnpathDialog.html:107
 msgid "Do you really want to delete this Return-Path?"
 msgstr "Ви дійсно хочете видалити цей Return-path?"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:69
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersListold.html:171
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:126
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:483
 msgid "Remove from subscribers"
 msgstr "Видалити із підписувачів"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:489
 msgid "Remove from all subscribers"
 msgstr "Видалити із усіх підписувачів"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:489
 msgid "Remove from this subscribers list"
 msgstr "Видалити із цього переліку підписувачів"
 
-#: /wa-apps/mailer/lib/classes/dependency/controller/mailerContactsDependencyViewAction.class.php:9
 msgid "Action is supported only if Contacts app is available, with no PRO plugin installed."
 msgstr "Дія підтримується, тільки коли встановлений додаток «Контакти» (без плагіна “PRO”)."
 
-#: /wa-apps/mailer/lib/classes/dependency/controller/mailerCrmDependencyViewAction.class.php:9
 msgid "Action is supported only if CRM app is installed."
 msgstr "Дія підтримується тільки коли встановлено додаток CRM."
 
-#: /wa-apps/mailer/lib/classes/dependency/controller/mailerContactsProDependencyViewAction.class.php:9
 msgid "Action is supported only if Contacts app and PRO plugin are installed."
 msgstr "Контроллер підтримується тільки коли встановлений додаток «Контакти» із плагіном “PRO”."
 
-#: /wa-apps/mailer/lib/classes/dependency/controller/mailerContactsProDependencyJsonController.class.php:9
 msgid "Controller is supported only if Contacts app and PRO plugin are installed."
 msgstr "Контроллер підтримується тільки коли встановлений додаток «Контакти» із плагіном “PRO”."
 
-#: /wa-apps/mailer/lib/config/mailerRightConfig.class.php:8
 msgid "Inspector: can only view all existing campaigns, but cannot edit or send them"
 msgstr "Інспектор: може тільки переглядати існуючі розсилання, але не може редагувати чи надсилати їх"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:43
 msgid "Form setup"
 msgstr "Налаштування форми"
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:226
 msgid "Every time you receive a message from an unknown email address which is not yet stored in your Contacts database, an automatic notification will be sent to the sender's address."
 msgstr "Кожного разу, коли ви отримуєте повідомлення з невідомої адреси email, якої ще немає у ваших «Контактах», на цю адресу буде надіслано автоматичне повідомлення."
 
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersFormeditor.html:227
 msgid "This notification contains a special link which must be clicked to confirm the sending of the first request. You may also add extra instructions for your clients to the notification text."
 msgstr "Повідомлення містить спеціальне посилання, за яким необхідно перейти, аби підтвердити надсилання першого запиту. Ви также можете додати інструкції для ваших клієнтів у текст повідомлення."
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSettings.html:318
 msgid "Now we are checking campaing settings and preparing recipient list"
 msgstr "Зараз ми перевіряємо налаштування кампанії і готуємо перелік отримувачів"
 
-#: /wa-apps/mailer/templates/actions/campaigns/CampaignsSidebar.html:50
 msgid "Create new from this"
 msgstr "Створити з цього"
 
-#: /wa-apps/mailer/lib/handlers/contacts.search.config.handler.php:17
 msgid "Received campaigns"
 msgstr "Отримані кампанії"
 
-#: /wa-apps/mailer/lib/actions/subscribers/mailerSubscribersFormeditor.action.php:43
 msgid "Subscriber name, if it uses in form."
 msgstr "Ім&#39;я підписувача, якщо воно використовується у формі."
 
-#: /wa-apps/mailer/lib/actions/subscribers/mailerSubscribersFormeditor.action.php:44
 msgid "URL address for not registered clients to confirm their original email. Click on this link opens the request in the client's Customer Portal."
 msgstr "Адреса URL для незареєстрованих клієнтів, аби підтвердити їх оригінальний email. Перехід за цим посиланням відкриє запит клієнта у Центрі замовника."
 
-#: /wa-apps/mailer/templates/actions/backend/BackendContactTab.html:11
 msgid "Date"
 msgstr "Дата"
 
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:68
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:64
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:147
 msgid "prev"
 msgstr "назад"
 
-#: /wa-apps/mailer/templates/actions/undeliverable/UndeliverableList.html:71
-#: /wa-apps/mailer/templates/actions/unsubscribed/UnsubscribedList.html:67
-#: /wa-apps/mailer/templates/actions/subscribers/SubscribersList.html:150
 msgid "next"
 msgstr "далі"
 
-#: /wa-apps/mailer/lib/classes/mailerHelper.class.php:120
-#: /wa-apps/mailer/lib/actions/templates/mailerTemplatesEdit.action.php:38
 msgid "Deleted contact #%d"
 msgstr "Видалено контакт #%d"
+
+msgid "System default (%s)"
+msgstr "Системний за замовчуванням (%s)"
+
+msgid "To select CRM segments, first create them in <a href=\"%s\">CRM</a> app."
+msgstr "Аби обрати сегменти CRM, спершу створіть їх у додатку <a href=\"%s\">CRM</a> ."
+
+msgid "Return-Path “%s” forbidden by sending server."
+msgstr "Зворотний шлях \" %s\" заборонено сервером відправника."

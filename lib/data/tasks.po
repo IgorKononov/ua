@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Tasks 1.2.0.92 UA translation v 1.1\n"
+"Project-Id-Version: Webasyst Tasks 1.2.1.100 UA translation v 1.1\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -11,1659 +11,972 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
-#: /wa-apps/tasks/templates/mail/Edit.html:4
-#: /wa-apps/tasks/templates/mail/Comment.html:2
 msgid "%s edited a task you are assigned to:"
 msgstr "%s відредагував призначене на вас завдання:"
 
-#: /wa-apps/tasks/templates/mail/Edit.html:6
-#: /wa-apps/tasks/templates/mail/Comment.html:4
 msgid "%s edited a task you created:"
 msgstr "%s відредагував створене вами завдання:"
 
-#: /wa-apps/tasks/templates/mail/Edit.html:8
 msgid "%s edited a task:"
 msgstr "%s відредагував завдання:"
 
-#: /wa-apps/tasks/templates/mail/Edit.html:21
-#: /wa-apps/tasks/templates/mail/Comment.html:25
-#: /wa-apps/tasks/templates/mail/Assign.html:32
-#: /wa-apps/tasks/templates/mail/BulkAssign.html:12
-#: /wa-apps/tasks/templates/mail/New.html:33
-#: /wa-apps/tasks/templates/mail/Done.html:18
-#: /wa-apps/tasks/templates/mail/Assign.html:15
-#: /wa-apps/tasks/templates/mail/BulkAssign.html:11
-#: /wa-apps/tasks/templates/mail/Comment.html:18
-#: /wa-apps/tasks/templates/mail/Done.html:15
 msgid "via Tasks app"
 msgstr "через додаток «Завдання»"
 
-#: /wa-apps/tasks/templates/mail/Comment.html:4
 msgid "%s wrote a comment to task you are assigned to:"
 msgstr "%s написав коментар до завдання, на яке вас призначено:"
 
-#: /wa-apps/tasks/templates/mail/Comment.html:6
 msgid "%s wrote a comment to task you created:"
 msgstr "%s написав коментар до створеного вами завдання:"
 
-#: /wa-apps/tasks/templates/mail/Comment.html:8
 msgid "%s wrote a comment:"
 msgstr "%s написав коментар:"
 
-#: /wa-apps/tasks/templates/mail/Helpers.inc.html:21
-#: /wa-apps/tasks/lib/config/config.php:76
-#: /wa-apps/tasks/lib/config/config.php:94
 msgid "Low"
 msgstr "Низький"
 
-#: /wa-apps/tasks/templates/mail/Helpers.inc.html:26
-#: /wa-apps/tasks/lib/config/config.php:88
-#: /wa-apps/tasks/lib/config/config.php:82
 msgid "High"
 msgstr "Високий"
 
-#: /wa-apps/tasks/templates/mail/Helpers.inc.html:31
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:65
-#: /wa-apps/tasks/lib/config/config.php:94
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:50
-#: /wa-apps/tasks/lib/config/config.php:76
 msgid "Urgent"
 msgstr "Термінові"
 
-#: /wa-apps/tasks/templates/mail/Helpers.inc.html:70
 msgid "Files"
 msgstr "Файли"
 
-#: /wa-apps/tasks/templates/mail/Assign.html:5
 msgid "User %s sent you your task."
 msgstr "Користувач %s надіслав вам ваше завдання."
 
-#: /wa-apps/tasks/templates/mail/Assign.html:7
 msgid "User %s sent you a task."
 msgstr "Користувач %s відправив вам завдання."
 
-#: /wa-apps/tasks/templates/mail/Assign.html:12
-#: /wa-apps/tasks/templates/mail/Assign.html:14
 msgid "User %s sent a task to %s."
 msgstr "Користувач %s надіслав завдання для %s."
 
-#: /wa-apps/tasks/templates/mail/BulkAssign.html:1
 msgid "%d new task"
 msgid_plural "%d new tasks"
 msgstr[0] "%d нове завдання"
 msgstr[1] "%d нових завдання"
 msgstr[2] "%d нових завдань"
 
-#: /wa-apps/tasks/templates/mail/New.html:6
 msgid "%s sent you a your task"
 msgstr "%s надіслав вам ваше завдання"
 
-#: /wa-apps/tasks/templates/mail/New.html:8
-#: /wa-apps/tasks/templates/mail/Assign.html:1
 msgid "%s sent you a new task"
 msgstr "%s надіслав вам нове завдання"
 
-#: /wa-apps/tasks/templates/mail/New.html:13
-#: /wa-apps/tasks/templates/mail/New.html:15
 msgid "%s sent new task to %s"
 msgstr "%s відправив нове завдання для %s"
 
-#: /wa-apps/tasks/templates/mail/Done.html:3
-#: /wa-apps/tasks/templates/mail/Done.html:1
 msgid "%s has just completed a task"
 msgstr "%s щойно виконав завдання"
 
-#: /wa-apps/tasks/templates/actions/list/ListEdit.html:13
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:67
 msgid "Save in my lists"
 msgstr "Зберегти в мої списки"
 
-#: /wa-apps/tasks/templates/actions/list/ListEdit.html:18
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:46
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:20
 msgid "Name"
 msgstr "Назва"
 
-#: /wa-apps/tasks/templates/actions/list/ListEdit.html:25
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:63
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:55
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:77
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:47
 msgid "Icon"
 msgstr "Значок"
 
-#: /wa-apps/tasks/templates/actions/list/ListEdit.html:50
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:154
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:125
-#: /wa-apps/tasks/templates/actions/settings/SettingsOrdering.html:13
-#: /wa-apps/tasks/templates/actions/settings/SettingsOrdering.html:31
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:182
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:84
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:53
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:139
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:166
-#: /wa-apps/tasks/templates/actions/settings/SettingsOrdering.html:21
-#: /wa-apps/tasks/templates/actions/settings/SettingsOrdering.html:39
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:68
 msgid "Save"
 msgstr "Зберегти"
 
-#: /wa-apps/tasks/templates/actions/list/ListEdit.html:57
-#: /wa-apps/tasks/templates/actions/tasks/TasksChangeStatusConfirm.html:34
-#: /wa-apps/tasks/templates/actions/tasks/TasksDeadlineSetDialog.html:19
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:288
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:155
-#: /wa-apps/tasks/templates/actions/tasks/TaskCommentForm.inc.html:89
-#: /wa-apps/tasks/templates/actions/tasks/TasksPriorityForm.html:15
-#: /wa-apps/tasks/templates/actions/tasks/TasksReturn.html:30
-#: /wa-apps/tasks/templates/actions/tasks/TasksStatusform.html:45
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:145
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:252
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:69
-#: /wa-apps/tasks/templates/actions/tasks/TasksReturn.html:28
-#: /wa-apps/tasks/templates/actions/tasks/TasksStatusform.html:37
 msgid "or"
 msgstr "або"
 
-#: /wa-apps/tasks/templates/actions/list/ListEdit.html:58
-#: /wa-apps/tasks/templates/actions/tasks/TasksChangeStatusConfirm.html:35
-#: /wa-apps/tasks/templates/actions/tasks/TasksDeadlineSetDialog.html:20
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:289
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:156
-#: /wa-apps/tasks/templates/actions/tasks/TaskCommentForm.inc.html:89
-#: /wa-apps/tasks/templates/actions/tasks/TasksPriorityForm.html:16
-#: /wa-apps/tasks/templates/actions/tasks/TasksReturn.html:31
-#: /wa-apps/tasks/templates/actions/tasks/TasksStatusform.html:46
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:146
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:70
-#: /wa-apps/tasks/templates/actions/tasks/TasksReturn.html:29
-#: /wa-apps/tasks/templates/actions/tasks/TasksStatusform.html:38
 msgid "cancel"
 msgstr "скасувати"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:71
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:575
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:91
 msgid "Edit"
 msgstr "Редагувати"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:78
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:579
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:146
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:22
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:28
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:15
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:38
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:170
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:111
 msgid "Delete"
 msgstr "Видалити"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:89
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:180
 msgid "Set favorite"
 msgstr "Позначити як обране"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:102
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:119
 msgid "Double-click to change task priority"
 msgstr "Натисніть двічі, аби змінити пріоритет завдань"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:143
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:24
-#: /wa-apps/tasks/templates/actions/tasks/TasksReturn.html:6
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:168
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:83
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:6
 msgid "Status"
 msgstr "Статус"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:145
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:48
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:161
 msgid "Archived"
 msgstr "Архівовано"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:167
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:156
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:137
 msgid "Add tag"
 msgstr "Додати тег"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:178
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:172
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksHeaderFiltersHelpers.inc.html:81
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:249
 msgid "Start typing in search field to find a tag."
 msgstr "Почніть набирати у полі пошуку, аби знайти тег."
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:185
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:183
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:151
 msgid "Custom tag..."
 msgstr "Користувальницький тег..."
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:234
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:262
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:68
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:38
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:237
 msgid "Due date"
 msgstr "Термін дії"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:258
 msgid "invert"
 msgstr "інвертувати"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:259
 msgid "remove link"
 msgstr "видалити посилання"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:265
 msgid "Parent task"
 msgstr "Батьківське завдання"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:269
 msgid "Child task"
 msgstr "Дочірнє завдання"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:458
-#: /wa-apps/tasks/templates/actions/tasks/TasksReturn.html:29
-#: /wa-apps/tasks/templates/actions/tasks/TasksReturn.html:27
 msgid "Return"
 msgstr "Повернутися"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:459
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:150
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:288
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:132
 msgid "Forward"
 msgstr "Вперед"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:463
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:292
 msgid "History &amp; Comments"
 msgstr "Історія та коментарі"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:466
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:295
 msgid "Hide history"
 msgstr "Приховати історію"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:474
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksHide.controller.php:14
 msgid "You can't hide high priority task"
 msgstr "Ви не можете приховати пріоритетне завдання"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:476
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksHide.controller.php:11
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:305
 msgid "You can only hide tasks assigned to you."
 msgstr "Ви можете приховати тільки ті завдання, що покладені на вас."
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:483
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:312
 msgid "Hidden until"
 msgstr "Приховане до"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:485
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:120
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:286
 msgid "Hide"
 msgstr "Приховати"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:492
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:321
 msgid "Unhide"
 msgstr "Показати"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:590
-#: /wa-apps/tasks/templates/actions/log/Log.html:124
-#: /wa-apps/tasks/templates/actions/log/Log.html:95
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:316
 msgid "Status:"
 msgstr "Статус:"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:596
-#: /wa-apps/tasks/templates/actions/log/Log.html:137
-#: /wa-apps/tasks/templates/actions/log/Log.html:100
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:322
 msgid "Assigned:"
 msgstr "Призначено:"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:600
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:326
 msgid "Assignment removed"
 msgstr "Призначення видалено"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:644
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:365
 msgid "There are no comments for this task yet."
 msgstr "До цього завдання ще немає коментарів."
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:177
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:171
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksHeaderFiltersHelpers.inc.html:80
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:248
 msgid "There are more than %u tags."
 msgstr "Існує більше, ніж %u тегів."
 
-#: /wa-apps/tasks/templates/actions/tasks/NoProjectsError.html:8
 msgid "Create a project first"
 msgstr "Спочатку створіть проект"
 
-#: /wa-apps/tasks/templates/actions/tasks/NoProjectsError.html:9
 msgid "You need to %sadd your first project%s to be able to create tasks."
 msgid_plural "<a href=\"#/settings/project/add/\">"
-msgstr[0] "Ви маєте %sдодати свій перший проект%s, аби мати змогу створювати завдання"
+msgstr[0] "Ви маєте %sдодати свій перший проект%s, аби мати змогу створювати завдання."
 msgstr[1] "<a href=\"#/settings/project/add/\">"
 msgstr[2] "<a href=\"#/settings/project/add/\">"
 
-#: /wa-apps/tasks/templates/actions/tasks/Tasks.html:21
 msgid "Can't create list from list"
 msgstr "Неможливо створити перелік з переліку"
 
-#: /wa-apps/tasks/templates/actions/tasks/Tasks.html:36
-#: /wa-apps/tasks/templates/actions/log/Log.html:183
-#: /wa-apps/tasks/templates/actions/log/Log.html:145
-#: /wa-apps/tasks/templates/actions/tasks/Tasks.html:18
 msgid "%s of %d"
 msgstr "%s з %d"
 
-#: /wa-apps/tasks/templates/actions/tasks/Tasks.html:38
-#: /wa-apps/tasks/templates/actions/log/Log.html:185
-#: /wa-apps/tasks/templates/actions/log/Log.html:147
-#: /wa-apps/tasks/templates/actions/tasks/Tasks.html:20
 msgid "Load more..."
 msgstr "Завантажити ще..."
 
-#: /wa-apps/tasks/templates/actions/tasks/Tasks.html:40
-#: /wa-apps/tasks/templates/actions/backend/Backend.html:61
-#: /wa-apps/tasks/templates/actions/backend/Backend.html:62
-#: /wa-apps/tasks/templates/actions/log/Log.html:187
-#: /wa-apps/tasks/templates/actions/backend/Backend.html:44
-#: /wa-apps/tasks/templates/actions/backend/Backend.html:45
-#: /wa-apps/tasks/templates/actions/log/Log.html:149
-#: /wa-apps/tasks/templates/actions/tasks/Tasks.html:22
 msgid "Loading..."
 msgstr "Завантаження..."
 
-#: /wa-apps/tasks/templates/actions/tasks/Tasks.html:22
-#: /wa-apps/tasks/templates/actions/tasks/Tasks.html:36
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:140
-#: /wa-apps/tasks/lib/config/tasksConfig.class.php:137
-#: /wa-apps/tasks/templates/actions/tasks/Tasks.html:18
 msgid "%d task"
 msgid_plural "%d tasks"
 msgstr[0] "%d завдання"
 msgstr[1] "%d завдання"
 msgstr[2] "%d завдань"
 
-#: /wa-apps/tasks/templates/actions/tasks/Tasks.html:23
 msgid "no tasks"
 msgstr "немає завдань"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksChangeStatusConfirm.html:10
 msgid "Confirm the action"
 msgstr "Підтвердіть дію"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksChangeStatusConfirm.html:12
 msgid "The task is assigned now to:"
 msgstr "Завдання тепер призначено на:"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksChangeStatusConfirm.html:30
 msgid "Confirm"
 msgstr "Підтвердити"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksCommentEdit.html:3
 msgid "Save comment"
 msgstr "Зберегти коментар"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksDeadlineSetDialog.html:10
-#: /wa-apps/tasks/templates/actions/tasks/TasksDeadlineSetDialog.html:17
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:152
 msgid "Set deadline"
 msgstr "Встановити термін"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:31
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:20
 msgid "You are about to abandon task editor without saving the task. All unsaved data will be lost. Are you sure?"
 msgstr "Ви збираєтеся покинути редактор завдань без збереження завдання. Всі незбережені зміни буде втрачено. Ви впевнені?"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:32
 msgid "You are about to leave the page without saving the task. Are you sure?"
 msgstr "Ви збираєтеся покинути сторінку без збереження завдань. Ви впевнені?"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:33
-#: wa-apps/tasks/js/taskEdit.js:894
 msgid "There are unsaved task draft."
 msgstr "Є незбережена чернетка завдання."
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:34
 msgid "Do you want to continue editing?"
 msgstr "Ви хочете продовжити редагування?"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:103
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:75
 msgid "Input task name"
 msgstr "Введіть назву завдання"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:134
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:120
 msgid "Input task description"
 msgstr "Введіть опис завдання"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:155
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:172
 msgid "Click to select files or drag them here"
 msgstr "Оберіть файли або перетягніть їх сюди"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:223
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:179
 msgid "Assign to"
 msgstr "Призначити на"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:239
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:83
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:197
 msgid "me"
 msgstr "мене"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:249
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:93
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksTaskHelpers.inc.html:21
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksTaskHelpers.inc.html:22
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:181
-#: /wa-apps/tasks/templates/actions/log/Log.html:141
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:96
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:207
 msgid "Unassigned"
 msgstr "Непризначене"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:254
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:47
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:125
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksHeaderFiltersHelpers.inc.html:68
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:212
 msgid "Show all"
 msgstr "Показати усі"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:287
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:251
 msgid "Save task"
 msgstr "Зберегти завдання"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:287
-#: /wa-apps/tasks/lib/handlers/hub.backend.handler.php:17
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:251
 msgid "Create task"
 msgstr "Створити завдання"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:297
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:260
 msgid "Email"
 msgstr "Email"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:304
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:267
 msgid "SMS"
 msgstr "СМС"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:309
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:272
 msgid "More fields"
 msgstr "Більше полів"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:26
 msgid "Date is invalid"
 msgstr "Дата є недійсною"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:22
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:9
 msgid "Filter tasks"
 msgstr "Відфільтрувати завдання"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:65
 msgid "Remove from my lists"
 msgstr "Видалити з моїх переліків"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:90
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:71
 msgid "Priority"
 msgstr "Пріоритет"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:91
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesDefault.html:70
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesDefault.html:12
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:221
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:72
 msgid "Due"
 msgstr "Термін дії"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:92
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:73
 msgid "Newest"
 msgstr "Найновіші"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:93
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:74
 msgid "Oldest"
 msgstr "Найстаріші"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:140
-#: /wa-apps/tasks/lib/config/install.php:24
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:105
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:134
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:135
 msgid "Done"
 msgstr "Виконано"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:151
-#: /wa-apps/tasks/templates/actions/tasks/TasksPriorityForm.html:14
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:133
 msgid "Set priority"
 msgstr "Встановити пріоритет"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:184
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:152
 msgid "Add"
 msgstr "Додати"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:203
-#: /wa-apps/tasks/js/tasksHeader.js:402
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:123
-#: /wa-apps/tasks/js/tasksHeader.js:219
 msgid "Forward (%d)"
 msgstr "Вперед (%d)"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:11
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:56
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:28
 msgid "Project"
 msgstr "Проект"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:27
 msgid "Do not change"
 msgstr "Не змінювати"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:35
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:16
 msgid "Forward to"
 msgstr "Вперед до"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:144
-#: /wa-apps/tasks/templates/actions/tasks/TasksReturn.html:17
-#: /wa-apps/tasks/templates/actions/tasks/TasksStatusform.html:27
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:60
 msgid "Comment"
 msgstr "Коментар"
 
-#: /wa-apps/tasks/templates/actions/tasks/TaskCommentForm.inc.html:14
 msgid "Enter your comment"
 msgstr "Введіть коментар"
 
-#: /wa-apps/tasks/templates/actions/tasks/TaskCommentForm.inc.html:22
-#: /wa-apps/tasks/templates/actions/tasks/TaskStatusForm.DropArea.html:19
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:406
 msgid "Please click or drop image file here"
 msgstr "Натисніть кнопку або перетягніть файл зображення сюди"
 
-#: /wa-apps/tasks/templates/actions/tasks/TaskCommentForm.inc.html:85
 msgid "Add comment"
 msgstr "Додати коментар"
 
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksHeaderFiltersHelpers.inc.html:64
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:244
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:254
 msgid "Tags"
 msgstr "Теги"
 
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksHeaderFiltersHelpers.inc.html:86
 msgid "Search tag..."
 msgstr "Пошук тега..."
 
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksTaskMilestoneSelector.inc.html:12
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:224
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:146
 msgid "No milestone"
 msgstr "Немає етапу"
 
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksHeaderFilters.inc.html:17
 msgid "All"
 msgstr "Усі"
 
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksHeaderFilters.inc.html:21
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:42
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:34
 msgid "Inbox"
 msgstr "Вхідні"
 
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksHeaderFilters.inc.html:25
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:50
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:42
 msgid "Outbox"
 msgstr "Вихідні"
 
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksHeaderFilters.inc.html:29
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:61
-#: /wa-apps/tasks/templates/actions/settings/SettingsPersonal.html:31
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:46
 msgid "Favorites"
 msgstr "Обране"
 
-#: /wa-apps/tasks/templates/actions/tasks/includes/TasksHeaderFilters.inc.html:62
-#: /wa-apps/tasks/templates/actions/log/Log.html:38
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:57
 msgid "Clear filters"
 msgstr "Очистити фільтри"
 
-#: /wa-apps/tasks/templates/actions/tasks/TaskStatusForm.DropArea.html:10
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:62
-#: /wa-apps/tasks/templates/actions/tasks/TasksReturn.html:21
 msgid "Input your comment"
 msgstr "Введіть коментар"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksPriorityForm.html:4
 msgid "Change priority"
 msgstr "Змінити пріоритет"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksReturn.html:10
 msgid "Return to"
 msgstr "Повернутися до"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksStatusform.html:11
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:103
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:92
 msgid "Assignment"
 msgstr "Призначення"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksStatusform.html:15
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:121
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:110
 msgid "Clear assignment"
 msgstr "Очистити призначення"
 
-#: /wa-apps/tasks/templates/actions/backend/Backend.html:68
-#: /wa-apps/tasks/templates/actions/backend/Backend.html:56
 msgid "Drop anywhere to upload"
 msgstr "Перетягніть на будь-яке місце для завантаження"
 
-#: /wa-apps/tasks/templates/actions/backend/Backend.html:73
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:85
-#: /wa-apps/tasks/js/tasks.js:598
-#: /wa-apps/tasks/templates/actions/tasks/TasksHeader.html:57
 msgid "Search"
 msgstr "Пошук"
 
-#: /wa-apps/tasks/templates/actions/backend/Backend.html:74
-#: /wa-apps/tasks/js/task.js:1002 /wa-apps/tasks/js/task.js:553
 msgid "Either text or attachment is required to add comment."
 msgstr "Для додавання коментаря введіть текст або додайте вкладення."
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:32
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:30
 msgid "New task"
 msgstr "Нове завдання"
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:46
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:38
 msgid "Hidden"
 msgstr "Приховані"
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:74
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:80
 msgid "Logbook"
 msgstr "Журнал"
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:94
 msgid "My lists"
 msgstr "Мої списки"
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:133
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:61
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesDefault.html:2
 msgid "Scopes"
 msgstr "Огляди"
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:146
 msgid "Date not set."
 msgstr "Дату не встановлено."
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:156
 msgid "Scopes are not set."
 msgstr "Огляди не встановлено."
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:188
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:103
 msgid "Team"
 msgstr "Команда"
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:202
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:126
 msgid "Use <b>Contacts app</b> to provide access to Tasks app for your teammates."
 msgstr "Використовуйте додаток <b>«Контакти»</b>, аби забезпечити доступ членам вашої команди до додатку «Завдання»."
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:215
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:20
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:120
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:17
 msgid "Projects"
 msgstr "Проекти"
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:235
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:156
 msgid "Create a project by clicking the green tiny icon above."
 msgstr "Створіть проект, натиснувши зелений невеличкий значок вище."
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:269
-#: /wa-apps/tasks/templates/actions/settings/SettingsPersonal.html:6
 msgid "Personal settings"
 msgstr "Персональні налаштування"
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:273
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:142
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:10
 msgid "Settings"
 msgstr "Параметри"
 
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:7
-#: /wa-apps/tasks/templates/actions/settings/SettingsOrdering.html:7
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:158
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:27
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:148
-#: /wa-apps/tasks/templates/actions/settings/SettingsOrdering.html:15
 msgid "Settings successfully updated"
 msgstr "Налаштування успішно оновлено"
 
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:16
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:34
 msgid "Archive datetime"
 msgstr "Дата та час архіву"
 
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:18
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:144
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:34
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:160
 msgid "Archive this project"
 msgstr "Архівувати цей проект"
 
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:28
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:42
 msgid "New project"
 msgstr "Новий проект"
 
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:28
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:137
-#: /wa-apps/tasks/templates/actions/settings/SettingsOrdering.html:25
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:27
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:52
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:69
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:91
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:36
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:6
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:42
-#: /wa-apps/tasks/templates/actions/settings/SettingsOrdering.html:33
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:23
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:38
 msgid "(no name)"
 msgstr "(без назви)"
 
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:36
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:38
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:50
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:52
 msgid "Project name"
 msgstr "Назва проекту"
 
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:46
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:60
 msgid "Color"
 msgstr "Колір"
 
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:75
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:89
 msgid "Or enter image URL (image will be scaled to 16x16px)"
 msgstr "Або введіть URL-адресу зображення (зображення будуть масштабовано до 16x16 пікселів)"
 
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:83
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:97
 msgid "Workflow"
 msgstr "Робочий процес"
 
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:106
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:120
 msgid "Customize..."
 msgstr "Налаштування..."
 
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:153
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:100
-#: /wa-apps/tasks/js/tasksHeader.js:358 /wa-apps/tasks/js/tasksHeader.js:380
-#: /wa-apps/tasks/js/task.js:239 /wa-apps/tasks/js/task.js:1164
-#: /wa-apps/tasks/js/task.js:1958 /wa-apps/tasks/js/taskEdit.js:833
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:62
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:154
-#: /wa-apps/tasks/js/task.js:102 /wa-apps/tasks/js/task.js:675
-#: /wa-apps/tasks/js/taskEdit.js:524 /wa-apps/tasks/js/tasksHeader.js:177
-#: /wa-apps/tasks/js/tasksHeader.js:198
 msgid "Are you sure?"
 msgstr "Ви впевнені?"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsOrdering.html:10
-#: /wa-apps/tasks/templates/actions/settings/SettingsOrdering.html:18
 msgid "Project ordering"
 msgstr "Порядок у проекті"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsOrdering.html:15
-#: /wa-apps/tasks/templates/actions/settings/SettingsOrdering.html:23
 msgid "Projects are sorted by name. You can select important projects to show them before everything else. Important projects can be manually reordered via drag-and-drop."
 msgstr "Проекти сортуються за назвою. Ви можете обрати важливі проекти, аби показати їх поперед інших. Важливі проекти можуть бути упорядковані вручну за допомогою перетягування."
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:27
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:23
 msgid "Status name"
 msgstr "Назва статусу"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:29
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:24
 msgid "Button label"
 msgstr "Напис на кнопці"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:30
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:25
 msgid "Caption for the button that sends a task into this status"
 msgstr "Текст на кнопці, яка переводить завдання у цей статус"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:70
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:61
 msgid "Task title style"
 msgstr "Стиль назви завдання"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:73
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:64
 msgid "Italic"
 msgstr "Курсив"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:77
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:68
 msgid "Bold"
 msgstr "Жирний"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:83
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:73
 msgid "Task title color"
 msgstr "Колір назви завдання"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:91
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:81
 msgid "Button color"
 msgstr "Колір кнопки"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:105
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:94
 msgid "Do not change assignment"
 msgstr "Не змінювати призначення"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:106
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:95
 msgid "Assign to user who created the task"
 msgstr "Призначити на користувача, який створив завдання"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:107
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:96
 msgid "Assign to specific user"
 msgstr "Призначити на конкретного користувача"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:108
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:97
 msgid "Show assignment selector every time"
 msgstr "Кожного разу показувати селектор призначення"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:131
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:120
 msgid "Allow to clear assignment"
 msgstr "Дозволити очистити призначення"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:140
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:129
 msgid "Comment form"
 msgstr "Форма коментаря"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:143
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:132
 msgid "Show comment form"
 msgstr "Показати форму коментаря"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:161
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:8
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:164
 msgid "Task statuses"
 msgstr "Статуси завдань"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:167
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:159
 msgid "New status"
 msgstr "Новий статус"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:194
 msgid "You have unsaved changes. Are you sure you want to leave?"
 msgstr "У вас є незбережені зміни. Ви впевнені, що хочете піти?"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsPersonal.html:11
 msgid "Notifications"
 msgstr "Повідомлення"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsPersonal.html:12
 msgid "Send me notification in case of"
 msgstr "Надіслати мені повідомлення в разі"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsPersonal.html:16
 msgid "Any action"
 msgstr "Будь-якої дії"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsPersonal.html:17
 msgid "Assignment only"
 msgstr "Тільки призначення"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsPersonal.html:18
 msgid "Switch off"
 msgstr "Вимкнути"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsPersonal.html:25
 msgid "Notify me about next kind of tasks"
 msgstr "Повідомити мене про завдання наступних типів"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsPersonal.html:29
 msgid "Assigned to me"
 msgstr "Призначені на мене"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsPersonal.html:30
 msgid "Created by me"
 msgstr "Створені мною"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsPersonal.html:32
 msgid "Selected projects"
 msgstr "Відібрані проекти"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsPersonal.html:46
 msgid "Save settings"
 msgstr "Зберегти параметри"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:38
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:29
 msgid "Show %d archived project"
 msgid_plural "Show %d archived projects"
 msgstr[0] "Показати %d архівований проект"
 msgstr[1] "Показати %d архівованих проекти"
 msgstr[2] "Показати %d архівованих проектів"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:39
 msgid "Hide archived project"
 msgid_plural "Hide archived projects"
 msgstr[0] "Приховати архівований проект"
 msgstr[1] "Приховати архівовані проекти"
 msgstr[2] "Приховати архівовані проекти"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:77
 msgid "Show %d archived scope"
 msgid_plural "Show %d archived scopes"
 msgstr[0] "Показати %d архівований огляд"
 msgstr[1] "Показати %d архівованих огляди"
 msgstr[2] "Показати %d архівованих оглядів"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:78
 msgid "Hide archived scope"
 msgid_plural "Hide archived scopes"
 msgstr[0] "Приховати архівований огляд"
 msgstr[1] "Приховати архівовані огляди"
 msgstr[2] "Приховати архівовані огляди"
 
-#: /wa-apps/tasks/templates/actions/log/Log.html:52
-#: /wa-apps/tasks/templates/actions/log/Log.html:41
 msgid "from"
 msgstr "від"
 
-#: /wa-apps/tasks/templates/actions/log/Log.html:54
-#: /wa-apps/tasks/templates/actions/log/Log.html:42
 msgid "to"
 msgstr "до"
 
-#: /wa-apps/tasks/templates/actions/log/Log.html:57
-#: /wa-apps/tasks/templates/actions/log/Log.html:44
 msgid "by day"
 msgstr "за днем"
 
-#: /wa-apps/tasks/templates/actions/log/Log.html:58
-#: /wa-apps/tasks/templates/actions/log/Log.html:45
 msgid "by month"
 msgstr "за місяцем"
 
-#: /wa-apps/tasks/templates/actions/log/Log.html:69
-#: /wa-apps/tasks/templates/actions/log/Log.html:56
 msgid "All time"
 msgstr "Увесь час"
 
-#: /wa-apps/tasks/templates/actions/log/Log.html:70
-#: /wa-apps/tasks/templates/actions/log/Log.html:57
 msgid "Select dates..."
 msgstr "Оберіть дати..."
 
-#: /wa-apps/tasks/templates/actions/log/Log.html:66
-#: /wa-apps/tasks/templates/actions/log/Log.html:67
-#: /wa-apps/tasks/templates/actions/log/Log.html:68
-#: /wa-apps/tasks/templates/actions/log/Log.html:53
-#: /wa-apps/tasks/templates/actions/log/Log.html:54
-#: /wa-apps/tasks/templates/actions/log/Log.html:55
 msgid "Last %d day"
 msgid_plural "Last %d days"
 msgstr[0] "Останній %d день"
 msgstr[1] "Останні %d дні"
 msgstr[2] "Останні %d днів"
 
-#: /wa-apps/tasks/templates/actions/log/Log.html:183
-#: /wa-apps/tasks/templates/actions/log/Log.html:145
 msgid "%d record"
 msgid_plural "%d records"
 msgstr[0] "%d запис"
 msgstr[1] "%d записи"
 msgstr[2] "%d записів"
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:10
 msgid "Scope successfully saved"
 msgstr "Огляд успішно збережено"
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:22
 msgid "Restore this scope"
 msgstr "Відновити цей огляд"
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:24
 msgid "Archive this scope"
 msgstr "Архівувати цей огляд"
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:38
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesDefault.html:5
 msgid "New scope"
 msgstr "Новий огляд"
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:50
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:24
 msgid "Description"
 msgstr "Опис"
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:52
 msgid "A tiny hint describing this scope."
 msgstr "Невеличка підказка, що описує цей огляд."
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesDefault.html:85
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:606
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesDefault.html:39
 msgid "Today"
 msgstr "Сьогодні"
 
-#: /wa-apps/tasks/js/task.js:1029 /wa-apps/tasks/js/task.js:576
 msgid "Error Comment ID"
 msgstr "Ідентифікатор коментаря про помилку"
 
-#: /wa-apps/tasks/js/taskEdit.js:925 /wa-apps/tasks/js/taskEdit.js:547
 msgid "Select Project"
 msgstr "Оберіть проект"
 
-#: /wa-apps/tasks/js/taskEdit.js:401 /wa-apps/tasks/js/taskEdit.js:166
 msgid "Your browser does not support File API!"
 msgstr "Ваш браузер не підтримує API «Файлів»!"
 
-#: /wa-apps/tasks/lib/config/logs.php:5
 msgid "created a task"
 msgstr "створив завдання"
 
-#: /wa-apps/tasks/lib/config/logs.php:8
 msgid "edited a task"
 msgstr "відредагував завдання"
 
-#: /wa-apps/tasks/lib/config/logs.php:11
 msgid "deleted a task"
 msgstr "видалив завдання"
 
-#: /wa-apps/tasks/lib/config/logs.php:14
 msgid "forwarded a task"
 msgstr "переслав завдання"
 
-#: /wa-apps/tasks/lib/config/logs.php:17
 msgid "returned a task"
 msgstr "повернув завдання"
 
-#: /wa-apps/tasks/lib/config/logs.php:20
 msgid "performed action with a task"
 msgstr "виконав дію із завданням"
 
-#: /wa-apps/tasks/lib/config/logs.php:23
 msgid "commented on a task"
 msgstr "прокоментував завдання"
 
-#: /wa-apps/tasks/lib/config/logs.php:26
 msgid "edited comment"
 msgstr "відредагував коментар"
 
-#: /wa-apps/tasks/lib/config/logs.php:29 /wa-apps/tasks/lib/config/logs.php:26
 msgid "forwarded several tasks"
 msgstr "переслав кілька завдань"
 
-#: /wa-apps/tasks/lib/config/logs.php:32 /wa-apps/tasks/lib/config/logs.php:29
 msgid "marked several tasks as done"
 msgstr "помітив кілька завдань як виконані"
 
-#: /wa-apps/tasks/lib/config/install.php:22
 msgid "Testing"
 msgstr "Тестування"
 
-#: /wa-apps/tasks/lib/config/tasksRightConfig.class.php:14
 msgid "Can manage projects"
 msgstr "Може керувати проектами"
 
-#: /wa-apps/tasks/lib/config/tasksRightConfig.class.php:18
 msgid "No access"
 msgstr "Немає доступу"
 
-#: /wa-apps/tasks/lib/config/tasksRightConfig.class.php:19
 msgid "View assigned tasks only"
 msgstr "Переглянути тільки призначені завдання"
 
-#: /wa-apps/tasks/lib/config/tasksRightConfig.class.php:20
 msgid "Full access"
 msgstr "Повний доступ"
 
-#: /wa-apps/tasks/lib/config/config.php:82
-#: /wa-apps/tasks/lib/config/config.php:88
 msgid "Normal"
 msgstr "Нормальний"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:612
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesDefault.html:30
 msgid "%d day left"
 msgid_plural "%d days left"
 msgstr[0] "Залишився %d день"
 msgstr[1] "Залишилось %d дні"
 msgstr[2] "Залишилось %d днів"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:614
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesDefault.html:32
 msgid "%d day overdue"
 msgid_plural "%d days overdue"
 msgstr[0] "Прострочено на %d день"
 msgstr[1] "Прострочено на %d дні"
 msgstr[2] "Прострочено на %d днів"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:387
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:393
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:365
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:371
 msgid "%d min"
 msgid_plural "%d mins"
 msgstr[0] "%d хв"
 msgstr[1] "%d хв"
 msgstr[2] "%d хв"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:396
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:397
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:374
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:375
 msgid "%d hr"
 msgid_plural "%d hrs"
 msgstr[0] "%d год"
 msgstr[1] "%d год"
 msgstr[2] "%d год"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:404
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:405
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:382
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:383
 msgid "%d mo"
 msgid_plural "%d mo"
 msgstr[0] "%d міс"
 msgstr[1] "%d міс"
 msgstr[2] "%d міс"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:408
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:409
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:386
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:387
 msgid "%d yr"
 msgid_plural "%d yrs"
 msgstr[0] "%d рік"
 msgstr[1] "%d роки"
 msgstr[2] "%d років"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:131
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:126
 msgid "Open"
 msgstr "Відкрито"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:139
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:140
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:134
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:135
 msgid "Closed"
 msgstr "Закрито"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:141
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:136
 msgid "done"
 msgstr "зроблено"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:391
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:369
 msgid "Just now"
 msgstr "Щойно"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:400
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:401
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:378
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:379
 msgid "%d d"
 msgstr "%d д"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:608
 msgid "Yesterday"
 msgstr "Вчора"
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:610
 msgid "Tomorrow"
 msgstr "Завтра"
 
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:34
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:36
 msgid "ASSIGNED: %d task was assigned to you"
 msgid_plural "ASSIGNED: %d tasks were assigned to you"
 msgstr[0] "ПРИЗНАЧЕНО: на вас призначене %d завдання"
 msgstr[1] "ПРИЗНАЧЕНО: на вас призначено %d завдання"
 msgstr[2] "ПРИЗНАЧЕНО: на вас призначено %d завдань"
 
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:37
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:40
 msgid "DONE: %d task was completed"
 msgid_plural "DONE: %d tasks were completed"
 msgstr[0] "ВИКОНАНО: %d завдання було виконано"
 msgstr[1] "ВИКОНАНО: %d завдання було виконано"
 msgstr[2] "ВИКОНАНО: %d завдань було виконано"
 
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:117
 msgid "NEW: %s %s"
 msgstr "НОВЕ: %s %s"
 
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:120
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:87
 msgid "ASSIGNED: %s %s"
 msgstr "ПРИЗНАЧЕНО: %s %s"
 
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:123
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:90
 msgid "DONE: %s was completed"
 msgstr "ВИКОНАНО: %s було завершено"
 
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:128
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:94
 msgid "EDIT: %s was edited"
 msgstr "ВІДРЕДАГОВАНО: %s було відредаговано"
 
-#: /wa-apps/tasks/lib/handlers/helpdesk.view_action.handler.php:21
-#: /wa-apps/tasks/lib/handlers/helpdesk.view_action.handler.php:18
 msgid "Create task from this"
 msgstr "Створити з цього завдання"
 
-#: /wa-apps/tasks/lib/actions/list/tasksListSave.controller.php:29
 msgid "Delete list \"%s\""
 msgstr "Видалити перелік \"%s\""
 
-#: /wa-apps/tasks/lib/actions/list/tasksListSave.controller.php:47
 msgid "Name is required"
 msgstr "Ім&#39;я є обов&#39;язковим"
 
-#: /wa-apps/tasks/lib/actions/list/tasksListDelete.controller.php:24
 msgid "Create list"
 msgstr "Створити список"
 
-#: /wa-apps/tasks/lib/actions/from/tasksFromHub.action.php:12
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksComments.actions.php:158
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksCommentEdit.action.php:38
 msgid "Not found"
 msgstr "Не знайдено"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksComments.actions.php:163
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksCommentEdit.action.php:43
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksSave.controller.php:148
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksEdit.action.php:107
-#: /wa-apps/tasks/lib/actions/settings/tasksSettingsOrdering.action.php:10
-#: /wa-apps/tasks/lib/actions/settings/tasksSettings.action.php:39
-#: /wa-apps/tasks/lib/actions/settings/tasksSettingsSave.controller.php:10
-#: /wa-apps/tasks/lib/actions/settings/tasksSettingsSidebar.action.php:59
-#: /wa-apps/tasks/lib/actions/tags/tasksTags.actions.php:95
-#: /wa-apps/tasks/lib/actions/milestones/tasksMilestones.actions.php:192
-#: /wa-apps/tasks/lib/actions/tags/tasksTags.actions.php:107
 msgid "Access denied"
 msgstr "Доступ заборонено"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksInfo.action.php:33
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksStatusform.action.php:10
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksForward.action.php:13
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksReturn.action.php:9
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksLog.actions.php:27
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksEdit.action.php:104
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksEdit.action.php:112
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksInfo.action.php:14
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksLog.actions.php:24
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksSave.controller.php:34
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksStatusform.action.php:9
 msgid "Task not found"
 msgstr "Завдання не знайдено"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksInfo.action.php:37
 msgid "You have not enough rights to view this task"
 msgstr "У вас недостатньо прав для перегляду цього завдання"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:302
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:115
 msgid "All projects"
 msgstr "Усі проекти"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:331
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:125
 msgid "All statuses"
 msgstr "Усі статуси"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:334
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:306
 msgid "All including closed"
 msgstr "Усі, включаючи закриті"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:351
 msgid "Any scope"
 msgstr "Будь-який огляд"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:357
 msgid "No scope"
 msgstr "Немає огляду"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:368
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:156
 msgid "Everyone"
 msgstr "Усі"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:389
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:397
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:175
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:183
 msgid "Your inbox is empty"
 msgstr "Вхідних немає"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:390
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:398
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:179
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:187
 msgid "Inbox automatically collects all tasks assigned to you. No tasks are assigned to you right now :-)"
 msgstr "У вхідних з&#39;являються усі поставлені назначені на вас завдання. Наразі завдань на вас не призначено :-)"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:413
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:202
 msgid "Your outbox is empty"
 msgstr "Немає вихідних"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:414
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:203
 msgid "Outbox automatically collects all tasks you’ve created."
 msgstr "У вихідних з&#39;являються усі створені вами завдання."
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:420
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:209
 msgid "Your favorite task list is empty"
 msgstr "Перелік обраних вами завдань порожній"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:421
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:200
 msgid "To add a task to your personal favorite list, click on a tiny star icon next to task name."
 msgstr "Аби додати завдання до переліку обраних, натисніть на значок зірочки поруч із назвою завдання."
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:428
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:217
 msgid "There are no tasks in this project."
 msgstr "У цьому проекті немає завдань."
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:443
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:221
 msgid "Task list is empty"
 msgstr "Перелік завдань порожній"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:444
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:232
 msgid "No tasks match your search criteria."
 msgstr "Ніякі завдання не відповідають вашим критеріям пошуку."
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksReturn.action.php:12
 msgid "Unable to return task because contact has been deleted. Use forward action instead."
 msgstr "Не вдається повернути завдання, тому що контакт було видалено. Натомість використовуйте дію пересилання."
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksLog.actions.php:56
 msgid "Unable to return task because someone modified it."
 msgstr "Неможливо повернути завдання, тому що хтось його змінив."
 
-#: /wa-apps/tasks/lib/actions/attachements/tasksAttachmentsDownload.controller.php:12
 msgid "File not found"
 msgstr "Файл не знайдено"
 
-#: /wa-apps/tasks/lib/actions/attachements/tasksAttachmentsUpload.controller.php:13
-#: /wa-apps/tasks/lib/actions/attachements/tasksAttachmentsUpload.controller.php:17
-#: /wa-apps/tasks/lib/actions/attachements/tasksAttachmentsUpload.controller.php:20
 msgid "Failed to upload file %s."
 msgstr "Не вдалося завантажити файл %s."
 
-#: /wa-apps/tasks/lib/actions/milestones/tasksMilestones.actions.php:128
-#: /wa-apps/tasks/lib/actions/milestones/tasksMilestones.actions.php:133
-#: /wa-apps/tasks/lib/actions/milestones/tasksMilestones.actions.php:69
-#: /wa-apps/tasks/lib/actions/milestones/tasksMilestones.actions.php:72
 msgid "This field is required."
 msgstr "Це поле є обов&#39;язковим."
 
-#: /wa-apps/tasks/lib/actions/milestones/tasksMilestones.actions.php:187
 msgid "Scope not found"
 msgstr "Огляд не знайдено"
 
-#: /wa-apps/tasks/lib/models/tasksTaskLog.model.php:312
-#: /wa-apps/tasks/lib/models/tasksTaskLog.model.php:159
 msgid "created"
 msgstr "створив"
 
-#: /wa-apps/tasks/lib/models/tasksTaskLog.model.php:313
-#: /wa-apps/tasks/lib/models/tasksTaskLog.model.php:160
 msgid "added comment"
 msgstr "додав коментар"
 
-#: /wa-apps/tasks/lib/models/tasksTaskLog.model.php:314
-#: /wa-apps/tasks/lib/models/tasksTaskLog.model.php:161
 msgid "forwarded"
 msgstr "переслав"
 
-#: /wa-apps/tasks/lib/models/tasksTaskLog.model.php:315
-#: /wa-apps/tasks/lib/models/tasksTaskLog.model.php:162
 msgid "returned"
 msgstr "повернув"
 
-#: /wa-apps/tasks/lib/models/tasksTaskLog.model.php:316
 msgid "edit"
 msgstr "редагувати"
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:63
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesDefault.html:5
 msgid "Milestones"
 msgstr "Віхи"
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:67
 msgid "Agile"
 msgstr "Agile"
 
-#: /wa-apps/tasks/templates/actions/backend/Sidebar.html:71
 msgid "Logs"
 msgstr "Журнали"
 
-#: /wa-apps/tasks/templates/actions/log/Log.html:104
 msgid "Empty assignment"
 msgstr "Порожнє призначення"
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesDefault.html:28
 msgid "New milestone"
 msgstr "Нова віха"
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:2
 msgid "Milestone successfully saved"
 msgstr "Віху успішно збережено"
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:8
 msgid "Create milestone"
 msgstr "Створити віху"
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:48
 msgid "Milestone is closed"
 msgstr "Віху закрито"
 
-#: /wa-apps/tasks/templates/actions/projects/ProjectsEdit.html:36
 msgid "Archive"
 msgstr "Архів"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:151
 msgid "Status settings"
 msgstr "Налаштування статусу"
 
-#: /wa-apps/tasks/templates/actions/settings/Settings.html:162
 msgid "Add Status"
 msgstr "Додати статус"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:29
 msgid "Show %d archived projects"
 msgstr "Показати %d архівних проектів"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:48
 msgid "Manage project ordering"
 msgstr "Керувати порядком у проекті"
 
-#: /wa-apps/tasks/templates/actions/settings/SettingsSidebar.html:29
 msgid "[`Show %d archived project`]"
 msgid_plural "[`Show %d archived projects`]"
 msgstr[0] "[`Показати %d архівований проект`]"
 msgstr[1] "[`Показати %d архівованих проекти`]"
 msgstr[2] "[`Показати %d архівованих проектів`]"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:61
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:62
 msgid "unassigned"
 msgstr "непризначені"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:165
 msgid "Edit task"
 msgstr "Редагувати завдання"
 
-#: /wa-apps/tasks/templates/actions/tasks/Task.html:256
 msgid "Comments"
 msgstr "Коментарі"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:232
 msgid "Choose a date"
 msgstr "Оберіть дату"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksEdit.html:253
 msgid "Cancel"
 msgstr "Скасувати"
 
-#: /wa-apps/tasks/templates/actions/tasks/TasksForward.html:48
 msgid "Choose user"
 msgstr "Обрати користувача"
 
-#: /wa-apps/tasks/templates/mail/Assign.html:1
 msgid "A task has been assigned to you."
 msgstr "Завдання було назначене на вас."
 
-#: /wa-apps/tasks/templates/mail/BulkAssign.html:3
 msgid "Go to inbox"
 msgstr "Перейти до вхідних"
 
-#: /wa-apps/tasks/templates/mail/BulkAssign.html:1
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:36
 msgid "%d task has been assigned to you"
 msgid_plural "%d tasks has been assigned to you"
 msgstr[0] "%d завдання було назначене на вас"
 msgstr[1] "%d завдання було назначено на вас"
 msgstr[2] "%d завдань було назначене на вас"
 
-#: /wa-apps/tasks/templates/mail/Done.html:1
 msgid "A task you created has been marked as done."
 msgstr "Створене вами завдання було позначене як виконане."
 
-#: /wa-apps/tasks/lib/actions/milestones/tasksMilestones.actions.php:55
 msgid "Milestone not found"
 msgstr "Віху не знайдено"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:142
 msgid "Any milestone"
 msgstr "Будь-яка віха"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:176
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:184
 msgid "Inbox automatically collects all tasks assigned to you, and is currently empty."
 msgstr "Вхідна скринька автоматично збирає усі призначені на вас завданна, і наразі вона є пустою."
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:199
 msgid "Your favorites list is empty"
 msgstr "Ваш список обраного порожній"
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasks.action.php:222
 msgid "No tasks matching your search criteria."
 msgstr "Немає завдань, які відповідають вашим критеріям пошуку."
 
-#: /wa-apps/tasks/lib/actions/tasks/tasksTasksLog.actions.php:45
 msgid "Unable to return task because someome modified it."
 msgstr "Неможливо повернути завдання, тому що хтось його змінив."
 
-#: /wa-apps/tasks/lib/classes/tasksHelper.class.php:126
 msgid "New"
 msgstr "Новий"
 
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:39
 msgid "%d task has been completed"
 msgid_plural "%d tasks has been completed"
 msgstr[0] "%d завдання було виконано"
 msgstr[1] "%d завдання було виконано"
 msgstr[2] "%d завдань було виконано"
 
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:86
 msgid "A task has been assigned to you"
 msgstr "Завдання було призначено на вас"
 
-#: /wa-apps/tasks/lib/classes/tasksNotifications.class.php:89
 msgid "The task has been completed"
 msgstr "Задачу було виконано"
 
-#: /wa-apps/tasks/lib/models/tasksTaskLog.model.php:163
 msgid "edited"
 msgstr "відредаговано"
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:22
 msgid "A tiny hint describing this milestone."
 msgstr "Невеличка підказка с описом цієї віхи."
 
-#: /wa-apps/tasks/templates/actions/milestones/MilestonesEdit.html:49
 msgid "Enable this when this milestone is not actual anymore."
 msgstr "Увімкнути це, коли віха більше не актуальна."
 
-#: /wa-apps/tasks/templates/mail/BulkAssign.html:1
 msgid "<a href=\"%s\">%d new task</a> from %s"
 msgid_plural "<a href=\"%s\">%d new tasks</a> from %s"
 msgstr[0] "<a href=\"%s\">%d нове завдання</a> від %s"
 msgstr[1] "<a href=\"%s\">%d нові завдання</a> від %s"
 msgstr[2] "<a href=\"%s\">%d нових завдань</a> від %s"
 
-#: /wa-apps/tasks/templates/mail/Comment.html:4
 msgid "%s editoed a task you created:"
 msgstr "%s відредагував створене вами завдання:"
 
@@ -1694,7 +1007,6 @@ msgstr "Завдання оновлено"
 msgid "All <strong>%s</strong> in this project will be archived and won't be listed anymore. Are you sure?"
 msgstr "Усі <strong>%s</strong> у цьому проекті буде архівовано та більше не буде показано. Ви впевнені?"
 
-# 100500 new tasks from %username%
 msgid "<a href=\"%s\">%s</a> from %s"
 msgstr "<a href=\"%s\">%s</a> з %s"
 
@@ -1707,11 +1019,9 @@ msgstr "У статусі %s немає завдань"
 msgid "There are currently no tasks in %s status."
 msgstr "У статусі %s наразі немає завдань."
 
-# /wa-apps/tasks/plugins/templates/templates/actions/template/TemplateEdit.html
 msgid "Edit template"
 msgstr "Редагувати шаблон"
 
-# /wa-apps/tasks/plugins/releases/templates/component/scope/stats.html
 msgid "Readiness"
 msgstr "Готовність"
 
@@ -1759,3 +1069,51 @@ msgid_plural "%d hours"
 msgstr[0] "%d година"
 msgstr[1] "%d години"
 msgstr[2] "%d годин"
+
+msgid "%s wrote a comment to a task you are assigned to:"
+msgstr "Користувач %s написав коментар до призначенного вам завдання:"
+
+msgid "%s wrote a comment to a task you created:"
+msgstr "Користувач %s написав коментар до створеного вами завдання:"
+
+msgid "%s sent you your task"
+msgstr "Користувач %s надіслав вам ваше завдання"
+
+msgid "%s sent a new task to %s"
+msgstr "Користувач %s відправив нове завдання для %s"
+
+msgid "Start typing in the search field to find a tag."
+msgstr "Почніть набирати у полі пошуку, аби знайти тег."
+
+msgid "Cannot create a list from another list."
+msgstr "Неможливо створити перелік з переліку."
+
+msgid "Invalid date."
+msgstr "Неприпустима дата."
+
+msgid "Date is not set."
+msgstr "Дату не встановлено."
+
+msgid "Use <strong>app \"%s\"</strong> to provide access to Tasks app for your teammates."
+msgstr "Використовуйте <strong>додаток \"%s\"</strong>, аби надати доступ до додатку «Завдання» вашим колегам."
+
+msgid "unknown status_id=%d"
+msgstr "невідомий status_id=%d"
+
+msgid "Delete list “%s”"
+msgstr "Видалити перелік “%s”"
+
+msgid "A list name is required."
+msgstr "Необхідно вказати назву переліку."
+
+msgid "Hub topic: %s"
+msgstr "Тему хабу: %s"
+
+msgid "Helpdesk request: %s"
+msgstr "Запит у підтримку: %s"
+
+msgid "You do not have sufficient access rights to view this task."
+msgstr "У вас недостатньо прав доступу для перегляду цього завдання."
+
+msgid "Cannot return this task because another user has modified it."
+msgstr "Неможливо повернути це завдання, тому що його змінив інший користувач."

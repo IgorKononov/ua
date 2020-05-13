@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst 1.13.2.483 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst 1.13.8.526 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -8,10 +8,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2019-12-31 12:24+0300\n"
+"PO-Revision-Date: 2020-05-01 12:53+0300\n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -5859,3 +5859,42 @@ msgstr "Яндекс.Карти повертають помилку “%s”, д
 
 msgid "Yandex.Maps returns error “%s”, probably API key is invalid or daily rate limit is exceeded."
 msgstr "Яндекс.Карти повертають помилку “%s”: ключ API недійсний, або денний ліміт вичерпано."
+
+msgid "To learn more details about this error, enable the debug mode in Settings app and reload this page."
+msgstr "Аби дізнатися більше про цю помилку, увімкніть режим налагодження в додатку налаштування та оновіть цю сторінку."
+
+msgid "Saving error"
+msgstr "Помилка при збереженні"
+
+msgid "Enter digits only"
+msgstr "Введіть тільки цифри"
+
+msgid "SMS notifications must be enabled."
+msgstr "SMS-повідомлення має бути увімкнено."
+
+msgid "Unknown error"
+msgstr "Невідома помилка"
+
+msgid "Enable authorization by phone number"
+msgstr "Увімкніть авторизацію за номером телефону"
+
+msgid "No SMS notifications template group is selected."
+msgstr "Не обрано групу шаблонів SMS-повідомлень."
+
+msgid "National direct-dialing code (NDD)"
+msgstr "Національній код прямого виклику (National direct-dialing code, NDD)"
+
+msgid "Enter the NDD code which is used for making calls within your country."
+msgstr "Вкажіть код прямого виклику, який використовується для дзвінків по вашій країні."
+
+msgid "The NDD, if specified, will be replaced with the country code in website visitors’ phone numbers."
+msgstr "Код прямого виклику, якщо вказано, буде замінено кодом країни у номерах телефонів користувачів сайту."
+
+msgid "Country code"
+msgstr "Код країни"
+
+msgid "Enter your country’s phone number code to be used in website visitors’ phone numbers instead of the NDD."
+msgstr "Введіть телефонний код вашої країни, який буде використовуватись у номерах телефонів користувачів замість коду прямого виклику."
+
+msgid "Specified URL already exists."
+msgstr "Вказаний URL вже існує."

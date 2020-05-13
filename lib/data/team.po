@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Team 1.0.10 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Team 1.0.11.130 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
 "Language-Team: skeeter.studio\n"
@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Language: uk\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -1225,3 +1225,48 @@ msgstr "Токен не передано"
 
 msgid "This login is already set for user %s"
 msgstr "Вказаний логін вже використовується користувачем %s"
+
+msgid "Add"
+msgstr "Додати"
+
+msgid "Create date"
+msgstr "Дата створення"
+
+msgid "Last use date"
+msgstr "Дата останнього використання"
+
+msgid "Email address changes history"
+msgstr "Історія змін email"
+
+msgid "%d contact"
+msgid_plural "%d contacts"
+msgstr[0] "%d контакт"
+msgstr[1] "%d контакти"
+msgstr[2] "%d контактів"
+
+msgid "\"%s\""
+msgstr "\"%s\""
+
+msgid "Deleted contact"
+msgstr "Видалений контакт"
+
+msgid "has deleted"
+msgstr "видалив"
+
+msgid "has deleted contacts"
+msgstr "видалив контакти"
+
+msgid "has deleted contact"
+msgstr "видалив контакт"
+
+msgid "%s and %s more"
+msgstr "%s та ще %s"
+
+msgid "My office"
+msgstr "Мій офіс"
+
+msgid "The token was not transferred."
+msgstr "Токен не передано."
+
+msgid "This login name is already being used by user %s."
+msgstr "Цей логін вже зайнятий користувачем %s."
