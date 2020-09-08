@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Installer 1.13.8.526 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Installer 1.14.4.556 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Language: uk\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -1323,3 +1323,18 @@ msgstr "Зв'язатися із розробником"
 
 msgid "Your rate has been added, thank you!"
 msgstr "Вашу оцінку додано, дякуємо!"
+
+msgid "Non-rated products"
+msgstr "Неоцінені продукти"
+
+msgid "A .git or .svn directory has been detected. To ignore the developer mode, add option 'installer_in_developer_mode' => true to wa-config/config.php file."
+msgstr "Знайдено директорію .git або .svn. Аби ігнорувати режим розробника, додайте опцію 'installer_in_developer_mode' => true до файлу wa-config/config.php."
+
+msgid "Unable to install the product (developer mode is on)."
+msgstr "Неможливо встановити продукт (увімкнено режим розробки)."
+
+msgid "Unable to update the product (developer mode is on)."
+msgstr "Неможливо оновити продукт (увімкнено режим розробки)."
+
+msgid "Unable to delete the app (developer mode is on)."
+msgstr "Неможливо видалити продукт (увімкнено режим розробки)."

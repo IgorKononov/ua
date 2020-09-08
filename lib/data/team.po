@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Team 1.0.11.130 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Team 1.1.2.140 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Language: uk\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -1270,3 +1270,18 @@ msgstr "Токен не передано."
 
 msgid "This login name is already being used by user %s."
 msgstr "Цей логін вже зайнятий користувачем %s."
+
+msgid "Customer portal is a part of your site available for registered clients and containing their personal data. To access their customer portals, your clients must log in with an email address and a password."
+msgstr "Особистий кабінет — це частина вашого сайту, що доступна кожному зареєстрованому кліентові и містить персональні дані кліента. Для доступу до особистого кабінету клієнтам знадобиться авторизація за допомогою email-адреси і пароля."
+
+msgid "Manage <a href=\"%s\" class=\"no-underline\">personal portal settings</a> in Site app."
+msgstr "Керуйте <a href=\"%s\" class=\"no-underline\">налаштуваннями особистого кабінету</a> у додатку «Сайт»."
+
+msgid "Webasyst ID account <span class=\"bold\">%s</span> is connected."
+msgstr "Акаунт Webasyst ID <span class=\"bold\">%s</span> під'єднано."
+
+msgid "Cannot load Webasyst ID account data."
+msgstr "Не вдалося завантажити дані акаунта Webasyst ID."
+
+msgid "Specified password is too long."
+msgstr "Вказаний пароль занадто довгий."
