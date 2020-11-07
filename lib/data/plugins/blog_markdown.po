@@ -6,10 +6,10 @@ msgstr ""
 "Project-Id-Version: Webasyst Blog Markdown plugin 1.5.0.3 UA translation v 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4.1\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
 #: /wa-apps/blog/plugins/markdown/lib/blogMarkdown.plugin.php:9

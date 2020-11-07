@@ -6,10 +6,10 @@ msgstr ""
 "Project-Id-Version: Webasyst Blog Akismet plugin 1.0.0.37785 UA translation v 0.1\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #: /wa-apps/blog/plugins/akismet/js/akismet.js:67
 #: /wa-apps/blog/plugins/akismet/lib/blogAkismet.plugin.php:42

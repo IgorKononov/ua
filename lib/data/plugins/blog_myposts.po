@@ -6,10 +6,10 @@ msgstr ""
 "Project-Id-Version: Webasyst Blog My Posts plugin 1.0.0.17573 UA translation v 0.1\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #: /wa-apps/blog/plugins/myposts/lib/blogMyposts.plugin.php:22
 msgid "Posts by me"

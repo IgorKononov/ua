@@ -789,40 +789,76 @@ msgid "Next month"
 msgstr "Наступний місяць"
 
 msgid "January"
-msgstr "Січень"
+msgid_plural "January"
+msgstr[0] "Січень"
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "February"
-msgstr "Лютий"
+msgid_plural "February"
+msgstr[0] "Лютий"
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "March"
-msgstr "Березень"
+msgid_plural "March"
+msgstr[0] "Березень"
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "April"
-msgstr "Квітень"
+msgid_plural "April"
+msgstr[0] "Квітень"
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "May"
-msgstr "Травень"
+msgid_plural "May"
+msgstr[0] "Травень"
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "June"
-msgstr "Червень"
+msgid_plural "June"
+msgstr[0] "Червень"
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "July"
-msgstr "Липень"
+msgid_plural "July"
+msgstr[0] "Липень"
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "August"
-msgstr "Серпень"
+msgid_plural "August"
+msgstr[0] "Серпень"
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "September"
-msgstr "Вересень"
+msgid_plural "September"
+msgstr[0] "Вересень"
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "October"
-msgstr "Жовтень"
+msgid_plural "October"
+msgstr[0] "Жовтень"
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "November"
-msgstr "Листопад"
+msgid_plural "November"
+msgstr[0] "Листопад"
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "December"
-msgstr "Грудень"
+msgid_plural "December"
+msgstr[0] "Грудень"
+msgstr[1] ""
+msgstr[2] ""
 
 msgid "Event"
 msgstr "Подія"
@@ -1285,3 +1321,99 @@ msgstr "Не вдалося завантажити дані акаунта Webas
 
 msgid "Specified password is too long."
 msgstr "Вказаний пароль занадто довгий."
+
+msgid "Google map error, probably key in settings is invalid."
+msgstr "Карти Google повернули помилку, можливо ключ невірний."
+
+msgid "What is it?"
+msgstr "Що це?"
+
+msgid "Sign in with %s"
+msgstr "Увійти через %s"
+
+msgid "You can sign in with a login name and a password or use a different Webasyst ID account."
+msgstr "Ви можете увійти за допомогою імені для входу та пароля або використовувати інший обліковий запис Webasyst ID."
+
+msgid "Failed to get Webasyst ID account data from the Webasyst resource server."
+msgstr "Не вдалося отримати дані про акаунт Webasyst ID з серверу Webasyst."
+
+msgid "Webasyst ID account %s is already connected to a backend user."
+msgstr "Акаунт Webasyst ID %s вже пов'язано із користувачем панелі управління."
+
+msgid "Mon"
+msgstr "Пн"
+
+msgid "Tue"
+msgstr "Вт"
+
+msgid "Wed"
+msgstr "Ср"
+
+msgid "Thu"
+msgstr "Чт"
+
+msgid "Fri"
+msgstr "Пт"
+
+msgid "Sat"
+msgstr "Сб"
+
+msgid "Sun"
+msgstr "Нд"
+
+msgid "What is Webasyst ID?"
+msgstr "Що таке Webasyst ID?"
+
+msgid "Go to the Webasyst Customer Center"
+msgstr "Перейти до Центру замовника Webasyst"
+
+msgid "Enable sign-in with %s"
+msgstr "Увімкнути вхід із %s"
+
+msgid "This is a required field."
+msgstr "Це поле є обов'язковим."
+
+msgid "At least one of these fields must be completed."
+msgstr "Хоча б одне з цих полів має бути заповненим."
+
+msgid "Sign-in with Webasyst ID"
+msgstr "Увійти із Webasyst ID"
+
+msgid "Disconnect"
+msgstr "Від'єднати"
+
+msgid "Connect your Webasyst ID account and sign into the backend securely with no extra passwords."
+msgstr "Підключіть свій обліковий запис Webasyst ID і безпечно увійдіть у панель управління без зайвих паролів."
+
+msgid "How does it work?"
+msgstr "Як це працює?"
+
+msgid "%sSign-in with Webasyst ID%s is connected."
+msgstr "%Вхід із Webasyst ID%s підключено."
+
+msgid "%sSign-in with Webasyst ID%s is not connected."
+msgstr "%Вхід із Webasyst ID%s не підключено."
+
+msgid "edited contact"
+msgstr "відредагував контакт"
+
+msgid "%s - Uninstalled"
+msgstr "%s - Видалено"
+
+msgid "A login name is required."
+msgstr "Логін є обов’язковим."
+
+msgid "Invalid login name."
+msgstr "Невірний логін."
+
+msgid "Today"
+msgstr "Сьогодні"
+
+msgid "Tomorrow"
+msgstr "Завтра"
+
+msgid "Yesterday"
+msgstr "Учора"
+
+msgid "Authorization with Webasyst ID has failed, try to log in with a login name and a password."
+msgstr "Авторизація за допомогою Webasyst ID не вдалася, спробуйте увійти за допомогою імені для входу та пароля."

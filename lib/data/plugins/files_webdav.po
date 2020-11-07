@@ -6,10 +6,10 @@ msgstr ""
 "Project-Id-Version: Webasyst Files webDAV plugin 1.0.19 plugin UA translation v 0.1\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #: /wa-apps/files/plugins/webdav/templates/topBlock.html:2
 msgid "WebDAV server must be secured by a valid SSL certificate to be mapped as a network drive in Windows."

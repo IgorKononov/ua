@@ -6,10 +6,10 @@ msgstr ""
 "Project-Id-Version: Webasyst Photos Import plugin 1.0.0.25531 UA Translation v 0.1\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #: /wa-apps/photos/plugins/import/templates/actions/settings/SettingsTransport.html:5
 msgid "Author"

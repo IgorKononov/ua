@@ -7,10 +7,10 @@ msgstr ""
 "Project-Id-Version: Webasyst Photos Public Gallery plugin 1.0.1.36004 UA translation v 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4.1\n"
 
 #: /wa-apps/photos/plugins/publicgallery/templates/actions/backend/BackendRatesDistribution.html:30
 msgid "User votes"

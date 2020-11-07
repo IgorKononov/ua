@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Shop-Script 8.10.0.32 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Shop-Script 8.14.1.39 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"Last-Translator: Igor Kononov <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.3\n"
+"X-Generator: Poedit 2.4.1\n"
 "X-Poedit-Bookmarks: 2300,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
@@ -11319,3 +11319,801 @@ msgstr "Обсяг, розміри"
 
 msgid "from %s to %s"
 msgstr "з %s до %s"
+
+msgid "Hide"
+msgstr "Сховати"
+
+msgid "Select a CSV file or a ZIP archive with a CSV file.<br>ZIP archives enable faster uploading of large CSV files without exceeding server limitations on the uploaded data size."
+msgstr "Оберіть CSV-файл або ZIP-архів с CSV-файлом. ZIP-архіви дозволяють пришвидшити завантаження великих CSV-файлів без перевищення обмежень сервера на розмір завантажуваного файла."
+
+msgid "Search by beginning of word"
+msgstr "Шукати за початком слова"
+
+msgid "System features list"
+msgstr "Перелік властивостей системи"
+
+msgid "Order discount adjustment"
+msgstr "Налаштування знижок замовлення"
+
+msgid "When it is impossible to equally distribute the discount amount across all order items,"
+msgstr "Коли неможливо нарівно розподілити розмір знижки по елементам замовлення,"
+
+msgid "increase the discount"
+msgstr "підвищити знижку"
+
+msgid "The discount will be increased, and the order total will be reduced, by a minimum amount necessary for correct discount distribution across order items."
+msgstr "Знижку буде підвищено, а суму замовлення буде знижено на найменший обсяг, що необхідний для вірного розподілу знижки по елементам замовлення."
+
+msgid "To set a certain rounding precision for the discount adjustment amount, enable rounding for the <em>total discount amount</em> and select the desired rounding precision for the currencies, in which you receive orders, in their settings on this page."
+msgstr "Аби налаштувати певну точність округлення розміру знижки, увімкніть округлення для загального розміру знижку та оберіть бажану точність округлення для валют, у яких ви отримуєте замовлення, у налаштуваннях на цій сторінці."
+
+msgid "Increase discount without rounding"
+msgstr "Підвищити знижку без округлення"
+
+msgid "Order currency rounding settings are not applied as when rounding to 0.01 is selected."
+msgstr "Налаштування округлення валюти не буде застосовано, як при округленні до 0,01."
+
+msgid "split one of order items into two"
+msgstr "розділити один з елементів замовлення на два"
+
+msgid "One of order items will be split into two separate items."
+msgstr "Один з елементів замовлення буде розділено на два окремі елементи."
+
+msgid "The price of a new order item will differ by one cent."
+msgstr "Вартість нового елемента в замовленні буде відрізнятися на один цент."
+
+msgid "Split one of order items into two with rounding applied"
+msgstr "Один з елементів замовлення буде розділено на два елементи із застосуванням округлення"
+
+msgid "The price of a new order item will differ by a minimum amount, depending on the order currency rounding settings."
+msgstr "Ціна нового елемента замовлення буде відрізнятися на мінімальну суму, в залежності від параметрів округлення валюти замовлення."
+
+msgid "Automated assignment of guest orders to existing customers will not work on following sites: <strong>%s</strong>. Due to privacy considerations, auto order assignment requires enabling “Confirm signup” option in <em>Site app > select your domain > Personal > Login and signup settings</em>."
+msgstr "Автоматичне прив&#39;язування замовлень без авторизації до існуючих контактів не буде працювати на наступних сайтах: <strong>%s</strong>. Через міркування приватності, автоматичне прив&#39;язування замовлень вимагає вмикання опції підтвердження адреси email при реєстрації у розділі <em>Сайт → (обрати домен) → Особистий кабінет → Налаштування авторизації та входу</em>."
+
+msgid "To delete this product code, disable or delete the corresponding plugin."
+msgstr "Аби видалити цей код товару, вимкніть або видаліть відповідний плагін."
+
+msgid "“Weight” is a special feature, which must always be available for editing in product SKUs’ properties."
+msgstr "\"Вага\" є спеціальною характеристикою, яка завжди повинна бути доступною для редагування у властивостях артикулу товару."
+
+msgid "“GTIN (Global Trade Item Number)” is a special feature, which must always be available for editing in product SKUs’ properties."
+msgstr "\"GTIN (Міжнародний торгівельний номер товару)\" є спеціальною функцією, яка завжди повинна бути доступна для редагування у властивостях артикулів товарів."
+
+msgid "Default measurement unit"
+msgstr "Одиниця вимірювання за промовчанням"
+
+msgid "Create a customer account and send the password"
+msgstr "Створити акаунт клієнта та надіслати пароль"
+
+msgid "Reset password for customer account"
+msgstr "Скинути пароль для акаунта клієнта"
+
+msgid "Reset customer’s password and send it to an email address"
+msgstr "Скинути пароль клієнта та надіслати його за адресою email"
+
+msgid "Create a customer account and send a password to an email address"
+msgstr "Створити акаунт клієнта та надіслати пароль електронною поштою"
+
+msgid "Main"
+msgstr "Головна"
+
+msgid "The contact has no email addresses."
+msgstr "Контакт не має адрес електронної пошти."
+
+msgid "Contact’s main email address will be changed. The new main address will have to be used to sign into the customer account."
+msgstr "Основну адресу електронної пошти контакту буде змінено. Для входу в обліковий запис клієнта доведеться використовувати нову адресу електронної пошти."
+
+msgid "Reset password"
+msgstr "Скинути пароль"
+
+msgid "Create customer account"
+msgstr "Створити акаунт клієнта"
+
+msgid "Show customers with orders"
+msgstr "Показати клієнтів із замовленнями"
+
+msgid "Show customers who have only non-paid orders"
+msgstr "Показати тільки клієнтів із несплаченими замовленнями"
+
+msgid "Show all contacts"
+msgstr "Показати усі контакти"
+
+msgid "Count only non-paid orders"
+msgstr "Враховувати тільки несплачені замовлення"
+
+msgid "Count all orders"
+msgstr "Враховувати усі замовлення"
+
+msgid "The editing of this order is limited because customer’s funds are authorized on a bank account."
+msgstr "Редагування цього замовлення обмежено, тому що кошти покупця авторизовано на банківському рахунку."
+
+msgid "You may change the list of ordered items. However, the order total of %s must remain unchanged because the selected payment plugin does not support partial funds capturing."
+msgstr "Ви можете змінити перелік елементів замовлення. Однак, сума замовлення %s має залишитись незмінною, тому що обраний плагін оплати не підтримує часткове утримання коштів."
+
+msgid "You may change the list of ordered items. However, the order total after your changes may not exceed the captured amount of %s."
+msgstr "Ви можете змінити перелік елементів замовлення. Однак, сума замовлення не може перевищити авторизовану суму %s."
+
+msgid "You can choose a convenient time starting from this date."
+msgstr "Ви можете обрати зручний час, починаючи з цієї дати."
+
+msgid "To complete your order, please change the products in your shopping cart which are not available in stock:"
+msgstr "Аби виконати замовлення, замініть, будь ласка, товари у кошику, яких немає у наявності:"
+
+msgid "either delete them %s"
+msgstr "або видаліть їх %s"
+
+msgid "or reduce their quantity %s"
+msgstr "або зменшіть їх кількість %s"
+
+msgid "or select other SKUs %s"
+msgstr "або оберіть інші артикули %s"
+
+msgid "Capture reason"
+msgstr "Причина авторизації"
+
+msgid "Primary email address is not specified in store settings."
+msgstr "Основну email-адресу не вказано у налаштуваннях магазину."
+
+msgid "Edit settings"
+msgstr "Редагувати налаштування"
+
+msgid "mg"
+msgstr "мг"
+
+msgid "Order editing has been disabled because the customer’s funds have been captured and an installed plugin does not support partial funds capturing."
+msgstr "Редагування цього замовлення обмежено, тому що кошти покупця авторизовано на банківському рахунку, а встановлений плагін не підтримує часткову авторизацію коштів."
+
+msgid "The discount amount was reduced so as not to exceed the cost of all products."
+msgstr "Обсяг знижки було зменшено, аби не перевищувати вартість усіх товарів."
+
+msgid "Unable to create an order with the specified discount. Please contact the store’s support team."
+msgstr "Неможливо створити замовлення зі вказаною знижкою. Зв'яжіться зі службою підтримки магазину."
+
+msgid "Unable to create an order with the specified discount. Please either disable the rounding for discounts or change the currency rounding settings so that the discount becomes lower than the ordered item’s price, or enable splitting of order items in currencies settings."
+msgstr "Неможливо створити замовлення із зазначеною знижкою. Будь ласка, вимкніть округлення для знижок або змініть налаштування округлення валют, аби знижка стала нижчою за ціну замовленого товару, або ввімкніть розділення елементів замовлення в налаштуваннях валют."
+
+msgid "Order total may not exceed the captured amount of %s."
+msgstr "Сума до сплати за замовленням не може перевищувати авторизовану суму %s."
+
+msgid "Order total must remain equal to the currently captured amount of %s."
+msgstr "Сума до сплати за замовленням має дорівнювати авторизованій сумі %s."
+
+msgid "Category “%current” being moved cannot be placed inside category “%parent” because category “%parent” already contains subcategory “%same” whose editable URL part matches that of category “%current”. To complete the category moving, change the editable URL part either for category “%current”, or for category “%same”."
+msgstr "Категорія“%current”, що переміщується, не може бути розташована всередині категорії “%parent” тому, що категорія “%parent” вже включає підкатегорію “%same”, у якої редагована частина URL співпадає с такою ж частиною категорії “%current”. Аби завершити переміщення категорії, змініть редаговану частину URL категорії “%current”, або категорії “%same”."
+
+msgid "Too long URL including the URLs of parent categories."
+msgstr "Занадто довгий URL, включаючи URL батьківських категорій."
+
+msgid "System features"
+msgstr "Системні властивості"
+
+msgid "The current product type is the only one selected for this storefront."
+msgstr "Поточний тип товару — єдиний обраний для цієї вітрини."
+
+msgid "Cannot reset the password for a backend user."
+msgstr "Не вдалося скинути пароль для користувача бекенду."
+
+msgid "Incorrect email addresses related data found for this contact."
+msgstr "Для цього контакту знайдено дані, пов'язані з невірними адресами email."
+
+msgid "Message has been sent."
+msgstr "Повідомлення надіслано."
+
+msgid "Message sending has failed."
+msgstr "Не вдалося надіслати повідомлення."
+
+msgid "Image thumbnails cannot be generated because required system files are missing in <em>wa-data/public/shop/promos/</em> directory."
+msgstr "Ескізи зображень товарів не може бути створено через відсутність необхідних системних файлів у директорії <em>wa-data/public/shop/promos/</em>."
+
+msgid "Invalid GTIN code, it must have only 8, 12, 13, or 14 digits."
+msgstr "Невірний код GTIN — він може мати тільки 8, 12, 13 або 14 цифр."
+
+msgid "Payment was canceled."
+msgstr "Сплату було скасовано."
+
+msgid "Checkout block"
+msgstr "Блок оформлення замовлення"
+
+msgid "This window will automatically close in 3 seconds."
+msgstr "Це вікно автоматично закриється через 3 секунди."
+
+msgid "How do you like the new product editor?"
+msgstr "Як вам новий редактор товарів?"
+
+msgid "Return to old editor"
+msgstr "Повернутися до старого редактора"
+
+msgid "Return to the old product editor version."
+msgstr "Повернутися до старої версії редактора товарів."
+
+msgid "Non-saved data exist"
+msgstr "Є незбережені дані"
+
+msgid "You are about to leave this page without saving modified data."
+msgstr "Ви збираєтеся покинути сторінку без збереження даних."
+
+msgid "Stay"
+msgstr "Залишитись"
+
+msgid "Leave without saving"
+msgstr "Вийти без збереження"
+
+msgid "Auto-redirect to payment"
+msgstr "Автоматичне перенаправлення до сплати"
+
+msgid "Redirect a customer to the payment page"
+msgstr "Перенаправити покупця на сторінку оплати"
+
+msgid "Mirror sites:"
+msgstr "Сайти-дзеркала:"
+
+msgid "Install an SMS plugin via Installer to be able to send SMS notifications."
+msgstr "Встановіть плагін SMS через «Інсталлер», аби маим змогу надсилати SMS-повідомлення."
+
+msgid "The final time for accepting orders must be within the specified business hours."
+msgstr "Остання година прийому замовлень має бути в межах зазначеного робочого часу."
+
+msgid "No coupon."
+msgstr "Немає купону."
+
+msgid "Discount applicable to individual items:"
+msgstr "Знижка на окремі елементи:"
+
+msgid "Discount applicable to entire order:"
+msgstr "Знижка на усе замовлення:"
+
+msgid "Hidden and unavailable (404)"
+msgstr "Приховано та недоступно (404)"
+
+msgid "Promo prices are not a discount."
+msgstr "Промо-ціни не є знижкою."
+
+msgid "Try out new product editor"
+msgstr "Спробуйте новий редактор товарів"
+
+msgid "Try out the new product editor version. The option to return to the old editor will remain."
+msgstr "Спробуйте нову версію редактора товарів. Є можливість повернутися до старого редактора."
+
+msgid "Sets selection"
+msgstr "Встановлює вибір"
+
+msgid "Not all storefronts are included in this list."
+msgstr "У цей перелік включено не усі вітрини."
+
+msgid "Open “SEO” tab to view the full list."
+msgstr "Відкрийте вкладку “SEO”, аби переглянути повний перелік."
+
+msgid "Visibility in the storefront"
+msgstr "Видимість на вітрині"
+
+msgid "The product is not shown among other products in the storefront, is not available for purchase, and can be viewed at its direct URL only."
+msgstr "Товар не показується на вітрині у загальних списках товарів і його не можна придбати, а переглянути його можливо тільки за прямим посиланням."
+
+msgid "Redirect"
+msgstr "Перенаправлення"
+
+msgid "Redirect code"
+msgstr "Код перенаправлення"
+
+msgid "Main category"
+msgstr "Основна категорія"
+
+msgid "Add a new category"
+msgstr "Додати нову категорію"
+
+msgid "Show %d more strefront"
+msgid_plural "Show %d more strefronts"
+msgstr[0] "Показати ще %d вітрину"
+msgstr[1] "Показати ще %d вітрини"
+msgstr[2] "Показати ще %d вітрин"
+
+msgid "Hide %d storefront"
+msgid_plural "Hide %d storefronts"
+msgstr[0] "Hide %d storefront"
+msgstr[1] "Hide %d storefronts"
+msgstr[2] "Приховати %d вітрин"
+
+msgid "Product publication URL has changed. Storefronts’ addresses will be updated after you click “Save”."
+msgstr "URL публікації товару змінено. Адреси вітрин буде оновлено після того, як ви натиснете «Зберегти»."
+
+msgid "The product is not visible among other products in the storefront, is not available for purchase, cannot be viewed at its direct URL, and is excluded from the %sSitemap file%s."
+msgstr "Товар не видно серед інших товарів на вітрині, він недоступний для покупки, не може бути переглянутий за прямим URL, та не попадає у %sSitemap-файл%s."
+
+msgid "A Sitemap file is a special XML file containing URLs of all website pages that need to be indexed by search engines."
+msgstr "Sitemap-файл — це спеціальний XML-файл, який включає URL усіх сторінок сайту, які мають бути проіндексовано пошуковими системами."
+
+msgid "Add a tag"
+msgstr "Додати тег"
+
+msgid "Main product name visible in the storefront."
+msgstr "Основна назва товару відображується на вітрині."
+
+msgid "Editable part of the product address in the storefront."
+msgstr "Редагована частина адреси товару на вітрині."
+
+msgid "Published"
+msgstr "Опубліковано"
+
+msgid "Unpublished"
+msgstr "Не опубліковано"
+
+msgid "Specified URL"
+msgstr "Вказаний URL"
+
+msgid "Select an address to which website visitors and search engines will be redirected when attempting to access this product’s URL."
+msgstr "Оберіть адресу, за якою відвідувачі вебсайту та пошукові системи будуть перенаправленні при спробі відвідати URL цього товару."
+
+msgid "Your server will add this code to its response to web browsers and search engines."
+msgstr "Ваш сервер додасть цей код до відповіді браузерам та пошуковим системам."
+
+msgid "301: the product is permanently hidden"
+msgstr "301: цей товар приховано назавжди"
+
+msgid "302: the product is temporarily hidden"
+msgstr "302: цей товар приховано тимчасово"
+
+msgid "Each product type; e.g., “TVs”, “Phones”, or “Clocks”, can have its own set of features. You can decide which product types to make visible in a storefront. Separate access rights to product types can be set up for store backend users and user groups."
+msgstr "Кожен тип товарів, наприклад, «Телевізори», «Телефони», «Годинники», може мати власний перелік характеристик. Ви можете обирати, який тип товарів буде видимий відвідувачам певної вітрини. Для користувачів та груп користувачів бекенду можливо налаштувати роздільні права доступу до типів товарів."
+
+msgid "A category is a group of products with its own page in the storefront. The main category in which a product is included affects navigation links on the product page and its address in the storefront with some configurations."
+msgstr "Категорія — це група товарів зі власною сторінкою на вітрині. Основна категорія товару впливає на посилання навігації на сторінці товару та його адресу на вітрині у деяких конфігураціях."
+
+msgid "Enter name"
+msgstr "Введіть назву"
+
+msgid "A category is a group of products with its own page in the storefront. A product can be included in one or several categories. Select additional categories here, in which the product must also be displayed in the storefront."
+msgstr "Категорія — це група товарів зі власною сторінкою на вітрині. Товар може бути включено в одну або декілька категорій. Оберіть додаткові категорії, у яких товар також має бути показано на вітрині."
+
+msgid "A set is a group of products to be displayed on existing storefront pages; e.g., on the homepage or in a slider. A product can be included in one or more sets."
+msgstr "Перелік — це група товарів, яка відображується на існуючих сторінках вітрини — наприклад, на домашній сторінці або у слайдері. Товар може бути включено у один або декілька переліків."
+
+msgid "You can select a tax rule for the product. A tax rule is applied to customers from selected countries and their regions."
+msgstr "Ви можете обрати податкове правило для товару. Податкове правило застосовується до покупців із зазначених країн та їх регіонів."
+
+msgid "Select a tax"
+msgstr "Оберіть податок"
+
+msgid "Brief product description displayed in various product lists."
+msgstr "Короткий опис товару відображується у різних переліках товару."
+
+msgid "Words or short phrases, related to the product, which are displayed as a group of links for convenient navigation across all products in the storefront."
+msgstr "Слова або короткі фрази, пов'язані з товаром, які відображуються як група посилань для зручної навігації між продуктами на вітрині."
+
+msgid "Editing"
+msgstr "Редагування"
+
+msgid "Basic data"
+msgstr "Основні дані"
+
+msgid "Prices and features"
+msgstr "Ціни та характеристики"
+
+msgid "Photos, videos & files"
+msgstr "Фото, відео та файли"
+
+msgid "This section is not available yet, we are still working on it."
+msgstr "Цей розділ поки недоступний, ми все ще працюємо над ним."
+
+msgid "SEO"
+msgstr "SEO"
+
+msgid "Prices & availability"
+msgstr "Ціни та доступність"
+
+msgid "Change log"
+msgstr "Журнал змін"
+
+msgid "Stock quantity changes"
+msgstr "Зміни залишків на складі"
+
+msgid "Prices changes"
+msgstr "Зміни цін"
+
+msgid "Product changes"
+msgstr "Зміни товару"
+
+msgid "Product name, publication status, type, tax, categories & sets, descriptions & tags."
+msgstr "Назва товару, статус публікації, тип, податки, категорії та переліки, опис та теги."
+
+msgid "Product prices, stock quantities, SKUs, variants, features, badges."
+msgstr "Ціни товарів, складські залишки, артикули, варіанти, характеристики, наклейки."
+
+msgid "Confirm product image deletion"
+msgstr "Підтвердити видалення зображення"
+
+msgid "This image is associated with several SKUs. Deleting it will also remove it from all such SKUs’ properties."
+msgstr "Це зображення пов'язане з декількома артикулами. Видалення прибере його з властивостей усіх цих артикулів."
+
+msgid "Detach"
+msgstr "Від&#39;єднати"
+
+msgid "Features used for product version selection in the storefront"
+msgstr "Характеристики, що використовуються для вибору варіанта товара на вітрині"
+
+msgid "Category search"
+msgstr "Пошук за категоріями"
+
+msgid "The feature’s format does not support selection of product versions."
+msgstr "Формат цієї характеристики не підтримує вибір варіантів товару."
+
+msgid "Action is not available"
+msgstr "Дія недоступна"
+
+msgid "Your product has more than 1 SKU. To disable the multi-SKU mode, first delete additional SKUs and leave only 1 SKU in the product."
+msgstr "У вашого товару більше одного артикулу. Аби вимкнути багатоартикульний режим, спершу видаліть додаткові артикули та залиште тільки один артикул у товарі."
+
+msgid "Select one or several values of feature “%s”"
+msgstr "Оберіть одне або декілька значень характеристики “%s”"
+
+msgid "We are working hard on the new product editor and would like to learn your opinion of it. Please tell us what you liked and what you would rather make more comprehensive and convenient."
+msgstr "Ми завзято працюємо над новим редактором товарів і хотіли б дізнатись вашу думку про нього. Розкажіть, будь ласка, що вам сподобалось і що ви бажали б зробити більш зручним та зрозумілим."
+
+msgid "Your opinion..."
+msgstr "Ваша думка..."
+
+msgid "You may send us several comments as new thoughts and suggestions will occur to you."
+msgstr "Ви можете надсилати нам коментарі декілька разів, щойно нові думки та пропозиції відвідають вас."
+
+msgid "Creation of product SKUs and variants"
+msgstr "Створення артикулів та варіантів артикулів"
+
+msgid "Please select and arrange features and their values to be used for the variants generation."
+msgstr "Оберіть та відсортуйте характеристики та їх значення, які будуть використовуватись для утворення модифікацій."
+
+msgid "To create several SKUs, drag & drop a feature to “SKUs”, each of whose values will correspond to an individual SKU."
+msgstr "Щоб створити кілька артикулів, перетягніть характеристику в «Артикули», і кожне зі значень характеристики відповідатиме окремому артикулу."
+
+msgid "Variants will be associated with 1 SKU."
+msgstr "Модифікації буде пов'язано з одним артикулом."
+
+msgid "SKU variants"
+msgstr "Модифікації артикулу"
+
+msgid "Drag & drop a feature here to generate SKUs with variants"
+msgstr "Перетягніть сюди характеристику для створення артикулів з модифікаціями"
+
+msgid "Add features"
+msgstr "Додати характеристики"
+
+msgid "артикулов"
+msgstr "артикулів"
+
+msgid "модификаций"
+msgstr "модифікацій"
+
+msgid "артикуле"
+msgstr "артикулі"
+
+msgid "модификация"
+msgstr "модифікація"
+
+msgid "модификации"
+msgstr "модифікації"
+
+msgid "артикулах"
+msgstr "артикулах"
+
+msgid "по"
+msgstr "по"
+
+msgid "Создать"
+msgstr "Створити"
+
+msgid "Нужно выбрать хотя бы одно значение характеристики для генерации"
+msgstr "Потрібно обрати хоча б одне значення характеристики для генерації"
+
+msgid "Select extra categories"
+msgstr "Оберіть додаткові категорії"
+
+msgid "Add new category"
+msgstr "Додати нову категорію"
+
+msgid "Confirm SKU deletion"
+msgstr "Підтвердити видалення артикулу"
+
+msgid "Confirm variant deletion"
+msgstr "Підтвердити видалення модифікації"
+
+msgid "No orders were found."
+msgstr "Замовлення не знайдено."
+
+msgid "Are you sure you want to delete this SKU?"
+msgstr "Ви впевнені, що бажаєте відалити цей артикул?"
+
+msgid "Are you sure you want to delete this SKU variant?"
+msgstr "Ви впевнені, що бажаєте відалити цю модифікацію артикулу?"
+
+msgid "You are about to delete SKU “%s” of product “%s” with %d variant."
+msgid_plural "You are about to delete SKU “%s” of product “%s” with %d variants."
+msgstr[0] "Ви збираєтесь видалити артикул “%s” товару “%s” з %d модифікацією."
+msgstr[1] "Ви збираєтесь видалити артикул “%s” товару “%s” з %d модифікаціями."
+msgstr[2] "Ви збираєтесь видалити артикул “%s” товару “%s” з %d модифікаціями."
+
+msgid "It is used in <a href=\"%s\">%d order</a>."
+msgid_plural "It is used in <a href=\"%s\">%d orders</a>."
+msgstr[0] "Використовується у <a href=\"%s\">%d замовленні</a>."
+msgstr[1] "Використовується у <a href=\"%s\">%d замовленнях</a>."
+msgstr[2] "Використовується у <a href=\"%s\">%d замовленнях</a>."
+
+msgid "You are about to delete a variant of SKU “%s” of product “%s”."
+msgstr "Ви збираєтесь видалити модифікацію артикулу “%s” товару “%s”."
+
+msgid "The heading is visible in the storefront."
+msgstr "Основна назва відображується на вітрині."
+
+msgid "The heading is hidden from the storefront."
+msgstr "Основна назва прихована з витрини."
+
+msgid "By default"
+msgstr "За замовчуванням"
+
+msgid "Remove"
+msgstr "Видалити"
+
+msgid "The feature is visible in the storefront."
+msgstr "Ця характеристика відображується на вітрині."
+
+msgid "The feature is hidden from the storefront."
+msgstr "Ця характеристика прихована з вітрини."
+
+msgid "This feature is not visible in the storefront because it is not selected for the product type to which this product belongs. Delete this feature value if you want to remove it from this product."
+msgstr "Ця характеристика не відображується на вітрині, тому що її не обрано у типі, до якого належить цей товар. Видаліть значення цієї характеристики, якщо бажаєте видалити її з цього товару."
+
+msgid "You can save this feature’s values for SKU variants. If no value has been saved for a variant, then a default value specified here is used."
+msgstr "Ви можете зберегти значення цієї характеристики для модифікацій артикула. Якщо для модифікації не вказане власне значення, тоді тут використовуватиметься стандартне значення, що вказане тут."
+
+msgid "A feature value for entire product."
+msgstr "Значення характеристики для усього товару."
+
+msgid "Add a new value"
+msgstr "Додати нове значення"
+
+msgid "A new value can be specified in the common feature list at the page bottom."
+msgstr "Нове значення можна вказати у переліку загальних характеристик у кінці сторінки."
+
+msgid "The product contains several SKUs or variants."
+msgstr "Товар містить кілька артикулів або модифікацій."
+
+msgid "Product versions selection in the storefront"
+msgstr "Вибір версій товару на вітрині магазину"
+
+msgid "Change"
+msgstr "Змінити"
+
+msgid "Add an SKU"
+msgstr "Додати артикул"
+
+msgid "Generate multiple SKUs"
+msgstr "Згенерувати декілька артикулів"
+
+msgid "The SKU generation form is not available yet, we are still working on it."
+msgstr "Форма генерації артикулів поки недоступна, ми ще працюємо над нею."
+
+msgid "Variant ID"
+msgstr "Ідентифікатор модифікації"
+
+msgid "An ID will be shown after saving."
+msgstr "Ідентифікатор буде показано після збереження."
+
+msgid "Add a variant to the SKU"
+msgstr "Додати модифікацію у артикул"
+
+msgid "No SKUs."
+msgstr "Немає артикулів."
+
+msgid "No badges"
+msgstr "Без значків"
+
+msgid "All product features"
+msgstr "Усі характеристики товару"
+
+msgid "Enter a value"
+msgstr "Вказати значення"
+
+msgid "You can change the product type on the “Basic data” page."
+msgstr "Ви можете змінити тип товару на сторінці «Основні дані»."
+
+msgid "Enable to offer customers several versions of the product."
+msgstr "Увімкніть, аби пропонувати покупцям декілька версій товару."
+
+msgid "How product versions should be offered to customers in the storefront."
+msgstr "Як версії товару мають бути запропоновані покупцям на вітрині."
+
+msgid "Add here the product features whose values customers should select to buy a corresponding product version."
+msgstr "Додайте сюди характеристики товару, значення яких слід вибрати покупцям, аби придбати відповідну версію товару."
+
+msgid "Move by one SKU up"
+msgstr "Підняти на один артикул вище"
+
+msgid "Move by one SKU down"
+msgstr "Опустити на один артикул нижче"
+
+msgid "Main product SKU"
+msgstr "Головний артикул товара"
+
+msgid "Make the main product SKU"
+msgstr "Зробити артикул головним для товара"
+
+msgid "The SKU is not available for purchase."
+msgstr "Цей артикул недоступний для покупки."
+
+msgid "Some SKU variants are available for purchase."
+msgstr "Деякі модифікації артикулу доступні для покупки."
+
+msgid "The SKU is available for purchase."
+msgstr "Цей артикул доступний для покупки."
+
+msgid "Copy the SKU with all its variants"
+msgstr "Скопіювати артикул із усіма його модифікаціями"
+
+msgid "Delete the SKU with all its variants"
+msgstr "Видалити артикул із усіма його модифікаціями"
+
+msgid "You cannot delete the last product SKU."
+msgstr "Ви не можете видалити останній артикул товару."
+
+msgid "Drag to change the variants’ sort order."
+msgstr "Перетягніть, аби змінити порядок сортування модифікацій."
+
+msgid "You cannot move the last variant away from an SKU."
+msgstr "Ви не можете перетягнути з артикула останню модифікацію."
+
+msgid "Change image"
+msgstr "Змінити зображення"
+
+msgid "Main product variant"
+msgstr "Головна модифікація товару"
+
+msgid "Make the main product variant"
+msgstr "Зробити модифікацію головною"
+
+msgid "The variant is available for purchase."
+msgstr "Модифікація доступна для покупки."
+
+msgid "The variant is unavailable for purchase."
+msgstr "Модифікація недоступна для покупки."
+
+msgid "Numeric ID of this variant stored in the database."
+msgstr "Числовий ідентифікатор цієї модифікації збережено у базі даних."
+
+msgid "Hide stocks"
+msgstr "Приховати склади"
+
+msgid "Show stocks"
+msgstr "Показати склади"
+
+msgid "The quantity on virtual stocks is calculated automatically. You can change it in the “Settings”."
+msgstr "Кількість на віртуальних складах підраховується автоматично. Ви можете змінити його у «Налаштуваннях»."
+
+msgid "Copy variant"
+msgstr "Скопіювати модифікацію"
+
+msgid "Detele variant"
+msgstr "Видалити модифікацію"
+
+msgid "You cannot delete the last SKU variant."
+msgstr "Ви не можете видалити останню модифікацію артикулу."
+
+msgid "Collapse SKU variants"
+msgstr "Згорнути модифікації артикулів"
+
+msgid "Expand SKU variants"
+msgstr "Розкрити модифікації артикулів"
+
+msgid "Variants"
+msgstr "Модифікації"
+
+msgid "An icon or brief caption to highlight this product among others."
+msgstr "Значок або короткий підпис, аби виділити цей товар серед інших."
+
+msgid "An SKU code is required for grouping."
+msgstr "Для групування потрібен код артикула."
+
+msgid "An SKU name must be unique."
+msgstr "Назва артикулу має бути унікальною."
+
+msgid "You can change this setting in <a href=\"%s\" target=\"_blank\">product types and features</a> setup section."
+msgstr "Ви можете змінити цей параметр у налаштуваннях <a href=\"%s\" target=\"_blank\">типів та характеристик товарів</a>."
+
+msgid "Confirm product deletion"
+msgstr "Підтвердити видалення товару"
+
+msgid "After the deletion of this product, related orders will be preserved but the information on order-viewing pages will become incomplete — only the product name will be visible."
+msgstr "Після видалення цього товару відповідні замовлення буде збережено, але інформація на сторінках перегляду замовлень стане неповною: буде видно лише найменування товару."
+
+msgid "Delete the product?"
+msgstr "Видалити товар?"
+
+msgid "Found <a href=\"%s\">%d order</a> containing product “%s”."
+msgid_plural "Found <a href=\"%s\">%d orders</a> containing product “%s”."
+msgstr[0] "Знайдено <a href=\"%s\">%d замовлення</a>, що містить товар “%s”."
+msgstr[1] "Знайдено <a href=\"%s\">%d замовлення</a>, що містять товар “%s”."
+msgstr[2] "Знайдено <a href=\"%s\">%d замовлень</a>, що містять товар “%s”."
+
+msgid "No orders containing product “%s”."
+msgstr "Немає замовлень, що включають товар “%s”."
+
+msgid "Close without saving"
+msgstr "Закрити без збереження"
+
+msgid "View in the storefront"
+msgstr "Переглянути на вітрині"
+
+msgid "Select an image"
+msgstr "Обрати зображення"
+
+msgid "Upload or drag & drop images here"
+msgstr "Завантажте або перетягніть зображення сюди"
+
+msgid "Add description..."
+msgstr "Додати опис..."
+
+msgid "Lighting and electrical goods"
+msgstr "Освітлення та електротехнічні товари"
+
+msgid "Clothes & footwear"
+msgstr "Одяг та взуття"
+
+msgid "Appliances"
+msgstr "Побутова техніка"
+
+msgid "Mobile phones & tablets"
+msgstr "Мобільні телефони та планшети"
+
+msgid "Cosmetics"
+msgstr "Косметика"
+
+msgid "mo."
+msgstr "міс."
+
+msgid "Non-authorized customers must confirm their email address or phone number before checkout completion, only if those data have been found in other registered customers’ profiles or in only one backend user profile. Such customers are automatically logged in right after confirmation, or get signed up if they were not registered before."
+msgstr "Неавторизовані користувачі повинні підтвердити свою адресу email або номер телефона під час оформлення замовлення, тільки якщо такі дані знайдено у профілях інших зареєстрованих клієнтів або тільки в одному профілі користувача бекенду. Такі користувачі автоматично входять на сайт після підтвердження або реєструються та отримають відповідне повідомлення, якщо не були зареєстровані раніше."
+
+msgid "Non-authorized customers must confirm their email address or phone number before checkout completion. Such customers are automatically logged in right after confirmation, or get signed up if they were not registered before."
+msgstr "Неавторизовані користувачі мають підтвердити свою адресу email або номер телефона перед оформленням замовлення. Такі користувачі автоматично входять на сайт після підтвердження або реєструються та отримають відповідне повідомлення, якщо не були зареєстровані раніше."
+
+msgid "Total discount value was adjusted."
+msgstr "Загальне значення знижки було змінено."
+
+msgid "Before: %s, after: %s"
+msgstr "До: %s, після: %s"
+
+msgid "The URL <strong>:url</strong> is already in use by another product (<a href=\":another_product_backend_url\" target=\"_blank\" class=\"bold\">:another_product_name</a>). You may still save this product with the same URL, but the storefront will display only one (any) product by this URL."
+msgstr "URL <strong>:url</strong>вже використовується іншим товаром (<a href=\"?action=products#/product/:another_product_id/\" target=\"_blank\" class=\"bold\">:another_product_name</a>). Ви все ще можете зберегти цей товар із цим URL, але на вітрині за вказаною адресою буде показано один (будь-який) товар."
+
+msgid "Reviews author"
+msgstr "Автор відгуків"
+
+msgid "Order customer"
+msgstr "Клієнт по заказам"
+
+msgid "select"
+msgstr "обрати"
+
+msgid "You have run out of available attempts. Please request a new code."
+msgstr "Ви вичерпали доступні спроби. Запитайте новий код, будь ласка."
+
+msgid "By SKU name"
+msgstr "За назвою артикулу"
+
+msgid "By features such as size or color"
+msgstr "За характеристиками, такими як розмір або колір"
+
+msgid "Enter a redirect URL."
+msgstr "Введіть URL перенаправлення."
+
+msgid "Unable to save product."
+msgstr "Не вдалося зберегти товар."
+
+msgid "Feedback message sending has failed."
+msgstr "Не вдалося надіслати повідомлення."
+
+msgid "This is a required field."
+msgstr "Це поле є обов'язковим."
+
+msgid "Unknown error"
+msgstr "Невідома помилка"
+
+msgid "Not found"
+msgstr "Не знайдено"
