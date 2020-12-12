@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 1312 Inc. Pocket Lists 3.6.1 UA Translation v 1.0\n"
+"Project-Id-Version: 1312 Inc. Pocket Lists 3.7.0.p UA Translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -1321,3 +1321,63 @@ msgstr "Щоденний підсумок та cron налаштовані на�
 
 msgid "https://www.webasyst.com/buy/store/5045/"
 msgstr "https://www.webasyst.ru/buy/store/5045/"
+
+msgid "Integration with Webasyst Tasks"
+msgstr "Інтеграція з додатком «Завдання»"
+
+msgid "New UI"
+msgstr "Новий інтерфейс"
+
+msgid "Private to-dos"
+msgstr "Приватні завдання"
+
+msgid "Integration with Webasyst CRM and other apps"
+msgstr "Інтеграція з Webasyst CRM та іншими додатками"
+
+msgid "More apps by 1312 Inc."
+msgstr "Більше додатків від 1312 Inc."
+
+msgid "Check out these thoroughly crafted apps on Webasyst Installer today:"
+msgstr "Перегляньте ці майстерно вироблені додатки у «Інсталері» сьогодні:"
+
+msgid "https://www.webasyst.com/store/app/tasks/"
+msgstr "https://www.webasyst.ru/store/app/tasks/"
+
+msgid "Teamwork"
+msgstr "Командна робота"
+
+msgid "Keeps track on all tasks and brings order to chaos"
+msgstr "Слідкує за завданнями та перетворує хаос на порядок"
+
+msgid "https://www.webasyst.com/store/app/status/"
+msgstr "https://www.webasyst.ru/store/app/status/"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Tracks your team time & work status remotely on WFH"
+msgstr "Стежить за часом вашої команди та статусом справ під час роботи вдома"
+
+msgid "https://www.webasyst.com/store/app/cash/"
+msgstr "https://www.webasyst.ru/store/app/cash/"
+
+msgid "Cash Flow"
+msgstr "Грошовий потік"
+
+msgid "Forecasts business cash flow & saves your money"
+msgstr "Передбачає рух грошей у бізнесі та зберігає ваші кошти"
+
+msgid "Use @ or # symbols to link this to-do with a Shop-Script order or a task from the Tasks app."
+msgstr "Використовуйте символи @ або #, щоб пов'язати цю задачу із замовленням у Shop-Script або дорученням у «Завданнях»."
+
+msgid "Task"
+msgstr "Завдання"
+
+msgid "Find order or task by ID"
+msgstr "Знайти замовлення або завдання за ID"
+
+msgid "Checklist"
+msgstr "Контрольний список"
+
+msgid "%d to-do is pending"
+msgstr "%d завдання очікує"

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Installer 1.14.4.556 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Installer 1.14.9.567 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Language: uk\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -1338,3 +1338,36 @@ msgstr "Неможливо оновити продукт (увімкнено р�
 
 msgid "Unable to delete the app (developer mode is on)."
 msgstr "Неможливо видалити продукт (увімкнено режим розробки)."
+
+msgid "My licenses"
+msgstr "Мої ліцензії"
+
+msgid "License is either expired or not valid for this installation"
+msgstr "Ліцензія або закінчилася, або недійсна для цієї інсталяції"
+
+msgid "Not connected with a Webasyst ID contact."
+msgstr "Не пов'язано із контактом Webasyst ID."
+
+msgid "Product installation is allowed only to users with admin access to Installer app."
+msgstr "Інсталяція продукту дозволена лише користувачам із доступом адміністратора до програми «Інсталер»."
+
+msgid "License binding is allowed only to users with admin access to Installer app."
+msgstr "Прив'язка ліцензій дозволяється лише користувачам із доступом адміністратора до програми «Інсталер»."
+
+msgid "System error"
+msgstr "Системна помилка"
+
+msgid "Unknown error while trying to get licenses."
+msgstr "Невідома помилка під час спроби отримати ліцензії."
+
+msgid "Invalid license ID"
+msgstr "Неприпустимий ідентифікатор ліцензії"
+
+msgid "License not found."
+msgstr "Ліцензію не знайдено."
+
+msgid "License binding not available."
+msgstr "Прив'язка ліцензії недоступна."
+
+msgid "Unknown error while trying to bind the license."
+msgstr "Невідома помилка під час спроби прив'язати ліцензію."

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst 1.14.7.563 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst 1.14.9.567 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -8,10 +8,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-11-07 08:21+0300\n"
+"PO-Revision-Date: 2020-12-12 11:52+0300\n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -5957,7 +5957,7 @@ msgid "Finish"
 msgstr "Закінчити"
 
 msgid "Sign in with Webasyst ID"
-msgstr "Увійти із Webasyst ID"
+msgstr "Вхід із Webasyst ID"
 
 msgid "has been successfully connected to account"
 msgstr "було успішно підключено до акаунту"
@@ -6384,3 +6384,36 @@ msgstr "Під'єднати мій акаунт до Webasyst ID зараз"
 
 msgid "Successfully upgraded to Webasyst ID:"
 msgstr "Успішно оновлено до Webasyst ID:"
+
+msgid "Try with another Webasyst ID"
+msgstr "Спробуйте з іншим Webasyst ID"
+
+msgid "You cannot sign in because Webasyst ID <strong>%s</strong> is connected to the backend at <strong>%s</strong>."
+msgstr "Не вдається увійти, оскільки Webasyst ID <strong>%s</strong> підключено до панелі керування сайтом<strong>%s</strong>."
+
+msgid "Or <a class=\"link\" href=\"%s\">sign into your backend in the usual way</a> and connect it to your Webasyst ID."
+msgstr "Або <a class=\"link\" href=\"%s\">увійдіть до панелі керування сайтом звичайним чином</a> та підключіть його до вашого Webasyst ID."
+
+msgid "Use another Webasyst ID"
+msgstr "Використати інший Webasyst ID"
+
+msgid "Use only sign-in option with Webasyst ID — <span class=\"s-green\">recommended</span>"
+msgstr "Використовувати вхід тільки з Webasyst ID — <span class=\"s-green\">рекомендовано</span>"
+
+msgid "When sign-in with Webasyst ID is enabled by default, the usual sign-in method is disabled, with all its configuration saved for later use. Backend users who are not yet connected to Webasyst ID will be able to get connected later on, or you may send them an email invitation in section “<a href=\"%s\">Sign-in with Webasyst ID</a>”. Newly added users will get connected to Webasyst ID right away."
+msgstr "Коли вхід за допомогою Webasyst ID увімкнено за промовчанням, звичайний метод входу вимикається, а його конфігурація зберігається для використання пізніше. Користувачі панелі керування, які не ще не підключили Webasyst ID, зможуть зробити це пізніше, або ви можете надіслати їм email-запрошення у розділі <a href=\"%s\">«Вхід із Webasyst ID»</a>. Нових користувачів буде підключено до Webasyst ID з самого початку."
+
+msgid "You need to connect Webasyst ID to your account."
+msgstr "Вам необхідно під'єднати Webasyst ID до вашого акаунта."
+
+msgid "When sign-in with Webasyst ID is enabled by default, the usual sign-in method is disabled, with all its configuration saved for later use. Backend users who are not yet connected to Webasyst ID will be able to get connected later on, or you may send them an email invitation. Newly added users will get connected to Webasyst ID right away."
+msgstr "Коли вхід за допомогою Webasyst ID увімкнено за промовчанням, звичайний метод входу вимикається, а його конфігурація зберігається для використання пізніше. Користувачі панелі керування, які не ще не підключили Webasyst ID, зможуть зробити це пізніше, або ви можете надіслати їм email-запрошення. Нових користувачів буде підключено до Webasyst ID з самого початку."
+
+msgid "Sign-in with Webasyst ID is enabled by default, a disconnection is not allowed."
+msgstr "Вхід із Webasyst ID увімкнено за замовчуванням, відключення не дозволене."
+
+msgid "This page will not be published because there is no settlement, or routing rule, for this app in the site structure settings. Set up a settlement in Site app’s “Structure” section to publish this page."
+msgstr "Цю сторінку не буде опубліковано, тому що для цього додатку у структурі сайту не існує поселення, або правила маршрутизації. Налаштуйте правило у розділі «Структура» додатку «Сайт», аби опублікувати цю сторінку."
+
+msgid "This page is unsettled (unpublished), i.e. not connected to any of your site’s routing rules. Set up a settlement in Site app’s “Structure” section to publish this page."
+msgstr "Цю сторінку не опубліковано, тобто не пов'язано з жодним з правил у структурі вашого сайту. Налаштуйте правило у розділі «Структура» додатку «Сайт», аби опублікувати цю сторінку."

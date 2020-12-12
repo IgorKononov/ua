@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Tasks 1.2.3.105 UA translation v 1.0\n"
+"Project-Id-Version: 1312 Inc. Tasks 1.3.0.105 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -1147,3 +1147,15 @@ msgstr "Користувач %s надіслав нове завдання ко�
 
 msgid "User %s has just completed a task"
 msgstr "Користувач %s щойно виконав завдання"
+
+msgid "Task title"
+msgstr "Назва завдання"
+
+msgid "No active work scopes are defined."
+msgstr "Не визначено активні області роботи."
+
+msgid "My preferences"
+msgstr "Мої налаштування"
+
+msgid "Actions"
+msgstr "Дії"

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Shop-Script 8.14.1.39 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Shop-Script 8.15.0.40 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 "X-Poedit-Bookmarks: 2300,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
@@ -12117,3 +12117,108 @@ msgstr "Невідома помилка"
 
 msgid "Not found"
 msgstr "Не знайдено"
+
+msgid "Save modified data before leaving?"
+msgstr "Зберегти змінені дані перед виходом?"
+
+msgid "Your changes will be lost if you do not save them."
+msgstr "Ваші зміни буде втрачено, якщо ви не збережете їх."
+
+msgid "Shipping cost will be deleted."
+msgstr "Вартість доставки буде видалено."
+
+msgid "Non-existent date."
+msgstr "Неіснуюча дата."
+
+msgid "Images & videos"
+msgstr "Зображення та відео"
+
+msgid "Product images, photos, and videos displayed in the storefront."
+msgstr "Зображення товарів, фотографії та відео, що відображаються у вітрині магазину."
+
+msgid "Video"
+msgstr "Відео"
+
+msgid "Remove video"
+msgstr "Прибрати відео"
+
+msgid "Add video"
+msgstr "Додати відео"
+
+msgid "URLs of videos copied at a certain viewing time are supported."
+msgstr "Підтримуються URL відео із вказанням моменту початку відтворення."
+
+msgid "Selected:"
+msgstr "Обрано:"
+
+msgid "Clear selection"
+msgstr "Очистити вибір"
+
+msgid "Used:"
+msgstr "Використовується:"
+
+msgid "Not used"
+msgstr "Не використовується"
+
+msgid "Open in a new tab"
+msgstr "Відкрити у новій вкладці"
+
+msgid "Drag & drop image files here or click this area to upload files."
+msgstr "Перетягніть сюди файли зображень або клацніть цю область, аби завантажити файли."
+
+msgid "No images not selected in SKU variants."
+msgstr "У модифікаціях артикулів зображень не обрано."
+
+msgid "Not selected in SKU variants (%s)"
+msgstr "Не обрано у модифікаціях артикулів (%s)"
+
+msgid "Select the photos you want to delete"
+msgstr "Оберіть фото, які ви бажаєте видалити"
+
+msgid "Drag photos to arrange them in the order in which they must appear in the storefront."
+msgstr "Перетягніть фото, аби відсортувати їх у тій послідовності, яку ви бажаєте бачити на вітрині."
+
+msgid "Edit description"
+msgstr "Редагувати опис"
+
+msgid "Confirm product images deletion"
+msgstr "Підтвердіть видалення зображень товарів"
+
+msgid "Do you confirm deletion?"
+msgstr "Підтверджуєте видалення?"
+
+msgid "Photos to be deleted: %s."
+msgstr "Фото, що будуть видалені: %s."
+
+msgid "Those used in SKU variants: %s."
+msgstr "Використовуються у модифікаціях артикулів: %s."
+
+msgid "No used values."
+msgstr "Немає використовуваних значень."
+
+msgid "Values of feature “%s” in variants"
+msgstr "Значення характеристики“%s” у модифікаціях"
+
+msgid "You are about to delete SKU “%s” of product “%s” with all its variants (%s)."
+msgstr "Ви збираєтесь видалити артикули “%s” товару “%s” з усіма їх модифікаціями (%s)."
+
+msgid "You are about to delete SKU “%s” of product “%s” with 1 variant."
+msgstr "Ви збираєтесь видалити артикул “%s” товару “%s” з однією модифікацією."
+
+msgid "Show values in variants"
+msgstr "Показати значення у модифікаціях"
+
+msgid "Default values are applied to SKU variants if other values have not been saved in variants’ properties."
+msgstr "Стандартні значення буде застосовано до модифікацій артикула, якщо інше не зазначено у властивостях модифікацій."
+
+msgid "Enter a number between 0 and 99,999,999,999.999 with max. 3 decimal digits."
+msgstr "Введіть значення від 0 до 99,999,999,999.999 зі щонайбільше трьома десятковими цифрами."
+
+msgid "The quantity on this virtual stock is the sum of quantities on physical stocks — %s. You can change the list of stocks in “Settings” section."
+msgstr "Залишки на цьому віртуальному складі — це сума залишків на фізичних складах — %s. Ви можете змінити перелік складів у розділі «Налаштування»."
+
+msgid "Capture shipping cost"
+msgstr "Заблокувати вартість доставки"
+
+msgid "Custom badge"
+msgstr "Власна наклейка"

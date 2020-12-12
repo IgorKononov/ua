@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Shop-Script Yandex.Market plugin 2.3.13.122 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Shop-Script Yandex.Market plugin 2.3.14.123 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 2.4.2\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
@@ -309,3 +309,59 @@ msgstr ""
 "\n"
 "Экспортовано:\n"
 "\t"
+
+msgid "Сохранить"
+msgstr "Зберегти"
+
+msgid "или"
+msgstr "або"
+
+msgid "отмена"
+msgstr "скасувати"
+
+msgid "Группировать"
+msgstr "Групувати"
+
+msgid "Необходимо PHP-расширение DOM"
+msgstr "Необхідно розширення DOM для PHP"
+
+msgid "%02d ч %02d мин %02d сек"
+msgstr "%02d год %02d хв %02d с"
+
+msgid "Код артикула"
+msgstr "Код артикулу"
+
+msgid "Прикрепленный файл"
+msgstr "Прикріплений файл"
+
+msgid "Тип товара"
+msgstr "Тип товару"
+
+msgid "Налоговые ставки"
+msgstr "Податкові ставки"
+
+msgid "Подарок %d уже существует как предложение"
+msgstr "Подарунок %d вже існує як пропозиція"
+
+msgid "Подарок %d уже существует как подарок"
+msgstr "Подарунок %d вже існує як подарунок"
+
+msgid "Ошибка #88769: предложение с id #%s (sku: %s) пропущено, потому что оно используется в нескольких промоакциях [%s]"
+msgstr "Помилка #88769: пропозицію з id #%s (sku: %s) пропущено, тому що вона використовується у декількох акціях [%s]"
+
+msgid "Ошибка #88771: предложение с id #%s пропущено, потому что оно используется в нескольких промоакциях [%s]"
+msgstr "Помилка #88771: пропозицію з id #%s пропущено, тому що вона використовується у декількох акціях [%s]"
+
+msgid ""
+"Товар #%d [%s] пропущен, потому что он недоступен (%s)\n"
+"\tПАРАМЕТРЫ:%s"
+msgstr ""
+"Продукт #%d [%s] пропущено, тому що він недоступний (%s)\n"
+"\tПАРАМЕТРИ:%s"
+
+msgid ""
+"Предложение #%s в промоакции [%s] пропущено, потому что она не применяется — использован promo_id = [%s]\n"
+"\tOFFER:%s"
+msgstr ""
+"Пропозицію #%s у промоакціїї [%s] пропущено, тому що вона не застосовується— використано promo_id = [%s]\n"
+"\tOFFER:%s"
