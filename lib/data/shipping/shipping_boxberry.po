@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Boxberry shipping plugin 1.1.1.39 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Boxberry shipping plugin 1.1.2.45 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"

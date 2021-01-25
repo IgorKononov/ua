@@ -1,17 +1,17 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst MyLang 2.7.4 UA translation v 1.0\n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
-"Language-Team: skeeter.studio\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-04-12T16:12:04+03:00\n"
-"PO-Revision-Date: 2020-11-07 08:20+0300\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.4.1\n"
+"Language-Team: skeeter.studio\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2021-01-24 17:42+0300\n"
+"POT-Creation-Date: 2019-04-12T16:12:04+03:00\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: Webasyst MyLang 21.1.8 UA translation v 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Generator: Poedit 2.4.2\n"
 
 msgid "Sign up"
 msgstr "Реєстрація"
@@ -883,3 +883,111 @@ msgstr "Пропустити N товарів"
 
 msgid "Skip N products from the start"
 msgstr "Пропустити N товарів від початку"
+
+msgid "Welcome to Shop-Script!"
+msgstr "Ласкаво просимо у Shop-Script!"
+
+msgid "This screen will help you to quickly launch your new online store."
+msgstr "Ця сторінка допоможе вам швидко запустити новий інтернет-магазин."
+
+msgid "Select a primary currency"
+msgstr "Оберіть основну валюту"
+
+msgid "Select a country"
+msgstr "Оберіть країну"
+
+msgid "Other"
+msgstr "Інше"
+
+msgid "No default regional data will be added"
+msgstr "Ніякі регіональні дані додані не будуть"
+
+msgid "Next step"
+msgstr "Наступний крок"
+
+msgid "Use full lust"
+msgstr "Використовувати повний перелік"
+
+msgid "Check every product. Slower processing."
+msgstr "Перевірити кожен продукт. Повільніша обробка."
+
+msgid "Example"
+msgstr "Приклад"
+
+msgid "Domain"
+msgstr "Доменне ім'я"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Quick start"
+msgstr "Швидкий старт"
+
+msgid "of"
+msgstr "з"
+
+msgid "Done!"
+msgstr "Виконано!"
+
+msgid "Close quick start"
+msgstr "Закрити швидкий старт"
+
+msgid "Welcome to My Lang!"
+msgstr "Ласкаво просимо до My Lang!"
+
+msgid "This screen will help you to quickly set MyLang App."
+msgstr "Цей екран допоможе вам швидко налаштувати додаток MyLang."
+
+msgid "Not set"
+msgstr "Не встановлено"
+
+msgid "Change"
+msgstr "Змінити"
+
+msgid "Site settings"
+msgstr "Налаштування сайту"
+
+msgid "Filter pages"
+msgstr "Фільтрувати сторінки"
+
+msgid "Filter pages by locale"
+msgstr "Фільтрувати сторінки за локаллю"
+
+msgid "By default pages are shown as is."
+msgstr "За замовчуванням сторінки відображуються як є."
+
+msgid "Tutorial"
+msgstr "Навчання"
+
+msgid "Customer"
+msgstr "Клієнт"
+
+msgid "Store admin"
+msgstr "Адміністратор магазину"
+
+msgid "Featured on homepage"
+msgstr "Показано на головній сторінці"
+
+msgid "Bestsellers"
+msgstr "Хіти продажів"
+
+msgid "fixed"
+msgstr "закріплено"
+
+msgid "Welcome to MyLang"
+msgstr "Ласкаво просимо до MyLang"
+
+msgid "Basic settings"
+msgstr "Основні налаштування"
+
+msgid "External plugins"
+msgstr "Зовнішні плагіни"
+
+msgid "Empty site"
+msgstr "Порожній сайт"
+
+msgid "Site has rules for all locales"
+msgstr "У сайта є правила для усіх локалей"
+
+msgid "Site has no rules for locales:"
+msgstr "У сайта нема правил для локалей:"

@@ -1371,3 +1371,24 @@ msgstr "Прив'язка ліцензії недоступна."
 
 msgid "Unknown error while trying to bind the license."
 msgstr "Невідома помилка під час спроби прив'язати ліцензію."
+
+msgid "Plugin <a href=\"%s\">%s</a> (id %s)"
+msgstr "Плагін <a href=\"%s\">%s</a> (id %s)"
+
+msgid "Theme <a href=\"%s\">%s</a> (id %s)"
+msgstr "Тема <a href=\"%s\">%s</a> (id %s)"
+
+msgid "Widget <a href=\"%s\">%s</a> (id %s)"
+msgstr "Віджет <a href=\"%s\">%s</a> (id %s)"
+
+msgid "Product"
+msgstr "Товар"
+
+msgid "Order ID"
+msgstr "Ідентифікатор замовлення"
+
+msgid "reset filters"
+msgstr "скинути фільтри"
+
+msgid "Total rows:"
+msgstr "Усього рядків:"

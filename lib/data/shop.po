@@ -1,20 +1,20 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Shop-Script 8.15.0.40 UA translation v 1.0\n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
-"Language-Team: skeeter.studio\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2013-02-11 12:44+0400\n"
-"PO-Revision-Date: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language: uk_UA\n"
+"Language-Team: skeeter.studio\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: \n"
+"POT-Creation-Date: 2013-02-11 12:44+0400\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: Webasyst Shop-Script 8.16.0.41 UA translation v 1.0\n"
+"Report-Msgid-Bugs-To: \n"
 "X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
 "X-Poedit-Bookmarks: 2300,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
@@ -12222,3 +12222,168 @@ msgstr "Заблокувати вартість доставки"
 
 msgid "Custom badge"
 msgstr "Власна наклейка"
+
+msgid "Request URL"
+msgstr "URL запиту"
+
+msgid "Enter the URL to which order notifications will be sent."
+msgstr "Вкажіть URL, на який будуть направлятись повідомлення про замовлення."
+
+msgid "GET parameters"
+msgstr "Параметри GET"
+
+msgid "POST parameters"
+msgstr "Параметри POST"
+
+msgid "Data sending format"
+msgstr "Формат відправки даних"
+
+msgid "Apply to all sub-categories"
+msgstr "Застосувати до усіх підкатегорій"
+
+msgid "When this category is saved, the “Hidden category” setting selected above will be applied to all its sub-categories."
+msgstr "Коли цю категорію буде збережено, налаштування «Прихована категорія» буде застосовано до усіх підкатегорій."
+
+msgid "Use in all storefronts"
+msgstr "Використовувати для усіх вітрин"
+
+msgid "Use only in selected storefronts"
+msgstr "Використовувати тільки на обраних вітринах"
+
+msgid "You have %s bonus point! You can use it to get an additional discount of up to %s."
+msgid_plural "You have %s bonus points! You can use some of them to get an additional discount of up to %s."
+msgstr[0] "У вас є %s бонусний бал! Ви можете використати бонусні бали, аби отримати знижку до %s."
+msgstr[1] "У вас є %s бонусних бали! Ви можете використати бонусні бали, аби отримати знижку до %s."
+msgstr[2] "У вас є %s бонусних балів! Ви можете використати бонусні бали, аби отримати знижку до %s."
+
+msgid "Prices are edited in section “%s”."
+msgstr "Ціни можна редагувати у розділі “%s”."
+
+msgid "Used in %d variant."
+msgid_plural "Used in %d variants."
+msgstr[0] "Використовується у %d модифікації."
+msgstr[1] "Використовується у %d модифікаціях."
+msgstr[2] "Використовується у %d модифікаціях."
+
+msgid "Enter a description that will be used in the TITLE and in META tags used by search systems."
+msgstr "Введіть опис, який буде застосовуватись у тегах TITLE та META, які використовуються пошуковими системами."
+
+msgid "Select the images you want to delete"
+msgstr "Оберіть зображення, які ви бажаєте видалити"
+
+msgid "Drag images to arrange them in the order in which they must appear in the storefront."
+msgstr "Перетягніть фото, аби відсортувати їх у тій послідовності, яку ви бажаєте бачити на вітрині."
+
+msgid "Show uploaded"
+msgstr "Показати завантажені"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "For search systems"
+msgstr "Для пошукових систем"
+
+msgid "In the TITLE and in the META tags’ values you can use variables &#123;$name&#125;, &#123;$summary&#125;, and &#123;$price&#125;, which are replaced by the product’s name, summary, and price displayed in the storefront."
+msgstr "У значеннях тегів TITLE та TITLE ви можете використовувати змінні &#123;$name&#125;, &#123;$summary&#125;, та &#123;$price&#125;, які буде замінено назвоб товару, коротким описом та ціною, що відображується на вітрині."
+
+msgid "How a link to the product will be displayed in search results"
+msgstr "Як посилання на товар буде виводитись у результатах пошуку"
+
+msgid "Recommended: 55—75."
+msgstr "Рекомендовано: 55 — 75."
+
+msgid "Page description"
+msgstr "Опис сторінки"
+
+msgid "Recommended: 150–400."
+msgstr "Рекомендовано: 150 — 400."
+
+msgid "For social media"
+msgstr "Для соціальних мереж"
+
+msgid "How a link to the product will be displayed in social media"
+msgstr "Як посилання на товар буде відображуватись у соціальних мережах"
+
+msgid "Auto mode"
+msgstr "Автоматичний режим"
+
+msgid "When auto mode is enabled, the product name and summary, or the displaying settings for search systems, if available, are used. In the same fashion the main image and video of a product, or those of its main variant, are used."
+msgstr "Коли увімкнено автоматичний режим, використовуються назва товару та короткий опис або налаштування відображення для пошукових систем, якщо вони доступні. Таким же чином використовуються основне зображення та відео товару або його основної модифікації."
+
+msgid "If a product has no uploaded images then a social media will automatically pick any image on the product page."
+msgstr "Якщо у товару немає завантажених зображень, тоді соціальна мережа автоматично обере довільне зображення зі сторінки товару."
+
+msgid "Video URL"
+msgstr "URL відео"
+
+msgid "Page type"
+msgstr "Тип сторінки"
+
+msgid "You can set up multiple storefronts for your online store — for sales in various regions, for several business areas, for sales via social media and other platforms. Each strefront can display its own set of products. Here are shown the storefronts where this particular product is displayed."
+msgstr "Ви можете налаштувати кілька вітрин для свого інтернет-магазину: для продажів у різних регіонах, для кількох сфер бізнесу, для продажу через соціальні мережі та інші платформи. Кожна вітрина може відображати власний набір товарів. Тут показані вітрини магазинів, де відображається цей товар."
+
+msgid "The available storefronts and the products displayed in them can be managed by means of product types (in section “Settings → Product types & Features”) and the storefront settings (in section “Storefront → Settings”). Add new storefronts in section “Structure” of the Site app."
+msgstr "Доступні вітрини та товари, які на них відображуються, можна налаштувати через типи товарів (у розділі «Налаштування → Типи та характеристики товарів») та у настройках вітрини (у розділі «Вітрина → Налаштування»). Додайте нові вітрини у розділі «Структура» додатку «Сайт»."
+
+msgid "This product is not published in any storefront."
+msgstr "Цей товар не є опублікованим на будь-якій вітрині."
+
+msgid "The product is displayed in %d storefront."
+msgid_plural "The product is displayed in %d storefronts."
+msgstr[0] "Цей товар опубліковано на %d вітрині."
+msgstr[1] "Цей товар опубліковано на %d вітринах."
+msgstr[2] "Цей товар опубліковано на %d вітринах."
+
+msgid "%d character."
+msgid_plural "%d characters."
+msgstr[0] "%d символ."
+msgstr[1] "%d символи."
+msgstr[2] "%d символів."
+
+msgid "Insert variable"
+msgstr "Вставити змінну"
+
+msgid "Detailed information about the available parameters for social media and their values is published on the %s protocol’s website."
+msgstr "Детальну інформацію про доступні параметри для соціальних мереж та їх значення опубліковано на веб-сайті протоколу %s."
+
+msgid "Image usage in SKU variants: %s."
+msgstr "Використання зображення у модифікаціях артикулу: %s."
+
+msgid "Images to be deleted: %s."
+msgstr "Зображення до видалення: %s."
+
+msgid "Images usage in SKU variants: %s."
+msgstr "Використання зображень у модифікаціях артикулу: %s."
+
+msgid "Cropping"
+msgstr "Обрізка"
+
+msgid "Resolution (w×h)"
+msgstr "Роздільна здатність (в×ш)"
+
+msgid "Rotate counterclockwise"
+msgstr "Повернути вліво"
+
+msgid "Rotate clockwise"
+msgstr "Повернути вправо"
+
+msgid "Crop"
+msgstr "Обрізати"
+
+msgid "TITLE & Alt"
+msgstr "TITLE та Alt"
+
+msgid "Resolution"
+msgstr "Роздільна здатність"
+
+msgid "Press and hold %s to keep the proportions when cropping the image."
+msgstr "Натисніть та утримайте %s, аби зберегти пропорції при обрізці зображення."
+
+msgid "In variants"
+msgstr "У модифікаціях"
+
+msgid "Show values"
+msgstr "Показати значення"
+
+msgid "HTTP request <strong>%s</strong> has been sent."
+msgstr "HTTP-запит <strong>%s</strong> було надіслано."

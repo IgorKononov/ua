@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst 1.14.9.567 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst 1.14.10.576 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -8,7 +8,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-12-12 11:52+0300\n"
+"PO-Revision-Date: 2021-01-24 16:18+0300\n"
 "Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Poedit 2.4.2\n"
@@ -6417,3 +6417,21 @@ msgstr "Цю сторінку не буде опубліковано, тому �
 
 msgid "This page is unsettled (unpublished), i.e. not connected to any of your site’s routing rules. Set up a settlement in Site app’s “Structure” section to publish this page."
 msgstr "Цю сторінку не опубліковано, тобто не пов'язано з жодним з правил у структурі вашого сайту. Налаштуйте правило у розділі «Структура» додатку «Сайт», аби опублікувати цю сторінку."
+
+msgid "Backend"
+msgstr "Панель керування"
+
+msgid "Enter sender IDs, each on a separate line, to use with this SMS gateway. A sender ID is either your phone number or an up to 11 characters long text label. Enter * (asterisk) to use a default sender ID issued by the gateway for your account."
+msgstr "Введіть ідентифікатори відправників (кожен з них в окремому рядку) для використання з цим шлюзом SMS. Ідентифікатор відправника – це ваш номер телефону або до 11 символів довгої текстової мітки. Введіть * (зірочку) для використання ідентифікатора відправника за промовчанням, виданого шлюзом для вашого облікового запису."
+
+msgid "Obtain an API key for the <strong>free or paid version</strong> on the <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">developer dashboard</a>. Select “<strong>JavaScript API, Geocoding API</strong>” option."
+msgstr "Отримайте ключ API для <strong>безкоштовної або платної версії</strong> у <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">панелі розробника</a>. Виберіть опцію <strong>JavaScript API, API геокодування</strong>."
+
+msgid "Obtain an API key for the <strong>paid version</strong> on the <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">developer dashboard</a>. Select “<strong>JavaScript API, Geocoding API</strong>” option."
+msgstr "Отримайте ключ API для <strong>платної версії</strong> у <a href=\"https://developer.tech.yandex.ru/\" target=\"_blank\">панелі розробника</a>. Виберіть опцію <strong>JavaScript API, API геокодування</strong>."
+
+msgid "If the free version’s API key is specified, only a link to the map will be displayed."
+msgstr "Якщо вказано ключ API безкоштовної версії, буде відображатися лише посилання на карту."
+
+msgid "<a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">Obtain a Google Maps API key</a> to get a map displayed."
+msgstr "<a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">Отримайте ключ API Карт Google,</a> щоб відобразити карту."
