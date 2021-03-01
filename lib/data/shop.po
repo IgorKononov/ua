@@ -9,7 +9,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "POT-Creation-Date: 2013-02-11 12:44+0400\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"Project-Id-Version: Webasyst Shop-Script 8.16.0.41 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Shop-Script 8.17.1.43 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "X-Generator: Poedit 2.4.2\n"
 "X-Poedit-Basepath: .\n"
@@ -12387,3 +12387,207 @@ msgstr "Показати значення"
 
 msgid "HTTP request <strong>%s</strong> has been sent."
 msgstr "HTTP-запит <strong>%s</strong> було надіслано."
+
+msgid "Configure recommendations (cross-selling)"
+msgstr "Налаштувати перехресні продажі (Cross-selling)"
+
+msgid "If your jurisdiction require you to charge additional county taxes, define taxing rules by ZIP (postal) code. Use asterisk (*) for wildcard. For example, mask 12* is applicable for all ZIP codes with 12 as first two symbols, e.g. 12365, 12963, 12AB7, 12 QN93 and so on (wildcard is OK for both letters and numbers). ZIP code rules are processed one by one in the given order. Applied is the first rule matching the user ZIP code (only one matching rule is applied at a time). County tax rules are of a higher priority than state tax rules (if matched, county tax rate replaces the state tax rule when calculated during the checkout), which means that combined county rates must be provided."
+msgstr "Якщо ваше законодавство вимагає стягнення додаткових місцевих податків, додайте податкові ставки для окремих поштових індексів. В якості маски використовуйте символ зірочки (*). Наприклад, маска 12* позначає усі поштові індекси, що починаються з цифр 12: 123654, 12963, 12AB7, 12 QN93 і т.д. (Маска діє для цифр і букв). Правила для поштових індексів обробляються в заданому порядку. Застосовується перше правило, відповідне поштовим індексом покупця (застосовується тільки одне, перше, правило). Правила розрахунку місцевих податків мають вищий пріоритет, ніж правила податків регіонів (у випадку спрацювання обох правил місцевий податок використовується замість податку регіону під час оформлення замовлення); це означає, що слід вказувати об'єднані місцеві податкові ставки."
+
+msgid "All products available on this stock will be saved on the balance of corresponding SKUs."
+msgstr "Усі товари, що залишилися на цьому складі, буде збережено на балансі відповідних артикулів"
+
+msgid "All products available on this stock will be transferred to another stock."
+msgstr "Решту товарів буде перенесено з цього складу в інший склад"
+
+msgid "This product type will be deleted and all its products will remain without a type. Are you sure?"
+msgstr "Цей тип товарів буде видалено, а всі належні до нього товари залишаться без типу. Ви впевнені?"
+
+msgid "Automated assignment of guest orders to existing customers will not work on the following websites: <strong>%s</strong>. Due to privacy considerations, automatic order assignment requires enabling “<strong>Confirm signup</strong>” option at <em>Site app → [select your domain] → Personal → Login and signup settings</em>. The “Confirm signup” option is available only if the option “<strong>A user enters a password during signup</strong>” is selected for the “Passwords type” setting."
+msgstr "Автоматичне призначення гостевих замовлень на існуючих клієнтів не буде працювати на наступних сайтах: <strong>%s</strong>. З міркувань конфіденційності, автоматичне призначення замовлень вимагає увімкнення опції \"<strong>Підтвердження реєстрації</strong>\" у розділі <em>Сайт → Обрати домен → Власний кабінет → Налаштування входу та реєстрації</em>. Опція \"Підтвердження реєстрації\" доступна тільки коли увімкнене налаштування \"<strong>Користувач вводить пароль під час реєстрації</strong>\" для параметру \"Тип паролів\"."
+
+msgid "Who can edit"
+msgstr "Хто може редагувати"
+
+msgid "Other users"
+msgstr "Інші користувачі"
+
+msgid "The category has been deleted."
+msgstr "Категорію видалено."
+
+msgid "No storefronts"
+msgstr "Немає вітрин"
+
+msgid "Complementary products"
+msgstr "Додаткові товари"
+
+msgid "Recommend other products as complementary to the current product, if they were previously ordered with this product or if they are contained in selected categories. For instance, you may recommend cases, protective glasses, and earphones for smartphones."
+msgstr "Рекомендуйте інші товари як додаткові до поточного товару, якщо вони раніше були замовлені разом із цим продуктом або якщо вони містяться у вибраних категоріях. Наприклад, ви можете порекомендувати чохли, захисні окуляри та навушники для смартфонів."
+
+msgid "Use recommendations settings"
+msgstr "Використовувати налаштування рекомендацій"
+
+msgid "Individually for this product"
+msgstr "Індивідуально для цього товару"
+
+msgid "Upselling & similar"
+msgstr "Схожі і альтернативні товари"
+
+msgid "Recommend products with other prices and features, or products of absolutely different types, matching specified criteria. For instance, for a certain smartphone you may recommend other smartphones of different brands with similar functionality."
+msgstr "Рекомендуйте товари з іншими цінами та характеристиками, або товари абсолютно різних типів, що відповідають заданим критеріям. Наприклад, для певного смартфона ви можете рекомендувати інші смартфони різних марок зі схожими функціональними можливостями."
+
+msgid "Disable some SKUs in the new product editor to be able to edit them here"
+msgstr "Вимкніть деякі артикули у новому редакторі товарів, аби мати змогу редагувати їх тут"
+
+msgid "Upload file"
+msgstr "Завантажити файл"
+
+msgid "A link to download the file will be sent to a customer in an order notification and will be valid only after payment. A convenient delivery method for digital products."
+msgstr "Посилання для завантаження файлу буде надіслане замовнику у повідомленні про замовлення і стане дійсним лише після оплати. Зручний спосіб доставки цифрових продуктів."
+
+msgid "Comment to attached file (optional):"
+msgstr "Коментар до прикріпленого файлу (не обов'язково)"
+
+msgid "Availability in the storefront"
+msgstr "Доступність на вітрині"
+
+msgid "The product contains several SKUs or variants"
+msgstr "Цей товар містить декілька артикулів або модифікацій"
+
+msgid "Attached file"
+msgstr "Прикріплений файл"
+
+msgid "Save product data to attach a file."
+msgstr "Збережіть дані про товар, аби прикріпити файл."
+
+msgid "Incorrect URL format."
+msgstr "Невірний формат URL."
+
+msgid "File deletion confirmation"
+msgstr "Підтвердження видалення файлу"
+
+msgid "Do you really want to delete the file?"
+msgstr "Ви дійсно хочете видалити цей файл?"
+
+msgid "It is not recommended to add too many SKU and variants (over 50) as it may slow down the product editor."
+msgstr "Не рекомендовано додавати забагато (більше 50) артикулів та модифікацій, тому що це може уповільнити редактор товарів."
+
+msgid "Set values"
+msgstr "Вказати значення"
+
+msgid "The product editor may slow down by several seconds with a large total number of SKU variants (over 50)."
+msgstr "Редактор товарів може працювати повільніше на декілька секунд при великій кількості варіантів артикулів (понад 50)."
+
+msgid "Select at least 1 feature value to create product SKUs"
+msgstr "Оберіть принаймні одне значення характеристики, аби створити артикул товара."
+
+msgid "%d SKU with %s each."
+msgid_plural "%d SKUs with %s each."
+msgstr[0] "%d артикул з %s кожен."
+msgstr[1] "%d артикули з %s кожен"
+msgstr[2] "%d артикулів з %s кожен"
+
+msgid "%d variant"
+msgid_plural "%d variants"
+msgstr[0] "%d модифікація"
+msgstr[1] "%d модифікації"
+msgstr[2] "%d модифікацій"
+
+msgid "Total: %s."
+msgstr "Усього: %s."
+
+msgid "Automatically create product SKUs matching all selected feature settings."
+msgstr "Автоматично створити артикули товарів, що відповідають усім обраним налаштуванням характеристик."
+
+msgid "SKU is not visible in the storefront."
+msgstr "Артикул не відображується на вітрині."
+
+msgid "Some SKU variants are not visible in the storefront."
+msgstr "Деякі артикули не відображуються на вітрині."
+
+msgid "All SKU modifications are visible in the storefront."
+msgstr "Усі модифікації артикулів відображуються на вітрині."
+
+msgid "The SKU variant is visible in the storefront."
+msgstr "Ця модифікація артикулу відображується на вітрині."
+
+msgid "The SKU variant visible in the storefront."
+msgstr "Ця модифікація артикулу відображується на вітрині."
+
+msgid "Find and add a product"
+msgstr "Знайти та додати товар"
+
+msgid "For product type"
+msgstr "Для типу товарів"
+
+msgid "Products selected"
+msgstr "Товари обрано"
+
+msgid "Recommendations defined for product type “%s”:"
+msgstr "Рекомендації, які обрано для типу товарів “%s”:"
+
+msgid "Recommended complementary products for product type “%s” are not defined."
+msgstr "Рекомендації додаткових товарів для типу товарів “%s” не обрано."
+
+msgid "Upselling recommendations for product type “%s” are not defined."
+msgstr "Рекомендації для типу товарів “%s” не обрано."
+
+msgid "performed a custom action (%s) with an order"
+msgstr "виконав користувацьку дію (%s) із замовленням"
+
+msgid "You cannot use these values because they belong to another customer. To use them during the checkout, please log out and log in again with these contact data."
+msgstr "Ви не можете використовувати ці значення, оскільки вони належать іншому клієнту. Щоб скористатися ними під час оформлення замовлення, вийдіть та ввійдіть знову за допомогою цих контактних даних."
+
+msgid "(On all stocks: %d)"
+msgstr "(На усіх складах: %d)"
+
+msgid "Duplicate category entries on %d line"
+msgid_plural "Duplicate category entries on %d lines"
+msgstr[0] "Надлишкова інформація про категорії на рядку %d"
+msgstr[1] "Надлишкова інформація про категорії на рядку %d"
+msgstr[2] "Надлишкова інформація про категорії на рядку %d"
+
+msgid "Duplicate product entries on %d line"
+msgid_plural "Duplicate product entries on %d lines"
+msgstr[0] "Надлишкова інформація про товари на рядку %d"
+msgstr[1] "Надлишкова інформація про товари на рядку %d"
+msgstr[2] "Надлишкова інформація про товари на рядку %d"
+
+msgid "Duplicate SKU entries on %d line"
+msgid_plural "Duplicate SKU entries on %d lines"
+msgstr[0] "Надлишкова інформація про артикули на рядку %d"
+msgstr[1] "Надлишкова інформація про артикули на рядку %d"
+msgstr[2] "Надлишкова інформація про артикули на рядку %d"
+
+msgid "Error on configuration saving."
+msgstr "Помилка при збереженні конфігурації."
+
+msgid "Filter is not available."
+msgstr "Фільтр недоступний."
+
+msgid "Copy and paste the URL of a product video from the YouTube or Vimeo website."
+msgstr "Скопіюйте та вставте URL-адресу відео з YouTube або Vimeo."
+
+msgid "Image deletion has failed."
+msgstr "Не вдалося видалити зображення."
+
+msgid "Deletion error: unknown SKU."
+msgstr "Помилка видалення: невідомий артикул."
+
+msgid "At least one SKU must be visible in the storefront."
+msgstr "На вітрині магазину має бути видно принаймні один артикул."
+
+msgid "The main SKU cannot be hidden. Either select another main SKU or make the main SKU visible."
+msgstr "Основний артикул не може бути прихованим. Оберіть інший артикул, або зробіть видимим основний артикул."
+
+msgid "Error while rotate. The original file is corrupted but backed up."
+msgstr "Помилка при повертанні. Оригінальний файл пошкоджений, але створено його резервну копію."
+
+msgid "Disable"
+msgstr "Вимкнути"
+
+msgid "Manually select recommended products"
+msgstr "Вручну вибрати рекомендовані товари"
+
+msgid "Cannot delete the file."
+msgstr "Не вдається видалити файл."

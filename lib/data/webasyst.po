@@ -1,19 +1,19 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst 1.14.10.576 UA translation v 1.0\n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
-"Language-Team: skeeter.studio\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2021-01-24 16:18+0300\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Language: uk_UA\n"
+"Language-Team: skeeter.studio\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2021-03-01 10:53+0300\n"
+"POT-Creation-Date: \n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Project-Id-Version: Webasyst 1.14.13.587 UA translation v 1.0\n"
+"Report-Msgid-Bugs-To: \n"
 "X-Generator: Poedit 2.4.2\n"
-"X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
@@ -6435,3 +6435,48 @@ msgstr "Якщо вказано ключ API безкоштовної версі
 
 msgid "<a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">Obtain a Google Maps API key</a> to get a map displayed."
 msgstr "<a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">Отримайте ключ API Карт Google,</a> щоб відобразити карту."
+
+msgid "%s: call of unknown method %s->%s() with arguments %s"
+msgstr "%s: виклик невідомого методу %s->%s() з аргументами %s"
+
+msgid "%s: attempt to read unknown property %s->%s"
+msgstr "%s: спроба прочитати невідому властивість %s->%s"
+
+msgid "Plugin “%s” not found."
+msgstr "Плагін “%s” не знайдено."
+
+msgid "The called plugin “%s” is disabled."
+msgstr "Викликаний плагін \"%s\" вимкнено."
+
+msgid "The called plugin “%s” is not installed."
+msgstr "Викликаний плагін \"%s\" не встановлено."
+
+msgid "System templates"
+msgstr "Системні шаблони"
+
+msgid "PHP mail() function"
+msgstr "PHP-функція mail()"
+
+msgid "OK, thanks"
+msgstr "Добре, дякую"
+
+msgid "You need to install PHP extension openssl to use DKIM."
+msgstr "Аби користуватись DKIM, вам необхідно встановити розширення PHP OpenSSL."
+
+msgid "Preview SMS message \"<span class=\"js-template-name\"></span>\""
+msgstr "Попередній перегляд SMS-повідомлення «<span class=\"js-template-name\"></span>»"
+
+msgid "To check the sending of SMS messages, you must save the changes you made."
+msgstr "Аби перевірити відправку SMS-повідомлень, потрібно зберегти внесені зміни."
+
+msgid "Also check in “<a href=\"%s\">%s</a>” section that SMS notifications based on “%s“ template are correctly sent, too. Be aware that SMS sending might not work occasionally; e.g., due to low SMS balance."
+msgstr "Також перевірте у розділі «“<a href=\"%s\">%s</a>», що SMS-повідомлення на основі шаблону “%s“ налаштовано коректно. Майте на увазі, що час від часу SMS-повідомлення можуть не працювати — наприклад, через низький баланс на рахунку."
+
+msgid "Only Latin letters (a—z, A—Z), numbers (0—9) and underline character (_) are allowed."
+msgstr "Дозволені тільки символи латиниці (a—z, A—Z), цифри (0—9) та знак підкреслення (_)."
+
+msgid "%s is not an image adapter."
+msgstr "%s — не адаптер зображень."
+
+msgid "This page has sub-pages with empty addresses."
+msgstr "На цій сторінці є підсторінки з пустою адресою."
