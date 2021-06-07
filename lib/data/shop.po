@@ -9,9 +9,9 @@ msgstr ""
 "PO-Revision-Date: \n"
 "POT-Creation-Date: 2013-02-11 12:44+0400\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"Project-Id-Version: Webasyst Shop-Script 8.17.1.43 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Shop-Script 8.19.1.46 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Bookmarks: 2300,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -3140,9 +3140,9 @@ msgstr "У коді для вставки списку товарів необх
 
 msgid "This coupon was used for <strong>%d order</strong>."
 msgid_plural "This coupon was used for <strong>%d orders</strong>."
-msgstr[0] "Цей купон вже був використаний для <strong>%d замовлення</strong>."
-msgstr[1] "Цей купон вже був використаний для <strong>%d замовлень</strong>."
-msgstr[2] "Цей купон вже був використаний для <strong>%d замовлень</strong>."
+msgstr[0] "Цей купон вже було використано для <strong>%d замовлення</strong>."
+msgstr[1] "Цей купон вже було використано для <strong>%d замовлень</strong>."
+msgstr[2] "Цей купон вже було використано для <strong>%d замовлень</strong>."
 
 msgid "%d contact"
 msgid_plural "%d contacts"
@@ -3190,7 +3190,7 @@ msgid "%d SKU in total"
 msgid_plural "%d SKUs in total"
 msgstr[0] "%d артикул усього"
 msgstr[1] "%d артикула усього"
-msgstr[2] "%d артикулів усього"
+msgstr[2] "%d артикули усього"
 
 msgid "Based on last 30 days sales dynamic (%d items of %s sold during last 30 days), you will run out of %s in <strong>%d days</strong> (on %s)"
 msgstr "Протягом останніх 30 днів продано %d одиниць товару %s. При збереженні такої динаміки продажів товар %s повністю закінчиться на складі через <strong>%d днів</strong> (%s)"
@@ -4576,7 +4576,7 @@ msgid "Linked %d product image"
 msgid_plural "Linked %d product images"
 msgstr[0] "Пов&#39;язано %d зображення товару"
 msgstr[1] "Пов&#39;язано %d зображення товару"
-msgstr[2] "Пов&#39;язано %d  товару"
+msgstr[2] "Пов&#39;язано %d зображень товару"
 
 msgid "Updated %d category"
 msgid_plural "Updated %d categories"
@@ -4967,9 +4967,9 @@ msgstr "Повне ім&#39;я"
 
 msgid "You have <strong>%d product</strong> with this feature value specified. Deleting this feature will erase it’s value for all these products."
 msgid_plural "You have <strong>%d products</strong> with this feature value specified. Deleting this feature will erase it’s value for all these products."
-msgstr[0] "У вас є <strong>%d товар</strong>, для якого вказана ця характеристика. Видалення цієї характеристики очистить її значення для усіх цих продуктів."
-msgstr[1] "У вас є <strong>%d товари</strong>, для якого вказана ця характеристика. Видалення цієї характеристики очистить її значення для усіх цих продуктів."
-msgstr[2] "У вас є <strong>%d товарів</strong>, для якого вказана ця характеристика. Видалення цієї характеристики очистить її значення для усіх цих продуктів."
+msgstr[0] "У вас є <strong>%d товар</strong>, для якого вказана ця характеристика. Видалення цієї характеристики очистить її значення для усіх цих товарів."
+msgstr[1] "У вас є <strong>%d товари</strong>, для яких вказана ця характеристика. Видалення цієї характеристики очистить її значення для усіх цих товарів."
+msgstr[2] "У вас є <strong>%d товарів</strong>, для яких вказана ця характеристика. Видалення цієї характеристики очистить її значення для усіх цих товарів."
 
 msgid "This feature is not assigned to any product yet, and thus can be safely deleted."
 msgstr "Цю характеристику не призначено жодному товару і може бути безпечно видалено."
@@ -6024,7 +6024,7 @@ msgstr "Smarty-код А/Б-тестування"
 msgid "There is <strong>%d paid order</strong>"
 msgid_plural "There are <strong>%d paid orders</strong>"
 msgstr[0] "Існує <strong>%d оплачене замовлення</strong>"
-msgstr[1] "Існує <strong>%d оплачених замовлення</strong>"
+msgstr[1] "Існує <strong>%d оплачених замовлень</strong>"
 msgstr[2] "Існує <strong>%d оплачених замовлень</strong>"
 
 msgid "Setup payment & shipping"
@@ -9532,13 +9532,13 @@ msgstr "Більше контактної інформації"
 msgid "%d more customer found with the same email address"
 msgid_plural "%d more customers found with the same email address"
 msgstr[0] "Знайдено ще %d покупця із тим же email"
-msgstr[1] "Знайдено ще %d покупці із тим же email"
+msgstr[1] "Знайдено ще %d покупців із тим же email"
 msgstr[2] "Знайдено ще %d покупців із тим же email"
 
 msgid "%d more customer found with the same phone number"
 msgid_plural "%d more customers found with the same phone number"
 msgstr[0] "Знайдено ще %d покупця із тим же номером телефону"
-msgstr[1] "Знайдено ще %d покупці із тим же номером телефону"
+msgstr[1] "Знайдено ще %d покупців із тим же номером телефону"
 msgstr[2] "Знайдено ще %d покупців із тим же номером телефону"
 
 msgid "Ошибка"
@@ -9756,9 +9756,9 @@ msgstr "Надіслати код"
 
 msgid "You can request a new confirmation code in %s."
 msgid_plural "<span class=\"wa-time\"></span>"
-msgstr[0] "You can request a new confirmation code in %s."
-msgstr[1] "<span class=\"wa-time\"></span>"
-msgstr[2] "<span class=\"wa-time\"></span>"
+msgstr[0] "Ви можете запитати новий код підтвердження через %s."
+msgstr[1] "Ви можете запитати новий код підтвердження через %s."
+msgstr[2] "Ви можете запитати новий код підтвердження через %s."
 
 msgid "Please confirm your phone number"
 msgstr "Підтвердіть, будь ласка, свій номер телефону"
@@ -9843,14 +9843,14 @@ msgstr "Описи зображень продукту"
 
 msgid "Updated %d product image description"
 msgid_plural "Updated %d product image descriptions"
-msgstr[0] "Updated %d product image description"
-msgstr[1] "Updated %d product image descriptions"
+msgstr[0] "Оновлено %d опис зображення товару"
+msgstr[1] "Оновлено %d описи зображення товару"
 msgstr[2] "Оновлено %d описів зображення товару"
 
 msgid "%d SKU imported with errors"
 msgid_plural "%d SKUs imported with errors"
-msgstr[0] "%d SKU imported with errors"
-msgstr[1] "%d SKUs imported with errors"
+msgstr[0] "%d артикул імпортовано з помилками"
+msgstr[1] "%d артикули імпортовано з помилками"
 msgstr[2] "%d артикулів імпортовано з помилками"
 
 msgid "Unknown SKU"
@@ -9858,15 +9858,15 @@ msgstr "Невідомий артикул"
 
 msgid "Wait for %d second"
 msgid_plural "Wait for %d seconds"
-msgstr[0] "Wait for %d second"
-msgstr[1] "Wait for %d seconds"
+msgstr[0] "Зачекайте %d секунду"
+msgstr[1] "Зачекайте %d секунди"
 msgstr[2] "Зачекайте %d секунд"
 
 msgid "You have entered an incorrect code. %d more attempt is available."
 msgid_plural "You have entered an incorrect code. %d more attempts are available."
 msgstr[0] "Ви ввели некоректний код. Доступна ще %d спроба."
 msgstr[1] "Ви ввели некоректний код. Доступні ще %d спроби."
-msgstr[2] "Ви ввели некоректний код. Доступно ще %d спроб."
+msgstr[2] "Ви ввели некоректний код. Доступні ще %d спроб."
 
 msgid "Incorrect data specified to send a code"
 msgstr "Для відправки коду вказано невірні дані"
@@ -11610,8 +11610,8 @@ msgstr[2] "Показати ще %d вітрин"
 
 msgid "Hide %d storefront"
 msgid_plural "Hide %d storefronts"
-msgstr[0] "Hide %d storefront"
-msgstr[1] "Hide %d storefronts"
+msgstr[0] "Приховати %d вітрину"
+msgstr[1] "Приховати %d вітрини"
 msgstr[2] "Приховати %d вітрин"
 
 msgid "Product publication URL has changed. Storefronts’ addresses will be updated after you click “Save”."
@@ -11828,7 +11828,7 @@ msgid "You are about to delete SKU “%s” of product “%s” with %d variant.
 msgid_plural "You are about to delete SKU “%s” of product “%s” with %d variants."
 msgstr[0] "Ви збираєтесь видалити артикул “%s” товару “%s” з %d модифікацією."
 msgstr[1] "Ви збираєтесь видалити артикул “%s” товару “%s” з %d модифікаціями."
-msgstr[2] "Ви збираєтесь видалити артикул “%s” товару “%s” з %d модифікаціями."
+msgstr[2] "Ви збираєтесь видалити артикул “%s” товару “%s” з %d модифікацій."
 
 msgid "It is used in <a href=\"%s\">%d order</a>."
 msgid_plural "It is used in <a href=\"%s\">%d orders</a>."
@@ -12029,7 +12029,7 @@ msgid "Found <a href=\"%s\">%d order</a> containing product “%s”."
 msgid_plural "Found <a href=\"%s\">%d orders</a> containing product “%s”."
 msgstr[0] "Знайдено <a href=\"%s\">%d замовлення</a>, що містить товар “%s”."
 msgstr[1] "Знайдено <a href=\"%s\">%d замовлення</a>, що містять товар “%s”."
-msgstr[2] "Знайдено <a href=\"%s\">%d замовлень</a>, що містять товар “%s”."
+msgstr[2] "Знайдено <a href=\"%s\">%d замовлень</a>, що містить товар “%s”."
 
 msgid "No orders containing product “%s”."
 msgstr "Немає замовлень, що включають товар “%s”."
@@ -12263,7 +12263,7 @@ msgid "Used in %d variant."
 msgid_plural "Used in %d variants."
 msgstr[0] "Використовується у %d модифікації."
 msgstr[1] "Використовується у %d модифікаціях."
-msgstr[2] "Використовується у %d модифікаціях."
+msgstr[2] "Використовується у %d модифікацій."
 
 msgid "Enter a description that will be used in the TITLE and in META tags used by search systems."
 msgstr "Введіть опис, який буде застосовуватись у тегах TITLE та META, які використовуються пошуковими системами."
@@ -12395,10 +12395,10 @@ msgid "If your jurisdiction require you to charge additional county taxes, defin
 msgstr "Якщо ваше законодавство вимагає стягнення додаткових місцевих податків, додайте податкові ставки для окремих поштових індексів. В якості маски використовуйте символ зірочки (*). Наприклад, маска 12* позначає усі поштові індекси, що починаються з цифр 12: 123654, 12963, 12AB7, 12 QN93 і т.д. (Маска діє для цифр і букв). Правила для поштових індексів обробляються в заданому порядку. Застосовується перше правило, відповідне поштовим індексом покупця (застосовується тільки одне, перше, правило). Правила розрахунку місцевих податків мають вищий пріоритет, ніж правила податків регіонів (у випадку спрацювання обох правил місцевий податок використовується замість податку регіону під час оформлення замовлення); це означає, що слід вказувати об'єднані місцеві податкові ставки."
 
 msgid "All products available on this stock will be saved on the balance of corresponding SKUs."
-msgstr "Усі товари, що залишилися на цьому складі, буде збережено на балансі відповідних артикулів"
+msgstr "Усі товари, що залишилися на цьому складі, буде збережено на балансі відповідних артикулів."
 
 msgid "All products available on this stock will be transferred to another stock."
-msgstr "Решту товарів буде перенесено з цього складу в інший склад"
+msgstr "Решту товарів буде перенесено з цього складу в інший склад."
 
 msgid "This product type will be deleted and all its products will remain without a type. Are you sure?"
 msgstr "Цей тип товарів буде видалено, а всі належні до нього товари залишаться без типу. Ви впевнені?"
@@ -12479,13 +12479,13 @@ msgid "The product editor may slow down by several seconds with a large total nu
 msgstr "Редактор товарів може працювати повільніше на декілька секунд при великій кількості варіантів артикулів (понад 50)."
 
 msgid "Select at least 1 feature value to create product SKUs"
-msgstr "Оберіть принаймні одне значення характеристики, аби створити артикул товара."
+msgstr "Оберіть принаймні одне значення характеристики, аби створити артикул товара"
 
 msgid "%d SKU with %s each."
 msgid_plural "%d SKUs with %s each."
 msgstr[0] "%d артикул з %s кожен."
-msgstr[1] "%d артикули з %s кожен"
-msgstr[2] "%d артикулів з %s кожен"
+msgstr[1] "%d артикули з %s кожен."
+msgstr[2] "%d артикулів з %s кожен."
 
 msgid "%d variant"
 msgid_plural "%d variants"
@@ -12591,3 +12591,375 @@ msgstr "Вручну вибрати рекомендовані товари"
 
 msgid "Cannot delete the file."
 msgstr "Не вдається видалити файл."
+
+msgid "Select payment"
+msgstr "Оберіть оплату"
+
+msgid "Please specify the address"
+msgstr "Вкажіть адресу, будь ласка"
+
+msgid "If you have not found a certain product, enter a more detailed search query to see more exact results."
+msgstr "Якщо ви не знайшли певний товар, введіть більш детальний пошуковий запит, аби отримати більш точні результати."
+
+msgid "The feature will be available for all products of this type."
+msgstr "Цю характеристику буде увімкнено для усіх товарів цього типу."
+
+msgid "Coupons search"
+msgstr "Пошук купонів"
+
+msgid "By SKU code and features used for product variety selection"
+msgstr "За кодом артикула і характеристиками, які використовуються для вибору різноманітних товарів"
+
+msgid "You can adjust the sort order of images under the “Images & videos” tab."
+msgstr "Ви можете відрегулювати порядок зображень у вкладці “Зображення та відео”."
+
+msgid "Set up services for all products or for selected product types, or for individual products."
+msgstr "Налаштувати послуги для усіх товарів або для вказаних типів товарів, або для певних товарів."
+
+msgid "To apply a service to an individual product, disable its use for the entire product type."
+msgstr "Аби застосувати послугу то окремого товару, вимкніть її використання для усього типу товарів."
+
+msgid "Configure services"
+msgstr "Налаштувати послуги"
+
+msgid "Select available services"
+msgstr "Обрати доступні послуги"
+
+msgid "SKUs & variants"
+msgstr "Артикули та модифікації"
+
+msgid "The service is inherited from the product type. You cannot remove the service from this product but you can disable it or override it for this product."
+msgstr "Ця послуга успадковується від типу товарів. Ви не можете видалити цю послугу з цього товара, але ви можете вимкнути або перезаписати її для цього товару."
+
+msgid "Individually added service. You can remove it from the product, disable or override it."
+msgstr "Індивідуальна послуга. Її не можна видалити з товару, вимкнути або перезаписати."
+
+msgid "Overriding of service settings for this product is enabled."
+msgstr "Перезапис налаштування послуг для товару увімкнено."
+
+msgid "Inheriting of settings from the parent service is enabled."
+msgstr "Успадкування налаштувань від батьківської послуги увімкнено."
+
+msgid "All service options are visible in the storefront."
+msgstr "Усі налаштування послуги відображуються на вітрині."
+
+msgid "The service is visible in the storefront."
+msgstr "Ця послуга відображується на вітрині."
+
+msgid "The service is hidden from the storefront."
+msgstr "Цю послугу приховано з вітрини."
+
+msgid "The service option is visible in the storefront."
+msgstr "Це налаштування послуги відображується на вітрині."
+
+msgid "The service option is hidden from the storefront."
+msgstr "Це налаштування опції приховане з вітрини."
+
+msgid "Default service option."
+msgstr "Послуга за замовчуванням."
+
+msgid "Click to select as the default service option."
+msgstr "Клацніть, аби обрати налаштування послуги за замовчуанням."
+
+msgid "Service options and their variants are inherited from the product type."
+msgstr "Налаштування послуги та їх варіанти успадковано від типу товарів."
+
+msgid "The service is set up for the entire product type; therefore, you cannot remove it from this product. But you can hide the service from the storefront."
+msgstr "Цю послугу налаштовано для усього типу товарів. Таким чином, її не вдасться видалити з цього товару. Але ви можете приховати послугу з вітрини."
+
+msgid "You can change the product type on the “Basic data” tab."
+msgstr "Ви можете змінити тип товарів на вкладці «Основні дані»."
+
+msgid "Product variety selection in the storefront"
+msgstr "Вибір варіанта товару на вітрині магазину"
+
+msgid "Features used for product variety selection in the storefront"
+msgstr "Характеристики, що використовуються для вибору варіанта товару на вітрині"
+
+msgid "Add a new feature"
+msgstr "Додати нову характеристику"
+
+msgid "The SKU code must be unique."
+msgstr "Код артикула має бути унікальним."
+
+msgid "How product varieties should be offered to customers in the storefront."
+msgstr "Як варіанти товару мають бути запроновані клієнтам на вітрині."
+
+msgid "Add here the product features whose values customers should select to buy a corresponding product variety."
+msgstr "Додайте тут характеристики товару, які мають обирати клієнти, аби придбати відповідний варіант товару."
+
+msgid "Subpages enable you to add more useful content to product pages such as user manuals, photo galleries, user reviews, etc."
+msgstr "Підсторінки дозволяють вам додавати більш корисний контент на сторінки товарів — такий, як керівництва, фотогалереї, відгуки користувачів тощо."
+
+msgid "Add new pages, and they will appear in the list."
+msgstr "Додайте нові сторінки, і вони з'являться у перелікові."
+
+msgid "Page deletion confirmation"
+msgstr "Підтвердження видалення сторінки"
+
+msgid "Do you really want to delete this page?"
+msgstr "Ви дійсно бажаєте видалити цю сторінку?"
+
+msgid "The feature’s format does not support selection of product varieties."
+msgstr "Формат цієї характеристики не підтримує вибір варіантів товару."
+
+msgid "Select additional services for this product"
+msgstr "Обрати додаткові послуги для цього товару"
+
+msgid "You can add a new service in the “<a href=\"%s\">Services</a>” section."
+msgstr "Ви можете додати нові послуги у розділі “<a href=\"%s\">Послуги</a>” ."
+
+msgid "Review deletion confirmation"
+msgstr "Переглянути підтверждення видалення"
+
+msgid "Do you really want to delete this review?"
+msgstr "Ви дійсно бажаєте видалити цей відгук?"
+
+msgid "Image deletion confirmation"
+msgstr "Підтвердження видалення зображення"
+
+msgid "Do you really want to delete this image?"
+msgstr "Ви дійсно бажаєте видалити це зображення?"
+
+msgid "Published on the website"
+msgstr "Опубліковано на вебсайті"
+
+msgid "View page"
+msgstr "Переглянути сторінкку"
+
+msgid "The URL is a required field."
+msgstr "Поле URL є обов'язковим."
+
+msgid "Prices & features"
+msgstr "Ціни та характеристики"
+
+msgid "Prices, quantity & availability"
+msgstr "Ціни, кількість та доступність"
+
+msgid "This tab is not available yet, we are still working on it."
+msgstr "Ця вкладка поки недоступна, ми ще працюємо над нею."
+
+msgid "Tools allowing you to manage how a product is indexed by search engines and viewed by social media users."
+msgstr "Інструменти, які дозволяють керувати тим, як сторінка індексується пошуковими системами та відображується для користувачів соціальних мереж."
+
+msgid "Additional selectable product options, allowing you to increase the product cost."
+msgstr "Додаткові налаштування товару, що дозволяють вам підвищити його ціну."
+
+msgid "Selection of other products, which should be offered to customers as a more valuable replacement or as a useful addition to this product."
+msgstr "Вибір інших товарів, які варто рекомендувати покупцям як більш коштовну альтернативу або цінний додаток до товару."
+
+msgid "Additional website pages with extra info about this product."
+msgstr "Додаткові сторінки сайту з поширеною інформацією про цей товар."
+
+msgid "Report on current product prices, stock quantity, availability status, and on promo price changes."
+msgstr "Звіт про поточну ціну товарів, складські залишки, доступність та зміни у знижках."
+
+msgid "The list of product reviews added by your customers."
+msgstr "Перелік відгуків, доданих вашими клієнтами."
+
+msgid "The promo is applied to storefronts:"
+msgstr "Цю акцію застосовано до вітрин:"
+
+msgid "The promo is applied to all storefronts."
+msgstr "Цю акцію застосовано до усіх вітрин."
+
+msgid "Availability"
+msgstr "Доступність"
+
+msgid "The product is visible in listings in the storefront but its availability for ordering depends on its individual SKUs’ & variants’ properties."
+msgstr "Цей товар опубліковано у переліках на вітрині, але його доступність для замовлення залежить від властивостей його артикулів та модифікацій."
+
+msgid "This product is not included in any promos."
+msgstr "Цей продукт не входить в жодну акцію."
+
+msgid "Show %d storefront to which the promo is applied"
+msgid_plural "Show %d storefronts to which the promo is applied"
+msgstr[0] "Показати %d вітрину, до якої застосовано акцію"
+msgstr[1] "Показати %d вітрини, до яких застосовано акцію"
+msgstr[2] "Показати %d вітрин, до яких застосовано акцію"
+
+msgid "Hide %d storefront to which the promo is applied"
+msgid_plural "Hide %d storefronts to which the promo is applied"
+msgstr[0] "Сховати %d вітрину, до якої застосовано акцію"
+msgstr[1] "Сховати %d вітрини, до яких застосовано акцію"
+msgstr[2] "Сховати %d вітрин, до яких застосовано акцію"
+
+msgid "Show %d storefront on which the product is available"
+msgid_plural "Show %d storefronts on which the product is available"
+msgstr[0] "Показати %d вітрину, на яких доступний товар"
+msgstr[1] "Показати%d вітрини, на яких доступний товар"
+msgstr[2] "Показати %d вітрин, на яких доступний товар"
+
+msgid "Hide %d storefront on which the product is available"
+msgid_plural "Hide %d storefronts on which the product is available"
+msgstr[0] "Сховати %d вітрину, на яких доступний товар"
+msgstr[1] "Сховати %d вітрини, на яких доступний товар"
+msgstr[2] "Сховати %d вітрин, на яких доступний товар"
+
+msgid "The promo in which this SKU variant is included is paused. You can view the price change in the promo info block below."
+msgstr "Акцію, до якої включена ця модифікація артикула, поставлено на паузу. Ви можете переглянути зміну ціни у інфоблоці акції нижче."
+
+msgid "The SKU variant is included in a planned promo. You can view the price change in the promo info block below."
+msgstr "Цю модифікацію артикулу включено у заплановану акцію. Ви можете переглянути зміну ціни у інфоблоці акції нижче."
+
+msgid "The promo is on."
+msgstr "Акцію увімкнено."
+
+msgid "The promo is on but is temporarily paused."
+msgstr "Акцію увімкнено але тимчасово поставлено на паузу."
+
+msgid "The promo is planned for the future."
+msgstr "Цю акцію заплановано на майбутнє."
+
+msgid "The promo price does not differ from the original product price."
+msgstr "Акційна ціна не відрізняється від оригінальної ціни товару."
+
+msgid "Product price changed for promo."
+msgstr "Ціну товару змінено на акційну."
+
+msgid "The SKU variant is included in functioning promo “%s”. You can view the price change in the promo info block below."
+msgstr "Цю модифікацію артикулу включено у діючу акцію “%s”. Ви можете переглянути зміну ціни у інфоблоці акції нижче."
+
+msgid "Hide storefronts"
+msgstr "Сховати вітрини"
+
+msgid "Prices are edited under the “%s” tab."
+msgstr "Ціни можна відредагувати у вкладці “%s”."
+
+msgid "Under moderation"
+msgstr "На модерації"
+
+msgid "Reply"
+msgstr "Відповісти"
+
+msgid "Reviews not found."
+msgstr "Відгуки не знайдено."
+
+msgid "Reviews per page:"
+msgstr "Відгуків на сторінку:"
+
+msgid "There are no stocks available for selection. Set up stocks in section “Settings → Stocks”."
+msgstr "Для обраних елементів не налаштовані склади. Склади можна налаштувати у розділі «Налаштування → Склади»."
+
+msgid "deleted products"
+msgstr "видалені товари"
+
+msgid "Row type"
+msgstr "Тип рядка"
+
+msgid "Product variety selection"
+msgstr "Вибір модифікації товару"
+
+msgid "The specified row type is not supported."
+msgstr "Вказаний тип рядка не підтримується."
+
+msgid "Не удалось импортировать изображение артикула"
+msgstr "Не вдалося імпортувати зображення артикула"
+
+msgid "Repeating row."
+msgstr "Рядок повторюється."
+
+msgid "Изображение уже существует"
+msgstr "Зображення вже існує"
+
+msgid "Не удалось импортировать изображение"
+msgstr "Не вдалося імпортувати зображення"
+
+msgid "Errors have been found in your CSV file. Download the log file to view details."
+msgstr "У вашому CSV-файлі знайдено помилки. Завантажте лог-файл, аби переглянути подробиці."
+
+msgid "Download log file"
+msgstr "Завантажити лог-файл"
+
+msgid "ID of the invalid row in the import file"
+msgstr "ID некоретного рядка у файлі імпорта"
+
+msgid "Error description"
+msgstr "Опис помилки"
+
+msgid "Only valid promos"
+msgstr "Тільки дійсні акції"
+
+msgid "Only available"
+msgstr "Тільки доступні"
+
+msgid "Only unavailable"
+msgstr "Тільки недоступні"
+
+msgid "Only visible"
+msgstr "Тільки видимі"
+
+msgid "Only hidden"
+msgstr "Тільки приховані"
+
+msgid "Only paused"
+msgstr "Тільки поставлені на паузу"
+
+msgid "Only planned"
+msgstr "Тільки заплановані"
+
+msgid "Participation in promos:"
+msgstr "Участь у акціях:"
+
+msgid "Availbility for purchase:"
+msgstr "Доступність для покупки:"
+
+msgid "Visibility:"
+msgstr "Видимість:"
+
+msgid "Show promos:"
+msgstr "Показати акції:"
+
+msgid "Without time limitation."
+msgstr "Без обмеження часу."
+
+msgid "from %s, %s"
+msgstr "від %s, %s"
+
+msgid "without an end date"
+msgstr "без дати закінчення"
+
+msgid "%s, until %s"
+msgstr "%s, до %s"
+
+msgid "without a start date"
+msgstr "без дати початку"
+
+msgid "Unable to save the service."
+msgstr "Не вдалося зберегти послугу."
+
+msgid "Saving has failed."
+msgstr "Збереження не вдалося."
+
+msgid "The specified URL already exists."
+msgstr "Вказаний URL вже існує."
+
+msgid "Rating, ascending"
+msgstr "Рейтинг, за зростанням"
+
+msgid "Rating, descending"
+msgstr "Рейтинг, за зменшенням"
+
+msgid "Date, ascending"
+msgstr "Дата, за зростанням"
+
+msgid "Date, descending"
+msgstr "Дата, за зменшенням"
+
+msgid "Empty payment method settings ID."
+msgstr "Пустий ідентифікатор методу платежу."
+
+msgid "Order payment method does not match the callback request."
+msgstr "Метод оплати не відповідає запиту колбека."
+
+msgid "Webhook"
+msgstr "Вебхук"
+
+msgid "Enter webhook url"
+msgstr "Вкажіть URL вебхука"
+
+msgid "GET-params"
+msgstr "GET-параметри"
+
+msgid "POST-params"
+msgstr "POST-параметри"
