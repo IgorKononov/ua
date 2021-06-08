@@ -6,12 +6,12 @@ msgstr ""
 "Language-Team: skeeter.studio\n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2021-03-01 10:53+0300\n"
+"PO-Revision-Date: 2021-06-08 14:53+0300\n"
 "POT-Creation-Date: \n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"Project-Id-Version: Webasyst 1.14.13.587 UA translation v 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Project-Id-Version: Webasyst 2.1.1.599 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"X-Generator: Poedit 2.4.2\n"
+"X-Generator: Poedit 3.0\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -468,73 +468,73 @@ msgid "January"
 msgid_plural "January"
 msgstr[0] "Січень"
 msgstr[1] "Січня"
-msgstr[2] "Січень"
+msgstr[2] ""
 
 msgid "February"
 msgid_plural "February"
 msgstr[0] "Лютий"
 msgstr[1] "Лютого"
-msgstr[2] "Лютий"
+msgstr[2] ""
 
 msgid "March"
 msgid_plural "March"
 msgstr[0] "Березень"
 msgstr[1] "Березня"
-msgstr[2] "Березень"
+msgstr[2] ""
 
 msgid "April"
 msgid_plural "April"
 msgstr[0] "Квітень"
 msgstr[1] "Квітня"
-msgstr[2] "Квітень"
+msgstr[2] ""
 
 msgid "May"
 msgid_plural "May"
 msgstr[0] "Травень"
 msgstr[1] "Травня"
-msgstr[2] "Травень"
+msgstr[2] ""
 
 msgid "June"
 msgid_plural "June"
 msgstr[0] "Червень"
 msgstr[1] "Червня"
-msgstr[2] "Червень"
+msgstr[2] ""
 
 msgid "July"
 msgid_plural "July"
 msgstr[0] "Липень"
 msgstr[1] "Липня"
-msgstr[2] "Липень"
+msgstr[2] ""
 
 msgid "August"
 msgid_plural "August"
 msgstr[0] "Серпень"
 msgstr[1] "Серпня"
-msgstr[2] "Серпень"
+msgstr[2] ""
 
 msgid "September"
 msgid_plural "September"
 msgstr[0] "Вересень"
 msgstr[1] "Вересня"
-msgstr[2] "Вересень"
+msgstr[2] ""
 
 msgid "October"
 msgid_plural "October"
 msgstr[0] "Жовтень"
 msgstr[1] "Жовтня"
-msgstr[2] "Жовтень"
+msgstr[2] ""
 
 msgid "November"
 msgid_plural "November"
 msgstr[0] "Листопад"
 msgstr[1] "Листопада"
-msgstr[2] "Листопад"
+msgstr[2] ""
 
 msgid "December"
 msgid_plural "December"
 msgstr[0] "Грудень"
 msgstr[1] "Грудня"
-msgstr[2] "Грудень"
+msgstr[2] ""
 
 msgid "Yes"
 msgstr "Так"
@@ -1146,13 +1146,13 @@ msgid "No more than %d character please"
 msgid_plural "No more than %d characters please"
 msgstr[0] "Не більше ніж %d символ, будь ласка"
 msgstr[1] "Не більше ніж %d символи, будь ласка"
-msgstr[2] "Не більше ніж %d символів, будь ласка"
+msgstr[2] ""
 
 msgid "No less than %d character please"
 msgid_plural "No less than %d characters please"
 msgstr[0] "Не менше ніж %d символ, будь ласка"
 msgstr[1] "Не менше ніж %d символи, будь ласка"
-msgstr[2] "Не менше ніж %d символів, будь ласка"
+msgstr[2] ""
 
 msgid "Not match."
 msgstr "Не співпадає."
@@ -2157,13 +2157,13 @@ msgid "%d contact have data in the field"
 msgid_plural "%d contacts have data in the field"
 msgstr[0] "Дані в цьому полі є у %s контакта"
 msgstr[1] "Дані в цьому полі є у %s контактів"
-msgstr[2] "Дані в цьому полі є у %s контактів"
+msgstr[2] ""
 
 msgid "Deleting the field will cause a loss of this contact information."
 msgid_plural "Deleting the field will cause a loss of these contacts information."
 msgstr[0] "Видалення поля призведе до втрати інформації про цей контакт."
 msgstr[1] "Видалення поля призведе до втрати інформації про ці контакти."
-msgstr[2] "Видалення поля призведе до втрати інформації про ці контакти."
+msgstr[2] ""
 
 msgid "Maps settings"
 msgstr "Налаштування карт"
@@ -2424,7 +2424,7 @@ msgid "We have found %d duplicate for this field"
 msgid_plural "We have found %d duplicates for this field"
 msgstr[0] "Ми знайшли %d дублікат цього поля"
 msgstr[1] "Ми знайшли %d дублікати цього поля"
-msgstr[2] "Ми знайшли %d дублікатів цього поля"
+msgstr[2] ""
 
 msgid "Unknown locale: %s"
 msgstr "Невідома локаль: %s"
@@ -2598,13 +2598,13 @@ msgid "1"
 msgid_plural "1"
 msgstr[0] "один"
 msgstr[1] "один"
-msgstr[2] "один"
+msgstr[2] ""
 
 msgid "2"
 msgid_plural "2"
 msgstr[0] "два"
 msgstr[1] "два"
-msgstr[2] "два"
+msgstr[2] ""
 
 msgid "3"
 msgstr "три"
@@ -2709,25 +2709,25 @@ msgid "1000"
 msgid_plural "1000"
 msgstr[0] "тисяча"
 msgstr[1] "тисячі"
-msgstr[2] "тисяч"
+msgstr[2] ""
 
 msgid "1000000"
 msgid_plural "1000000"
 msgstr[0] "мільйон"
 msgstr[1] "мільйони"
-msgstr[2] "мільйонів"
+msgstr[2] ""
 
 msgid "1000000000"
 msgid_plural "1000000000"
 msgstr[0] "мільярд"
 msgstr[1] "мільярди"
-msgstr[2] "мільярдів"
+msgstr[2] ""
 
 msgid "1000000000000"
 msgid_plural "1000000000000"
 msgstr[0] "трільон"
 msgstr[1] "трільони"
-msgstr[2] "трільонів"
+msgstr[2] ""
 
 msgid "Welcome"
 msgstr "Ласкаво просимо"
@@ -3135,19 +3135,19 @@ msgid "rouble"
 msgid_plural "roubles"
 msgstr[0] "рубль"
 msgstr[1] "рублі"
-msgstr[2] "рублів"
+msgstr[2] ""
 
 msgid "hryvnia"
 msgid_plural "hryvnias"
 msgstr[0] "гривня"
 msgstr[1] "гривні"
-msgstr[2] "гривень"
+msgstr[2] ""
 
 msgid "kopeck"
 msgid_plural "kopeks"
 msgstr[0] "копійка"
 msgstr[1] "копійки"
-msgstr[2] "копійок"
+msgstr[2] ""
 
 msgid "kop."
 msgstr "коп."
@@ -3159,13 +3159,13 @@ msgid "dollar"
 msgid_plural "dollars"
 msgstr[0] "долар"
 msgstr[1] "долари"
-msgstr[2] "доларів"
+msgstr[2] ""
 
 msgid "cent"
 msgid_plural "cents"
 msgstr[0] "цент"
 msgstr[1] "центи"
-msgstr[2] "центів"
+msgstr[2] ""
 
 msgid "Jan"
 msgstr "Січ"
@@ -3246,31 +3246,31 @@ msgid "year"
 msgid_plural "years"
 msgstr[0] "рік"
 msgstr[1] "роки"
-msgstr[2] "років"
+msgstr[2] ""
 
 msgid "month"
 msgid_plural "months"
 msgstr[0] "місяць"
 msgstr[1] "місяці"
-msgstr[2] "місяців"
+msgstr[2] ""
 
 msgid "day"
 msgid_plural "days"
 msgstr[0] "день"
 msgstr[1] "дні"
-msgstr[2] "днів"
+msgstr[2] ""
 
 msgid "hour"
 msgid_plural "hours"
 msgstr[0] "година"
 msgstr[1] "години"
-msgstr[2] "годин"
+msgstr[2] ""
 
 msgid "minute"
 msgid_plural "minutes"
 msgstr[0] "хвилина"
 msgstr[1] "хвилини"
-msgstr[2] "хвилин"
+msgstr[2] ""
 
 msgid "Sign in Webasyst"
 msgstr "Вход у Webasyst"
@@ -5790,7 +5790,7 @@ msgid "%d hour"
 msgid_plural "%d hours"
 msgstr[0] "%d година"
 msgstr[1] "%d години"
-msgstr[2] "%d годин"
+msgstr[2] ""
 
 msgid "Scheduled tasks"
 msgstr "Заплановані завдання"
@@ -6029,7 +6029,7 @@ msgid "Connected: ** from %d team user"
 msgid_plural "Connected: ** from %d team users"
 msgstr[0] "Підключено: ** з %d користувачів команди"
 msgstr[1] "Підключено: ** з %d користувачів команди"
-msgstr[2] "Підключено: ** з %d користувачів команди"
+msgstr[2] ""
 
 msgid "Checking the sending of SMS messages"
 msgstr "Перевірка відправки SMS-повідомлень"
@@ -6143,7 +6143,7 @@ msgid "%d invitation email has been sent."
 msgid_plural "%d invitation emails have been sent."
 msgstr[0] "Надіслано %d електронний лист із запрошенням."
 msgstr[1] "Надіслано %d електронних листи із запрошенням."
-msgstr[2] "Надіслано %d електронних листів із запрошенням."
+msgstr[2] ""
 
 msgid "The system sender email address is not configured. Save it in “<a href=\"%s\">Email settings</a>” section."
 msgstr "Адресу електронної пошти системного відправника не налаштовано. Збережіть її в розділі <a href=\"%s\">Налаштування email</a>."
@@ -6293,7 +6293,7 @@ msgid "%d user"
 msgid_plural "%d users"
 msgstr[0] "%d користувач"
 msgstr[1] "%d користувача"
-msgstr[2] "%d користувачів"
+msgstr[2] ""
 
 msgid "Image processing library"
 msgstr "Бібліотека обробки зображень"
@@ -6359,13 +6359,13 @@ msgid "%d more non-modified file"
 msgid_plural "%d more non-modified files"
 msgstr[0] "Ще %d немодифікований файл"
 msgstr[1] "Ще %d немодифікованих файли"
-msgstr[2] "Ще %d немодифікованих файлів"
+msgstr[2] ""
 
 msgid "%s and %d more unmodified file"
 msgid_plural "%s and %d more unmodified files"
 msgstr[0] "%s та %d додатково немодифікований файл"
 msgstr[1] "%s та %d додатково немодифіковані файли"
-msgstr[2] "%s та %d додатково немодифікованих файлів"
+msgstr[2] ""
 
 msgid "To learn more details about this error, enable the debug mode in Settings app, or change '<code>debug</code>' parameter to <code>true</code> in <em style=\"white-space: nowrap\">wa-config/config.php</em> file, and reload this page."
 msgstr "Аби дізнатися більше про цю помилку, увімкніть режим налагодження у додатку «Налаштування», або змініть параметр '<code>debug</code>' на <code>true</code> у файлі <em style=\"white-space: nowrap\">wa-config/config.php</em>, та перезавантажте цю сторінку."
@@ -6480,3 +6480,198 @@ msgstr "%s — не адаптер зображень."
 
 msgid "This page has sub-pages with empty addresses."
 msgstr "На цій сторінці є підсторінки з пустою адресою."
+
+msgid "Please refer to <a href=\"http://ogp.me\" rel=\"noopener\" target=\"_blank\">Open Graph</a> protocol site for more information on social sharing meta tags and available values."
+msgstr "Додаткову інформацію про метатеги та їх доступні значення можна знайти на сайті протоколу <a href=\"http://ogp.me\" rel=\"noopener\" target=\"_blank\">Open Graph</a>."
+
+msgid "The page will not be published because there is no settlement, or routing rule, of the app in the website structure settings. Add a new entry to Site apps’s “Structure” section in order to publish this page."
+msgstr "Сторінку не буде опубліковано, тому що для додатку у налаштуваннях структури сайту не існує поселення (правила маршрутизації). Додайте нове правило у розділі «Структура» додатку «Сайт», аби опублікувати цю сторінку."
+
+msgid "The page is not published because it is not connected to any of your website’s structure entries, or routing rules. Add a new entry to Site apps’s “Structure” section in order to publish this page."
+msgstr "Сторінку не буде опубліковано, тому що її не під'єднано до будь-якого поселення (правила маршрутизації) додатку. Додайте нове правило у розділі «Структура» додатку «Сайт», аби опублікувати цю сторінку."
+
+msgid "Show navigation"
+msgstr "Показати навігацію"
+
+msgid "My apps"
+msgstr "Мої додатки"
+
+msgid "Everyone"
+msgstr "Усі"
+
+msgid "Teams"
+msgstr "Команди"
+
+msgid "Use the Team app to set up your team and customize access rights."
+msgstr "Використовуйте додаток «Команда», аби налаштувати вашу команду та права доступу."
+
+msgid "PHP extension “openssl” must be installed on your server to make the DKIM option available."
+msgstr "Аби опція DKIM була доступною, на вашому сервері має бути встановлене розширення PHP “openssl”."
+
+msgid "Preview SMS message “<span class=\"js-template-name\"></span>”"
+msgstr "Попередній перегляд SMS-повідомлення “<span class=\"js-template-name\"></span>”"
+
+msgid "To check the sending of SMS messages, please first save the changes you have made."
+msgstr "Аби перевірити надсилання SMS-повідомлень, спочатку збережіть внесені зміни."
+
+msgid "Your dashboard is empty. Add widgets by clicking “Edit widgets” button at the top."
+msgstr "Ваша панель керування порожня. Додайте віджети, натиснувши кнопку “Редагувати віджети” вгорі."
+
+msgid "No new notifications."
+msgstr "Немає нових повідомлень."
+
+msgid "Installed widgets"
+msgstr "Встановлені віджети"
+
+msgid "All widgets"
+msgstr "Усі віджети"
+
+msgid "Add widget"
+msgstr "Додати віджет"
+
+msgid "No activity today yet."
+msgstr "Сьогодні ще не було подій."
+
+msgid "TV link"
+msgstr "Посилання для TV"
+
+msgid "Open in a new window"
+msgstr "Відкрити у новому вікні"
+
+msgid "This dashboard can be viewed both in a browser and on a TV with the support for basic website browsing. Get a private TV link and open it using an internal browser on your TV."
+msgstr "Цю інформаційну панель можна переглядати як у браузері, так і на телевізорі із базовою підтримкою перегляду веб-сайтів. Отримайте приватне посилання та відкрийте його за допомогою внутрішнього браузера на телевізорі."
+
+msgid "Copied"
+msgstr "Скопійовано"
+
+msgid "Filter by app"
+msgstr "Фільтрувати за додатком"
+
+msgid "Edit widgets"
+msgstr "Редагувати віджети"
+
+msgid "Notifications"
+msgstr "Повідомлення"
+
+msgid "New Webasyst 2 UI"
+msgstr "Новий інтерфейс Webasyst 2"
+
+msgid "All-new Webasyst 2 UI"
+msgstr "Абсолютно новий інтерфейс Webasyst 2"
+
+msgid "beta"
+msgstr "бета"
+
+msgid "This is a fully functional version of this app in the new style. We encourage you to use the new UI in full and <a href=\"%s\" target=\"_blank\">share your feedback %s</a> with us in case of any issues."
+msgstr "Це повнофункціональна версія цього додатку у новому дизайні. Ми запрошуємо вас повноцінно використовувати новий інтерфейс та <a href=\"%s\" target=\"_blank\">поділитися своїми відгуками з нами</a> у разі будь-яких проблем."
+
+msgid "https://support.webasyst.com"
+msgstr "https://support.webasyst.ru"
+
+msgid "Try it in both light and dark modes:"
+msgstr "Спробуйте у світлому та темному режимах:"
+
+msgid "Light mode"
+msgstr "Світлий режим"
+
+msgid "Dark mode"
+msgstr "Темний режим"
+
+msgid "Auto (based on device settings)"
+msgstr "Автоматично (залежить від налаштувань пристрою)"
+
+msgid "Back to the classic UI"
+msgstr "Повернутись до класичного інтерфейсу"
+
+msgid "http://2.webasyst.com"
+msgstr "http://2.webasyst.com"
+
+msgid "learn more about Webasyst 2"
+msgstr "дізнатися більше про Webasyst 2"
+
+msgid "Select UI mode"
+msgstr "Обрати режим інтерфейсу"
+
+msgid "This app supports the brand-new Webasyst 2 user interface (beta version). Go ahead and check out its amazing new style. And don’t worry — you can return to the classic UI any time."
+msgstr "Цей додаток підтримує абсолютно новий дизайн Webasyst 2 (бета). Спробуйте цей дивовижний новий стиль. І не хвилюйтесь: ви завжди можете повернутись до класичного дизайну."
+
+msgid "Turn on the new UI"
+msgstr "Увімкнути новий інтерфейс"
+
+msgid "New UI is not yet supported"
+msgstr "Новий дизайн ще не підтримується"
+
+msgid "You’ve enabled the new Webasyst 2 UI, but this app does not currently support it. Please contact the app developer to encourage upgrading the UI to the new style."
+msgstr "Ви увімкнули новий дизайн Webasyst 2, але цей додаток його ще не підтримує. Будь ласка, зв'яжіться із розробником додатку, аби він оновив свій продукт із врахуванням нового дизайну."
+
+msgid "Activity"
+msgstr "Активність"
+
+msgid "Dashboards"
+msgstr "Панелі"
+
+msgid "Company logo"
+msgstr "Логотип компанії"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Image"
+msgstr "Зображення"
+
+msgid "%s characters"
+msgstr "%s символів"
+
+msgid "Larger font, two lines"
+msgstr "Більший шрифт, два рядки"
+
+msgid "Custom colors"
+msgstr "Власні кольори"
+
+msgid "Color A"
+msgstr "Колір А"
+
+msgid "Color B"
+msgstr "Колір Б"
+
+msgid "Gradient angle (&deg;)"
+msgstr "Кут градієнта (&deg;)"
+
+msgid "Text color"
+msgstr "Колір тексту"
+
+msgid "Upload new image"
+msgstr "Завантажити нове зображення"
+
+msgid "<a class=\"%s\" href=\"javascript:void(0);\">Change sender address</a> <i class=\"fas fa-cog\"></i> for entire template group"
+msgstr "<a class=\"%s\" href=\"javascript:void(0);\">Змінити адресу відправника</a> <i class=\"fas fa-cog\"></i> для усієї групи шаблонів"
+
+msgid "This app supports the brand new Webasyst 2 user interface (beta version). Go ahead and check out its amazing new style. And don’t worry — you can go back to the classic UI any time."
+msgstr "Цей додаток підтримує абсолютно новий дизайн Webasyst 2 (бета). Спробуйте цей дивовижний новий стиль. І не хвилюйтесь: ви завжди можете повернутись до класичного дизайну."
+
+msgid "Thank you for checking out the newest Webasyst 2 user interface (beta)!"
+msgstr "Дякуємо вам, що спробували найновіший дизайн Webasyst 2 (бета)!"
+
+msgid "Edit Widgets"
+msgstr "Редагувати віджети"
+
+msgid "No new notifications"
+msgstr "Немає нових повідомлень"
+
+msgid "%s symbols"
+msgstr "%s символів"
+
+msgid "My Apps"
+msgstr "Мої додатки"
+
+msgid "TV Link"
+msgstr "Посилання для TV"
+
+msgid "Open in new window"
+msgstr "Відкрити у новому вікні"
+
+msgid "This dashboard can be opened in both browser and TV with the support for basic access to browsing websites. Get the private TV link and open it using an internal browser on your TV."
+msgstr "Цю інформаційну панель можна переглядати як у браузері, так і на телевізорі із базовою підтримкою перегляду веб-сайтів. Отримайте приватне посилання та відкрийте його за допомогою внутрішнього браузера на телевізорі."
+
+msgid "Your dashboard is empty. Add widgets by clicking \"Edit Widgets\" button on the top."
+msgstr "Ваша панель керування порожня. Додайте віджети, натиснувши кнопку “Редагувати віджети” вгорі."
