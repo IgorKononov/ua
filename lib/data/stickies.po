@@ -9,7 +9,7 @@ msgstr ""
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: Skeeter Dev\n"
 "Language: uk\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 
 #: /wa-apps/stickies/templates/actions/backend/Backend.html:5
 msgid "Stickies"

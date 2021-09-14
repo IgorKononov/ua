@@ -6,10 +6,10 @@ msgstr ""
 "Language-Team: skeeter.studio\n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2021-06-08 14:53+0300\n"
+"PO-Revision-Date: 2021-09-14 10:13+0300\n"
 "POT-Creation-Date: \n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"Project-Id-Version: Webasyst 2.1.1.599 UA translation v 1.0\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"Project-Id-Version: Webasyst 2.2.1.613 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "X-Generator: Poedit 3.0\n"
 "X-Poedit-Basepath: .\n"
@@ -468,7 +468,7 @@ msgid "January"
 msgid_plural "January"
 msgstr[0] "Січень"
 msgstr[1] "Січня"
-msgstr[2] ""
+msgstr[2] "Січня"
 
 msgid "February"
 msgid_plural "February"
@@ -6675,3 +6675,27 @@ msgstr "Цю інформаційну панель можна перегляда
 
 msgid "Your dashboard is empty. Add widgets by clicking \"Edit Widgets\" button on the top."
 msgstr "Ваша панель керування порожня. Додайте віджети, натиснувши кнопку “Редагувати віджети” вгорі."
+
+msgid "Actions"
+msgstr "Дії"
+
+msgid "Browse all themes"
+msgstr "Переглянути усі теми"
+
+msgid "Configure %s"
+msgstr "Налаштувати %s"
+
+msgid "Route settings"
+msgstr "Налаштування маршрутизації"
+
+msgid "Browse plugins"
+msgstr "Шукати плагіни"
+
+msgid "Publish"
+msgstr "Опублікувати"
+
+msgid "It is your personal account in <a %s>Webasyst Customer Center</a>, via which you can quickly access Webasyst apps either in the Cloud or on your own server."
+msgstr "Це ваш особистий обліковий запис у <a %s>Центрі замовника Webasyst</a>, за допомогою якого ви можете швидко отримати доступ до програм Webasyst або в хмарі, або на власному сервері."
+
+msgid "Theme"
+msgstr "Тема"

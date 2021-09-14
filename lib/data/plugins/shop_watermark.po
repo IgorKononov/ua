@@ -6,10 +6,10 @@ msgstr ""
 "Project-Id-Version: Webasyst Shop Watermark plugin 2.0.0.38266 UA translation v 0.1\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: skeeter.studio <contact@skeeter.studio>\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: /wa-apps/shop/plugins/watermark/templates/Settings.html:36

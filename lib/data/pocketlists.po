@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 1312 Inc. Pocket Lists 3.7.0.p UA Translation v 1.0\n"
+"Project-Id-Version: 1312 Inc. Pocket Lists 4.0.3 UA Translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -10,8 +10,8 @@ msgstr ""
 "POT-Creation-Date: 2015-12-28 22:51+0100\n"
 "PO-Revision-Date: \n"
 "Language: uk_UA\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"X-Generator: Poedit 3.0\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -375,7 +375,7 @@ msgid "%d to-do"
 msgid_plural "%d to-dos"
 msgstr[0] "%d завдання"
 msgstr[1] "%d завдання"
-msgstr[2] "%d завдань"
+msgstr[2] ""
 
 msgid "New list"
 msgstr "Новий перелік"
@@ -1381,3 +1381,84 @@ msgstr "Контрольний список"
 
 msgid "%d to-do is pending"
 msgstr "%d завдання очікує"
+
+msgid "Promocode"
+msgstr "Промокод"
+
+msgid "Buy now"
+msgstr "Купити зараз"
+
+msgid "Buy now with promocode"
+msgstr "Купити зараз з промокодом"
+
+msgid "Use this promocode until it expires:"
+msgstr "Використовуйте цей промокод, поки він не закінчиться:"
+
+msgid "Show all completed to-dos"
+msgstr "Показати усі завершені завдання"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Show promocode"
+msgstr "Показати промокод"
+
+msgid "About the plugin"
+msgstr "Про плагін"
+
+msgid "About the app"
+msgstr "Про додаток"
+
+msgid "Installed"
+msgstr "Встановлено"
+
+msgid "Promocode:"
+msgstr "Промокод:"
+
+msgid "Our flagship app."
+msgstr "Наш флагманський додаток."
+
+msgid "Amazing companion/upgrade for Pocket Lists when it’s time for real collaboration on <em>bigger and more complex tasks</em>. Assignments, task statuses, deadlines, kanban board, more — the app help bringing the order to any complex teamwork."
+msgstr "Дивовижний компаньйон (або оновлення) для Pocket Lists в той момент, коли настав час реальної співпраці над <em>більшими та складнішими завданнями</em>. Завдання, статуси завдань, терміни виконання, дошка канбан тощо: додаток допомагає навести порядок у будь-якій складній командній роботі."
+
+msgid "Forecasts and saves your money."
+msgstr "Прогнозує та зберігає ваші кошти."
+
+msgid "Shows exact cash on hand balance for any date in the future. This app could have been a <em>life saver</em> for most businesses which did not survive a cash gap because of not knowing it’s coming."
+msgstr "Показує точний залишок наявної готівки на будь-яку дату в майбутньому. Цей додаток міг би <em>врятувати життя</em> багатьох бізнесів, що не пережили дефіцит готівки — через те, що не знали, що він наступить."
+
+msgid "Free"
+msgstr "Безкоштовно"
+
+msgid "Remote team leader’s best friend."
+msgstr "Найкращий друг керівника віддаленої команди."
+
+msgid "Visualizes how you and your teammates work. Tracks working hours. Amazingly useful for WFH and any <em>we-don't-see-each-other-in-the-office</em> working patterns."
+msgstr "Візуалізує, як працюєте ви та ваші колеги. Відстежує робочий час. Надзвичайно корисно для роботи з дому та інших ситуацій, коли ви з командою не бачитесь у офісі."
+
+msgid "We wish everyone could enjoy the power the Pocket Lists PRO plugin has to offer. This promocode will help you the get the plugin up and running at the best price possible."
+msgstr "Ми бажаємо, аби усі могли насолоджуватися потужністю Pocket Lists PRO. Цей промокод допоможе вам почати працювати з плагіном за найкращою ціною."
+
+msgid "List name"
+msgstr "Назва переліку"
+
+msgid "Type in new list name and hit Enter."
+msgstr "Вкажіть нову назву переліку та тисніть Enter."
+
+msgid "Unarchive"
+msgstr "Розархівувати"
+
+msgid "When tasks become bigger and more complex."
+msgstr "Коли завдання стають більшими та складнішими."
+
+msgid "Promocode for our flagship Webasyst app."
+msgstr "Промокод для нашого флагманського додатку Webasyst."
+
+msgid "Forecasts and saves your business money."
+msgstr "Прогнозує та зберігає ваші кошти."
+
+msgid "Promocode for managing money the smarter way."
+msgstr "Промокод, аби почати керувати коштами ще розумніше."
+
+msgid "Back"
+msgstr "Назад"

@@ -1,36 +1,27 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: DemoLLC Filters and export for orders to Excel, CSV, ODS plugin 2.20.1.0 UA translation v1.1\n"
+"Project-Id-Version: DemoLLC Filters and export for orders to Excel, CSV, ODS plugin 2021.8.2 UA translation v1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
-"Language-Team: skeeter.studio\n"
+"Language-Team: skeeter-studio.ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2020-05-10 10:06+0300\n"
 "PO-Revision-Date: \n"
 "Language: uk_UA\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: utf-8\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
+msgid "Today"
+msgstr "Сьогодні"
+
 msgid "Extra filters"
 msgstr "Додаткові фільтри"
-
-msgid "Order total"
-msgstr "Сума замовлення"
-
-msgid "from"
-msgstr "від"
-
-msgid "to"
-msgstr "до"
-
-msgid "Date"
-msgstr "Дата"
 
 msgid "update"
 msgstr "оновлення"
@@ -53,53 +44,14 @@ msgstr "сплачено"
 msgid "Yesterday"
 msgstr "Вчора"
 
-msgid "Today"
-msgstr "Сьогодні"
-
 msgid "Tomorrow"
 msgstr "Завтра"
-
-msgid "Order States"
-msgstr "Статуси замовлень"
-
-msgid "Customize"
-msgstr "Налаштувати"
-
-msgid "Payment options"
-msgstr "Способи оплати"
-
-msgid "Not defined"
-msgstr "Не вказано"
-
-msgid "Shipping options"
-msgstr "Способи доставки"
-
-msgid "Storefronts"
-msgstr "Вітрини"
-
-msgid "Backend"
-msgstr "Бекенд"
 
 msgid "Configure export fields"
 msgstr "Настроювання полів експорту"
 
-msgid "Settings"
-msgstr "Налаштування"
-
-msgid "Tracking number"
-msgstr "Ідентифікатор відправлення"
-
-msgid "Shipment tracking number"
-msgstr "Номер відправлення"
-
-msgid "Paid"
-msgstr "Сплачені"
-
 msgid "Filter"
 msgstr "Фільтр"
-
-msgid "Reset"
-msgstr "Скидання"
 
 msgid "Orders list is empty"
 msgstr "Перелік замовлень порожній"
@@ -107,23 +59,8 @@ msgstr "Перелік замовлень порожній"
 msgid "Export"
 msgstr "Експорт"
 
-msgid "First order"
-msgstr "Перше замовлення"
-
 msgid "First paid order"
 msgstr "Перше сплачене замовлення"
-
-msgid "Customer"
-msgstr "Клієнт"
-
-msgid "Products"
-msgstr "Продукти"
-
-msgid "Product name"
-msgstr "Назва товару"
-
-msgid "Name"
-msgstr "Ім&#39;я"
 
 msgid "Contain"
 msgstr "Містить"
@@ -133,9 +70,6 @@ msgstr "Починається з"
 
 msgid "Ending with"
 msgstr "Закінчується на"
-
-msgid "Couriers"
-msgstr "Кур&#39;єри"
 
 msgid "Remove profile"
 msgstr "Видалити профіль"
@@ -209,62 +143,29 @@ msgstr "Фільтр та експорт замовлень"
 msgid "Plugin enabled"
 msgstr "Плагін увімкнено"
 
-msgid "Save"
-msgstr "Зберегти"
-
-msgid "Profile"
-msgstr "Профіль"
-
 msgid "Column separator"
 msgstr "Роздільник колонок"
-
-msgid "syrnikHash::combine() needs an equal number of keys + values"
-msgstr "syrnikHash::combine() потребує рівну кількість ключів та значень"
-
-msgid "Invalid Parameter %s, should be dot separated path or array"
-msgstr "Невірний параметр %s, має бути розділений точками шлях або масив"
-
-msgid "Invalid data array to nest"
-msgstr "Недійсний масив даних для гніздування"
 
 msgid "Filters"
 msgstr "Фільтри"
 
-msgid "Export selected"
-msgstr "Експорт обраного"
-
 msgid "Contact ID"
 msgstr "Ідентифікатор контакту"
-
-msgid "Order ID"
-msgstr "Ідентифікатор замовлення"
 
 msgid "Update date"
 msgstr "Дата оновлення"
 
-msgid "Total"
-msgstr "Усього"
-
 msgid "Total without currency"
 msgstr "Разом без грошової одиниці"
 
-msgid "Currency"
-msgstr "Валюта"
-
 msgid "Rate"
-msgstr "Оцінка"
+msgstr "Ставка"
 
 msgid "Tax"
 msgstr "Податок"
 
-msgid "Purchase price"
-msgstr "Закупівельна ціна"
-
-msgid "Discount"
-msgstr "Знижка"
-
-msgid "Shipping address"
-msgstr "Адреса доставки"
+msgid "First order"
+msgstr "Перше замовлення"
 
 msgid "Shipping price"
 msgstr "Вартість доставки"
@@ -278,9 +179,6 @@ msgstr "Товари без ціни/без якості"
 msgid "Products no sku"
 msgstr "Товари без артикулів"
 
-msgid "Flat SKU list"
-msgstr "Плаский перелік артикулів"
-
 msgid "Item subtotal"
 msgstr "Проміжний підсумок елемента"
 
@@ -290,18 +188,6 @@ msgstr "Товарний запас"
 msgid "Product_id"
 msgstr "Product_id"
 
-msgid "Quantity"
-msgstr "Кількість"
-
-msgid "Shipping"
-msgstr "Доставка"
-
-msgid "Payment"
-msgstr "Платіжні системи"
-
-msgid "Courier"
-msgstr "Кур&#39;єр"
-
 msgid "IP"
 msgstr "IP"
 
@@ -310,21 +196,6 @@ msgstr "Хост рефереру"
 
 msgid "UTM campaign"
 msgstr "UTM-кампанія"
-
-msgid "Sales channel"
-msgstr "Канал продажів"
-
-msgid "Coupon"
-msgstr "Купон"
-
-msgid "Country"
-msgstr "Країна"
-
-msgid "Region"
-msgstr "Регіон"
-
-msgid "Shipping estimated"
-msgstr "Розрахунковий час доставки"
 
 msgid "Desired date"
 msgstr "Бажана дата"
@@ -340,21 +211,6 @@ msgstr "Дата доставки з"
 
 msgid "Delivery date to"
 msgstr "Дата доставки до"
-
-msgid "Storefront"
-msgstr "Вітрина"
-
-msgid "Customer name"
-msgstr "Ім&#39;я покупця"
-
-msgid "Customer extended"
-msgstr "Розширений клієнт"
-
-msgid "Company"
-msgstr "Компанія"
-
-msgid "Phone"
-msgstr "Телефон"
 
 msgid "Product summary"
 msgstr "Опис товару"
@@ -386,9 +242,6 @@ msgstr "Час доставки"
 msgid "Agreed"
 msgstr "Погоджено"
 
-msgid "Weight"
-msgstr "Вага"
-
 msgid "Manager"
 msgstr "Менеджер"
 
@@ -397,6 +250,9 @@ msgstr "Причина скасування"
 
 msgid "Reason to refund"
 msgstr "Причина повернення коштів"
+
+msgid "Purchase price"
+msgstr "Закупівельна ціна"
 
 msgid "Export orders"
 msgstr "Експорт замовлень"
@@ -407,8 +263,149 @@ msgstr "Приховати блок"
 msgid "Manager's comment"
 msgstr "Коментар менеджера"
 
+msgid "syrnikHash::combine() needs an equal number of keys + values"
+msgstr "syrnikHash::combine() потребує рівну кількість ключів та значень"
+
+msgid "Invalid Parameter %s, should be dot separated path or array"
+msgstr "Невірний параметр %s, має бути розділений точками шлях або масив"
+
+msgid "Invalid data array to nest"
+msgstr "Недійсний масив даних для гніздування"
+
+msgid "Profile"
+msgstr "Профіль"
+
 msgid "Edit"
 msgstr "Редагувати"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Customer extended"
+msgstr "Розширений клієнт"
+
+msgid "Company"
+msgstr "Компанія"
+
+msgid "Export selected"
+msgstr "Експорт обраного"
+
+msgid "Order total"
+msgstr "Сума замовлення"
+
+msgid "from"
+msgstr "від"
+
+msgid "to"
+msgstr "до"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Order States"
+msgstr "Статуси замовлень"
+
+msgid "Customize"
+msgstr "Налаштувати"
+
+msgid "Payment options"
+msgstr "Способи оплати"
+
+msgid "Not defined"
+msgstr "Не вказано"
+
+msgid "Shipping options"
+msgstr "Способи доставки"
+
+msgid "Storefronts"
+msgstr "Вітрини"
+
+msgid "Backend"
+msgstr "Бекенд"
+
+msgid "Settings"
+msgstr "Параметри"
+
+msgid "Tracking number"
+msgstr "Ідентифікатор відправлення"
+
+msgid "Shipment tracking number"
+msgstr "Номер відправлення"
+
+msgid "Reset"
+msgstr "Скинути"
+
+msgid "Customer"
+msgstr "Клієнт"
+
+msgid "Products"
+msgstr "Продукти"
+
+msgid "Couriers"
+msgstr "Кур&#39;єри"
+
+msgid "Order ID"
+msgstr "Ідентифікатор замовлення"
+
+msgid "Total"
+msgstr "Всього"
+
+msgid "Currency"
+msgstr "Валюта"
+
+msgid "Discount"
+msgstr "Знижка"
+
+msgid "Shipping address"
+msgstr "Адреси доставки"
+
+msgid "Flat SKU list"
+msgstr "Плаский перелік артикулів"
+
+msgid "Quantity"
+msgstr "Кількість"
+
+msgid "Shipping"
+msgstr "Доставка"
+
+msgid "Payment"
+msgstr "Платіжні системи"
+
+msgid "Courier"
+msgstr "Кур&#39;єр"
+
+msgid "Sales channel"
+msgstr "Канал продажів"
+
+msgid "Country"
+msgstr "Країна"
+
+msgid "Region"
+msgstr "Регіон"
+
+msgid "Shipping estimated"
+msgstr "Розрахунковий час доставки"
+
+msgid "Storefront"
+msgstr "Вітрина"
+
+msgid "Customer name"
+msgstr "Ім&#39;я покупця"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Product name"
+msgstr "Назва товару"
+
+msgid "Weight"
+msgstr "Вага"
+
+msgid "Coupon"
+msgstr "Купон"
+
+msgid "Paid"
+msgstr "Сплачені"
 
 msgid "Ordersfilter"
 msgstr "Фільтр замовлень"
@@ -418,3 +415,6 @@ msgstr "Редактор тегів"
 
 msgid "can save common values for all tags"
 msgstr "може зберегти спільні значення для усіх тегів"
+
+msgid "Name"
+msgstr "Назва"

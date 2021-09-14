@@ -1,17 +1,17 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 1312 Inc. Tasks 1.3.0.105 UA translation v 1.0\n"
+"Project-Id-Version: 1312 Inc. Tasks 2.1.1 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
-"Language-Team: skeeter.studio\n"
+"Language-Team: skeeter-studio.ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2015-11-28 20:34+0000\n"
 "PO-Revision-Date: \n"
 "Language: uk_UA\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"X-Generator: Poedit 3.0\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -545,8 +545,8 @@ msgstr[2] "Показати %d архівованих проектів"
 msgid "Hide archived project"
 msgid_plural "Hide archived projects"
 msgstr[0] "Приховати архівований проект"
-msgstr[1] "Приховати архівовані проекти"
-msgstr[2] "Приховати архівовані проекти"
+msgstr[1] "Приховати архівованих проекти"
+msgstr[2] "Приховати архівованих проектів"
 
 msgid "Show %d archived scope"
 msgid_plural "Show %d archived scopes"
@@ -558,7 +558,7 @@ msgid "Hide archived scope"
 msgid_plural "Hide archived scopes"
 msgstr[0] "Приховати архівований огляд"
 msgstr[1] "Приховати архівовані огляди"
-msgstr[2] "Приховати архівовані огляди"
+msgstr[2] "Приховати архівованих оглядів"
 
 msgid "from"
 msgstr "від"
@@ -924,7 +924,7 @@ msgid "%d task has been assigned to you"
 msgid_plural "%d tasks has been assigned to you"
 msgstr[0] "%d завдання було назначене на вас"
 msgstr[1] "%d завдання було назначено на вас"
-msgstr[2] "%d завдань було назначене на вас"
+msgstr[2] "%d завдань було назначено на вас"
 
 msgid "A task you created has been marked as done."
 msgstr "Створене вами завдання було позначене як виконане."
@@ -1159,3 +1159,300 @@ msgstr "Мої налаштування"
 
 msgid "Actions"
 msgstr "Дії"
+
+msgid "Highlight color for the main task list and the kanban board."
+msgstr "Колір підсвічування для основного переліку завдань та дошки канбан."
+
+msgid "Logo"
+msgstr "Логотип"
+
+msgid "Image URL to be used as a tiny project icon all around."
+msgstr "URL-адреса зображення, яка усюди буде використовуватися як піктограма проекту."
+
+msgid "Similar to %s"
+msgstr "Таке ж як %s"
+
+msgid "DANGER: Deletion will be permanent with no ability to roll back. Are you sure?"
+msgstr "ОБЕРЕЖНО: Видалення буде виконане назавжди без можливості скасування. Ви впевнені?"
+
+msgid "Watching"
+msgstr "Відслідковування"
+
+msgid "Updates"
+msgstr "Оновлення"
+
+msgid "Kanban"
+msgstr "Канбан"
+
+msgid "My filters"
+msgstr "Мої фільтри"
+
+msgid "%d open / %d closed"
+msgstr "%d відкрито / %d закрито"
+
+msgid "Add a milestone to group tasks into time-based activities such as sprints, releases, or subprojects."
+msgstr "Додайте віху до критичної до часу групи завдань — наприклад, спринти, релізи чи підпроекти."
+
+msgid "Add a project to start creating tasks."
+msgstr "Створіть проект, аби почати ставити завдання."
+
+msgid "Show all tags"
+msgstr "Показати усі теги"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "No activity yet"
+msgstr "Ще немає активності"
+
+msgid "This screen will collect and present everything you and your team are doing with tasks."
+msgstr "На цьому екрані буде зібрано та представлено все, що ви та ваши колеги робите із завданнями."
+
+msgid "Restore this milestone"
+msgstr "Відновити цю віху"
+
+msgid "Mark as complete"
+msgstr "Позначити як виконане"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "A tiny hint describing your teammates what this milestone is all about."
+msgstr "Крихітна підказка для колег, про що ця віха."
+
+msgid "Show unassigned"
+msgstr "Показати непризначене"
+
+msgid "Assigned to %s %s ago"
+msgstr "Призначено на %s %s тому"
+
+msgid "Unassigned task"
+msgstr "Непризначене завдання"
+
+msgid "Filter"
+msgstr "Фільтр"
+
+msgid "Select tasks"
+msgstr "Обрати завдання"
+
+msgid "Remove from my filters"
+msgstr "Видалити з моїх фільтрів"
+
+msgid "Save to my custom filters"
+msgstr "Зберегти до моїх фільтрів"
+
+msgid "Selected tasks"
+msgstr "Обрані завдання"
+
+msgid "Close tasks"
+msgstr "Закрити завдання"
+
+msgid "Set due date"
+msgstr "Вказати термін виконання"
+
+msgid "Delete tasks"
+msgstr "Видалити завдання"
+
+msgid "Tag tasks"
+msgstr "Поставити теги"
+
+msgid "Hide tasks from your inbox for a specific period of time to focus on other important tasks. Your teammates will continue to see your hidden tasks as open and visible."
+msgstr "Приховайте завдання зі своєї папки вхідних на певний період часу, аби зосередитися на інших важливих завданнях. Ваші колеги продовжуватимуть бачити ваші приховані завдання відкритими та видимими."
+
+msgid "Watch"
+msgstr "Слідкувати"
+
+msgid "No due date"
+msgstr "Немає терміну"
+
+msgid "Enter new tag..."
+msgstr "Вкажіть новий тег..."
+
+msgid "Unlink"
+msgstr "Відключити"
+
+msgid "Linked task"
+msgstr "Пов'язане завдання"
+
+msgid "Pin"
+msgstr "Прикріпити"
+
+msgid "Pinned"
+msgstr "Прикріплено"
+
+msgid "DANGER: Task will be deleted without the ability to restore. Delete?"
+msgstr "УВАГА: завдання буде видалене без можливості відновлення. Видалити?"
+
+msgid "Show everyone"
+msgstr "Показати усіх"
+
+msgid "Forward task"
+msgstr "Направити завдання"
+
+msgid "The task is now assigned to:"
+msgstr "Завдання тепер призначене на:"
+
+msgid "Task summary"
+msgstr "Опис завдання"
+
+msgid "Attach files"
+msgstr "Прикріпити файли"
+
+msgid "Return to status"
+msgstr "Повернути до статусу"
+
+msgid "Return task"
+msgstr "Повернути завдання"
+
+msgid "All tags"
+msgstr "Усі теги"
+
+msgid "Find tag"
+msgstr "Знайти тег"
+
+msgid "All done!"
+msgstr "Усе готово!"
+
+msgid "Congratulations! Everything set to be done in this milestone is marked as complete."
+msgstr "Вітаємо! Все, що мало бути зроблено на цій вісі, позначенне як виконане."
+
+msgid "Go to settings"
+msgstr "Перейти до налаштувань"
+
+msgid "Button name"
+msgstr "Назва кнопки"
+
+msgid "Caption on a button that sends a task into this status. Sometimes it matches the status name, but in most cases, it's a verb."
+msgstr "Підпис на кнопці, яка надсилає завдання в цей статус. Іноді він відповідає назві статусу, але в більшості випадків це дієслово."
+
+msgid "Background color"
+msgstr "Колір фону"
+
+msgid "Text color"
+msgstr "Колір тексту"
+
+msgid "Keep the assignee unchanged"
+msgstr "Не змінювати призначеного"
+
+msgid "Assign to the user who created the task"
+msgstr "Призначити на користувача, який створив завдання"
+
+msgid "Force assign to"
+msgstr "Примусово призначити на"
+
+msgid "Allow to select the assignee"
+msgstr "Дозволити обрати призначеного"
+
+msgid "Allow making the task unassigned"
+msgstr "Дозволити помітити завдання як непризначене"
+
+msgid "Below is the global list of all statuses a task can pass through. On a project level, custom workflow can be set up by selecting particular statuses only and skipping the unwanted ones."
+msgstr "Нижче наведено глобальний список усіх статусів, які може пройти завдання. На рівні проекту можна налаштувати власний робочий процес, вибравши лише певні статуси та пропустивши небажані."
+
+msgid "Commit changes by clicking “Save” when done editing."
+msgstr "Після завершення редагування не забудьте натиснути кнопку «Зберегти»."
+
+msgid "My notification preferences"
+msgstr "Мої налаштування повідомлень"
+
+msgid "Notify me on"
+msgstr "Повідомити мене про"
+
+msgid "All updates and comments"
+msgstr "Усі оновлення та коментарі"
+
+msgid "Assignments only"
+msgstr "Тільки призначення"
+
+msgid "Turn off all notifications"
+msgstr "Вимкнути усі повідомлення"
+
+msgid "Which tasks"
+msgstr "Які завдання"
+
+msgid "Tasks assigned to me"
+msgstr "Призначені на мене завдання"
+
+msgid "Tasks created by me"
+msgstr "Створені мною завдання"
+
+msgid "Tasks I’m watching"
+msgstr "Завдання які я відслідковую"
+
+msgid "Tasks from selected projects"
+msgstr "Завдання з обраних проектів"
+
+msgid "Show %d completed milestone"
+msgid_plural "Show %d completed milestones"
+msgstr[0] "Показати %d завершену віху"
+msgstr[1] "Показати %d завершені віхи"
+msgstr[2] "Показати %d завершених віх"
+
+msgid "Hide completed milestone"
+msgid_plural "Hide completed milestones"
+msgstr[0] "Приховати завершений етап"
+msgstr[1] "Приховати завершених етапи"
+msgstr[2] "Приховати завершених етапів"
+
+msgid "Edit custom filter"
+msgstr "Редагувати власний фільтр"
+
+msgid "Save custom filter"
+msgstr "Зберегти власний фільтр"
+
+msgid "Only you will see this filter in the app navigation."
+msgstr "Цей фільтр у навігації по додатку буде показаний тільки вам."
+
+msgid "On fire!"
+msgstr "У вогні!"
+
+msgid "Doing"
+msgstr "Виконується"
+
+msgid "Start doing"
+msgstr "Почати виконувати"
+
+msgid "To test"
+msgstr "На перевірку"
+
+msgid "Backlog"
+msgstr "Беклог"
+
+msgid "All open"
+msgstr "Усі відкриті"
+
+msgid "All milestones"
+msgstr "Усі етапи"
+
+msgid "All assignees"
+msgstr "Усі призначені"
+
+msgid "Save to my filters"
+msgstr "Зберегти до моїх фільтрів"
+
+msgid "Failed to upload image %s."
+msgstr "Не вдалося завантажити зображення %s."
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "In %d day"
+msgid_plural "In %d days"
+msgstr[0] "Через %d день"
+msgstr[1] "Через %d дні"
+msgstr[2] "Через %d днів"
+
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] "%d день тому"
+msgstr[1] "%d дні тому"
+msgstr[2] "%d днів тому"
+
+msgid "Deleted contact"
+msgstr "Видалений контакт"
+
+msgid "Template"
+msgstr "Шаблон"
+
+msgid "Export"
+msgstr "Експорт"

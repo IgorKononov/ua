@@ -3,13 +3,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: uk_UA\n"
-"Language-Team: skeeter.studio\n"
+"Language-Team: skeeter-studio.ru\n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "MIME-Version: 1.0\n"
 "PO-Revision-Date: \n"
 "POT-Creation-Date: 2013-02-11 12:44+0400\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"Project-Id-Version: Webasyst Shop-Script 8.19.1.46 UA translation v 1.0\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"Project-Id-Version: Webasyst Shop-Script 8.21.0.49 UA translation v 1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "X-Generator: Poedit 3.0\n"
 "X-Poedit-Basepath: .\n"
@@ -3190,7 +3190,7 @@ msgid "%d SKU in total"
 msgid_plural "%d SKUs in total"
 msgstr[0] "%d артикул усього"
 msgstr[1] "%d артикула усього"
-msgstr[2] "%d артикули усього"
+msgstr[2] "%d артикулів усього"
 
 msgid "Based on last 30 days sales dynamic (%d items of %s sold during last 30 days), you will run out of %s in <strong>%d days</strong> (on %s)"
 msgstr "Протягом останніх 30 днів продано %d одиниць товару %s. При збереженні такої динаміки продажів товар %s повністю закінчиться на складі через <strong>%d днів</strong> (%s)"
@@ -3752,9 +3752,9 @@ msgstr "Інші поля"
 
 msgid "Successfully re-indexed %d product"
 msgid_plural "Successfully re-indexed %d products"
-msgstr[0] "Успішно переіндексовано %d продукт"
-msgstr[1] "Успішно переіндексовано %d продукти"
-msgstr[2] "Успішно переіндексовано %d продуктів"
+msgstr[0] "Успішно переіндексовано %d товар"
+msgstr[1] "Успішно переіндексовано %d товари"
+msgstr[2] "Успішно переіндексовано %d товарів"
 
 msgid "Unknown stock"
 msgstr "Невідомий склад"
@@ -4514,9 +4514,9 @@ msgstr[2] "Буде додано %d нових категорій"
 
 msgid "%d new product to be added"
 msgid_plural "%d new products to be added"
-msgstr[0] "Буде додано %d новий продукт"
-msgstr[1] "Буде додано %d нових продукта"
-msgstr[2] "Буде додано %d нових продуктів"
+msgstr[0] "Буде додано %d новий товар"
+msgstr[1] "Буде додано %d нових товари"
+msgstr[2] "Буде додано %d нових товарів"
 
 msgid "%d new SKU to be added"
 msgid_plural "%d new SKUs to be added"
@@ -4642,7 +4642,7 @@ msgid "%d category imported with errors"
 msgid_plural "%d categories imported with errors"
 msgstr[0] "%d категорію імпортовано з помилками"
 msgstr[1] "%d категорії імпортовано з помилками"
-msgstr[2] "%d категорій імпортовано з помилками"
+msgstr[2] "%d категорії імпортовано з помилками"
 
 msgid "%d category"
 msgid_plural "%d categories"
@@ -9532,13 +9532,13 @@ msgstr "Більше контактної інформації"
 msgid "%d more customer found with the same email address"
 msgid_plural "%d more customers found with the same email address"
 msgstr[0] "Знайдено ще %d покупця із тим же email"
-msgstr[1] "Знайдено ще %d покупців із тим же email"
+msgstr[1] "Знайдено ще %d покупця із тим же email"
 msgstr[2] "Знайдено ще %d покупців із тим же email"
 
 msgid "%d more customer found with the same phone number"
 msgid_plural "%d more customers found with the same phone number"
 msgstr[0] "Знайдено ще %d покупця із тим же номером телефону"
-msgstr[1] "Знайдено ще %d покупців із тим же номером телефону"
+msgstr[1] "Знайдено ще %d покупця із тим же номером телефону"
 msgstr[2] "Знайдено ще %d покупців із тим же номером телефону"
 
 msgid "Ошибка"
@@ -10952,7 +10952,7 @@ msgid "This product type cannot be deleted because <a href=\"%s\" target=\"_blan
 msgid_plural "This product type cannot be deleted because <a href=\"%s\" target=\"_blank\" class=\"nowrap\">%d products</a> belong to this type."
 msgstr[0] "Цей тип товарів не може бути видалено тому що до нього належить <a href=\"%s\" target=\"_blank\" class=\"nowrap\">%d товар</a>."
 msgstr[1] "Цей тип товарів не може бути видалено тому що до нього належать <a href=\"%s\" target=\"_blank\" class=\"nowrap\">%d товари</a>."
-msgstr[2] "Цей тип товарів не може бути видалено тому що до нього належить <a href=\"%s\" target=\"_blank\" class=\"nowrap\">%d товарів</a>."
+msgstr[2] "Цей тип товарів не може бути видалено тому що до нього належать <a href=\"%s\" target=\"_blank\" class=\"nowrap\">%d товарів</a>."
 
 msgid "Available for all product types"
 msgstr "Доступно для усіх типів товару"
@@ -11828,7 +11828,7 @@ msgid "You are about to delete SKU “%s” of product “%s” with %d variant.
 msgid_plural "You are about to delete SKU “%s” of product “%s” with %d variants."
 msgstr[0] "Ви збираєтесь видалити артикул “%s” товару “%s” з %d модифікацією."
 msgstr[1] "Ви збираєтесь видалити артикул “%s” товару “%s” з %d модифікаціями."
-msgstr[2] "Ви збираєтесь видалити артикул “%s” товару “%s” з %d модифікацій."
+msgstr[2] "Ви збираєтесь видалити артикул “%s” товару “%s” з %d модифікаціями."
 
 msgid "It is used in <a href=\"%s\">%d order</a>."
 msgid_plural "It is used in <a href=\"%s\">%d orders</a>."
@@ -12029,7 +12029,7 @@ msgid "Found <a href=\"%s\">%d order</a> containing product “%s”."
 msgid_plural "Found <a href=\"%s\">%d orders</a> containing product “%s”."
 msgstr[0] "Знайдено <a href=\"%s\">%d замовлення</a>, що містить товар “%s”."
 msgstr[1] "Знайдено <a href=\"%s\">%d замовлення</a>, що містять товар “%s”."
-msgstr[2] "Знайдено <a href=\"%s\">%d замовлень</a>, що містить товар “%s”."
+msgstr[2] "Знайдено <a href=\"%s\">%d замовлень</a>, що містять товар “%s”."
 
 msgid "No orders containing product “%s”."
 msgstr "Немає замовлень, що включають товар “%s”."
@@ -12263,7 +12263,7 @@ msgid "Used in %d variant."
 msgid_plural "Used in %d variants."
 msgstr[0] "Використовується у %d модифікації."
 msgstr[1] "Використовується у %d модифікаціях."
-msgstr[2] "Використовується у %d модифікацій."
+msgstr[2] "Використовується у %d модифікаціях."
 
 msgid "Enter a description that will be used in the TITLE and in META tags used by search systems."
 msgstr "Введіть опис, який буде застосовуватись у тегах TITLE та META, які використовуються пошуковими системами."
@@ -12551,7 +12551,7 @@ msgid "Duplicate product entries on %d line"
 msgid_plural "Duplicate product entries on %d lines"
 msgstr[0] "Надлишкова інформація про товари на рядку %d"
 msgstr[1] "Надлишкова інформація про товари на рядку %d"
-msgstr[2] "Надлишкова інформація про товари на рядку %d"
+msgstr[2] "Надлишкова інформація про категорії на рядку %d"
 
 msgid "Duplicate SKU entries on %d line"
 msgid_plural "Duplicate SKU entries on %d lines"
@@ -12787,7 +12787,7 @@ msgstr[2] "Сховати %d вітрин, до яких застосовано 
 msgid "Show %d storefront on which the product is available"
 msgid_plural "Show %d storefronts on which the product is available"
 msgstr[0] "Показати %d вітрину, на яких доступний товар"
-msgstr[1] "Показати%d вітрини, на яких доступний товар"
+msgstr[1] "Показати %d вітрини, на яких доступний товар"
 msgstr[2] "Показати %d вітрин, на яких доступний товар"
 
 msgid "Hide %d storefront on which the product is available"
@@ -12963,3 +12963,177 @@ msgstr "GET-параметри"
 
 msgid "POST-params"
 msgstr "POST-параметри"
+
+msgid "Invalid link to a products collection, probably generated by a plugin which has been deleted."
+msgstr "Неприпустиме посилання на колекцію товарів, ймовірно, згенероване плагіном, який було видалено."
+
+msgid "“%s”"
+msgstr "“%s”"
+
+msgid "”, “"
+msgstr "”, “"
+
+msgid "Products collection generated by plugin %s."
+msgid_plural "Products collection generated by plugins %s."
+msgstr[0] "Колекція товарів створена плагіном %s."
+msgstr[1] "Колекція товарів створена плагінами %s."
+msgstr[2] "Колекція товарів створена плагінами %s."
+
+msgid "Products collection (%d)"
+msgstr "Колекція товарів (%d)"
+
+msgid "If no value is specified, a social network will attempt to automatically determine a preview image."
+msgstr "Якщо значення не вказано, соціальна мережа намагатиметься автоматично визначити зображення для попереднього перегляду."
+
+msgid "Sorting option “%s” is available only when the “%s” setting is disabled."
+msgstr "Сортування \"%s\" доступне лише тоді, коли параметр \"%s\" вимкнуто."
+
+msgid "Plugin “%s” is installed and working."
+msgstr "Плагін «%s» встановлений і працює."
+
+msgid "as specified in the “Settings → General settings” section"
+msgstr "як вказано у розділі Налаштування &gt; Загальні налаштування"
+
+msgid "as specified in the “Storefront → Settings” section for each storefront"
+msgstr "як вказано у розділі Вітрина &gt; Налаштування, можна налаштувати для кожної вітрини"
+
+msgid "Email notifications are sent from this address. It is also the administrator’s email address to which order notifications are sent."
+msgstr "Повідомлення електронною поштою надсилаються з цієї адреси. Це також адреса електронної пошти адміністратора, на яку надсилаються сповіщення про замовлення."
+
+msgid "Applied to"
+msgstr "Застосовується до"
+
+msgid "Entire order except for shipping"
+msgstr "Для усього замовлення за виключенням доставки"
+
+msgid "The coupon will be applied to products and services and will not affect the shipping cost."
+msgstr "Купон буде застосований до товарів та послуг і не вплине на вартість доставки."
+
+msgid "To specified products:"
+msgstr "До вказаних товарів:"
+
+msgid "The coupon will be applied only to products and will not affect the cost of services or the shipping cost."
+msgstr "Купон буде застосований до товарів і не вплине на вартість доставки."
+
+msgid "Link to promo description"
+msgstr "Опис посилання на промо"
+
+msgid "Invalid URL"
+msgstr "Невірний URL"
+
+msgid "Maximum URL length is 2048 characters"
+msgstr "Максимальна довжина URL — 2048 символів"
+
+msgid "By customer category"
+msgstr "За категорією покупця"
+
+msgid "Products representation in file rows"
+msgstr "Представлення товарів у рядках файлів"
+
+msgid "Default mode"
+msgstr "Стандартний режим"
+
+msgid "SKU as product"
+msgstr "Артикул як товар"
+
+msgid "For a product with <em>multiple</em> SKUs, a separate row is exported with product-related data and additional rows are exported with the product‘s SKUs. A product with <em>one</em> SKU is exported in one row."
+msgstr "Для продукту з <em>кількома</em> артикулами експортується окремий рядок із даними, пов’язаними з товаром, а додаткові рядки — з SKU продукту. Товар з <em>одним</em> артикулом експортується в один рядок."
+
+msgid "For each product SKU, a separate row, containing that SKU’s properties, is added to a file. If some SKU property is empty but has a value stored in the common product data then such a common property value is exported to an SKU row. No separate row with common product data is exported."
+msgstr "Для кожного артикулу товару до файлу додається окремий рядок, що містить властивості цього артикулу. Якщо якась властивість артикулу порожня, але має значення, збережене в загальних даних про товар, таке загальне значення властивості експортується до рядка артикулу. Окремий рядок із загальними даними про товар не експортується."
+
+msgid "This export mode is not recomended for product updates to avoid corruption of the original data structure. You may find it useful to transfer information to external services. To update your products via an exported CSV file, use “%s”."
+msgstr "Цей режим експорту не рекомендується для оновлення товарів, аби уникнути пошкодження вихідної структури даних. Він стане в нагоді, аби передавати інформацію у зовнішні служби. Щоб оновити свої товари за допомогою експортованого файлу CSV, використовуйте “%s”."
+
+msgid "Error: product type does not exist."
+msgstr "Помилка: типу товару не існує."
+
+msgid "Some product variants are not displayed in the storefront because of errors."
+msgstr "Деякі варіанти товару не відображуються на вітрині через помилки."
+
+msgid "Enter a number between 0 and %s99,999,999,999.9999%s with max. 4 decimal digits."
+msgstr "Введіть число між 0 та %s99,999,999,999.9999%s із максимум чотирма десятковими цифрами."
+
+msgid "Open the “Prices & features” tab to fix errors in the product variants."
+msgstr "Відкрийте вкладку «Ціни та властивості», аби виправити помилки у товарі."
+
+msgid "%d product variant is not displayed in the storefront because of an error."
+msgid_plural "%d product variants are not displayed in the storefront because of an error."
+msgstr[0] "%d модифікація товару не відображується на вітрині через помилку."
+msgstr[1] "%d модифікації товару не відображуються на вітрині через помилку."
+msgstr[2] "%d модифікацій товару не відображуються на вітрині через помилку."
+
+msgid "The selectable features mode is enabled for this product. In this mode, you need to pick at least one feature for customers to select the variants of this product in the storefront."
+msgstr "Для цього товару ввімкнено режим вибору властивостей. У цьому режимі вам потрібно обрати принаймні одну властивість, аби клієнти могли вибрати варіанти цього товару на вітрині магазину."
+
+msgid "In the product variants’ properties must be specified the values of all selectable product features. You cannot select default values of such features for the entire product."
+msgstr "У властивостях варіантів товару мають бути вказані значення всіх властивостей товару, які можна вибрати. Ви не можете вибрати стандартні значення таких властивостей для всього товару."
+
+msgid "This product variant is not displayed in the storefront. To make it displayed, specify the values of all selectable features in its properties."
+msgstr "Цей варіант товару не відображається на вітрині. Аби зробити його відображеним, вкажіть значення всіх параметрів, які можна вибрати, у його властивостях."
+
+msgid "This feature is used to select product variants in the storefront. Its values can be selected only for individual SKUs."
+msgstr "Ця властивість використовується для вибору варіантів товару на вітрині. Її значення можна вибрати лише для окремих артикулів."
+
+msgid "Enter an SKU code or name, or both of these values. The “code + name” combination must be unique for every SKU of this product."
+msgstr "Введіть код або найменування артикулу, або обидві ці властивості. Комбінація коду та найменування має бути унікальним для кожного артикулу цього товару."
+
+msgid "This product has SKUs with the same “code + name” combination. It must be unique for all SKUs within a product."
+msgstr "У цього товару є артикул із тією ж комбінацією кода та найменування. Комбінація має бути унікальною для усіх артикулів товару."
+
+msgid "To distinguish the variants of an SKU from others, pick some features for product variants selection in the strorefront and specify their values in the product variants’ properties."
+msgstr "Аби відрізнити варіанти артикулів, оберіть деякі характеристики для вибору варіантів товару та вкажіть їх значення у властивостях варіантів товару."
+
+msgid "The product has variants with equal names. The name of a product variant consists of an SKU name and the values of selectable features. Please either change the names of product variants or delete duplicate variants."
+msgstr "У товара є модифікації з однаковими назвами. Назва варіанта товару складається з назви артикула та значень характеристик, які можна вибрати. Будь ласка, змініть назви варіантів товару або видаліть повторювані варіанти."
+
+msgid "You cannot select default values for features with the “Multiple values selection from a list” format. Select this feature’s values in product variants’ properties."
+msgstr "Ви не можете вибрати значення за замовчуванням для характеристик у форматі «Вибір кількох значень зі списку». Виберіть значення цієї характеристики у властивостях варіантів товару."
+
+msgid "Main image"
+msgstr "Основне зображення"
+
+msgid "The main image is selected in the product’s main variant."
+msgstr "Основне зображення вибирається в основному варіанті товару."
+
+msgid "Product page"
+msgstr "Сторінка товару"
+
+msgid "A 301 redirect is applied at once and works permanently, and cannot be quickly disabled. Search enines will remove the page from their indices. The redirect will get saved in website visitors’ browsers. If you later decide to publish this page again, it might become available only after quite a long while."
+msgstr "Переадресація 301 застосовується одразу і працює постійно, і її неможливо швидко вимкнути. Пошукові машини видалять сторінку зі своїх індексів. Переадресацію буде збережено у веб-переглядачах відвідувачів веб-сайту. Якщо пізніше ви вирішите знову опублікувати цю сторінку, вона може стати доступною лише через досить тривалий час."
+
+msgid "This field may contain a maximum of 255 characters."
+msgstr "Це поле може вміщувати до 255 символів."
+
+msgid "To add images, save the product."
+msgstr "Аби додати зображення, збережіть товар."
+
+msgid "Enter a product name."
+msgstr "Введіть назву товару."
+
+msgid "For detailed information on Open Graph parameters and examples please refer to <a href=\"http://ogp.me\" target=\"_blank\">ogp.me</a>."
+msgstr "Аби отримати детальну інформацію про параметри Open Graph та приклади, зверніться до <a href=\"http://ogp.me\" target=\"_blank\">ogp.me</a>."
+
+msgid "kHz"
+msgstr "КГц"
+
+msgid "kW"
+msgstr "КВ"
+
+msgid "The products identification column is empty."
+msgstr "Стовпець ідентифікації товарів порожній."
+
+msgid "The SKU image could not be imported."
+msgstr "Зображення артикулу не вдалося імпортувати."
+
+msgid "The image already exists."
+msgstr "Це зображення вже існує."
+
+msgid "The image could not be imported."
+msgstr "Це зображення не вдалося імпортувати."
+
+msgid "The main SKU cannot be hidden; therefore, the visibility in the storefront is always enabled for it."
+msgstr "Головний артикул неможливо приховати. Тому його видимість на вітрині завжди увімкнена."
+
+msgid "The value of the “%s” field can be only 0 or 1."
+msgstr "Значення поля “%s” може бути тільки 1 або 0."

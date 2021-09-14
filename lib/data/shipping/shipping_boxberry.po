@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Boxberry shipping plugin 1.1.2.45 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Boxberry shipping plugin 1.1.5.53 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -12,46 +12,55 @@ msgstr ""
 "Language: uk_UA\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"X-Generator: Poedit 3.0\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
-msgid "Delivery is not available. Please check the shipping address and the selected payment type."
-msgstr "Доставка не доступна. Будь ласка, перевірте адресу доставки і обраний спосіб оплати."
+msgid "Shipping options"
+msgstr "Способи доставки"
 
-msgid "Courier"
-msgstr "Кур'єр"
+msgid "Pickup points"
+msgstr "Пункти самовивозу"
 
-msgid "from"
-msgstr "від"
+msgid "Select values corresponding to your contract’s conditions."
+msgstr "Оберіть значення, що відповідають умовам вашого договору."
 
-msgid "Delivery is not available for specified ZIP code."
-msgstr "Доставка не доступна для зазначеного поштового індексу."
+msgid "If “With prepayment only” option is selected, then in Shop-Script, with “In-cart checkout” mode enabled, only prepayment options are available after shipping option selection."
+msgstr "Якщо обраний варіант \"тільки з передоплатою\", то у режимі оформлення замовлення у кошику у Shop-Script після вибору варіанту доставки будуть доступні тільки варіанти попередньої оплати."
 
-msgid "Do not use"
-msgstr "Не використовувати"
+msgid "If “All” option is selected, then in Shop-Script, with “In-cart checkout” mode enabled, minimum shipping cost for prepayment is displayed by default. Once a shipping and a payment option are selected, the displayed shipping cost is updated accordingly."
+msgstr "Якщо обраний варіант \"усі\", то у режимі оформлення замовлення у кошику у Shop-Script за замовчуванням відображується мінімальна вартість доставки. Як тільки обрані варіанти доставки та оплати, відповідно оновлюється і вартість доставки."
 
-msgid "All"
-msgstr "Усі"
+msgid "Courier delivery"
+msgstr "Кур'єрська доставка"
 
-msgid "With prepayment only"
-msgstr "Тільки з передоплатою"
+msgid "Courier name"
+msgstr "Ім&#39;я кур&#39;єра"
 
-msgid "Delivery without parcel opening"
-msgstr "Доставка без відкриття посилки"
+msgid "Integration settings"
+msgstr "Налаштування інтеграції"
 
-msgid "Delivery with parcel opening and completeness check"
-msgstr "Доставка з відкриттям посилки та перевіркою повноти"
+msgid "Upon checkout, a dellivery draft is created in your Boxberry account. Should you edit an order in your Webasyst backend, the corresponding draft is updated automatically."
+msgstr "Після перевірки у вашому акаунті Boxberry створюється чернетка доставки. Якщо ви редагуєте замовлення у вашому акаунті Webasyst, відповідна чернетка оновлюється автоматично."
 
-msgid "Delivery of a parcel part"
-msgstr "Доставка частини посилки"
+msgid "Type of parcel delivery"
+msgstr "Тип доставки посилки"
+
+msgid "If nothing is selected, a default value from the store profile’s “Services” section of your Boxberry account is used."
+msgstr "Якщо нічого не обрано, то використовується значення за замовчуванням з розділу \"Послуги\" профілю магазина з вашого аккаунта Boxberry."
+
+msgid "Store name for SMS and email notifications"
+msgstr "Назва магазину для SMS і повідомлень по електронній пошті"
+
+msgid "Notifications are sent by Boxberry service."
+msgstr "Повідомлення надсилаються службою Boxberry."
 
 msgid "Basic settings"
-msgstr "Основні параметри"
+msgstr "Основні налаштування"
 
 msgid "Service name"
-msgstr "Найменування послуги"
+msgstr "Назва послуги"
 
 msgid "API URL"
 msgstr "URL-АДРЕСА API"
@@ -101,27 +110,6 @@ msgstr "Використовується тільки якщо розміри з
 msgid "The sum of length, width, and height values must not exceed 2.5 m."
 msgstr "Сума довжини, ширини і висоти не повинна перевищувати 2,5 м."
 
-msgid "Shipping options"
-msgstr "Варіанти доставки"
-
-msgid "Pickup points"
-msgstr "Пункти самовивозу"
-
-msgid "Select values corresponding to your contract’s conditions."
-msgstr "Оберіть значення, що відповідають умовам вашого договору."
-
-msgid "If “With prepayment only” option is selected, then in Shop-Script, with “In-cart checkout” mode enabled, only prepayment options are available after shipping option selection."
-msgstr "Якщо обраний варіант \"тільки з передоплатою\", то у режимі оформлення замовлення у кошику у Shop-Script після вибору варіанту доставки будуть доступні тільки варіанти попередньої оплати."
-
-msgid "If “All” option is selected, then in Shop-Script, with “In-cart checkout” mode enabled, minimum shipping cost for prepayment is displayed by default. Once a shipping and a payment option are selected, the displayed shipping cost is updated accordingly."
-msgstr "Якщо обраний варіант \"усі\", то у режимі оформлення замовлення у кошику у Shop-Script за замовчуванням відображується мінімальна вартість доставки. Як тільки обрані варіанти доставки та оплати, відповідно оновлюється і вартість доставки."
-
-msgid "Courier delivery"
-msgstr "Кур'єрська доставка"
-
-msgid "Courier name"
-msgstr "Ім&#39;я кур&#39;єра"
-
 msgid "Shipping cost"
 msgstr "Вартість доставки"
 
@@ -131,8 +119,8 @@ msgstr "Мінімальна вартість замовлення для без
 msgid "Shipping rates provided by Boxberry service are ignored when free shipping is applied."
 msgstr "Вартість доставки, що надається службою Boxberry, ігнорується у разі, якщо застосовано безкоштовну доставку."
 
-msgid "Declared value of parcel (insurance cost)"
-msgstr "Декларована вартість посилки (вартість страховки)"
+msgid "Declared value for prepaid delivery (insurance cost)"
+msgstr "Оголошена вартість передоплаченої доставки (вартість страховки)"
 
 msgid "Specify either a fixed value expressed in a currency or percentage of the order total, or their sum or difference."
 msgstr "Вказати фіксовану вартість, виражену в іноземній валюті, або відсотки від загальної вартості замовлення, або їх суму, або їх різницю."
@@ -140,14 +128,53 @@ msgstr "Вказати фіксовану вартість, виражену в 
 msgid "Examples:"
 msgstr "Приклади:"
 
-msgid "The result must not exceed 300,000 rubles."
-msgstr "Результат не повинен перевищувати 300 000 рублів."
+msgid "Declared value must not exceed 300,000 rubles."
+msgstr "Оголошена вартість не має перевищувати 300 000 рублів."
+
+msgid "In case of payment on delivery, the declared value passed to the shipping service is equal to the order total less the shipping cost, i.e. pure cost of delivered items with discount applied."
+msgstr "У разі сплати по факту доставки, оголошена вартість, що передається службі доставки, дорівнює вартості замовлення без вартості доставки, тобто це чиста вартість товарів у вантажі із застосованою знижкою."
 
 msgid "Set up markup costs in your Boxberry account."
 msgstr "Вкажіть додаткові витрати на обробку у своєму аккаунті Boxberry."
 
-msgid "Russian Federation"
-msgstr "Російська Федерація"
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "or"
+msgstr "або"
+
+msgid "cancel"
+msgstr "скасувати"
+
+msgid "Countries"
+msgstr "Країни"
+
+msgid "All countries"
+msgstr "Усі країни"
+
+msgid "Selected countries only"
+msgstr "Тільки обрані країни"
+
+msgid "Choose all"
+msgstr "Обрати все"
+
+msgid "Regions"
+msgstr "Регіони"
+
+msgid "All regions"
+msgstr "Усі регіони"
+
+msgid "Selected regions only"
+msgstr "Тільки обрані регіони"
+
+msgid "Search"
+msgstr "Пошук"
+
+msgid "No region selected in country settings"
+msgstr "У налаштуваннях країни не обрано регіон"
+
+msgid "Edit"
+msgstr "Редагувати"
 
 msgid "Availability settings"
 msgstr "Параметри доступності"
@@ -155,17 +182,14 @@ msgstr "Параметри доступності"
 msgid "Country"
 msgstr "Країна"
 
-msgid "Region"
-msgstr "Регіон"
-
-msgid "Shipping will be restricted to the selected region."
-msgstr "Доставку буде обмежено обраним регіоном."
+msgid "Shipping will be available for selected regions only"
+msgstr "Доставка буде доступною тільки для обраних регіонів"
 
 msgid "Localities"
 msgstr "Населені пункти"
 
 msgid "Separate locality names with a comma."
-msgstr "Відокремлюйте найменування населених пунктів комою."
+msgstr "Окремі найменування населених пунктів через кому."
 
 msgid "Max weight"
 msgstr "Максимальна вага"
@@ -182,77 +206,32 @@ msgstr "Максимальна висота"
 msgid "Max dimensions"
 msgstr "Максимальні розміри"
 
-msgid "Integration settings"
-msgstr "Налаштування інтеграції"
+msgid "Do not use"
+msgstr "Не використовувати"
 
-msgid "Upon checkout, a dellivery draft is created in your Boxberry account. Should you edit an order in your Webasyst backend, the corresponding draft is updated automatically."
-msgstr "Після перевірки у вашому акаунті Boxberry створюється чернетка доставки. Якщо ви редагуєте замовлення у вашому акаунті Webasyst, відповідна чернетка оновлюється автоматично."
+msgid "All"
+msgstr "Усі"
 
-msgid "Type of parcel delivery"
-msgstr "Тип доставки посилки"
+msgid "With prepayment only"
+msgstr "Тільки з передоплатою"
 
-msgid "If nothing is selected, a default value from the store profile’s “Services” section of your Boxberry account is used."
-msgstr "Якщо нічого не обрано, то використовується значення за замовчуванням з розділу \"Послуги\" профілю магазина з вашого аккаунта Boxberry."
+msgid "Delivery without parcel opening"
+msgstr "Доставка без відкриття посилки"
 
-msgid "Store name for SMS and email notifications"
-msgstr "Назва магазину для SMS і повідомлень по електронній пошті"
+msgid "Delivery with parcel opening and completeness check"
+msgstr "Доставка з відкриттям посилки та перевіркою повноти"
 
-msgid "Notifications are sent by Boxberry service."
-msgstr "Повідомлення надсилаються службою Boxberry."
+msgid "Delivery of a parcel part"
+msgstr "Доставка частини посилки"
+
+msgid "from"
+msgstr "від"
+
+msgid "Delivery is not available for specified ZIP code."
+msgstr "Доставка не доступна для зазначеного поштового індексу."
 
 msgid "Error during automatic shipment creation. Please create a shipment manually in your personal account on Boxberry website. See detailed error-related information in log file <em>wa-log/wa-plugins/shipping/boxberry/api_requests.log</em>."
 msgstr "Помилка при автоматичному створенні відвантаження. Створіть, будь ласка, вантаж вручну через ваш акаунт на сайті Boxberry. Перегляньте детальну інформацію про помилку у файлі логу <em>wa-log/wa-plugins/shipping/boxberry/api_requests.log</em>."
 
-msgid "Declared value for prepaid delivery (insurance cost)"
-msgstr "Оголошена вартість передоплаченої доставки (вартість страховки)"
-
-msgid "Declared value must not exceed 300,000 rubles."
-msgstr "Оголошена вартість не має перевищувати 300 000 рублів."
-
-msgid "In case of payment on delivery, the declared value passed to the shipping service is equal to the order total less the shipping cost, i.e. pure cost of delivered items with discount applied."
-msgstr "У разі сплати по факту доставки, оголошена вартість, що передається службі доставки, дорівнює вартості замовлення без вартості доставки, тобто це чиста вартість товарів у вантажі із застосованою знижкою."
-
-msgid "All countries"
-msgstr "Усі країни"
-
-msgid "All regions"
-msgstr "Усі регіони"
-
-msgid "Edit"
-msgstr "Редагувати"
-
-msgid "Shipping will be available for selected regions only"
-msgstr "Доставка буде доступною тільки для обраних регіонів"
-
-msgid "Regions (%s)"
-msgstr "Регіони (%s)"
-
-msgid "Regions"
-msgstr "Регіони"
-
-msgid "Selected regions only"
-msgstr "Тільки обрані регіони"
-
-msgid "Search"
-msgstr "Пошук"
-
-msgid "Select all"
-msgstr "Обрати усе"
-
-msgid "No region selected in country settings"
-msgstr "У налаштуваннях країни не обрано регіон"
-
-msgid "Save"
-msgstr "Зберегти"
-
-msgid "or"
-msgstr "або"
-
-msgid "cancel"
-msgstr "скасувати"
-
-msgid "Countries"
-msgstr "Країни"
-
-msgid "Selected countries only"
-msgstr "Тільки обрані країни"
+msgid "Delivery is not available. Please check the shipping address and the selected payment type."
+msgstr "Доставка не доступна. Будь ласка, перевірте адресу доставки і обраний спосіб оплати."
