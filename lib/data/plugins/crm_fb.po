@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst CRM Facebook plugin 1.0.5.23 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst CRM Facebook plugin 1.0.6.26 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -91,3 +91,57 @@ msgstr "Видалити повідомлення від %s"
 
 msgid "This field is required"
 msgstr "Це поле є обов'язковим"
+
+msgid "The video tag is not supported by your browser."
+msgstr "Тег відео не підтримується вашим браузером."
+
+msgid "Audio file"
+msgstr "Аудіофайл"
+
+msgid "Download"
+msgstr "Завантажити"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Image"
+msgstr "Зображення"
+
+msgid "Audio"
+msgstr "Аудіо"
+
+msgid "Video"
+msgstr "Відео"
+
+msgid "Attachment"
+msgstr "Прикріплений файл"
+
+msgid "Drop file here"
+msgstr "Перетягніть сюди файл"
+
+msgid "Your message"
+msgstr "Ваше повідомлення"
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "Page access marker"
+msgstr "Маркер доступу до сторінки"
+
+msgid "Callback URL"
+msgstr "Callback URL"
+
+msgid "Add settlement for CRM"
+msgstr "Додати поселення для CRM"
+
+msgid "Verification marker"
+msgstr "Маркер для підтвердження"
+
+msgid "Use Human Agent tag"
+msgstr "Використовувати тег Human Agent"
+
+msgid "You can not start a conversation with the user"
+msgstr "Ви не можете почати листування з користувачем"
+
+msgid "Deal source disabled"
+msgstr "Джерело угод вимкнене"

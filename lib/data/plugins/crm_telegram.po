@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst CRM Telegram plugin 1.0.5.49 UA Translation v 1.0\n"
+"Project-Id-Version: Webasyst CRM Telegram plugin 1.0.6.51 UA Translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -10,7 +10,7 @@ msgstr ""
 "POT-Creation-Date: 2017-06-14 14:20+0300\n"
 "PO-Revision-Date: \n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
@@ -178,3 +178,69 @@ msgstr "Надіслати відповідь неможливо."
 
 msgid "Unkown audio"
 msgstr "Невідоме аудіо"
+
+msgid "Attach photo"
+msgstr "Прикріпити фото"
+
+msgid "Drop photo here"
+msgstr "Перетягніть фото сюди"
+
+msgid "Forwarded from"
+msgstr "Переслано з"
+
+msgid "Photo"
+msgstr "Фото"
+
+msgid "Unkown photo"
+msgstr "Невідоме фото"
+
+msgid "The video tag is not supported by your browser."
+msgstr "Тег відео не підтримується вашим браузером."
+
+msgid "See on Foursquare"
+msgstr "Переглянути на Foursquare"
+
+msgid "Forwarded message"
+msgstr "Переслане повідомлення"
+
+msgid "Sticker"
+msgstr "Стікер"
+
+msgid "Attachment"
+msgstr "Вкладення"
+
+msgid "Fill in the fields below:"
+msgstr "Заповніть поля нижче:"
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "more info"
+msgstr "більше інформації"
+
+msgid "Validation error"
+msgstr "Помилка перевірки"
+
+msgid "Unkown venue"
+msgstr "Невідоме місце проведення"
+
+msgid "The bot can not start a conversation with the user"
+msgstr "Бот не може почати листування з користувачем"
+
+msgid "Deal source disabled"
+msgstr "Джерело угод вимкнене"
+
+msgid "Access token is required"
+msgstr "Необхідний токен доступу"
+
+msgid "Invalid access token"
+msgstr "Невірний токен доступу"
+
+msgid "Hello $contact_name!"
+msgstr "Привіт, $contact_name!"
+
+msgid "Ask a question and we’ll promptly answer it."
+msgstr "Поставте запитання, і ми швидко відповімо на нього."
+
+msgid "Your $site_link"
+msgstr "Ваш $site_link"

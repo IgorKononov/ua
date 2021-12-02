@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Logs 1.3.0 UA translation v 1.3\n"
+"Project-Id-Version: Webasyst Logs 1.3.1 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -327,13 +327,13 @@ msgid "After deletion, it will no longer be available via a published link."
 msgid_plural "After deletion, they will no longer be available via published links."
 msgstr[0] "Після видалення він більше не буде доступним за опублікованим посиланням."
 msgstr[1] "Після видалення вони більше не будуть доступними за опублікованим посиланням."
-msgstr[2] "Після видалення вони більше не будуть доступними за опублікованим посиланням."
+msgstr[2] ""
 
 msgid "After deletion, %u of them will no longer be available via a published link."
 msgid_plural "After deletion, %u of them will no longer be available via published links."
 msgstr[0] "Після видалення %u з них більше не буде доступним за опублікованим посиланням."
 msgstr[1] "Після видалення %u з них більше не будуть доступними за опублікованим посиланням."
-msgstr[2] "Після видалення %u з них більше не будуть доступними за опублікованим посиланням."
+msgstr[2] ""
 
 msgid "Delete directory"
 msgstr "Видалити директорію"
@@ -351,7 +351,7 @@ msgid "After renaming, %u published file in this directory will no longer be ava
 msgid_plural "After renaming, %u published files in this directory will no longer be available via published links."
 msgstr[0] "Після перейменування %u з них більше не буде доступним за опублікованим посиланням."
 msgstr[1] "Після видалення %u з них більше не будуть доступними за опублікованим посиланням."
-msgstr[2] "Після видалення %u з них більше не будуть доступними за опублікованим посиланням."
+msgstr[2] ""
 
 msgid "You have no permissions to rename files and directories."
 msgstr "У вас немає прав для перейменування файлів та директорій."
@@ -368,8 +368,8 @@ msgstr "Після перейменування, цей файл більше н
 msgid "%u entry"
 msgid_plural "%u entries"
 msgstr[0] "%u запис"
-msgstr[1] "%u запис"
-msgstr[2] "%u записів"
+msgstr[1] "%u записи"
+msgstr[2] ""
 
 msgid "directory"
 msgstr "директорія"
@@ -525,7 +525,7 @@ msgid "tracking disabled"
 msgstr "відстеження вимкнено"
 
 msgid "Once this file is updated, you will see a %s&nbsp;badge next to the app’s icon in the main menu."
-msgstr "Щойно цей файл буде оновлено, ви побачите позначку&nbsp;%s поруч із значком додатку у головному меню."
+msgstr "Щойно цей файл буде оновлено, ви побачите позначку %s&nbsp; поруч із значком додатку у головному меню."
 
 msgid "User actions"
 msgstr "Дії користувача"
@@ -564,7 +564,7 @@ msgid "You will no longer be notified on %u file’s updates in this directory."
 msgid_plural "You will no longer be notified on %u files’ updates in this directory."
 msgstr[0] "Ви більше не отримаєте повідомлення про оновлення %u файлу у цій директорії."
 msgstr[1] "Ви більше не отримаєте повідомлення про оновлення %u файлів у цій директорії."
-msgstr[2] "Ви більше не отримаєте повідомлення про оновлення %u файлу у цій директорії."
+msgstr[2] "Ви більше не отримаєте повідомлення про оновлення %u файлів у цій директорії."
 
 msgid "Other users will no longer be notified on %u file’s updates in this directory."
 msgid_plural "Other users will no longer be notified on %u files’ updates in this directory."
@@ -585,7 +585,7 @@ msgid "Other users will no longer be notified on this file’s updates."
 msgstr "Інші користувачі більше не отримають повідомлення про оновлення цього файлу."
 
 msgid "Show the %s&nbsp;badge next to the app’s icon in the main menu when the total logs size exceed 1&nbsp;GB."
-msgstr "Показати індикатор&nbsp;%s біля іконки програми в головному меню, коли загальний обсяг логів перевищує 1&nbsp;ГБ."
+msgstr "Показати індикатор %s&nbsp; біля іконки програми у головному меню, коли загальний обсяг логів перевищує 1&nbsp;ГБ."
 
 msgid "PHP error messages are saved to file <tt>wa-log/<b>php.log</b></tt>."
 msgstr "Повідомлення про помилки PHP буде збережено у файл <tt>wa-log/<b>php.log</b></tt>."
@@ -593,8 +593,8 @@ msgstr "Повідомлення про помилки PHP буде збереж
 msgid "%u file contained in this directory will be deleted."
 msgid_plural "%u files contained in this directory will be deleted."
 msgstr[0] "%u файл, що міститься у цій директорії, буде видалено."
-msgstr[1] "%u файли, що містяться у цій директорії, будуть видалені."
-msgstr[2] "%u файлів, що містяться у цій директорії, будуть видалені."
+msgstr[1] "%u файли, що міститься у цій директорії, буде видалено."
+msgstr[2] "%u файлів, що міститься у цій директорії, буде видалено."
 
 msgid "%u file will no longer be available via a published link."
 msgid_plural "%u files will no longer be available via published links."
@@ -634,3 +634,21 @@ msgstr "Перелік дій користувача"
 
 msgid "User action"
 msgstr "Дія користувача"
+
+msgid "You and other users will be further notified on this file’s updates <em>by its old name</em> until the “%” option is disabled."
+msgstr "Ви та інші користувачі отримуватимете сповіщення про оновлення цього файлу <em>під його старою назвою</em>, доки параметр «%» не буде вимкнено."
+
+msgid "You will be further notified on this file’s updates <em>by its old name</em> until the “%” option is disabled."
+msgstr "Ви отримуватимете сповіщення про оновлення цього файлу <em>під його старою назвою</em>, доки параметр «%» не буде вимкнено."
+
+msgid "Other users will be further notified on this file’s updates <em>by its old name</em> until the “%” option is disabled."
+msgstr "Інші користувачі отримають подальші сповіщення про оновлення цього файлу <em>під його старою назвою</em>, доки параметр «%» не буде вимкнено."
+
+msgid "You and other users will be further notified on this file’s updates until the “%” option is disabled."
+msgstr "Ви та інші користувачі отримаєте подальші сповіщення про оновлення цього файлу, доки параметр «%» не буде вимкнено."
+
+msgid "You will be further notified on this file’s updates until the “%” option is disabled."
+msgstr "Ви будете отримувати додаткові сповіщення про оновлення цього файлу, доки параметр «%» не буде вимкнено."
+
+msgid "Other users will be further notified on this file’s updates until the “%” option is disabled."
+msgstr "Інші користувачі отримають подальші сповіщення про оновлення цього файлу, доки параметр «%» не буде вимкнено."

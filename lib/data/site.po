@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Site 2.5.27.256 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Site 2.5.28.261 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
@@ -1626,3 +1626,6 @@ msgstr "Головна сторінка"
 
 msgid "Invalid value: %s."
 msgstr "Невірне значення: %s."
+
+msgid "Optional set of custom <em>key=value</em> parameters, which can be used in design templates and pages of this settlement as <em>&#123;$wa->param(\"key\")&#125;</em>. Each key=value pair must be specified on a separate line."
+msgstr "Додатковий набір користувацьких параметрів <em>key=value</em>, які можна використовувати у шаблонах оформлення та сторінках цього поселення як <em>&#123;$wa->param(\"key\")&#125;</em>. Кожну пару ключ=значення потрібно вказати в окремому рядку."

@@ -6,10 +6,10 @@ msgstr ""
 "Language-Team: skeeter.studio\n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "MIME-Version: 1.0\n"
-"PO-Revision-Date: 2021-09-14 10:13+0300\n"
+"PO-Revision-Date: 2021-12-02 14:33+0300\n"
 "POT-Creation-Date: \n"
 "Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
-"Project-Id-Version: Webasyst 2.2.1.613 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst 2.4.1.636 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "X-Generator: Poedit 3.0\n"
 "X-Poedit-Basepath: .\n"
@@ -6689,7 +6689,7 @@ msgid "Route settings"
 msgstr "Налаштування маршрутизації"
 
 msgid "Browse plugins"
-msgstr "Шукати плагіни"
+msgstr "Переглянути плагіни"
 
 msgid "Publish"
 msgstr "Опублікувати"
@@ -6699,3 +6699,63 @@ msgstr "Це ваш особистий обліковий запис у <a %s>Ц
 
 msgid "Theme"
 msgstr "Тема"
+
+msgid "%s is now away"
+msgstr "%s відійшов"
+
+msgid "Error running update of plugin %s.%s: %s"
+msgstr "Помилка виконання оновлення плагіна %s.%s: %s"
+
+msgid "Access rights inherited from groups (%s) can be expanded on an individual user level (%s). To reduce access inherited from a group, exclude the user from the group or shrink the group basis access rights setup."
+msgstr "Права доступу, успадковані від груп (%s), можна розширити на рівні окремого користувача (%s). Аби зменшити доступ, успадкований від групи, виключіть користувача з групи або зменшіть права доступу на основі групи."
+
+msgid "Access granted for the user individually."
+msgstr "Доступ надається користувачу індивідуально."
+
+msgid "Access inherited from user groups."
+msgstr "Доступ успадковано від груп користувачів."
+
+msgid "Error running update of application %s: %s"
+msgstr "Помилка виконання оновлення додатку %s: %s"
+
+msgid "Calendar"
+msgstr "Календар"
+
+msgid "Error getting section contents."
+msgstr "Помилка отримання вмісту розділу."
+
+msgid "Default sending parameters"
+msgstr "Параметри відправки за замовчуванням"
+
+msgid "Additional sending parameters"
+msgstr "Додаткові параметри відправки"
+
+msgid "The email sending parameters specified below are used by default for all outgoing email messages. If you need to use other parameters for all or certain sender addresses or domains then add extra rules using the “<strong>%s</strong>” button."
+msgstr "Параметри надсилання електронної пошти, зазначені нижче, використовуються за замовчуванням для всіх вихідних повідомлень електронної пошти. Якщо вам потрібно використовувати інші параметри для всіх чи певних адрес або доменів відправника, додайте правила за допомогою кнопки «<strong>%s</strong>»."
+
+msgid "Enable 2.0"
+msgstr "Увімкнути 2.0"
+
+msgid "Drag & drop a file here or upload it manually (JPG, GIF or PNG)"
+msgstr "Перетягніть сюди файл зображення, чи завантажте його вручну (JPG, GIF, PNG)"
+
+msgid "Choose file"
+msgstr "Оберіть файл"
+
+msgid "Try again"
+msgstr "Спробуйте знову"
+
+msgid "Or <a class=\"link\" href=\"%s\">sign into your backend in the usual way</a>."
+msgstr "Або <a class=\"link\" href=\"%s\">увійдіть до панелі керування сайтом звичайним чином</a>."
+
+msgid "The time for authorization has expired. Please go back using the button below and try again."
+msgstr "Термін авторизації минув. Будь ласка, поверніться за допомогою кнопки нижче та повторіть спробу."
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Access granted for the user individually"
+msgstr "Доступ надається користувачу індивідуально."
+
+msgid "Access inherited from user groups"
+msgstr "Доступ успадковано від груп користувачів."

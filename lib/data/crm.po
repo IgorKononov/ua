@@ -9,7 +9,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "POT-Creation-Date: 2017-06-14 14:20+0300\n"
 "Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
-"Project-Id-Version: Webasyst CRM 1.4.12.398 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst CRM 1.4.13.406 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "X-Generator: Poedit 3.0\n"
 "X-Poedit-Basepath: .\n"
@@ -5155,3 +5155,27 @@ msgstr "Перетягніть зображення сюди"
 
 msgid "Entered text is too long. Shorten it to maximum 255 characters."
 msgstr "Введений текст задовгий. Скоротіть його максимум до 255 символів."
+
+msgid "Deals count in stages now"
+msgstr "Поточна кількість угод на етапах"
+
+msgid "Average timeout for deal in stage"
+msgstr "Середній час очікування для угоди на етапі"
+
+msgid "deal closed."
+msgid_plural "deals closed."
+msgstr[0] "угоду закрито."
+msgstr[1] "угоди закрито."
+msgstr[2] "угод закрито."
+
+msgid "type"
+msgstr "тип"
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Unknown company id, file extension or type."
+msgstr "Невідомі ID компанії, розширення файлу або тип."
+
+msgid "Basic template info not found."
+msgstr "Інформацію про базовий шаблон не знайдено."
