@@ -1,97 +1,94 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"MIME-Version: 1.0\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Webasyst Team Google Calendar plugin 1.0.19.19 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Team Google Calendar plugin 1.0.22.26 UA translation v 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.4.1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
 
-#: /wa-apps/team/plugins/googlecalendar/templates/accountInfo.html:10
 msgid "Authorization code is canceled or expired"
 msgstr "Код авторизації джерела скасовано або термін його дії сплив"
 
-#: /wa-apps/team/plugins/googlecalendar/templates/accountInfo.html:14
 msgid "Renew authorization code"
 msgstr "Оновити код авторизації"
 
-#: /wa-apps/team/plugins/googlecalendar/templates/accountInfo.html:21
 msgid "Need your attention"
 msgstr "Потребує вашої уваги"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/teamGooglecalendar.plugin.php:60
 msgid "Another Google account"
 msgstr "Інший акаунт Google"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/teamGooglecalendar.plugin.php:276
 msgid "To receive Client ID and secret <a href=\"https://console.developers.google.com/\" target=\"_blank\">register an application</a> on the Google Developers Console."
 msgstr "Для отримання ідентифікатора клієнта і секрета <a href=\"https://console.developers.google.com/\" target=\"_blank\">зареєструйте додаток</a> у консолі розробника Google."
 
-#: /wa-apps/team/plugins/googlecalendar/lib/teamGooglecalendar.plugin.php:278
 msgid "<a href=\"https://support.webasyst.com/16033/team-add-calendar-google/\" target=\"_blank\">Step-by-step manual on connecting with a Google Calendar</a>"
 msgstr "<a href=\"https://support.webasyst.com/16033/team-add-calendar-google/\" target=\"_blank\">Поетапна інструкція по під&#39;єднанню Календаря Google</a>"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/teamGooglecalendar.plugin.php:298
 msgid "Authorized redirect URI"
 msgstr "Авторизовані URI переадресації"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/teamGooglecalendar.plugin.php:301
 msgid "URL where a user will return after Google OAuth authorization."
 msgstr "URL, до якого буде повернуто користувача після авторизації Google OAuth."
 
-#: /wa-apps/team/plugins/googlecalendar/lib/teamGooglecalendar.plugin.php:302
 msgid "Copy specified URL to the appropriate field in your Google application settings."
 msgstr "Скопіюйте вказаний URL до відповідного поля у налаштуваннях додатка Google."
 
-#: /wa-apps/team/plugins/googlecalendar/lib/teamGooglecalendar.plugin.php:394
-#: /wa-apps/team/plugins/googlecalendar/lib/actions/teamGooglecalendarPluginBackendRenewToken.action.php:35
 msgid "Unknown calendar"
 msgstr "Невідомий календар"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/config/settings.php:10
-#: /wa-apps/team/plugins/googlecalendar/lib/config/settings.php:11
 msgid "Client ID"
 msgstr "Ідентифікатор клієнта"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/config/settings.php:12
-#: /wa-apps/team/plugins/googlecalendar/lib/config/settings.php:20
 msgid "Issued by Google for your Web application"
 msgstr "Видається Google для вашого веб-додатка"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/config/settings.php:18
-#: /wa-apps/team/plugins/googlecalendar/lib/config/settings.php:19
 msgid "Client secret"
 msgstr "Секрет клієнта"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/config/plugin.php:4
 msgid "Google Calendar"
 msgstr "Календар Google"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/config/plugin.php:5
 msgid "Google Calendar integration"
 msgstr "Інтеграція з календарем Google"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/classes/teamGooglecalendarOauth.class.php:111
 msgid "Session protection validated"
 msgstr "Захист сесії затверджено"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/classes/teamGooglecalendarOauth.class.php:143
 msgid "Code for generating token is not received"
 msgstr "Код для генерації токена не отримано"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/classes/teamGooglecalendarOauth.class.php:170
 msgid "Token is not generated"
 msgstr "Токен не згенеровано"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/classes/teamGooglecalendarOauth.class.php:130
 msgid "Access denied"
 msgstr "Доступ заборонено"
 
-#: /wa-apps/team/plugins/googlecalendar/lib/actions/teamGooglecalendarPluginBackendRenewToken.action.php:40
 msgid "Plugin not found"
 msgstr "Плагін не знайдено"
+
+msgid "Authorization code is canceled or expired."
+msgstr "Код авторизації скасовано або термін його дії сплив."
+
+msgid "Your attention is required"
+msgstr "Потребує вашої уваги"
+
+msgid "Plugin not found."
+msgstr "Плагін не знайдено."
+
+msgid "Access denied."
+msgstr "Доступ заборонено."
+
+msgid "Session protection validated."
+msgstr "Захист сесії затверджено."
+
+msgid "Token generation code has not been received."
+msgstr "Код генерації токену не отримано."
+
+msgid "Token has not been generated."
+msgstr "Токен не згенеровано."

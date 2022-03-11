@@ -1,17 +1,17 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Team 1.1.5.146 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Team 2.0.2.156 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-07 22:30+0300\n"
+"PO-Revision-Date: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-04-07 22:30+0300\n"
-"PO-Revision-Date: \n"
-"Language: uk\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -264,13 +264,13 @@ msgid "%d hour"
 msgid_plural "%d hours"
 msgstr[0] "%d година"
 msgstr[1] "%d години"
-msgstr[2] "%d годин"
+msgstr[2] ""
 
 msgid "Last %d day"
 msgid_plural "Last %d days"
 msgstr[0] "Останній %d день"
 msgstr[1] "Останні %d дні"
-msgstr[2] "Останні %d днів"
+msgstr[2] ""
 
 msgid "This field is required."
 msgstr "Це поле є обов’язковим."
@@ -552,7 +552,7 @@ msgid "%d link"
 msgid_plural "%d links"
 msgstr[0] "%d посилання"
 msgstr[1] "%d посилання"
-msgstr[2] "%d посилань"
+msgstr[2] ""
 
 msgid "%d of %d selected contacts shown below have links to other applications."
 msgstr "%d з %d обраних контактів, показаних нижче, мають зв’язки з іншими додатками."
@@ -729,7 +729,7 @@ msgid "%d event"
 msgid_plural "%d events"
 msgstr[0] "%d подія"
 msgstr[1] "%d події"
-msgstr[2] "%d подій"
+msgstr[2] ""
 
 msgid "Delete this calendar?"
 msgstr "Видалити цей календар?"
@@ -741,13 +741,13 @@ msgid "%d event in this calendar will be deleted"
 msgid_plural "%d events in this calendar will be deleted"
 msgstr[0] "%d подія в цьому календарі буде видалена"
 msgstr[1] "%d події в цьому календарі будуть видалені"
-msgstr[2] "%d подій в цьому календарі будуть видалені"
+msgstr[2] ""
 
 msgid "%d connection to external calendars will be deleted"
 msgid_plural "%d connections to external calendars will be deleted"
 msgstr[0] "%d підключення до зовнішнього календаря буде видалене"
 msgstr[1] "%d підключення до зовнішнього календаря будуть видалені"
-msgstr[2] "%d підключень до зовнішнього календаря будуть видалені"
+msgstr[2] ""
 
 msgid "unlink calendar"
 msgstr "відключити календар"
@@ -791,74 +791,74 @@ msgstr "Наступний місяць"
 msgid "January"
 msgid_plural "January"
 msgstr[0] "Січень"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Січня"
+msgstr[2] "Січня"
 
 msgid "February"
 msgid_plural "February"
 msgstr[0] "Лютий"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Лютого"
+msgstr[2] "Лютого"
 
 msgid "March"
 msgid_plural "March"
 msgstr[0] "Березень"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Березня"
+msgstr[2] "Березня"
 
 msgid "April"
 msgid_plural "April"
 msgstr[0] "Квітень"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Квітня"
+msgstr[2] "Квітня"
 
 msgid "May"
 msgid_plural "May"
 msgstr[0] "Травень"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Травня"
+msgstr[2] "Травня"
 
 msgid "June"
 msgid_plural "June"
 msgstr[0] "Червень"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Червня"
+msgstr[2] "Червня"
 
 msgid "July"
 msgid_plural "July"
 msgstr[0] "Липень"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Липня"
+msgstr[2] "Липня"
 
 msgid "August"
 msgid_plural "August"
 msgstr[0] "Серпень"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Серпня"
+msgstr[2] "Серпня"
 
 msgid "September"
 msgid_plural "September"
 msgstr[0] "Вересень"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Вересня"
+msgstr[2] "Вересня"
 
 msgid "October"
 msgid_plural "October"
 msgstr[0] "Жовтень"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Жовтня"
+msgstr[2] "Жовтня"
 
 msgid "November"
 msgid_plural "November"
 msgstr[0] "Листопад"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Листопада"
+msgstr[2] "Листопада"
 
 msgid "December"
 msgid_plural "December"
 msgstr[0] "Грудень"
-msgstr[1] ""
-msgstr[2] ""
+msgstr[1] "Грудня"
+msgstr[2] "Грудня"
 
 msgid "Event"
 msgstr "Подія"
@@ -993,7 +993,7 @@ msgid "%d contact has been deleted"
 msgid_plural "%d contacts have been deleted"
 msgstr[0] "видалений %d контакт"
 msgstr[1] "видалені %d контакти"
-msgstr[2] "видалені %d контактів"
+msgstr[2] ""
 
 msgid "You cannot delete yourself."
 msgstr "Ви не можете видалити себе."
@@ -1278,7 +1278,7 @@ msgid "%d contact"
 msgid_plural "%d contacts"
 msgstr[0] "%d контакт"
 msgstr[1] "%d контакти"
-msgstr[2] "%d контактів"
+msgstr[2] ""
 
 msgid "\"%s\""
 msgstr "\"%s\""
@@ -1426,3 +1426,264 @@ msgstr "Блокувати"
 
 msgid "Reason for blocking:"
 msgstr "Причина блокування:"
+
+msgid "Enter an email address to send the new user an invitation with sign-in instructions."
+msgstr "Введіть адресу електронної пошти, аби надіслати новому користувачеві запрошення з інструкціями щодо входу."
+
+msgid "No API tokens."
+msgstr "Немає токенів API."
+
+msgid "User invitation was sent."
+msgstr "Користувачеві надіслано запрошення."
+
+msgid "Show navigation"
+msgstr "Показати навігацію"
+
+msgid "Invite"
+msgstr "Запросити"
+
+msgid "Add group"
+msgstr "Додати групу"
+
+msgid "Add location"
+msgstr "Додати локацію"
+
+msgid "Expires in"
+msgstr "Закінчується через"
+
+msgid "Send again"
+msgstr "Надіслати знову"
+
+msgid "Link to invitation"
+msgstr "Запрошення надіслано"
+
+msgid "Sending"
+msgstr "Надсилаємо"
+
+msgid "Sent"
+msgstr "Надіслано"
+
+msgid "Copied"
+msgstr "Скопійовано"
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "By email"
+msgstr "За email"
+
+msgid "By link"
+msgstr "За посиланням"
+
+msgid "Enter login name & password"
+msgstr "Введіть логін та пароль"
+
+msgid "Enter a login name and a password for this user without sending an invitation."
+msgstr "Введіть логін і пароль для цього користувача без надсилання запрошення."
+
+msgid "First name"
+msgstr "Ім'я"
+
+msgid "Last name"
+msgstr "Прізвище"
+
+msgid "If neither first name nor last name are specified then the invitation date will be used as a temporary name."
+msgstr "Якщо не вказано ні ім’я, ні прізвище, дата запрошення буде використовуватися у якості тимчасового імені."
+
+msgid "The user will access"
+msgstr "Користувач матиме доступ"
+
+msgid "Create link"
+msgstr "Створити посилання"
+
+msgid "Copy"
+msgstr "Копіювати"
+
+msgid "Done"
+msgstr "Виконано"
+
+msgid "Creating an<span class=\"desktop-and-tablet-only\"> invitation</span>"
+msgstr "Створення<span class=\"desktop-and-tablet-only\"> запрошення</span>"
+
+msgid "Alphabetically"
+msgstr "За алфавітом"
+
+msgid "By signup date"
+msgstr "За датою реєстрації"
+
+msgid "never"
+msgstr "ніколи"
+
+msgid "Add teammates manually later"
+msgstr "Додати колег вручну пізніше"
+
+msgid "Color"
+msgstr "Колір"
+
+msgid "Custom color"
+msgstr "Власний колір"
+
+msgid "Custom icon"
+msgstr "Власна іконка"
+
+msgid "Customize group access rights using the <a class=\"js-edit-group inline-link\" href=\"%s\">Manage group</a> mode."
+msgstr "Налаштувати права групи за допомогою режима <a class=\"js-edit-group inline-link\" href=\"%s\">Керування групою</a>."
+
+msgid "Access inherited from user groups"
+msgstr "Доступ успадковано від груп користувачів"
+
+msgid "Access granted for the user individually"
+msgstr "Доступ надається користувачу індивідуально"
+
+msgid "Status will be displayed next to the user name in various apps."
+msgstr "Статус буде показано поруч з іменем користувача у деяких додатках."
+
+msgid "Events are visible in calendars only."
+msgstr "Події відображаються лише в календарях."
+
+msgid "Contacts"
+msgstr "Контакти"
+
+msgid "email"
+msgstr "email"
+
+msgid "no data"
+msgstr "немає даних"
+
+msgid "phone"
+msgstr "телефон"
+
+msgid "карта недоступна"
+msgstr "мапа недоступна"
+
+msgid "укажите API-ключ в <a href=\"%s\" class=\"link\">настройках</a>."
+msgstr "вкажіть API-ключ у <a href=\"%s\" class=\"link\">налаштуваннях</a>."
+
+msgid "More details"
+msgstr "Докладніше"
+
+msgid "CRM"
+msgstr "CRM"
+
+msgid "Required parameter is missing."
+msgstr "Відсутній необхідний параметр."
+
+msgid "Webasyst ID is connected"
+msgstr "Вхід із Webasyst ID підключено"
+
+msgid "Last sign-in"
+msgstr "Останній вхід"
+
+msgid "Connect Webasyst ID"
+msgstr "Під'єднати Webasyst ID"
+
+msgid "Sign into your Webasyst backend with 2-factor authentication (2FA) and get convenient access to all Webasyst services and mobile apps."
+msgstr "Увійдіть у свій Webasyst за допомогою 2-факторної автентифікації (2FA) та отримайте зручний доступ до всіх служб і мобільних додатків Webasyst."
+
+msgid "Webasyst ID is not connected"
+msgstr "Вхід із Webasyst ID не підключено"
+
+msgid "User %s has not connected Webasyst ID yet. Secure sign-in option with 2-factor authentication (2FA) for your Webasyst backend and access to all Webasyst services and mobile apps will become available only when Webasyst ID is connected."
+msgstr "Користувач %s ще не підключив Webasyst ID. Увійдіть у свій Webasyst за допомогою 2-факторної автентифікації (2FA) та отримайте зручний доступ до всіх служб і мобільних додатків Webasyst."
+
+msgid "Email instructions"
+msgstr "Надіслати інструкції електронною поштою"
+
+msgid "Email again"
+msgstr "Надіслати знову"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "%sEnable sign-in with Webasyst ID%s so that your teammates can use all Webasyst services and mobile apps and can enable secure sign-in with 2-factor authentication (2FA)."
+msgstr "%sУвімкніть вхід за допомогою Webasyst ID%s, аби усі ваші колеги могли отримати зручний доступ до всіх служб і мобільних додатків Webasyst та користуватись 2-факторною автентифікацією (2FA)."
+
+msgid "Upload or drag & drop a photo"
+msgstr "Завантажте або перетягніть зображення сюди"
+
+msgid "Actions"
+msgstr "Дії"
+
+msgid "Select all"
+msgstr "Обрати усе"
+
+msgid "Unselect"
+msgstr "Відмінити вибір"
+
+msgid "Choose file"
+msgstr "Оберіть файл"
+
+msgid "The cover can show 8 photos at most. To change the order of photos drag them in the list."
+msgstr "Обкладинка може відображувати максимум 8 фото. Аби змінити порядок зображень, перетягніть їх."
+
+msgid "Not an image or invalid image:"
+msgstr "Це не зображення, або некоректне зображення:"
+
+msgid "Nothing selected"
+msgstr "Нічого не вибрано"
+
+msgid "Remove selected"
+msgstr "Відалити обрані"
+
+msgid "Change password"
+msgstr "Змінити пароль"
+
+msgid "Change login name"
+msgstr "Змінити логін"
+
+msgid "Customize groups"
+msgstr "Налаштувати групи"
+
+msgid "Status & event calendars"
+msgstr "Календарі статусів та подій"
+
+msgid "Map in user profiles"
+msgstr "Карта у профілях користувачів"
+
+msgid "Online map settings"
+msgstr "Налаштування сервісу онлайн-карт"
+
+msgid "Can be used to display online maps on user and office-viewing pages."
+msgstr "Можна використовувати для відображення онлайн-карт у профілях користувачів та на сторінках локацій."
+
+msgid "Office location. E.g., 100 5th Avenue, New York."
+msgstr "Локація офісу. Наприклад: вулиця Хрещатик, 22, Київ, Україна."
+
+msgid "Change"
+msgstr "Змінити"
+
+msgid "Set up members"
+msgstr "Налаштувати учасників"
+
+msgid "You can also drag a user to this group in the sidebar."
+msgstr "Ви також можете перетягнути користувача для цієї групи у боковій колонці."
+
+msgid "Чтобы показать карту укажите API-ключ в <a href=\"%s\" class=\"link\">настройках</a>."
+msgstr "Аби показати карту, вкажіть API-ключ у <a href=\"%s\" class=\"link\">налаштуваннях</a>."
+
+msgid "To add a user to <span class=\"bold\">%s</span> use <a href=\"%s\">Manage group</a> mode."
+msgstr "Додати користувача до режиму <span class=\"bold\">%s</span> use <a href=\"%s\">Керування групою</a>."
+
+msgid "To add a user to %s, use <a href=\"%s\">Manage group</a> mode."
+msgstr "Аби додати користувача до %s, використовуйте режим <a href=\"%s\">Керування групою</a>."
+
+msgid "This contact was banned."
+msgstr "Цей контакт заблоковано."
+
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d хвилина"
+msgstr[1] "%d хвилини"
+msgstr[2] "%d хвилин"
+
+msgid "Name is required"
+msgstr "Ім'я є обов'язковим"
+
+msgid "Not added"
+msgstr "Не додано"
+
+msgid "Not allowed MIME type. Supported types are gif, jpg (jpeg), png."
+msgstr "Цей MIME-тип використовувати не дозволено. Підтримувані формати: gif, jpg (jpeg), png."
+
+msgid "Invitation token cannot be created."
+msgstr "Неможливо створити токен запрошення."

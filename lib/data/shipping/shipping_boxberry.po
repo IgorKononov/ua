@@ -1,19 +1,19 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Boxberry shipping plugin 1.1.5.53 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Boxberry shipping plugin 1.1.7.60 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-06 20:23+0300\n"
+"PO-Revision-Date: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
+"Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2019-09-06 20:23+0300\n"
-"PO-Revision-Date: \n"
-"Language: uk_UA\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
-"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
@@ -235,3 +235,66 @@ msgstr "Помилка при автоматичному створенні ві
 
 msgid "Delivery is not available. Please check the shipping address and the selected payment type."
 msgstr "Доставка не доступна. Будь ласка, перевірте адресу доставки і обраний спосіб оплати."
+
+msgid "Maximum dimensions"
+msgstr "Максимальні розміри"
+
+msgid "Maximum package dimensions for which this shipping method should be available. Cannot exceed the maximum dimensions set by Boxberry — length 1.2 m, width 0.8 m, height 0.5 m, all dimensions sum 2.5 m."
+msgstr "Максимальні розміри упаковки, для яких повинен бути доступний цей спосіб доставки. Не може перевищувати максимальні розміри, встановлені Boxberry — довжина 1,2 м, ширина 0,8 м, висота 0,5 м, всі розміри складають 2,5 м."
+
+msgid "Length"
+msgstr "Довжина"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Height"
+msgstr "Висота"
+
+msgid "Maximum length must be greater than 0 and must not exceed 1.2 m."
+msgstr "Максимальна довжина повинна бути більше 0 і не повинна перевищувати 1,2 м."
+
+msgid "Maximum width must be greater than 0 and must not exceed 0.8 m."
+msgstr "Максимальна ширина повинна бути більше 0 і не повинна перевищувати 0,8 м."
+
+msgid "Maximum height must be greater than 0 and must not exceed 0.5 m."
+msgstr "Максимальна висота повинна бути більше 0 і не повинна перевищувати 0,5 м."
+
+msgid "Default dimensions"
+msgstr "Розміри за замовчуванням"
+
+msgid "Used in cases when package dimensions are not provided by a dedicated plugin. If these values are empty then, if no values are provided by a decicated plugin, shipping terms and rates for this shipping method will not be calculated."
+msgstr "Використовується у випадках, коли розміри пакунку не надаються спеціальним плагіном. Якщо ці значення порожні, тоді, якщо визначений плагін не надає жодних значень, умови доставки та тарифи для цього способу доставки не розраховуються."
+
+msgid "Default length must be greater than 0 and must not exceed the maximum dimensions length."
+msgstr "Довжина за замовчуванням має бути більшою за 0 і не повинна перевищувати максимальні розміри довжини."
+
+msgid "Default width must be greater than 0 and must not exceed the maximum dimensions width."
+msgstr "Ширина за замовчуванням має бути більше 0 і не повинна перевищувати максимальні розміри ширини."
+
+msgid "Default height must be greater than 0 and must not exceed the maximum dimensions height."
+msgstr "Висота за замовчуванням має бути більшою за 0 і не повинна перевищувати максимальні розміри висоти."
+
+msgid "Maximum weight for which this shipping method will be available. Cannot exceed Boxberry’s weight limitation of 30 kg."
+msgstr "Максимальна вага, для якої буде доступний цей спосіб доставки. Не можна перевищувати обмеження ваги Boxberry в 30 кг."
+
+msgid "Must be above 4 g and must not exceed 30 kg."
+msgstr "Має бути більше 4 г і не перевищувати 30 кг."
+
+msgid "Used in cases when no weight data are available. If this value is empty then, with no information about the shipping weight available, the shipping terms and rates will not be calculated."
+msgstr "Використовується у випадках, коли дані про вагу відсутні. Якщо це значення порожнє, без доступної інформації про вагу відправлення, умови та тарифи доставки не розраховуються."
+
+msgid "Must be greater than 4 g and must not exceed the maximum weight value."
+msgstr "Має бути більше 4 г і не перевищувати максимального значення ваги."
+
+msgid "Territorial availability"
+msgstr "Територіальна доступність"
+
+msgid "Upon checkout, a delivery draft is created in your Boxberry account. Should you edit an order in your Webasyst backend, the corresponding draft is updated automatically."
+msgstr "Після оформлення замовлення у вашому обліковому записі Boxberry створюється чернетка доставки. Якщо ви редагуєте замовлення у своєму Webasyst, відповідний проект оновлюється автоматично."
+
+msgid "Used in cases when package dimensions are not provided by a dedicated plugin. If these values are empty then, if no values are provided by a dedicated plugin, shipping terms and rates for this shipping method will not be calculated."
+msgstr "Використовується у випадках, коли розміри пакета не надаються спеціальним плагіном. Якщо ці значення пусті, тоді, якщо спеціальний плагін не надає жодних значень, умови доставки та тарифи для цього способу доставки не розраховуються."
+
+msgid "Used only if order dimensions have not been calculated by a special plugin. If no value is specified, shipping rate and terms will not be calculated."
+msgstr "Використовується лише у тому випадку, якщо розміри замовлення не були розраховані спеціальним плагіном. Якщо значення не вказано, вартість доставки та умови не розраховуються."

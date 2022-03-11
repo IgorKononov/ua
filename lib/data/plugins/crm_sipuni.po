@@ -1,51 +1,88 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"MIME-Version: 1.0\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: Webasyst CRM Sipuni plugin 1.0.0.7 UA translation v 0.1\n"
+"Project-Id-Version: Webasyst CRM Sipuni plugin 1.0.2.15 UA translation v 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter.studio\n"
 "Language: uk_UA\n"
-"X-Generator: Poedit 2.4.1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"X-Generator: Poedit 3.0.1\n"
 
-#: /wa-apps/crm/plugins/sipuni/templates/actions/settings/SettingsDefault.html:44
 msgid "delete"
 msgstr "видалити"
 
-#: /wa-apps/crm/plugins/sipuni/templates/actions/settings/SettingsDefault.html:62
 msgid "Number does not exist"
 msgstr "Номер не існує"
 
-#: /wa-apps/crm/plugins/sipuni/templates/actions/settings/SettingsDefault.html:72
-#: /wa-apps/crm/plugins/sipuni/templates/actions/settings/SettingsDefault.html:100
 msgid "Add user"
 msgstr "Додати користувача"
 
-#: /wa-apps/crm/plugins/sipuni/templates/actions/settings/SettingsDefault.html:76
-#: /wa-apps/crm/plugins/sipuni/templates/actions/settings/SettingsDefault.html:104
 msgid "or"
 msgstr "або"
 
-#: /wa-apps/crm/plugins/sipuni/templates/actions/settings/SettingsDefault.html:77
-#: /wa-apps/crm/plugins/sipuni/templates/actions/settings/SettingsDefault.html:105
 msgid "cancel"
 msgstr "скасувати"
 
-#: /wa-apps/crm/plugins/sipuni/templates/actions/settings/SettingsDefault.html:126
 msgid "Save"
 msgstr "Зберегти"
 
-#: /wa-apps/crm/plugins/sipuni/templates/actions/settings/SettingsDefault.html:141
 msgid "Remove \"%name%\" from recipients of %number%?"
 msgstr "Видалити \"%name%\" з отримувачів %number%?"
 
-#: /wa-apps/crm/plugins/sipuni/templates/actions/settings/SettingsDefault.html:142
 msgid "Are you sure?"
 msgstr "Ви впевнені?"
 
-#: /wa-apps/crm/plugins/sipuni/templates/actions/settings/SettingsDefault.html:143
 msgid "Delete"
 msgstr "Видалити"
+
+msgid "Remove “%name%” from recipients of %number%?"
+msgstr "Видалити \"%name%\" з отримувачів %number%?"
+
+msgid "Number in the system"
+msgstr "Номер у системі"
+
+msgid "Your number in %sthe basic settings%s %s of the PBX"
+msgstr "Ваш номер у %sосновних налаштуваннях%s %s вашої АТС"
+
+msgid "Integration Key"
+msgstr "Ключ інтеграції"
+
+msgid "Set the integration key in your PBX %ssettings%s %s"
+msgstr "Вкажіть ключ інтеграції у %sналаштуваннях АТС%s %s"
+
+msgid "URL of the host script"
+msgstr "URL хост-скрипта"
+
+msgid "Add a CRM settlement"
+msgstr "Додати поселення для CRM"
+
+msgid "Enter the URL in your PBX %ssettings%s %s"
+msgstr "Вкажіть URL у %sналаштуваннях АТС%s %s"
+
+msgid "The “Use Web Socket Server“ option must be <b>turned off</b>."
+msgstr "Налаштування “Use Web Socket Server“ має бути <b>вимкнене</b>."
+
+msgid "Short numbers of %semployees%s %s"
+msgstr "Короткі номери %sспівробітників%s %s"
+
+msgid "Delete short number"
+msgstr "Видалити короткий номер"
+
+msgid "E.g., 210"
+msgstr "Наприклад, 210"
+
+msgid "Add short number"
+msgstr "Додати короткий номер"
+
+msgid "200 to 999"
+msgstr "200 до 999"
+
+msgid "You can %ssubscribe%s %s to short numbers of employees to receive notifications on new calls."
+msgstr "Ви можете %sпідписатися%s %s на короткі номери співробітників, аби отримувати повідомлення про нові дзвінки."
+
+msgid "Save to add a user"
+msgstr "Зберегти аби додати користувача"

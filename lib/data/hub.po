@@ -1,19 +1,19 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Webasyst Hub 1.2.17.114 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Hub 2.0.2.114 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-21 05:25+0000\n"
+"PO-Revision-Date: \n"
 "Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
 "Language-Team: skeeter-studio.ru\n"
+"Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2014-11-21 05:25+0000\n"
-"PO-Revision-Date: \n"
-"Language: uk_UA\n"
 "Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: .\n"
 
@@ -1402,3 +1402,138 @@ msgstr "Новий коментар до теми, на яку ви підпис
 
 msgid "New comment to a Hub topic you are subscribed to"
 msgstr "Новий коментар до топіку хаба, на який ви підписані"
+
+msgid "No status"
+msgstr "Немає статусу"
+
+msgid "Topic “<b>%s</b>” will be permanently deleted without a recovery option. Delete?"
+msgstr "Тему «<b>%s</b>» буде видалено без можливості відновлення. Видалити?"
+
+msgid "To delete this topic type, please either change the type for all those topics or delete them."
+msgstr "Аби видалити цей тип теми, будь ласка, змініть тип для всіх цих тем або видаліть їх."
+
+msgid "To delete this topic type, please either change the type for that topic or delete it."
+msgstr "Щоб видалити цей тип теми, будь ласка, змініть тип для цієї теми або видаліть її."
+
+msgid "There is <strong>%d topic</strong> with the <strong>%s</strong> type."
+msgid_plural "There are <strong>%d topics</strong> with the <strong>%s</strong> type."
+msgstr[0] "Існує <strong>%d тема</strong> з типом<strong>%s</strong>."
+msgstr[1] "Існує <strong>%d теми</strong> з типом<strong>%s</strong>."
+msgstr[2] "Існує <strong>%d тем</strong> з типом<strong>%s</strong>."
+
+msgid "Delete that %d topic permanently"
+msgid_plural "Delete those %d topics permanently"
+msgstr[0] "Назавжди видалити %d тему"
+msgstr[1] "Назавжди видалити %d теми"
+msgstr[2] "Назавжди видалити %d тем"
+
+msgid "Posting on website"
+msgstr "Публікація на сайті"
+
+msgid "Topics of this type can be added by website visitors"
+msgstr "Теми такого типу можуть бути додані користувачами сайту"
+
+msgid "Only PNG and JPEG images are allowed."
+msgstr "Дозволене завантаження тільки PNG- та JPEG-файлів."
+
+msgid "Category logo will be published on the hub’s homepage. The logo size depends on the design theme you are using. Most design themes will scale the logo down to about 50px wide."
+msgstr "Логотип категорії буде опубліковано на головній сторінці хабу. Розмір логотипу залежить від теми оформлення, яку ви використовуєте. Більшість тем оформлення буде масштабувати логотип до приблизно 50 пікселів в ширину."
+
+msgid "user"
+msgstr "користувач"
+
+msgid "rating"
+msgstr "рейтинг"
+
+msgid "topics"
+msgstr "теми"
+
+msgid "replies"
+msgstr "відповіді"
+
+msgid "%s of %d"
+msgstr "%s з %d"
+
+msgid "Filters"
+msgstr "Фільтри"
+
+msgid "Skip this setup"
+msgstr "Пропустити ці налаштування"
+
+msgid "Quote..."
+msgstr "Цитата..."
+
+msgid "Selected"
+msgstr "Обрано"
+
+msgid "Actions"
+msgstr "Дії"
+
+msgid "Ещё %d новых ответов"
+msgstr "Ще %d нових відповідей"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Good news: a topic can now be edited and viewed on the same screen."
+msgstr "Добра новина: тему тепер можна редагувати і переглядати на одному екрані."
+
+msgid "Summary"
+msgstr "Опис"
+
+msgid "Add a tag"
+msgstr "Додати тег"
+
+msgid "Save changes"
+msgstr "Зберегти зміни"
+
+msgid "Notify..."
+msgstr "Повідомити..."
+
+msgid "Notify other users about the topic update"
+msgstr "Сповіщати інших користувачів про оновлення теми"
+
+msgid "Publish and send notifications"
+msgstr "Опублікувати та надіслати повідомлення"
+
+msgid "Topic type"
+msgstr "Тип теми"
+
+msgid "Done"
+msgstr "Виконано"
+
+msgid "Restore"
+msgstr "Відновити"
+
+msgid "Glyph for public websites"
+msgstr "Гліф для публічних вебсайтів"
+
+msgid "There are no topics of <strong>%s</strong> type, so this type can be deleted."
+msgstr "Не існує тем типу <strong>%s</strong>, тому його можна видалити."
+
+msgid "Select a file"
+msgstr "Оберіть файл"
+
+msgid "User %s has posted a new comment on <a href=\"%s\"><strong>%s</strong></a> topic you are following:"
+msgstr "Користувач %s опублікував коментар у темі <a href=\"%s\"><strong>%s</strong></a>, яку ви відслідковуєте:"
+
+msgid "User %s suggests an improvement to your topic “<a href=\"%s\"><strong>%s</strong></a>” as follows:"
+msgstr "Користувач %s пропонує покращити тему “<a href=\"%s\"><strong>%s</strong></a>” наступним чином:"
+
+msgid "User %s has posted new topic “<a href=\"%s\"><strong>%s</strong></a>” and invites you to take a look:"
+msgstr "Користувач %s створив нову тему“<a href=\"%s\"><strong>%s</strong></a>” та запрошує вас її переглянути:"
+
+msgid "The URL is in use."
+msgstr "Цей URL вже використовується."
+
+msgid "You cannot reply to a removed comment."
+msgstr "Ви не можете відповісти на видалений коментар."
+
+msgid "Categories of given hub. When <code>$priority_topics</code> is <em>true</em>, list of high-priority topics is returned for each category."
+msgstr "Категорії вказаного хабу. Коли значення <code>$priority_topics</code> — <em>true</em>, для кожної категорії буде повернено перелік тем з високим пріоритетом."
+
+msgid "Someone suggested an improvement to your article"
+msgstr "Хтось вніс пропозицію щодо покращення вашої статті"
+
+msgid "Contact with ID %s does not exist."
+msgstr "Контакт з ID = %s не існує."

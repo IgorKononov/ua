@@ -1,17 +1,17 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: uk_UA\n"
-"Language-Team: skeeter.studio\n"
-"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
-"MIME-Version: 1.0\n"
-"PO-Revision-Date: 2021-12-02 14:33+0300\n"
-"POT-Creation-Date: \n"
-"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
-"Project-Id-Version: Webasyst 2.4.1.636 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst 2.4.2.651 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"X-Generator: Poedit 3.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-03-02 15:50+0300\n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
+"Language-Team: skeeter.studio\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -6755,7 +6755,49 @@ msgid "Menu"
 msgstr "Меню"
 
 msgid "Access granted for the user individually"
-msgstr "Доступ надається користувачу індивідуально."
+msgstr "Доступ надається користувачу індивідуально"
 
 msgid "Access inherited from user groups"
-msgstr "Доступ успадковано від груп користувачів."
+msgstr "Доступ успадковано від груп користувачів"
+
+msgid "This design theme was either cloned from another, original, theme or was manually uploaded as an archive. It cannot be updated via the Installer app or reverted to an original version because there is no installed original theme with the same ID <strong>%s</strong>."
+msgstr "Цю тему дизайну було клоновано з іншої, оригінальної, або було завантажено вручну у якості архіву. Її не вдасться оновити за допомогою Інсталера, або скинути до оригінальної версії тому, що оригінальної теми із тим самим ідентифікатором <strong>%s</strong> не встановлено."
+
+msgid "Empty <code>form_id</code> parameter."
+msgstr "Порожній параметр <code>form_id</code>."
+
+msgid "Password cannot be empty."
+msgstr "Пароль не може бути порожнім."
+
+msgid "My company, LLC"
+msgstr "Моя компанія, ТОВ"
+
+msgid "Error while running update of %s.%s plugin: %s"
+msgstr "Помилка виконання оновлення плагіна %s.%s: %s"
+
+msgid "<p>How to learn more details about this error:</p><ol><li><p>Enable the <strong>developer mode</strong> in <em>Settings</em> app.</p><p>If the <em>Settings</em> app is not available, change the '<code>debug</code>' parameter to <strong><code>true</code></strong> in <em style=\"white-space: nowrap\">wa-config/config.php</em> file.</p></li><li><p>Reload this page.</p></li><li><p>Use the displayed debug information to fix the error.</p></li></ol><p>Additional details are contained in error log files located in the <em class=\"nowrap\">wa-log/</em> directory. You can view them using the <em>Logs</em> app available in the <em>Installer</em>.</p>"
+msgstr "<p>Як дізнатися більше про цю помилку:</p><ol><li><p>Увімкніть <strong>режим розробника</strong> у додатку <em>Налаштування</em>.</p><p>Якщо додаток <em>Налаштування</em> недоступний, змініть, параметр '<code>debug</code>' на <strong><code>true</code></strong> у файлі <em style=\"white-space: nowrap\">wa-config/config.php</em></p></li><li><p>Перезавантажте цю сторінку.</p></li><li><p>Скористайтеся отриманою інформацією, або виправити помилку.</p></li></ol><p>Додаткові подробиці можна знайти у каталозі <em class=\"nowrap\">wa-log/</em>. Ви можете переглянути його, використовуючи додаток <em>Логи</em>, що доступний у <em>Інсталері</em>.</p>"
+
+msgid "Error while running update of %s app: %s"
+msgstr "Помилка виконання оновлення додатку %s: %s"
+
+msgid "The page is not published because it is not connected to any of your website’s structure entries, or routing rules. Add a new entry to Site app’s “Structure” section in order to publish this page."
+msgstr "Сторінку не буде опубліковано, тому що її не під'єднано до будь-якого поселення (правила маршрутизації) додатку. Додайте нове правило у розділі «Структура» додатку «Сайт», аби опублікувати цю сторінку."
+
+msgid "https://www.shop-script.com/help/46/conditional-contact-fields/"
+msgstr "http://www.webasyst.ru/help/7/conditional-contact-fields/"
+
+msgid "Send sign-in instructions by email"
+msgstr "Надіслати інструкції для входу електронною поштою"
+
+msgid "Also check in “<a href=\"%s\">%s</a>” section that SMS notifications based on “%s“ template are correctly sent, too. Be aware that SMS sending may not work occasionally; e.g., due to low SMS balance."
+msgstr "Також перевірте у розділі“<a href=\"%s\">%s</a>” що SMS-повідомлення, налаштовані на базі шаблону “%s“ відсилаються коректно. Зауважте, що відправка SMS може тимчасово не працювати — наприклад, через низький залишок на балансі оператора SMS."
+
+msgid "Re-send sign-in instructions"
+msgstr "Повторно надіслати інструкції для входу"
+
+msgid "About us"
+msgstr "Про нас"
+
+msgid "Channel does not exist"
+msgstr "Канала не існує"

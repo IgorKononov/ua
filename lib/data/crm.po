@@ -1,17 +1,17 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: uk_UA\n"
-"Language-Team: skeeter-studio.ru\n"
-"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
-"MIME-Version: 1.0\n"
-"PO-Revision-Date: \n"
-"POT-Creation-Date: 2017-06-14 14:20+0300\n"
-"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
-"Project-Id-Version: Webasyst CRM 1.4.13.406 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst CRM 1.4.14.412 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"X-Generator: Poedit 3.0\n"
+"POT-Creation-Date: 2017-06-14 14:20+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
+"Language-Team: skeeter-studio.ru\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -5166,7 +5166,7 @@ msgid "deal closed."
 msgid_plural "deals closed."
 msgstr[0] "угоду закрито."
 msgstr[1] "угоди закрито."
-msgstr[2] "угод закрито."
+msgstr[2] ""
 
 msgid "type"
 msgstr "тип"
@@ -5179,3 +5179,75 @@ msgstr "Невідомі ID компанії, розширення файлу а
 
 msgid "Basic template info not found."
 msgstr "Інформацію про базовий шаблон не знайдено."
+
+msgid "For each new deal, a randomly selected user with the lowest number of assigned deals will be assigned as the responsible person."
+msgstr "Для кожної нової угоди в якості відповідальної особи буде обраний випадковий користувач з найменшою кількістю призначених угод."
+
+msgid "No message sources configured."
+msgstr "Не налаштовано джерел повідомлень."
+
+msgid "To receive and handle messages from clients %sset up a message source%s"
+msgstr "Аби отримувати та обробляти повідомлення від клієнтів, %sналаштуйте джерела повідомлень%s"
+
+msgid "Check <a href=\"%s\">SMS sending settings</a>."
+msgstr "Перевірте <a href=\"%s\">налаштування відправки SMS</a>."
+
+msgid "This list consists of selected contacts. To add/remove contacts use “Actions with selected” menu."
+msgstr "Цей перелік складається з обраних контактів. Аби додати/видалити контакти, скористайтесь меню «Дії з обраними»."
+
+msgid "%d selected contact will be excluded from list “%s”"
+msgid_plural "%d selected contacts will be excluded from list “%s”"
+msgstr[0] "%d обраний контакт буде виключено з переліку \"%s\""
+msgstr[1] "%d обраних контакти буде виключено з переліку \"%s\""
+msgstr[2] "%d обраних контактів буде виключено з переліку \"%s\""
+
+msgid "Add contacts to segment “%s”"
+msgstr "Додати контакти до сегменту \"%s\""
+
+msgid "You are about to change the responsible user for deal %s from yourself to %s."
+msgstr "Ви збираєтесь змінити відповідального за угоду %s з себе на користувача %s."
+
+msgid "Remove “%name%” from recipients of %number%?"
+msgstr "Видалити \"%name%\" з отримувачів %number%?"
+
+msgid "Use the <em>%s</em> link to set how long a deal is allowed to remain in each of the stages. To learn about overdue deals, <a href=\"https://support.webasyst.com/27828/crm-deal-funnel-stage-time-limit/\" class=\"nowrap\" target=\"_blank\">set up a notification</a> for the “<em>%s</em>” event."
+msgstr "Скористайтесь посиланням <em>%s</em>, аби вказати, як довго угоді дозволено залишатися на кожному з етапів. Аби дізнатися про прострочені угоди, <a href=\"https://support.webasyst.ru/27824/crm-deal-funnel-stage-time-limit/\" class=\"nowrap\" target=\"_blank\">налаштуйте повідомлення</a> для події “<em>%s</em>”."
+
+msgid "There are %d contact in vault “%%s”."
+msgid_plural "There are %d contacts in vault “%%s”."
+msgstr[0] "Знайдено %d контакт у сховищі \"%%s\"."
+msgstr[1] "Знайдено %d контакти у сховищі \"%%s\"."
+msgstr[2] "Знайдено %d контактів у сховищі \"%%s\"."
+
+msgid "There are no contacts in vault “%s”. Vault deleting cause no effect to access any contacts data."
+msgstr "У сховищі \"%s\" немає контактів. Видалення сховища не вплине на доступ до будь-яких контактних даних."
+
+msgid "Variable code may contain only digits, letters, and underscore characters."
+msgstr "Код змінної може містити тільки цифри, латинські символи та знак підкреслення."
+
+msgid "Variable codes must be unique."
+msgstr "Коди змінних мають бути унікальними."
+
+msgid "https://www.shop-script.com/help/46/conditional-contact-fields/"
+msgstr "https://support.webasyst.ru/shop-script/7/conditional-contact-fields/"
+
+msgid "To make company-only fields available, first add the “Company” field to the form."
+msgstr "Аби зробити доступними поля, призначені тільки для компаній, спочатку додайте у форму поле «Компанія»."
+
+msgid "After successful submission:"
+msgstr "Після успішної відправки:"
+
+msgid "https://developers.webasyst.com/installation/tips/cron/"
+msgstr "https://developers.webasyst.ru/docs/installation/tips/cron/"
+
+msgid "Invalid URL"
+msgstr "Невірний URL"
+
+msgid "“%s”"
+msgstr "“%s”"
+
+msgid "%s “%s” to contact %s"
+msgstr "%s \"%s\" до контакту %s"
+
+msgid "An error occurred while attempting to connect with specified settings."
+msgstr "При спробі підключення за заданими параметрами сталася помилка."
