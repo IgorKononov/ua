@@ -1,17 +1,17 @@
 msgid ""
 msgstr ""
-"Content-Transfer-Encoding: 8bit\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Language: uk_UA\n"
-"Language-Team: skeeter-studio.ru\n"
-"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
-"MIME-Version: 1.0\n"
-"PO-Revision-Date: \n"
-"POT-Creation-Date: 2013-02-11 12:44+0400\n"
-"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
-"Project-Id-Version: Webasyst Shop-Script 8.22.0.50 UA translation v 1.0\n"
+"Project-Id-Version: Webasyst Shop-Script 9.0.5.57 UA translation v 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"X-Generator: Poedit 3.0\n"
+"POT-Creation-Date: 2013-02-11 12:44+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Igor Kononov <contact@skeeter-studio.ru>\n"
+"Language-Team: skeeter-studio.ru\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=((((n%10)==1)&&((n%100)!=11))?(0):(((((n%10)>=2)&&((n%10)<=4))&&(((n%100)<10)||((n%100)>=20)))?(1):2));\n"
+"X-Generator: Poedit 3.0.1\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Bookmarks: 2300,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -9532,13 +9532,13 @@ msgstr "Більше контактної інформації"
 msgid "%d more customer found with the same email address"
 msgid_plural "%d more customers found with the same email address"
 msgstr[0] "Знайдено ще %d покупця із тим же email"
-msgstr[1] "Знайдено ще %d покупця із тим же email"
+msgstr[1] "Знайдено ще %d покупці із тим же email"
 msgstr[2] ""
 
 msgid "%d more customer found with the same phone number"
 msgid_plural "%d more customers found with the same phone number"
 msgstr[0] "Знайдено ще %d покупця із тим же номером телефону"
-msgstr[1] "Знайдено ще %d покупця із тим же номером телефону"
+msgstr[1] "Знайдено ще %d покупців із тим же номером телефону"
 msgstr[2] ""
 
 msgid "Ошибка"
@@ -9548,52 +9548,52 @@ msgid "Канал для подтвержения отсутствует"
 msgstr "Відсутній канал для підтверждення"
 
 msgid "TODO Больше не нужно подтверждать этот канал"
-msgstr ""
+msgstr "TODO Больше не нужно подтверждать этот канал"
 
 msgid "TODO!!! Контакт забанен"
-msgstr ""
+msgstr "TODO!!! Контакт забанен"
 
 msgid "TODO!!! Запрещено использовать эти данные"
-msgstr ""
+msgstr "TODO!!! Запрещено использовать эти данные"
 
 msgid "TODO: Нет диалога подтверждения email или телефона."
-msgstr ""
+msgstr "TODO: Нет диалога подтверждения email или телефона."
 
 msgid "TODO: Нет автоматической авторизации и регистрации после оформления заказа."
-msgstr ""
+msgstr "TODO: Нет автоматической авторизации и регистрации после оформления заказа."
 
 msgid "TODO: Если с таким же номером телефона или email-адресом есть покупатель, то заказ будет привязан к старому покупателю и он будет автоматически авторизован, но только после обязательного подтверждения кодом еmail или телефона или их обоих (зависит от включенных способов авторизации для данного сайта)."
-msgstr ""
+msgstr "TODO: Если с таким же номером телефона или email-адресом есть покупатель, то заказ будет привязан к старому покупателю и он будет автоматически авторизован, но только после обязательного подтверждения кодом еmail или телефона или их обоих (зависит от включенных способов авторизации для данного сайта)."
 
 msgid "TODO: Если с таким же номером телефона или email-адресом нет покупателя, то будет создан новый покупатель без автоматической авторизации и регистрации после оформления заказа."
-msgstr ""
+msgstr "TODO: Если с таким же номером телефона или email-адресом нет покупателя, то будет создан новый покупатель без автоматической авторизации и регистрации после оформления заказа."
 
 msgid "TODO: Если с таким же номером телефона или email-адресом есть покупатель, то заказ нельзя создать без подтверждения кодом еmail или телефона или их обоих (зависит от включенных способов авторизации для данного сайта). После оформления заказа покупатель будет автоматически авторизован."
-msgstr ""
+msgstr "TODO: Если с таким же номером телефона или email-адресом есть покупатель, то заказ нельзя создать без подтверждения кодом еmail или телефона или их обоих (зависит от включенных способов авторизации для данного сайта). После оформления заказа покупатель будет автоматически авторизован."
 
 msgid "TODO: Если с таким же номером телефона или email-адресом нет покупателя, то будет создан новый покупатель и после обязательного подтверждения кодом еmail или телефона или их обоих (зависит от включенных способов авторизации для данного сайта) он будет автоматически авторизаван и зарегистрирован."
-msgstr ""
+msgstr "TODO: Если с таким же номером телефона или email-адресом нет покупателя, то будет создан новый покупатель и после обязательного подтверждения кодом еmail или телефона или их обоих (зависит от включенных способов авторизации для данного сайта) он будет автоматически авторизаван и зарегистрирован."
 
 msgid "Todo Требуется подтвердить канал"
-msgstr ""
+msgstr "Todo Требуется подтвердить канал"
 
 msgid "Todo Подождите %d секунд"
-msgstr ""
+msgstr "Todo Подождите %d секунд"
 
 msgid "TODO Неправильно указан источник"
-msgstr ""
+msgstr "TODO Неправильно указан источник"
 
 msgid "TODO Ошибка отправки кода"
-msgstr ""
+msgstr "TODO Ошибка отправки кода"
 
 msgid "TODO Код не отправлен"
-msgstr ""
+msgstr "TODO Код не отправлен"
 
 msgid "TODO У вас закончились попытки ввода. Отправьте смс еще раз"
-msgstr ""
+msgstr "TODO У вас закончились попытки ввода. Отправьте смс еще раз"
 
 msgid "TODO Вы ввели не верный код. У вас осталось %d попыток"
-msgstr ""
+msgstr "TODO Вы ввели не верный код. У вас осталось %d попыток"
 
 msgid "Person"
 msgstr "Особа"
@@ -13179,3 +13179,978 @@ msgstr "товар додано копіюванням"
 
 msgid "products added by copying"
 msgstr "товарів додано копіюванням"
+
+msgid "The quantity in your shopping cart is greater than that available in stock. Please reduce the quantity or delete this product from the cart."
+msgstr "Кількість у вашому кошику перевищує кількість, доступну на складі. Будь ласка, зменшіть кількість або видаліть цей товар з кошика."
+
+msgid "min. %s"
+msgstr "мін. %s"
+
+msgid "max. %s"
+msgstr "макс. %s"
+
+msgid "Base price is applied unless you override it for a particular SKU. The list of overridden SKUs is shown below. Stock level can be tracked on the level of individual SKUs only, not for the entire product."
+msgstr "Базова ціна застосовується, якщо ви не перевизначаєте її для певного артикулу. Список перевизначених артикулів наведено нижче. Рівень запасів можна відстежувати лише на рівні окремих артикулів, а не для всього товару."
+
+msgid "Product subpages are great for publishing product extra information such as manuals, galleries, honorable mentions, etc."
+msgstr "Підсторінки товару чудово підходять для публікації додаткової інформації про продукт — довідників, галерей, почесних грамот та ін."
+
+msgid "Visible to"
+msgstr "Опубліковано для"
+
+msgid "base price"
+msgstr "базова ціна"
+
+msgid "Step"
+msgstr "Крок"
+
+msgid "Min."
+msgstr "Мін."
+
+msgid "Product quantity units & add-to-cart parameters"
+msgstr "Одиниці кількості товару та параметри додавання в кошик"
+
+msgid "PREMIUM license compatibility"
+msgstr "Сумісність із ліцензією PREMIUM"
+
+msgid "PREMIUM license functionality"
+msgstr "Функціональність ліцензії PREMIUM"
+
+msgid "https://www.shop-script.com/help/46/conditional-contact-fields/"
+msgstr "https://support.webasyst.ru/shop-script/7/conditional-contact-fields/"
+
+msgid "Enabled parameters"
+msgstr "Увімкнені параметри"
+
+msgid "For enabled parameters, select values that must be applied to existing products."
+msgstr "Оберіть значення для увімкнених параметрів, які потрібно застосувати до наявних товарів."
+
+msgid "Stock unit"
+msgstr "Складська одиниця"
+
+msgid "Base unit"
+msgstr "Базова одиниця"
+
+msgid "Units ratio"
+msgstr "Співвідношення одиниць"
+
+msgid "Add-to-cart step"
+msgstr "Крок додавання до кошика"
+
+msgid "Minimum orderable quantity"
+msgstr "Мінімальна кількість для замовлення"
+
+msgid "Quantity adjustment with “+/-” buttons"
+msgstr "Зміна кількості кнопками «+/-»"
+
+msgid "Disabled parameters"
+msgstr "Вимкнені параметри"
+
+msgid "For disabled parameters, base values will be applied to products’ properties."
+msgstr "Для вимкнених параметрів буде встановлено базові значення у властивостях товарів."
+
+msgid "Equal to the add-to-cart step value."
+msgstr "Дорівнює кроку додавання товару в кошик."
+
+msgid "Confirm “%s” product type’s parameters update"
+msgstr "Підтвердьте зміну параметрів типу товарів «%s»"
+
+msgid "1 %s"
+msgstr "1 %s"
+
+msgid "https://developers.webasyst.com/installation/tips/cron/"
+msgstr "https://developers.webasyst.ru/docs/installation/tips/cron/"
+
+msgid "Quantity units<br>and adding to the shopping cart"
+msgstr "Одиниці кількості<br>і додавання в кошик"
+
+msgid "Specify default values to be applied to newly-added products."
+msgstr "Вкажіть значення за замовчуванням, які будуть використовуватися для нових товарів."
+
+msgid "Allow to change in product properties"
+msgstr "Дозволити змінювати у властивостях товарів"
+
+msgid "For all products of this type"
+msgstr "Для усіх товарів цього типу"
+
+msgid "Can be changed in product properties"
+msgstr "Дозволено змінювати у властивостях товарів"
+
+msgid "A stock and a base unit must be different."
+msgstr "Складська та базова одиниці мають бути різними."
+
+msgid "Enter a number from 0.001 to 999,999.999. Maximum 3 decimal digits."
+msgstr "Введіть число від 0,001 до 999 999,999. Не більше 3 знаків після коми."
+
+msgid "The quantity adjustment value with “+/-” buttons must be greater than 0 and must be divisible by the add-to-cart step without remainder."
+msgstr "Величина зміни кількості кнопками «+/-» має бути більшою за 0 і повинна ділитися на крок додавання в кошик без залишку."
+
+msgid "The minimum orderable product quantity must be greater than 0 and must be divisible by the add-to-cart step without remainder."
+msgstr "Мінімальна кількість товару для замовлення має бути більшою за 0 і ділитися на крок додавання в кошик без залишку."
+
+msgid "The value must be greater than 0."
+msgstr "Це значення має бути вищим за 0."
+
+msgid "Specify the add-to-cart step to set the quantity adjustment value in the shopping cart with “+/-” buttons."
+msgstr "Вкажіть значення кроку додавання до кошика, щоб встановити розмір зміни кількості в кошику кнопками «+/-»."
+
+msgid "Specify the add-to-cart step to set the minimum orderable product quantity."
+msgstr "Вкажіть значення кроку додавання до корзини, аби вказати мінімальну кількість товару для замовлення."
+
+msgid "A stock quantity unit is used for storing product stock quantities and for adding products to the shopping cart."
+msgstr "Складська одиниця виміру кількості використовується для зберігання складських залишків та додавання товарів у кошик."
+
+msgid "A base quantity unit can be used for the comparison of product prices in the storefront. For instance, pound—to compare the prices of weight products with packages of different size."
+msgstr "Базову одиницю виміру кількості можна використовувати для порівняння цін товарів на вітрині. Наприклад, кілограм — для порівняння цін вагових товарів із упаковками різного розміру."
+
+msgid "Numeric conversion ratio between a stock and a base unit. For example, weight value corresponding to a standard product package. Editable in product properties."
+msgstr "Коефіцієнт співвідношення складської та базової одиниць. Наприклад, значення ваги, що відповідає стандартній упаковці товару. Доступний для заповнення властивостей товарів."
+
+msgid "Minimal value by which the product quantity in the shopping cart can be changed."
+msgstr "Мінімальне значення, на яке може змінюватись кількість товару в кошику."
+
+msgid "Minimal product quantity that can be added to the shopping cart."
+msgstr "Мінімальна кількість товару, яку можна додати у кошик."
+
+msgid "The value by which the product quantity must be changed via the “+/-” buttons in the shopping cart."
+msgstr "Величина, на яку має змінюватись кількість товару в кошику при натисканні на кнопки «+/-»."
+
+msgid "Enable selection of different quantity units in the <a href=\"%s\" target=\"_blank\">settings</a> to make this option available."
+msgstr "Увімкніть можливість вибору різних одиниць вимірювання кількості товарів у <a href=\"%s\" target=\"_blank\">налаштуваннях</a>, аби цей параметр став доступним."
+
+msgid "To set up an add-to-cart step, enable fractional product support in the <a href=\"%s\" target=\"_blank\">settings</a>."
+msgstr "Аби настроїти крок додавання товарів до кошика, увімкніть режим дробової кількості товарів у <a href=\"%s\" target=\"_blank\">налаштуваннях</a>."
+
+msgid "To set up a minimum orderable quantity, enable fractional product support in the <a href=\"%s\" target=\"_blank\">settings</a>."
+msgstr "Щоб настроїти мінімальну кількість товару для замовлення, увімкніть режим дробової кількості товарів у <a href=\"%s\" target=\"_blank\">налаштуваннях</a>."
+
+msgid "To set up a quantity adjustment value via “+/-” buttons, enable fractional product support in the <a href=\"%s\" target=\"_blank\">settings</a>."
+msgstr "Щоб настроїти розмір зміни кількості кнопками «+/-», увімкніть режим дробової кількості товарів у <a href=\"%s\" target=\"_blank\">налаштуваннях</a>."
+
+msgid "https://www.shop-script.com/help/12062/stocks/"
+msgstr "https://support.webasyst.ru/shop-script/11897/stocks/"
+
+msgid "In cases when a feature value cannot be correctly converted to a new data type, such a value may be lost. For instance, when you change the feature type from text to numbers, then text values containing only numbers, such as “100” or “200”, will be converted to corresponding numbers 100 and 200, and all values which have no numerical representation, such as “yes”, “no”, “red”, etc., will be lost and converted to number 0. There will be no option to restore such lost values."
+msgstr "У випадках, коли приведення значення характеристики до нового типу даних неможливе, таке значення може бути втрачено. Наприклад, при зміні типу характеристики з текстового на числовий текстові значення, що містять лише числа, наприклад, «100» або «200», будуть конвертовані у відповідні числа 100 і 200, а всі значення, що не мають числового уявлення, наприклад, «так» , «ні», «червоний», будуть втрачені та перетворені на число 0. Відновити такі втрачені значення неможливо."
+
+msgid "Deletion of quantity unit “%s”"
+msgstr "Видалення одиниці виміру «%s»"
+
+msgid "Are you sure to delete this quantity unit?"
+msgstr "Ви дійсно хочете видалити цю одиницю виміру?"
+
+msgid "No printable forms are installed."
+msgstr "Друковані форми не встановлено."
+
+msgid "Plugin"
+msgstr "Плагін"
+
+msgid "Up-to-date version is installed."
+msgstr "Встановлено останню версію."
+
+msgid "Outdated version is installed."
+msgstr "Встановлено застарілу версію."
+
+msgid "Up-to-date version"
+msgstr "Поточна версія"
+
+msgid "No support"
+msgstr "Немає підтримки"
+
+msgid "Full support"
+msgstr "Повна підтримка"
+
+msgid "Partial support"
+msgstr "Часткова підтримка"
+
+msgid "No information"
+msgstr "Немає інформації"
+
+msgid "Quantity is passed on without conversion."
+msgstr "Кількість передається без змін."
+
+msgid "Quantity units are passed on."
+msgstr "Одиниці виміру кількості передаються."
+
+msgid "Unavailable for fractional quantity."
+msgstr "Недоступний для дрібної кількості."
+
+msgid "Fractional quantity is converted to integer values."
+msgstr "Дробова кількість перетворюється на цілу."
+
+msgid "Unavailable for products with quantity units."
+msgstr "Недоступний для замовлень із одиницями виміру кількості."
+
+msgid "No settings"
+msgstr "Немає налаштувань"
+
+msgid "Version"
+msgstr "Версія"
+
+msgid "Functionality support"
+msgstr "Підтримка можливостей"
+
+msgid "Interaction"
+msgstr "Взаємодія"
+
+msgid "App"
+msgstr "Додаток"
+
+msgid "Design themes"
+msgstr "Теми дизайну"
+
+msgid "This section works only with the Installer app available"
+msgstr "Розділ працює тільки за наявності програми «Інсталлер»"
+
+msgid "This option is not available for multi-step checkout."
+msgstr "Це значення недоступне для покрокового оформлення замовлення."
+
+msgid "Unit name"
+msgstr "Назва одиниці виміру"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "Symbol"
+msgstr "Символ"
+
+msgid "Name for storefront"
+msgstr "Назва для вітрини"
+
+msgid "Characters:"
+msgstr "Символи:"
+
+msgid "New product quantity unit"
+msgstr "Нова одиниця виміру кількості товарів"
+
+msgid "Product quantity unit “%s”"
+msgstr "Одиниця виміру товарів “%s”"
+
+msgid "In the “%s” field value, you may need to use various special characters. Frequently used characters are provided in the table below—just copy a desired character and paste into the settings field. A more detailed list of special characters is available in the <a href=\"%s\">help article</a>."
+msgstr "У полі «%s» вам можуть знадобитися спеціальні символи. Часті символи наведені в таблиці нижче: можна просто скопіювати потрібний і вставити в поле налаштувань. Більш повний набір символів можна знайти у <a href=\"%s\">довідковій статті</a>."
+
+msgid "To switch to the use of integer product quantities only, disable the following options in product types’ settings:"
+msgstr "Щоб переключитися на використання лише цілої кількості товарів, вимкніть такі налаштування у типах товарів:"
+
+msgid "The use of different quantity units is enabled in the product types:"
+msgstr "Можливість використання різних одиниць вимірювання кількості включена до типів товарів:"
+
+msgid "To switch to the use of quantity unit “piece” only, select that stock unit in all product types’ settings."
+msgstr "Щоб переключитись на використання лише одиниць «штуки», виберіть цю одиницю в налаштуваннях усіх типів товарів."
+
+msgid "The use of base quantity units is enabled in the product types:"
+msgstr "Можливість використання базових одиниць вимірювання кількості включена до типів товарів:"
+
+msgid "To stop using base quantity units, disable them in all product types’ settings."
+msgstr "Щоб відмовитися від використання базових одиниць вимірювання кількості, вимкніть їхню підтримку в налаштуваннях всіх типів товарів."
+
+msgid "Quantity unit name"
+msgstr "Найменування одиниці виміру"
+
+msgid "Actions"
+msgstr "Дії"
+
+msgid "This is a special unit that cannot be changed."
+msgstr "Ця одиниця особлива і не може бути змінена."
+
+msgid "Verify the compatibility of installed plugins & design themes"
+msgstr "Перевірте сумісність встановлених плагінів та тем дизайну"
+
+msgid "For your online store to operate correctly, this setting must be supported by installed plugins and design themes that use product quantities:"
+msgstr "Для правильної роботи інтернет-магазину це налаштування повинні підтримувати встановлені плагіни та теми дизайну, які використовують кількість товару:"
+
+msgid "integration with payment systems and fiscal cash registers,"
+msgstr "оплата та фіскалізація;"
+
+msgid "integration with shipping services,"
+msgstr "служби доставки;"
+
+msgid "integration with stock accounting systems,"
+msgstr "складський облік;"
+
+msgid "printable forms generators."
+msgstr "друкарські форми."
+
+msgid "When fractional product quantities are enabled, test installed plugins and design themes for correct functioning:"
+msgstr "Після включення підтримки дробової кількості товарів перевірте правильність роботи плагінів та тем дизайну:"
+
+msgid "Add a test product with the updated values and walk through the entire checkout process with that product."
+msgstr "Додайте пробний товар із оновленими даними та пройдіть весь процес оформлення замовлення з цим товаром."
+
+msgid "Test plugins used for the integration with stock accounting systems and online marketplaces."
+msgstr "Перевірте правильність роботи плагінів для інтеграції із системами складського обліку та маркетплейсами."
+
+msgid "Confirm"
+msgstr "Підтвердити"
+
+msgid "For your online store to operate correctly, this setting must be supported by installed plugins and design themes that use product quantity units:"
+msgstr "Для правильної роботи інтернет-магазину це налаштування повинні підтримувати встановлені плагіни та теми дизайну, що використовують одиниці вимірювання кількості товару:"
+
+msgid "When different stock units are enabled, test installed plugins and design themes for correct functioning:"
+msgstr "Після включення підтримки різних складських одиниць товару перевірте правильність роботи плагінів та тем дизайну:"
+
+msgid "For your online store to operate correctly, this setting must be supported by installed plugins and design themes that use product quantity units in the storefront."
+msgstr "Для правильної роботи інтернет-магазину це налаштування повинні підтримувати встановлені плагіни та теми дизайну, що використовують одиниці вимірювання кількості товару на вітрині."
+
+msgid "When a base stock unit is enabled, test installed plugins and design themes for correct functioning:"
+msgstr "Після включення підтримки базової одиниці товару перевірте правильність роботи плагінів та тем дизайну:"
+
+msgid "Add a few test products with the updated values and check how they are displayed in the storefront."
+msgstr "Додайте кілька пробних товарів із оновленими даними та перевірте правильність їх відображення на вітрині."
+
+msgid "Description of available settings options"
+msgstr "Опис доступних можливостей налаштувань"
+
+msgid "Collapse"
+msgstr "Згорнути"
+
+msgid "Expand"
+msgstr "Розкрити"
+
+msgid "Stock units of product quantities"
+msgstr "Складські одиниці виміру кількості товарів"
+
+msgid "Products can be sold with various quantity units used; e.g., pieces or packages for single items, kilograms for weight products, square feet for flooring."
+msgstr "Товари можна продавати із зазначенням різних одиниць виміру: наприклад, штуки або упаковки – для штучних товарів, кілограми – для вагових товарів, квадратні метри – для підлогових покриттів."
+
+msgid "For each product you can select the most suitable quantity units to conveniently present it in the storefront."
+msgstr "Для кожного товару можна вибрати ті одиниці виміру, в яких його зручно представити на вітрині та продавати."
+
+msgid "The quantity unit shown in the storefront next the product price is the one to which the price refers."
+msgstr "На вітрині поруч із ціною товару показана та одиниця виміру, на яку вказана ціна."
+
+msgid "Base quantity unit for convenient comparison of product prices"
+msgstr "Базова одиниця виміру кількості — для зручності порівняння цін товарів"
+
+msgid "It might not always be convenient to compare the prices of products sold in packages if packages contain different product quantities. For instance, porcelain stoneware is sold in packages but it is convenient to compare the prices of different items by the price of a square foot rather than by the package price."
+msgstr "Ціни деяких видів товарів, які продаються в упаковках, незручно порівнювати, тому що кількість кожного товару в упаковці може бути різною. Наприклад, керамограніт продається упаковками, але порівнювати між собою різні види керамограніту зручніше за ціною квадратного метра, а не за ціною упаковки."
+
+msgid "To make the comparison more convenient, you can add one more quantity unit to a product—a base unit."
+msgstr "Щоб було зручніше, можна вказати ще одну — базову — одиницю вимірювання кількості."
+
+msgid "To use a base unit, you need to specify its conversion ratio from a stock unit. That ratio is used to calculate the price of a base product unit."
+msgstr "Для використання базової одиниці у властивостях кожного товару задається довільне співвідношення між складською та базовою одиницями. З цього співвідношення розраховується вартість базової одиниці товару."
+
+msgid "In the storefront, shoppers can see then two prices with their corresponding quantity units, and the conversion ratio specified for those units."
+msgstr "На вітрині для такого товару покупцям видно дві ціни разом із відповідними одиницями виміру та співвідношенням між цими одиницями."
+
+msgid "Shoppers can select the most convenient of those units to compare and sort products in the storefront."
+msgstr "Покупець може вибрати ту одиницю вимірювання, з якою йому зручніше фільтрувати і сортувати товари на вітрині."
+
+msgid "Adjustable add-to-cart step value"
+msgstr "Настроюваний крок додавання товару в кошик"
+
+msgid "It is the minimum quantity of a product by which its quantity can be changed when the shopping cart contents are updated, i.e. when a product is added to the cart or when its quantity in the cart is decreased or increased."
+msgstr "Це мінімальне значення, на яке змінюється кількість кожного товару при зміні складу покупки: при додаванні товару в кошик і зміні його кількості на сторінці кошика."
+
+msgid "Example #1"
+msgstr "Приклад №1"
+
+msgid "Suppose that you are selling porcelain stoneware in packages. For convenience, the price is displayed in the storefront in square feet but the product is available for purchase only in quantities expressed in whole packages. Therefore, you cannot always order an arbitrary number of square feet but you can purchase only an integer number of packages corresponding to a certain value expressed in square feet."
+msgstr "Припустимо, ви продаєте керамограніт у пачках. Для зручності представлення ціна на вітрині вказана у квадратних метрах, але продається товар лише у кількості, кратному розміру упаковки. Тому не завжди можна купити довільно вказану кількість квадратних метрів, а лише цілу кількість упаковок, яким відповідає якась фіксована кількість квадратних метрів."
+
+msgid "To make the selling of such products convenient, you can set up an add-to-cart step value that should be used when a product is added to the shopping cart. It might be equal to the number of square feet of product contained in a package, for instance."
+msgstr "Щоб було зручно продавати такий товар, можна налаштувати розмір кроку, який буде використовуватися при додаванні товару в кошик, наприклад, рівний кількості квадратних метрів в упаковці."
+
+msgid "A customer will be able to add only such a quantity of the product to the shopping cart which is multiple of that step value. If a package contains 12.5&nbsp;sq.&nbsp;ft. then a customer will be able to add to the cart only quantities equal to 12.5&nbsp;sq.&nbsp;ft., 25&nbsp;sq.&nbsp;ft., 37.5&nbsp;sq.&nbsp;ft., etc."
+msgstr "Покупець зможе додати в кошик тільки таку кількість товару, яка буде кратна цьому крокові. Наприклад, якщо в упаковці міститься 1,2 м², то покупець зможе додати в кошик тільки кількість, що дорівнює 1,2 м², 2,4 м², 3,6 м² і т.д."
+
+msgid "If a customer attempts to manually enter a quantity which is not multiple of the specified step value then that quantity is rounded up to the nearest value multiple of the add-to-cart step."
+msgstr "Якщо покупець спробує вручну ввести кількість, не кратну зазначеному крокові, то цю кількість буде заокруглено у велику сторону до найближчого кратного кроку."
+
+msgid "Example #2"
+msgstr "Приклад №2"
+
+msgid "Suppose that you are selling watermelons measured accurate to the ounce."
+msgstr "Допустимо, ви продаєте продукти харчування на вагу: кавуни з точністю до грама."
+
+msgid "You can set up the add-to-cart step equal to 0.16 lb."
+msgstr "При цьому можна налаштувати крок додавання товару в кошик, що дорівнює 0,001 кг."
+
+msgid "A customer will be able to specify a desired product quantity with the precision of 2 decimal digits because you have set the add-to-cart step value with that number of decimal digits."
+msgstr "Покупець зможе вказати при оформленні замовлення бажане число в кілограмах з точністю 3 знаків після коми — тому що значення кроку ви також вказали у вигляді числа з 3 знаками після коми."
+
+msgid "When a purchased watermelon is actually weighed, the online store personnel can edit the placed order to save the exact weight value."
+msgstr "Після фактичного зважування кавуна співробітник інтернет-магазину зможе скоригувати замовлення та вказати його точну вагу."
+
+msgid "Minimum orderable product quantity"
+msgstr "Мінімальна кількість товару для замовлення"
+
+msgid "You can specify any product quantity below which a customer cannot add to the shopping cart. Different product types can have their own minimum quantities."
+msgstr "Можна вказати будь-яку кількість товару, менше якого покупець не зможе додати до кошика. Для кожного типу товарів можна налаштувати своє мінімальне значення."
+
+msgid "Configurable product quantity adjustment in the shopping cart with “+/-” buttons"
+msgstr "Зміна кількості товару в кошику, що настроюється, кнопками «+/-»"
+
+msgid "You can change the standard value 1 to any other, more convenient, number by which the product quantity must be changed when the “+/-” buttons are clicked. This value does not affect the rounding of the product quantity."
+msgstr "Можна змінити стандартне значення 1 на інше, зручніше число, на яке має змінюватися кількість товару в кошику при натисканні на кнопки +/-. Це значення не впливає на заокруглення кількості товару."
+
+msgid "Example"
+msgstr "Приклад"
+
+msgid "Suppose that you are selling oranges, weighed in pounds, with the add-to-cart step of 0.16 lb."
+msgstr "Припустимо, ви продаєте апельсини в кілограмах з кроком додавання до кошика 0,001 кг."
+
+msgid "Shoppers and the store personnel can enter any values in quantity fields with the precision of 0.16 lb."
+msgstr "Покупець та співробітник магазину можуть у полі кількості ввести будь-яке число з точністю 0,001 кг."
+
+msgid "However, to make it convenient for customers to change the product quantity in the shopping cart, you can set up the quantity alteration value, changed via “+/-” buttons, to 0.5 lb. so that it is not necessary to adjust the order weight to the ounce."
+msgstr "Але щоб покупцям було зручно змінювати кількість товару в кошику, для кнопок «+/-» можна налаштувати зміну кількості відразу на 0,1 кг і не змушувати їх регулювати вагу покупки з точністю до грама."
+
+msgid "Product adding to the shopping cart"
+msgstr "Додавання товару до кошика"
+
+msgid "Only integer quantity values, with the add-to-cart step equal to 1."
+msgstr "Тільки ціла кількість, з кроком додавання товару до кошика 1."
+
+msgid "Fractional quantities, with the option to set up an arbitrary add-to-cart step, a minimum orderable quantity, and a quantity adjustment value for “+/-” buttons."
+msgstr "Дробова кількість з можливістю налаштувати будь-який крок додавання товару в кошик, мінімальну кількість для замовлення та зміну кількості кнопками «+/-»."
+
+msgid "Exact values must be saved in product types’ settings."
+msgstr "Значення задаються у налаштуваннях типів товарів."
+
+msgid "Product stock quantity unit"
+msgstr "Складська одиниця кількості товару"
+
+msgid "Pieces for all product types."
+msgstr "Штуки для всіх видів товарів."
+
+msgid "Product quantity is stored and displayed in the storefront in pieces."
+msgstr "Товар зберігається на складі та представлений на вітрині в штуках."
+
+msgid "Products can be available for order with different quantity units."
+msgstr "Товари можуть продаватися у різних одиницях виміру."
+
+msgid "For every product available for order, you can assign an individual quantity unit; e.g., pieces, packages, liters, or pounds. You need first to enable this option in the product type settings."
+msgstr "Кожному товару можна задати свою одиницю виміру, за якою він має продаватися. Наприклад, штуки, упаковки, літри, кілограми. Цю можливість необхідно спочатку включити у налаштуваннях типу товарів."
+
+msgid "Base product quantity unit"
+msgstr "Базова одиниця кількості товару"
+
+msgid "Not used."
+msgstr "Не використовується."
+
+msgid "You can set up base quantity units for products."
+msgstr "Для товарів можна ставити базову одиницю кількості."
+
+msgid "The price of a base product quantity unit can be used for convenient price comparison. For instance, laminate flooring is sold in packages but it is more convenient to compare the prices of a square foot. In this example, a package is a stock quantity unit and a square foot is a base quantity unit."
+msgstr "Ціна базової одиниці кількості товару може використовуватись для зручності порівняння цін. Наприклад, ламінат продається упаковками, але порівнювати ціни різних товарів зручніше у квадратних метрах. У цьому випадку упаковка вважається складською одиницею, а квадратний метр – базовою."
+
+msgid "Product quantity units"
+msgstr "Одиниці виміру кількості товарів"
+
+msgid "Select a desired unit from the list and enable it, or add your own unit. Only enabled units will be available in product properties. You can adjust the sort order of enabled units by dragging them by the sorting icons next to their names."
+msgstr "Виберіть потрібну одиницю виміру з довідника та увімкніть її або додайте нову одиницю. У властивостях товарів будуть доступні лише одиниці, які ви включите. Можна настроїти порядок сортування увімкнених одиниць, перетягуючи за допомогою іконки ліворуч від назви."
+
+msgid "The list of units will be available after you enable the option of selling product with different quantity units."
+msgstr "Довідник одиниць кількості товарів буде доступним, коли ви включите можливість продажу товарів з різними одиницями."
+
+msgid "Add quantity unit"
+msgstr "Додати одиницю виміру кількості"
+
+msgid "Specified units not found"
+msgstr "Зазначені одиниці не знайдено"
+
+msgid "No quantity units"
+msgstr "Немає одиниць вимірювання кількості"
+
+msgid "and in %d more type"
+msgid_plural "and in %d more types"
+msgstr[0] "та ще у %d типі"
+msgstr[1] "та ще у %d типах"
+msgstr[2] ""
+
+msgid "Quantity units search"
+msgstr "Пошук одиниць вимірювання кількості"
+
+msgid "Used in printable forms. Can be used for backend settings and in the storefront if no value has been set for “%s”."
+msgstr "Використовується у друкованих формах. Може використовуватися для налаштувань на панелі керування та на вітрині, якщо не встановлено значення для %s."
+
+msgid "Displayed in backend settings and in the storefront. If no value is set then the value of the “%s” field is used."
+msgstr "Відображається на панелі керування та на вітрині. Якщо значення не встановлено, використовується значення поля «%s»."
+
+msgid "Verify the compatibility in section “%s → %s”."
+msgstr "Перевірте сумісність у розділі <em>%s → %s</em>."
+
+msgid "The price of a base product quantity unit can be used for convenient price comparison. For instance, laminate flooring is sold in packages but it is more convenient to compare the prices of a square foot. In this example, a package is a stock quantity unit and a square foot is a base quantity unit. To start using a base unit, enable mode “%s” for the stock unit."
+msgstr "Ціна базової одиниці кількості товару може використовуватись для зручності порівняння цін. Наприклад, ламінат продається упаковками, але порівнювати ціни різних товарів зручніше у квадратних метрах. У цьому випадку упаковка вважається складською одиницею, а квадратний метр – базовою. Щоб почати використовувати базову одиницю, увімкніть для складської одиниці режим «%s»."
+
+msgid "Used in printable forms; e.g., waybills."
+msgstr "Використовується у друкованих формах, наприклад, у накладних."
+
+msgid "Drag to change the units sort order."
+msgstr "Перетягніть, щоб змінити порядок сортування одиниць вимірювання."
+
+msgid "The unit is used in products’ properties or in product types’ settings. Such units cannot be disabled."
+msgstr "Одиниця виміру використовується у властивостях товарів або настроюваннях типів товарів. Така одиниця виміру не може бути вимкнена."
+
+msgid "The unit is used in products’ properties or in product types’ settings. Such units cannot be deleted."
+msgstr "Одиниця виміру використовується у властивостях товарів або настроюваннях типів товарів. Така одиниця виміру може бути видалена."
+
+msgid "Extended product catalog management."
+msgstr "Розширені можливості керування товарним каталогом."
+
+msgid "New product showcase options for the storefront."
+msgstr "Нові варіанти представлення товарів на вітрині."
+
+msgid "Special add-to-cart settings for your products."
+msgstr "Спеціальні параметри для налаштування додавання товарів у кошик."
+
+msgid "How to start using PREMIUM"
+msgstr "Як почати використовувати «ПРЕМІУМ»"
+
+msgid "To get all the extended Shop-Script functionality, you need to switch to the PREMIUM license."
+msgstr "Для того, щоб вам стали доступні всі розширені можливості Shop-Script, необхідно перейти на ліцензію «ПРЕМІУМ»."
+
+msgid "Your online store will continue working as usual, and you will be free to enable any of the extended functions at any time when it is most convenient to you."
+msgstr "Ваш інтернет-магазин продовжить працювати, як завжди, і ви зможете увімкнути будь-які розширені можливості, коли вам це буде зручно."
+
+msgid "Switch to PREMIUM"
+msgstr "Перейти на «ПРЕМІУМ»"
+
+msgid "No valid license detected."
+msgstr "Інформація про поточну ліцензію відсутня."
+
+msgid "Acquire license"
+msgstr "Придбати ліцензію"
+
+msgid "Demo store"
+msgstr "Демо-магазин"
+
+msgid "Look how various products can be presented in the storefront and how you can manage the extended functionality available with the PREMIUM license."
+msgstr "Подивіться, як можуть бути представлені різні товари на вітрині магазину і як можна керувати розширеними налаштуваннями, коли є всі можливості «ПРЕМІУМ»."
+
+msgid "Demo storefront"
+msgstr "Демо-вітрина"
+
+msgid "Demo backend"
+msgstr "Демо-адмінка"
+
+msgid "Arbitrary product quantity units"
+msgstr "Будь-які одиниці вимірювання кількості товарів"
+
+msgid "Product quantities displayed in the storefront can be expressed in any units of your choice. You may want to sell products in packages, pieces, linear feet, or any other quantity units. Select units from a built-in list or add any custom units which you may need."
+msgstr "Кількість товарів на вітрині може бути виражена у будь-яких одиницях виміру. Ви можете продавати товари упаковками, штуками, літрами, погонними метрами та будь-якими іншими одиницями. Вибирайте одиниці виміру кількості із вбудованого довідника або додавайте нові одиниці, які вам потрібні."
+
+msgid "Two quantity units, with their corresponding prices, for convenient products comparison"
+msgstr "Дві одиниці вимірювання кількості та дві ціни — для зручного порівняння товарів"
+
+msgid "This may be convenient for selling flooring materials, which are usually sold in packages (stock quantity units) and whose prices can be conveniently compared per square foot (base quantity unit). Set two quantity units for such products, with a conversion ratio between them, to have them displayed in the storefront with two prices, each for one of the two units. You only need to specify a price per stock unit, as usual, and a price per base unit will be calculated automatically, according to the specified conversion ratio."
+msgstr "Наприклад, це зручно для покриттів для підлоги, які продаються упаковками (складська одиниця), а порівнювати ціни на них зручно за квадратний метр (базова одиниця). Задайте для таких товарів дві одиниці виміру кількості, вказавши співвідношення між ними, і товари будуть представлені на вітрині із двома цінами для різних одиниць. Ви задаєте ціну, як завжди, тільки для складської одиниці, в якій продаєте товар, а ціна базової одиниці розраховується автоматично за заданим вами співвідношенням."
+
+msgid "Sorting & filtering of products by the prices of different quantity units"
+msgstr "Сортування та фільтрація товарів за цінами різних одиниць вимірювання кількості"
+
+msgid "If a category contains products with different quantity units then a customer can select any of those units which is most convenient for filtering or sorting products in a particular case."
+msgstr "Якщо категорії представлені товари з різними одиницями виміру, то покупець зможе вибрати будь-яку з одиниць, за ціною якої йому зручно фільтрувати чи сортувати товари."
+
+msgid "Selling fractional product quantities"
+msgstr "Продаж дробової кількості товарів"
+
+msgid "Sell fractional product quantities with precision up to 0.001. You can set individual quantity precision degree for every product. For example, clothes buttons can be sold by dozens or pieces, and fabric can be sold with the precision of 0.01 feet."
+msgstr "Продавайте товари дрібними кількостями - з точністю до 0,001. Для кожного товару ви зможете налаштувати індивідуальну точність виміру кількості. Наприклад, гудзики можна продавати десятками або по одній штуці, а відрізи тканини – з точністю до 0,01 метра."
+
+msgid "Custom product add-to-cart step"
+msgstr "Настроюваний крок додавання продукту до кошика"
+
+msgid "Configure an individual add-to-cart step for each product so that customers can add only quantities, divisible by the specified step values, to the shopping cart. For weight products, the add-to-cart step may be set to 0.01 lb., or to 8.5 sq. ft. for ceramic tiles (quantity contained in an individual package)."
+msgstr "Налаштуйте для кожного товару свій розмір кроку додавання до кошика: покупець зможе додати до кошика лише таку кількість товару, яка є кратною зазначеному крокові. Наприклад, для вагових товарів крок може дорівнювати 0,001 кг, а для кахельної плитки — 0,8 м² (кількість, яка міститься в одній упаковці)."
+
+msgid "Set a minimum quantity for each product below which cannot be added to the shopping cart. For example, 0.3 m for fabrics sold by linear feet, or 0.5 kg for fruits and vegetables, which are sold by weight."
+msgstr "Задавайте для кожного товару кількість, меншу за яку покупець не зможе додати до кошика. Наприклад мінімум 0,3 м для тканини, що продається на метраж, або 0,5 кг для фруктів та овочів, що продаються на вагу."
+
+msgid "<a href=\"%s\">Check up</a> how the installed plugins, apps, and design themes are compatible with PREMIUM’s extended features."
+msgstr "<a href=\"%s\">Перевірте</a> сумісність встановлених плагінів, програм та тем дизайну з можливостями «ПРЕМІУМ»."
+
+msgid "Your current license is %s."
+msgstr "Ваша поточна ліцензія %s."
+
+msgid "PRO"
+msgstr "ПРО"
+
+msgid "https://www.shop-script.com/help/729/payment-shipping-icons/"
+msgstr "https://support.webasyst.ru/shop-script/728/payment-shipping-icons/"
+
+msgid "In the “In-cart checkout” mode, selected payment types can be used to filter available payment options, if a list of required payment types has been provided by a shipping plugin. These payment types are also passed on to shipping plugins for additional shipping rates calculation."
+msgstr "У режимі «Оформлення в кошику» вибрані типи оплати можна використовувати для фільтрації доступних варіантів оплати, якщо список необхідних типів оплати надано плагіном доставки. Ці типи оплати також передаються до плагінів доставки для розрахунку додаткових тарифів на доставку."
+
+msgid "This payment method may be unavailable during checkout due to limitations by shipping type or customer type."
+msgstr "Цей спосіб доставки може бути недоступний через обмеження типу доставки і типу покупця при оформленні замовлення."
+
+msgid "A string indicating an approximate time frame of the order delivery (if defined)"
+msgstr "Рядок з інформацією про приблизний час доставки (якщо визначено)"
+
+msgid "New authorization code will be generated after you save changes."
+msgstr "Новий код авторизації буде сформовано після збереження змін."
+
+msgid "https://www.shop-script.com/help/4750/shopscript610-design-theme-changes/"
+msgstr "https://support.webasyst.ru/shop-script/4442/shopscript610-design-theme-changes/"
+
+msgid "This will start the process of deleting all existing product thumbnails and re-generating them from full-size versions according to latest thumbnail generation settings such as sharpening and JPEG compression quality. Depending on the number of products, re-generation may take some time to complete and may free some disk space on your server."
+msgstr "Процес повторного створення ескізів зображень дозволяє видалити зайві файли зображень, що не використовуються, звільнити місце на сервері і заново сформувати ескізи зображень існуючих товарів з використанням оновлених налаштувань (фільтра різкості, якості збереження JPEG тощо). Залежно від кількості товарів у вашому інтернет-магазині процес може зайняти від кількох секунд до кількох хвилин або навіть годин у разі дуже великої кількості товарів."
+
+msgid "@2x thumbnails require more disk space than ordinary ones. Ensure that you have sufficient space to store all image files."
+msgstr "Для зберігання ескізів @2x потрібно більше дискового простору, ніж для звичайних ескізів. Переконайтеся, що на сервері достатньо місця для зберігання зображень."
+
+msgid "Restore product full-size images from originally uploaded versions (backups)"
+msgstr "Відновити повнорозмірні зображення товарів із оригінальних завантажених версій (бекапів)"
+
+msgid "Enable this to flush all source full-size images and re-generate them from backups. All plugin customizations to source images will be re-applied. Source images without backups will be skipped."
+msgstr "Увімкніть, аби скинути усі повнорозмірні зображення та заново згенерувати їх з резервних копій. Усі зміни, які плагіни вносять до оригінальних зображень, буде застосовано знову. Оригінальні зображення, які не мають резервних копій, буде пропущено."
+
+msgid "Interaction with PREMIUM features"
+msgstr "Взаємодія з можливостями «ПРЕМІУМ»"
+
+msgid "How to pass on product quantities to the plugin"
+msgstr "Як передавати кількість товару в плагін"
+
+msgid "Pass on product quantities without conversion, as specified in the order."
+msgstr "Передавати кількість товару без змін – як зазначено у замовленні."
+
+msgid "All orders are passed on to the plugin regardless of whether product quantities are specified as fractional or integer values."
+msgstr "У плагін передаються всі замовлення незалежно від того, яка кількість товару вказана у замовленні: ціла або дробова."
+
+msgid "Select this option if"
+msgstr "Цей варіант підійде, якщо:"
+
+msgid "the plugin supports fractional product quantities,"
+msgstr "плагін підтримує роботу з дрібною кількістю товару;"
+
+msgid "you sell only integer product quantities."
+msgstr "ви продаєте лише цілу кількість товару."
+
+msgid "If the plugin does not support fractional product quantities then processing orders with fractional quantities may result in errors or in the transfer of incorrect information to the shipping service."
+msgstr "Якщо плагін не підтримує дробову кількість товару, то обробка замовлень із дрібною кількістю може викликати помилки або некоректну передачу інформації до служби доставки."
+
+msgid "If the plugin does not support fractional product quantities then processing orders with fractional quantities may result in errors or in the transfer of incorrect information to the payment gateway."
+msgstr "Якщо плагін не підтримує дробову кількість товару, то обробка замовлень із дрібною кількістю може викликати помилку або некоректну передачу інформації до платіжної системи."
+
+msgid "The plugin is unavailable for orders with fractional product quantities."
+msgstr "Плагін недоступний для замовлень із дробовою кількістю товару."
+
+msgid "If at least one product with fractional quantity is contained in an order then the shipping option set up via this plugin is not available for such an order. For orders only with integer product quantities, such a shipping option is available as usual."
+msgstr "Якщо в замовленні присутній хоча б один товар з дробовою кількістю, то для такого замовлення стає недоступним спосіб доставки, налаштований за допомогою цього плагіна. Для замовлень лише з цілою кількістю товарів такий спосіб доставки доступний, як завжди."
+
+msgid "If at least one product with fractional quantity is contained in an order then the payment option set up via this plugin is not available for such an order. For orders only with integer product quantities, such a payment option is available as usual."
+msgstr "Якщо у замовленні присутній хоча б один товар із дробовою кількістю, то для такого замовлення стає недоступним спосіб оплати, налаштований за допомогою цього плагіна. Для замовлень лише з цілою кількістю товарів такий спосіб оплати доступний, як зазвичай."
+
+msgid "Convert order items with fractional quantities to items with integer quantities."
+msgstr "Конвертувати позицію з дрібною кількістю товару в позицію з цілою кількістю."
+
+msgid "If an order contains items with fractional quantities then information about such items is converted before being passed to the shipping service—the quantity value and the quantity unit name are added to the order item name and the quantity value becomes equal to 1."
+msgstr "Якщо в замовленні є позиції з дробовою кількістю товару, то інформація про такі позиції конвертується при передачі в службу доставки: число з дробовою кількістю та назва одиниці виміру додаються до найменування товару, а кількість товару стає рівною одиниці."
+
+msgid "If an order contains items with fractional quantities then information about such items is converted before being passed to the payment gateway—the quantity value and the quantity unit name are added to the order item name and the quantity value becomes equal to 1."
+msgstr "Якщо в замовленні є позиції з дробовою кількістю товару, то інформація про такі позиції конвертується при передачі в платіжну систему: число з дробовою кількістю та назва одиниці виміру додаються до найменування товару, а кількість товару стає рівною одиниці."
+
+msgid "<strong>Mango</strong>: 1.75 lb. &times; $5.20/lb. = $9.10 is converted to"
+msgstr "<strong>Манго</strong>: 0,75 кг &times; 800 грн / кг = 600 грн конвертується в"
+
+msgid "<strong>Mango 1.75 lb.</strong>: 1 pc. &times; $9.10/pc. = $9.10"
+msgstr "<strong>Манго 0,75 кг</strong>: 1 шт. &times; 600 грн / Шт. = 600 грн"
+
+msgid "Order items with integer quantity values are passed on to the shipping service without a conversion."
+msgstr "Позиції замовлення з цілою кількістю товару передаються до служби доставки без конвертації."
+
+msgid "Order items with integer quantity values are passed on to the payment gateway without a conversion."
+msgstr "Позиції замовлення з цілою кількістю товару передаються до платіжної системи без конвертації."
+
+msgid "How to pass on product quantity units to the plugin"
+msgstr "Як передавати одиниці виміру кількості товарів у плагін"
+
+msgid "Pass on product quantity units."
+msgstr "Передавати одиниці виміру кількості товарів."
+
+msgid "This option can also be used if the plugin does not support quantity units. Such a case is identical to the absence of set up units, and the plugin passes on information to the shipping service about product quantities expressed in pieces only."
+msgstr "Цей варіант можна використовувати також у випадку, якщо плагін не підтримує одиниці вимірювання кількості. Такий випадок рівнозначний відсутності налаштованих одиниць, і до служби доставки плагін передає інформацію про товари лише у штуках."
+
+msgid "This option can also be used if the plugin does not support quantity units. Such a case is identical to the absence of set up units, and the plugin passes on information to the payment gateway about product quantities expressed in pieces only."
+msgstr "Цей варіант можна використовувати також у випадку, якщо плагін не підтримує одиниці вимірювання кількості. Такий випадок рівнозначний відсутності налаштованих одиниць, і в платіжну систему плагін передає інформацію про товари тільки в штуках."
+
+msgid "The plugin is available only for orders containing products for whose types the support for different stock quantity units is disabled."
+msgstr "Плагін доступний лише для замовлень із товарами, для типів яких відключено підтримку різних складських одиниць вимірювання кількості."
+
+msgid "The shipping option set up via this plugin is available only for orders containing products of certain types. To use that shipping option for some product type, you need to disable the support for different stock quantity units in that product type’s settings."
+msgstr "Спосіб доставки, налаштований за допомогою цього плагіна, доступний лише для замовлень із товарами певних типів. Щоб використовувати цей спосіб доставки для товарів будь-якого типу, потрібно в налаштуваннях цього типу товарів вимкнути підтримку різних складських одиниць вимірювання кількості."
+
+msgid "The payment option set up via this plugin is available only for orders containing products of certain types. To use that payment option for some product type, you need to disable the support for different stock quantity units in that product type’s settings."
+msgstr "Спосіб оплати, налаштований за допомогою цього плагіна, доступний лише для замовлень із товарами певних типів. Щоб використовувати цей спосіб оплати для товарів будь-якого типу, потрібно в налаштуваннях цього типу товарів вимкнути підтримку різних складських одиниць вимірювання кількості."
+
+msgid "Select Shop-Script and %s plugin interaction options for the processing of orders containing products with fractional quantities and quantity units. The <a href=\"%s\">corresponding settings</a> must be enabled for that."
+msgstr "Виберіть варіанти взаємодії Shop-Script та плагіна «%s» для обробки замовлень з дробовою кількістю та використанням власних одиниць вимірювання кількості товарів. Для цього слід увімкнути <a href=\"%s\">відповідні налаштування</a>."
+
+msgid "The settings will become available after the transition to the <a href=\"%s\">PREMIUM</a> license."
+msgstr "Налаштування будуть доступні після переходу на ліцензію <a href=\"%s\">ПРЕМІУМ</a>."
+
+msgid "Depending on your store setup, different levels of discount description detail may be useful."
+msgstr "Залежно від налаштування магазину можуть бути зручними різні варіанти збереження деталізації розрахунку знижки."
+
+msgid "A new promo will be disabled by default."
+msgstr "Нова акція за замовчуванням буде вимкнена."
+
+msgid "https://www.shop-script.com/help/45/import-products-from-csv-file/"
+msgstr "https://support.webasyst.ru/shop-script/26/import-products-from-csv-file/"
+
+msgid "Certain symbols (such as %s) may be omitted when exporting with the selected encoding. Consider using UTF-8 encoding for safe export and import."
+msgstr "Деякі символи (наприклад, %s) можуть бути пропущені при експорті файлу в обранному кодуванні. Для безпечного експорту та імпорту використовуйте кодування UTF-8."
+
+msgid "This export mode is not recommended for product updates to avoid corruption of the original data structure. You may find it useful to transfer information to external services. To update your products via an exported CSV file, use “%s”."
+msgstr "Цей режим експорту не рекомендується для оновлення товарів, аби уникнути пошкодження вихідної структури даних. Він стане в нагоді, аби передавати інформацію у зовнішні служби. Щоб оновити свої товари за допомогою експортованого файлу CSV, використовуйте “%s”."
+
+msgid "Canceled"
+msgstr "Скасовано"
+
+msgid "Delete variant"
+msgstr "Видалити модифікацію"
+
+msgid "Minimum"
+msgstr "Мінімум"
+
+msgid "Adjustment with “+/-” buttons"
+msgstr "Зміна кількості кнопками «+/-»"
+
+msgid "Quantity units"
+msgstr "Одиниці кількості"
+
+msgid "Adding to the shopping cart"
+msgstr "Додавання товару до кошика"
+
+msgid "The step is set under the “%s” tab."
+msgstr "Крок можна відредагувати у вкладці “%s”."
+
+msgid "A quantity unit is set under the “%s” tab."
+msgstr "Одиницю кількості можна відредагувати у вкладці “%s”."
+
+msgid "Unit used to store product stock quantities and to add a product to the shopping cart."
+msgstr "Складська одиниця виміру кількості використовується для зберігання складських залишків та додавання товарів у кошик."
+
+msgid "The quantity unit is set for the entire product type."
+msgstr "Одиниця виміру задана для типу товарів."
+
+msgid "To change, or allow setting in product properties, open <a target=\"_blank\" href=\"%s\">product type settings</a>."
+msgstr "Щоб змінити або дозволити задавати у властивостях товарів, перейдіть до <a target=\"_blank\" href=\"%s\">налаштування типу товарів</a>."
+
+msgid "The quantity unit is used for the comparison of product prices."
+msgstr "Одиниця виміру кількості використовується для порівняння цін товарів."
+
+msgid "Conversion ratio between the base and the stock quantity unit. Used to calculate the price of a base product quantity unit."
+msgstr "Співвідношення між базовою та складською одиницями кількості товару. Використовується до розрахунку ціни базової одиниці."
+
+msgid "The ratio is set in product type properties."
+msgstr "Співвідношення задано у властивостях типу товарів."
+
+msgid "Quantity step with which customers can add the product to the shopping cart."
+msgstr "Крок кількості складської одиниці товару, з яким покупці можуть додавати товар у кошик."
+
+msgid "The step is set in the product type settings."
+msgstr "Крок заданий на властивості типу товарів."
+
+msgid "Product quantity adjustment value via the “+/-” buttons in the shopping cart is set in the product type settings."
+msgstr "Зміна кількості товару в кошику кнопками «+/-» задано в налаштуваннях типу товарів."
+
+msgid "Minimal number of stock product quantities which customers can add to the shopping cart."
+msgstr "Мінімальна кількість складських одиниць товару, яку покупці можуть додати до корзини."
+
+msgid "The minimal quantity is set in the product type settings."
+msgstr "Мінімальну кількість задано в налаштуваннях типу товарів."
+
+msgid "For some variants are set values that differ from that specified for the entire product. Click to set the product-wide value for all its variants."
+msgstr "Для деяких модифікацій задані значення, відмінні від зазначеного для всього товару. Натисніть, щоб встановити для всіх модифікацій значення, яке вибрано для всього товару."
+
+msgid "For some variants are set values that differ from that specified for the entire product."
+msgstr "Для деяких модифікацій задані значення, відмінні від зазначеного для всього товару."
+
+msgid "For all variants is used the value specified for the entire product."
+msgstr "Для всіх модифікацій використовується значення, вказане для товару."
+
+msgid "Enter a number from 0 to %s99,999,999.99999999%s with a maximum of 8 decimal digits."
+msgstr "Введіть число від 0 до %s99.999.999,99999999%s – не більше 8 знаків після коми."
+
+msgid "A stock unit must be selected."
+msgstr "Повинна бути обрана складська одиниця."
+
+msgid "Product quantity adjustment value via “+/-” buttons must be greater than 0 and must be divisible by the add-to-cart step."
+msgstr "Крок зміни кількості кнопками «+-/» повинен бути більшим за 0 і повинен ділитися без залишку на крок додавання товару в кошик."
+
+msgid "Minimum orderable quantity must be greater than 0 and must be divisible by the add-to-cart step."
+msgstr "Мінімальна кількість для замовлення має бути більшою за 0 і повинна ділитися без залишку на крок додавання товару в кошик."
+
+msgid "%s SKUs with %s variants each."
+msgstr "%s артикулів, у кожному %s модифікацій."
+
+msgid "You can set up multiple storefronts for your online store — for sales in various regions, for several business areas, for sales via social media and other platforms. Each storefront can display its own set of products. Here are shown the storefronts where this particular product is displayed."
+msgstr "Ви можете налаштувати кілька вітрин для свого інтернет-магазину: для продажів у різних регіонах, для кількох сфер бізнесу, для продажу через соціальні мережі та інші платформи. Кожна вітрина може відображати власний набір товарів. Тут показані вітрини магазинів, де відображається цей товар."
+
+msgid "A 301 redirect is applied at once and works permanently, and cannot be quickly disabled. Search engines will remove the page from their indices. The redirect will get saved in website visitors’ browsers. If you later decide to publish this page again, it might become available only after quite a long while."
+msgstr "Переадресація 301 застосовується одразу і працює постійно, і її неможливо швидко вимкнути. Пошукові машини видалять сторінку зі своїх індексів. Переадресацію буде збережено у веб-переглядачах відвідувачів веб-сайту. Якщо пізніше ви вирішите знову опублікувати цю сторінку, вона може стати доступною лише через досить тривалий час."
+
+msgid "In stock value updated to %s"
+msgstr "Залишок на складі оновлено на %s"
+
+msgid "piece"
+msgid_plural "pieces"
+msgstr[0] "штука"
+msgstr[1] "штуки"
+msgstr[2] ""
+
+msgid "pc."
+msgstr "шт."
+
+msgid "Piece"
+msgstr "Штука"
+
+msgid "pcs."
+msgstr "шт."
+
+msgid "Conditional! Available only if current context of photo is album. Below are described the keys of this parameter."
+msgstr "Контекстне використання! Доступне тільки на сторінці альбому. Нижче перераховано ключі цього параметра."
+
+msgid "Amount of customer‘s bonuses accumulated with the “Loyalty program” enabled in store settings. To show a limited number of decimal digits, add a modified as shown in the example: <em>{$customer.affiliate_bonus|wa_format_number:0}</em> (no decimal digits)."
+msgstr "Кількість бонусів, накопичених покупцем у рамках \"Бонусної програми\", включеної в налаштуваннях магазину. Щоб показати обмежену кількість знаків після коми, додайте модифікатор, як показано на прикладі: <em>{$customer.affiliate_bonus|wa_format_number:0}</em> (не показувати цифри після коми)."
+
+msgid "millimeter"
+msgstr "міліметр"
+
+msgid "centimeter"
+msgstr "сантиметр"
+
+msgid "meter"
+msgstr "метр"
+
+msgid "square millimeter"
+msgstr "квадратний міліметр"
+
+msgid "square centimeter"
+msgstr "квадратний сантиметр"
+
+msgid "square meter"
+msgstr "квадратний метр"
+
+msgid "liter"
+msgstr "літр"
+
+msgid "cubic decimeter"
+msgstr "кубічний дециметр"
+
+msgid "gram"
+msgstr "грам"
+
+msgid "kilogram"
+msgstr "кілограм"
+
+msgid "hour"
+msgstr "година"
+
+msgid "pound"
+msgstr "фунт"
+
+msgid "ounce"
+msgstr "унція"
+
+msgid "fluid ounce"
+msgstr "рідка унція"
+
+msgid "foot"
+msgstr "фут"
+
+msgid "square foot"
+msgstr "квадратний фут"
+
+msgid "Invalid authorization provider"
+msgstr "Невірний провайдер авторизації"
+
+msgid "Invalid authorization provider data"
+msgstr "Невірні дані провайдера авторизації"
+
+msgid "Only %s pcs. of %s are available, and you already have all of them in your shopping cart."
+msgstr "Доступно лише %s шт. з %s, і вся ця кількість вже знаходиться у вашому кошику покупок."
+
+msgid "Printable form not found"
+msgstr "Друковану форму не знайдено"
+
+msgid "%s left"
+msgid_plural "%s left"
+msgstr[0] "%d залишилось"
+msgstr[1] "%d залишилось"
+msgstr[2] ""
+
+msgid "Printable form <strong>%s</strong> sent to customer."
+msgstr "Друковану форму <strong>%s</strong> надіслано користувачеві."
+
+msgid "Unknown product type"
+msgstr "Невідомий тип товару"
+
+msgid "Shipping plugins retrieve weight from the values of a product feature with code <tt>%s</tt>."
+msgstr "Плагіни доставки отримують вагу із значення характеристики товару з кодом <tt>%s</tt>."
+
+msgid "Your order %s has been canceled. If you want your order to be re-opened, please contact us."
+msgstr "Ваше замовлення %s було скасовано. Якщо ви хочете відновити ваше замовлення, будь ласка, зв&#39;яжіться з нами."
+
+msgid "Order %s has been canceled"
+msgstr "Замовлення %s було скасовано"
+
+msgid "Your order %s has been canceled"
+msgstr "Ваше замовлення %s скасоване"
+
+msgid "Compatibility mode is unavailable."
+msgstr "Режим сумісності недоступний."
+
+msgid "For additional information, please contact the developer. Their contact details are available on the %splugin%s page."
+msgstr "Для отримання додаткової інформації зверніться до розробника — його контактні дані наведені на сторінці %sплагіна%s."
+
+msgid "For additional information, please contact the developer. Their contact details are available on the  %stheme%s page."
+msgstr "Для отримання додаткової інформації зверніться до розробника – його контактні дані вказані на сторінці %s теми дизайну %s."
+
+msgid "No quantity units available for sorting."
+msgstr "Не задані одиниці виміру для сортування."
+
+msgid "The unit cannot be disabled because it is in use."
+msgstr "Одиницю не можна відключити, оскільки вона використовується."
+
+msgid "Invalid status."
+msgstr "Неприпустимий статус."
+
+msgid "Not all conditions are satisfied."
+msgstr "Не всі умови задоволені."
+
+msgid "The unit cannot be deleted because it is in use."
+msgstr "Одиницю не можна відключити, оскільки вона використовується."
+
+msgid "Stock quantity unit"
+msgstr "Складська одиниця кількості товару"
+
+msgid "Base quantity unit"
+msgstr "Базова одиниця виміру кількості"
+
+msgid "Stock to base quantity units ratio"
+msgstr "Співвідношення складської та базової одиниць вимірювання кількості"
+
+msgid "Quantity adjustment value via “+/-” buttons"
+msgstr "Крок зміни кількості кнопками «+-/»"
+
+msgid "Custom SKU fields"
+msgstr "Користувальницькі поля артикулів"
+
+msgid "Product count must be more than 0"
+msgstr "Кількість товарів повинна бути більшою за 0"
+
+msgid "Availability for purchase:"
+msgstr "Доступність для покупки:"
+
+msgid "Missing product type ID."
+msgstr "Відсутній ідентифікатор типу товару."
+
+msgid "Product type not found."
+msgstr "Тип товару не знайдено."
+
+msgid "(On all stocks: %.3f)"
+msgstr "(На усіх складах: %.3f)"
+
+msgid "%s/%s"
+msgstr "%s/%s"
+
+msgid "Количество знаков после запятой<br>не должно превышать точность шага товара"
+msgstr "Кількість знаків після коми<br>не повинна перевищувати точність кроку товару"
+
+msgid "(On all stocks: %s)"
+msgstr "(На усіх складах: %s)"
