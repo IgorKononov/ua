@@ -8021,7 +8021,7 @@ msgid "not selected"
 msgstr "не обрано"
 
 msgid "Total less shipping cost"
-msgstr "Усього вартість доставки менше"
+msgstr "Усього без доставки"
 
 msgid "accept our <a class=\"js-show-terms-dialog\" href=\"javascript:void(0);\">terms of service</a>"
 msgstr "погодьтеся із нашими <a class=\"js-show-terms-dialog\" href=\"javascript:void(0);\">умовами обслуговування</a>"
